@@ -1,0 +1,350 @@
+---
+tags: [CompTia,SecPlus,CyberSec,Cert,SecBasics]
+#aliases:
+#cssclass:
+#publish:
+---
+
+# Baseline
+---
+- Security vs convenience
+	- More security can lead to less convenience
+	- By making things more difficult for users it may lead to less security
+	- Balance needed
+- Types of security
+	- Information Security
+		- Act of protecting <u>data and information</u> from unauthorized access, unlawful modification, disruption, disclosure, corruption, and destruction
+		- Data that system is holding <u>NOT</u> the system itself
+	- Information System security
+		- Securing the <u>systems</u> that hold and process critical data
+		- System holding data but <u>NOT</u> the actual data
+
+# CyberSecurity Models
+---
+- CIA
+	- Confidentiality
+		- Info not being disclosed to unauthorized people
+		- #Encryption
+	- Integrity
+		- Confirm data has not been modified by unauthorized people
+		- #Hashing
+	- Availability
+		- Data easily and readily accessible
+		- Stored, accessible, and protected at all times
+		- #Uptime
+- AAA
+	- Authentication
+		- <u>Proof of identity</u> and systems confirms
+		- Methods:
+			- Something you know
+				- User/Pass
+			- Something you are
+				- Finger/Eye
+			- Something you have
+				- Token/card
+			- Something you do
+				- Way you speak or sign
+			- Somewhere you
+				- Geolocation/Subnet
+	- Authorization
+		- Occurs when <u>user is given access to certain data</u> or area
+		- Indicates the level or <u>amount</u> of access you have
+	- Accounting
+		- Tracking data, computer usage, and network resources are maintained
+		- <u>Logging</u>
+		- <u>Non-Repudiation</u>
+			- Proof someone did something
+	-  Objectives
+		- [[Objectives#2.4 - Summarize authentication and authorization design concepts|2.4 - Summarize authentication and authorization design concepts]]
+
+# Security threats
+---
+- [[Malware]]
+	- Malicious software
+		- [[Viruses]]
+		- [[Worms]]
+		- [[Trojans]]
+		- [[Spyware]]
+			- [[Spyware#Adware|Adware]]
+		- [[Rootkits]]
+		- [[Ransomware]]
+- Unauthorized access
+	- Occurs when access to computer resources and data <u>happens without consent</u> of the owner
+	- Breaking through <u>authorization</u>
+- System Failure
+	- Computer crashes or an application fails
+	- "BSOD"
+	- Affecting <u>availability</u>
+- Social Engineering
+	- <u>Manipulating user to reveal</u> confidential information or perform action detrimental to user or company
+	- Phishing
+- Objectives
+	- [[Objectives#1.2 - Given a scenario, analyze potential indicators to determine the type of attack|1.2 - Given a scenario, analyze potential indicators to determine the type of attack]]
+	- [[Objectives#1.3 - Given a scenario, analyze potential indicators associated with application attacks|1.3 - Given a scenario, analyze potential indicators associated with application attacks]]
+
+# Mitigating Threats
+---
+- Physical controls
+	- Alarms, locks, cameras, ID cards, guards
+- Technical Controls
+	- Smart cards, ACL, [[IDS]]/IPS, network authentication
+- Administrative Controls
+	- AKA "Managerial Controls"
+	- Policy, procedures, awareness, training, disaster recovery
+		- User training one of the most cost effective methods
+	- Sub categories
+		- Procedural
+			- Company policy
+		- Legal/Regulatory
+			- Adhering to standards and laws
+			- PCI, HIPPA,etc…
+- Objectives
+	- [[Objectives#5.1 - Compare and contrast various types of controls|5.1 - Compare and contrast various types of controls]]
+
+# Hackers
+---
+- White Hats
+	- Not malicious
+	- <u>Work for company</u>
+	- "Ethical hackers or Pen Testers"
+- Black Hats
+	- Bad actors
+	- Try to get in without permission or authorization
+	- Bad guys
+- Grey Hats
+	- White/Black
+	- <u>No affiliation</u>
+	- Risk breaking law
+	- <u>May not have malicious intent</u>
+	- Hacking for the sake of hacking not to cause damage
+	- Still breaking the law in general but may responsibly disclose
+- Blue Hats
+	- Attempting to hack into company at their request
+	- <u>Freelancer or contractor</u>
+	- Bug bounty
+- Elite Hats
+	- <u>The "best"</u>
+	- Find 0 days
+	- Create own tools
+	- White. Black, Grey hats
+	- '1/10,000 considered'
+- Script Kiddies
+	- <u>Low level of skill</u>
+	- Use tools without understanding
+- Objectives
+	- [[Objectives#1.5 - Explain different threat actors, vectors, and intelligence sources|1.5 - Explain different threat actors, vectors, and intelligence sources]]
+
+# Threat Actors
+---
+- Script Kiddies
+	- <u>No/Little skill or ability</u>
+	- Blindly use tool
+- Hacktivists
+	- <u>Driven by cause</u> terrorism, social justice, etc
+- Organized crime
+	- Group of <u>hackers well-funded</u> and sophisticated
+- Advanced Persistent Threats ^f3f779
+	- <u>Nation state</u>, covert, OSINT
+	- Gain more #Intelligence and info
+	- Often maintain a <u>low profile</u>
+- Objectives
+	- [[Objectives#1.5 - Explain different threat actors, vectors, and intelligence sources|1.5 - Explain different threat actors, vectors, and intelligence sources]]
+
+# Threat Intelligence
+---
+- Weighing value of #Intelligence
+	- Timeliness
+		- Is it up to date?
+		- Less valuable over time
+	- Relevancy
+		- Information is relevant to your use case
+		- Does it affect your organization?
+		- Ex: OSX hacks in a Windows environment are likely not relevant
+	- Accuracy
+		- Produces <u>productive results</u>
+		- <u>Valid and true</u> info
+		- Checking AI and ML alerts
+	- Confidence
+		- Producing <u>qualified statements</u>
+		- <u>MISP</u> rating
+			- Codifies use of admiralty scale for grading data and estimative language
+			- <u>Source reliability</u>
+				- Letter grade A - F
+				- Reliable, Usually reliable, Fairly reliable, Not usually reliable, Unreliable, Cannot be judged
+			- <u>Information content</u>
+				- Number 1 - 6
+				- Confirmed, Probably true, Possibly True, Doubtfully True, Improbable, Can't be judged
+- Objectives
+	- [[Objectives#1.5 - Explain different threat actors, vectors, and intelligence sources|1.5 - Explain different threat actors, vectors, and intelligence sources]]
+
+## Sources
+---
+- Proprietary
+	- <u>Paid commercial</u> services
+	- May not have own data and just aggregate others
+- Closed
+	- Data <u>derived from their own research</u> from analysis and reports
+	- FireEye - Proprietary with closed data
+- Open
+	- Data <u>openly available</u> without subscription
+	- Reputation lists and[[Malware]] signature databases
+	- US-CERT
+		- Computer emergency readiness team
+		- Regular reports, analysis, bulletins
+		- Bidirectional threat feed ^15c875
+			- Automatic Indicator Service
+	- NCSC
+		- UK style US-CERT
+	- AT&T Security (OTX)
+		- Previously AlienVault Open Threat Exchange
+	- MISP
+		- [[Malware]] Information Sharing Project
+	- VirusTotal
+		- Upload file and checks across 40+ AV
+		- Public repo
+	- Spamhaus
+		- [[Spam]] #Email
+	- SANS ISC
+		- ISC Suspicious domain
+- Threat feeds
+	- <u>Explicit knowledge</u>
+		- Knowledge you can write down, see, feel, or touch
+	- <u>Implicit knowledge</u>
+		- Experienced practitioners analysis
+		- "Sense" what is wrong
+		- Ability to have attitude and instinct
+		- Can't write down. Purely Experience
+- #OSINT
+	- Open Source #Intelligence
+	- Obtain info about person/company via public records websites, social media
+	- Enumeration scans
+- Objectives
+	- [[Objectives#1.5 - Explain different threat actors, vectors, and intelligence sources|1.5 - Explain different threat actors, vectors, and intelligence sources]]
+
+# Threat Hunting
+---
+- Cyber security technique designed to detect presence of threats not discovered by normal security monitoring
+- Is a proactive method vs reactive such as in Incident Response
+- Potentially less disrupting than pen test
+	- Analyze data within systems you already have
+- Process
+	- Hypothesis
+		- Based from threat model and based on potential events with higher likelihood and impact
+		- Who would harm us?
+		- How would they harm us?
+	- Profiling Threat Actors
+		- Create scenarios how intrusion might happen and what motive is #TTP
+		- Who wants to cause harm?
+		- What systems?
+	- Hunting
+		- Using tools for regular security and IR
+			- Logs, file, registry changes
+			- A #SIEM
+		- Assume regular security systems have failed
+		- Examples
+			- Network traffic analysis
+				- List of suspicious hosts
+			- Check executables on hosts
+				- Confirm validity of processes
+			- Check other hosts
+				- Compare similarities
+			- Identify how the [[Malware]] came about
+- Can consume a lot of resources but can yield some benefits
+	- Improve detection capabilities
+	- Integrate new info into #Intelligence
+		- Corelating external info with internal logs
+		- Actionable #Intelligence
+	- Reduce attack surface
+	- Block attack vectors
+	- Identify critical assets
+		- Improve monitoring around those systems
+- Objectives
+	- [[Objectives#1.7 - Summarize the techniques used in security assessments|1.7 - Summarize the techniques used in security assessments]]
+
+# Attack Frameworks
+---
+
+## Lockheed Martin Kill Chain
+- About
+	- First made under contract
+	- Release to public eventually
+	- <u>Linear</u> outside from perimeter to inside path
+	- Somewhat older
+- Steps
+	- #Reconnaissance
+		- Attacker determines methods to use to attack
+		- Attackers try to have a low profile
+		- Use OSINT and passive tools
+		- Go from passive to active scanning/actions
+		- Identifying where/how to attack target
+	- Weaponization
+		- Attackers couple payload with exploit code
+		- Creating tool NOT running
+	- Delivery
+		- Attacker finds vector for payload
+	- Exploitation
+		- The moment code is executed and running
+		- "Phase 1"
+	- Installation
+		- During exploit it will install additional code to maintain remote access and achieve persistence
+		- "Phase 2"
+	- #C2 (Command and Control)
+		- Where weaponized code talks to an outside server to use additional functions
+		- Able to remotely use host at this point
+		- Establish 2 way communication
+	- Actions on objectives
+		- Whatever the goal is
+			- Data extraction, Damage, etc
+- Map out security plan based on steps
+	- Detect, deny, disrupt, degrade, deceive, destroy
+
+## MITRE AA&CK Framework
+---
+- Adversary tactics, technique, common knowledge or procedures
+- attack.mitre.org
+	- <u>Attack navigator</u>
+		- Can click different types and colors to get #TTP
+		- Each one will give you more info
+		- Map of possible methodology for attack and defense
+- Knowledge based maintained by MITRE organization
+- More iterative or thinking across multiple lines
+	- Matrices
+	- Many categories of attacks
+- <u>Focus on exploit phase</u>
+- pre-ATT&CK
+	- Focus on #Reconnaissance
+	- Aligns with #Reconnaissance and weaponization in Lockheed kill chain [[#Attack Frameworks]]
+	- Detect before it is a problem
+## Diamond Model of Intrusion analysis
+- Focus on <u>intrusion event</u>
+- Categories
+	- Victim
+	- Capability
+	- Adversary
+	- #Infrastructure
+- For each incident you want to map the event out
+- Flow
+	- Victim notices/discovers [[Malware]]
+	- Ability to see you've been hacked
+	- As you do IR you may see a C2 server being called
+		- This will point to a infrastructure
+	- Firewall logs can point to an IP being accessed by several hosts
+		- Additional information on #Infrastructure and victim discovery
+	- IP details add info on Adversary
+	- Model
+		- ![[Diamond-Model.png]]
+- Once all is identified define a tuple
+	- An array with 4 categories and other metadata
+	- "E = {something}"
+	- Helps with an automated info like a #SIEM
+	- Model
+		- ![[Diamond-E=.png]]
+## All
+---
+- Can use individually or combined
+- Example
+	- ![[CombinedModels.png]]
+
+# Objectives
+---
+	- [[Objectives#4.2 - Summarize the importance of policies, processes, and procedures for incident response|4.2 - Summarize the importance of policies, processes, and procedures for incident response]]

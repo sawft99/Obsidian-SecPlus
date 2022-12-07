@@ -1,0 +1,9 @@
+{
+  "useMarkdownLinks": false,
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": false,
+  "spellcheck": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "shortest",
+  "attachmentFolderPath": "Sec+/Files"
+}

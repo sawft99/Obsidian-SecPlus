@@ -1,0 +1,47 @@
+---
+tags: [CompTia,SecPlus,CyberSec,Certs]
+#aliases:
+#cssclass:
+#publish:
+---
+
+# About
+---
+- Monitors data of system while in use, transit or at rest
+- Detects attempts to steal info
+- Hardware and software solutions
+
+# Data theft evolution
+---
+1. Physical files
+2. Laptops
+3. External hard drives
+4. Thumb sticks/USB drives
+5. Internet such as DropBox
+	1. More dangerous now due to world wide access
+
+# Endpoint DLP
+---
+- Usually software on workstation monitoring data in use
+- Can stop or alert a file transfer based on rules or policy
+- Similar to an [[IDS]] or [[IPS]] in this way
+	- Detection or Prevention modes
+
+# Network DLP
+---
+- Hardware or software on network perimeter to check data that is in <u>transit</u> going in and out
+- Special focus on outgoing in particular
+
+# Storage DLP
+---
+- Ensuring <u>data at rest</u> isn't being accessed depending on rules and policies
+
+# Cloud DLP
+---
+- Cloud software that protects data in the cloud service
+
+# Objectives
+---
+- [[Objectives#2.1 - Explain the importance of security concepts in an enterprise environment|2.1 - Explain the importance of security concepts in an enterprise environment]]
+- [[Objectives#3.2 - Given a scenario, implement host or application security solutions|3.2 - Given a scenario, implement host or application security solutions]]
+- [[Objectives#4.4 - Given an incident, apply mitigation techniques or controls to secure an environment|4.4 - Given an incident, apply mitigation techniques or controls to secure an environment]]
