@@ -20,3 +20,4 @@ Most of these are not essential but it is what I am using for myself in this vau
 - [Media Extended](https://github.com/aidenlx/media-extended)
 - [Obsidian Trim Whitespace](https://github.com/zlovatt/obsidian-trim-whitespace)
 - [Tag Wrangler](https://github.com/pjeby/tag-wrangler)
+- [Obsidian42 - Strange New Worlds](https://github.com/TfTHacker/obsidian42-strange-new-worlds)
