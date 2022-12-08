@@ -44,6 +44,6 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	2. Loads Public key from [[Disk Encryption#Trusted Platform Module (TPM)|TPM]]
 	3. <u>Verifies code and has been signed by manufacturer and has not been modified</u>
 
-# Objectives
+# [[Objectives]]
 ---
 - [[Objectives#3.2 - Given a scenario, implement host or application security solutions|3.2 - Given a scenario, implement host or application security solutions]]

@@ -35,7 +35,7 @@ collapse:close
 ![[Chrome_Popup_Ex.png]]
 ```
 
-# Objectives
+# [[Objectives]]
 ---
 - [[Objectives#1.1 - Compare and contrast different types of social engineering techniques|1.1 - Compare and contrast different types of social engineering techniques]]
 - [[Objectives#3.3 - Given a scenario, implement secure network designs|3.3 - Given a scenario, implement secure network designs]]

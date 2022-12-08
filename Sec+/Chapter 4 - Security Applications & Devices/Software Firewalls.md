@@ -75,6 +75,6 @@ collapse: close
 - Many businesses use hardware based firewalls for a first line of defense
 - Best to run both hardware and software based
 
-# Objectives
+# [[Objectives]]
 ---
 - [[Objectives#3.2 - Given a scenario, implement host or application security solutions|3.2 - Given a scenario, implement host or application security solutions]]

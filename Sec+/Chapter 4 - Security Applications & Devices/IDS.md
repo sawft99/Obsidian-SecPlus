@@ -77,7 +77,7 @@ collapse: close
 - [[#HIDS]] logs are <u>used to recreate the events</u> after an attack has occurred
 
 
-# Objectives
+# [[Objectives]]
 ---
 - [[Objectives#3.2 - Given a scenario, implement host or application security solutions|3.2 - Given a scenario, implement host or application security solutions]]
 - [[Objectives#3.3 - Given a scenario, implement secure network designs|3.3 - Given a scenario, implement secure network designs]]

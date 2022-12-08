@@ -40,7 +40,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Firmware                               | ![[Securing the BIOS#^28d134]]                                                |
 | Botnet                                 | ![[Botnets & Zombies#^118bae]]                                                |
 | Spam                                   | ![[Spam#^dae881]]                                                             |
-| Malware                                | ![[Malware#^7d0970]]                                                          |
+| [[Malware]]                                | ![[Malware#^7d0970]]                                                          |
 | RAT                                    | Remote Access [[Trojans]]                                                     |
 | Virus                                  | ![[Viruses#^c54698]]                                                          |
 | BSOD                                   | Occurs when there is a crash on the PC. Indicates a serious issue in #Windows |

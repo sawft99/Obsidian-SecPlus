@@ -23,6 +23,6 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Disk #Encryption
 
 
-# Objectives
+# [[Objectives]]
 ---
 - ?

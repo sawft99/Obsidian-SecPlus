@@ -41,7 +41,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - Cloud software that protects data <u>in the cloud service</u>
 
-# Objectives
+# [[Objectives]]
 ---
 - [[Objectives#2.1 - Explain the importance of security concepts in an enterprise environment|2.1 - Explain the importance of security concepts in an enterprise environment]]
 - [[Objectives#3.2 - Given a scenario, implement host or application security solutions|3.2 - Given a scenario, implement host or application security solutions]]

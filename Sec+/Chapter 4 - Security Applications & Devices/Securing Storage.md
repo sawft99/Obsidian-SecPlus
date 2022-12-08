@@ -48,7 +48,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Log access to devices
 		- "Who accessed, downloaded, etc"
 
-# Objectives
+# [[Objectives]]
 ---
 - [[Objectives#2.1 - Explain the importance of security concepts in an enterprise environment|2.1 - Explain the importance of security concepts in an enterprise environment]]
 - [[Objectives#2.5 - Given a scenario, implement cybersecurity resilience|2.5 - Given a scenario, implement cybersecurity resilience]]

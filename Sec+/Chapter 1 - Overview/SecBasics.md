@@ -54,8 +54,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 		- <u>Logging</u>
 		- <u>Non-Repudiation</u>
 			- Proof someone did something
-	-  Objectives
-		- [[Objectives#2.4 - Summarize authentication and authorization design concepts|2.4 - Summarize authentication and authorization design concepts]]
+-  [[Objectives]]
+	- [[Objectives#2.4 - Summarize authentication and authorization design concepts|2.4 - Summarize authentication and authorization design concepts]]
 
 # Security threats
 ---
@@ -78,7 +78,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - #SocialEngineering
 	- <u>Manipulating user to reveal</u> confidential information or perform action detrimental to user or company
 	- Phishing
-- Objectives
+- [[Objectives]]
 	- [[Objectives#1.2 - Given a scenario, analyze potential indicators to determine the type of attack|1.2 - Given a scenario, analyze potential indicators to determine the type of attack]]
 	- [[Objectives#1.3 - Given a scenario, analyze potential indicators associated with application attacks|1.3 - Given a scenario, analyze potential indicators associated with application attacks]]
 
@@ -98,7 +98,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 		- Legal/Regulatory
 			- Adhering to standards and laws
 			- PCI, HIPPA,etc…
-- Objectives
+- [[Objectives]]
 	- [[Objectives#5.1 - Compare and contrast various types of controls|5.1 - Compare and contrast various types of controls]]
 
 # Hackers
@@ -131,7 +131,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - #Script Kiddies
 	- <u>Low level of skill</u>
 	- Use tools without understanding
-- Objectives
+- [[Objectives]]
 	- [[Objectives#1.5 - Explain different threat actors, vectors, and intelligence sources|1.5 - Explain different threat actors, vectors, and intelligence sources]]
 
 # Threat Actors
@@ -148,7 +148,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Gain more #Intelligence and info
 	- Often maintain a <u>low profile</u>
 	- Can take place over longer periods off time
-- Objectives
+- [[Objectives]]
 	- [[Objectives#1.5 - Explain different threat actors, vectors, and intelligence sources|1.5 - Explain different threat actors, vectors, and intelligence sources]]
 
 # Threat #Intelligence
@@ -175,7 +175,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 			- <u>Information content</u>
 				- Number 1 - 6
 				- Confirmed, Probably true, Possibly True, Doubtfully True, Improbable, Can't be judged
-- Objectives
+- [[Objectives]]
 	- [[Objectives#1.5 - Explain different threat actors, vectors, and intelligence sources|1.5 - Explain different threat actors, vectors, and intelligence sources]]
 
 ## Sources
@@ -219,7 +219,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Open Source #Intelligence
 	- Obtain info about person/company via public records websites, social media
 	- Enumeration scans
-- Objectives
+- [[Objectives]]
 	- [[Objectives#1.5 - Explain different threat actors, vectors, and intelligence sources|1.5 - Explain different threat actors, vectors, and intelligence sources]]
 
 # Threat Hunting
@@ -259,7 +259,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Block attack vectors
 	- Identify critical assets
 		- Improve monitoring around those systems
-- Objectives
+- [[Objectives]]
 	- [[Objectives#1.7 - Summarize the techniques used in security assessments|1.7 - Summarize the techniques used in security assessments]]
 
 # Attack Frameworks
@@ -346,7 +346,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Example
 	- ![[CombinedModels.png]]
 
-# Objectives
+# [[Objectives]]
 ---
 - [[Objectives#1.2 - Given a scenario, analyze potential indicators to determine the type of attack|1.2 - Given a scenario, analyze potential indicators to determine the type of attack]]
 - [[Objectives#1.3 - Given a scenario, analyze potential indicators associated with application attacks|1.3 - Given a scenario, analyze potential indicators associated with application attacks]]
