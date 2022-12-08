@@ -7,11 +7,18 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # About
 ---
-- Item
+- Basic Input Output System
+- Firmware ^9479f4
+	- Software on a chip ^28d134
+- Gives computer instructions on how it will send and receive input
+- Any interactions with hardware
+- Modern BIOS has been replaced by [[#UEFI]]
 
-# Topic
+# UEFI
 ---
-- Item
+- Unified Extensible Firmware Interface
+	- "YouFee"
+-
 
 # Objectives
 ---

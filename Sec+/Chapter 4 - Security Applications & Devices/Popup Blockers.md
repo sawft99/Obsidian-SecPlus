@@ -16,12 +16,12 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - Attackers can purchase ads (pay per click)
 	- Link to their site or malicious code
-- Adblock browser extension may help filter
+- Adblock <u>browser extension</u> may help filter
 - Some websites won't deliver content if adblocker is detected
 
 # Content Filter
 ---
-- Blocking external files like JavaScript, images, or web pages from loading
+- <u>Blocking external files</u> like JavaScript, images, or web pages from loading
 - Popular in school and work places
 - Usually blocked by categories such as "Gambling"
 

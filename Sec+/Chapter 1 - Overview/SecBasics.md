@@ -147,6 +147,7 @@ tags: [CompTia,SecPlus,CyberSec,Cert,SecBasics]
 	- <u>Nation state</u>, covert, OSINT
 	- Gain more #Intelligence and info
 	- Often maintain a <u>low profile</u>
+	- Can take place over longer periods off time
 - Objectives
 	- [[Objectives#1.5 - Explain different threat actors, vectors, and intelligence sources|1.5 - Explain different threat actors, vectors, and intelligence sources]]
 

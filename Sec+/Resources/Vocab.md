@@ -36,8 +36,9 @@ tags: [CompTia,SecPlus,CyberSec,Cert,Vocab]
 | Grayware/Jokeware                                                 | ![[Spyware#Grayware]]                                                                                                                           |
 | Software firewall                                                 | ![[Software Firewalls#^357ca6]]                                                                                                                 |
 | Content Filter                                                    | ![[Popup Blockers#Content Filter]]                                                                                                              |
-| Data Loss Prevention                                              | ![[Data Loss Prevention (DLP)#About]]                                                                                                                 |
-|                                                                   |                                                                                                                                                 |
+| Data Loss Prevention (DLP)                                        | ![[Data Loss Prevention (DLP)#About]]                                                                                                           |
+| Firmware                                                          | ![[Securing the BIOS#^28d134]]                                                                                                                  |
+| Botnet                                                            | ![[Botnets & Zombies#^118bae]]                                                                                                                                                |
 
 
 # Also

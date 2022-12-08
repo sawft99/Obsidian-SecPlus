@@ -768,7 +768,7 @@ conditioning (HVAC)
 		- Heuristic/behavior
 		- Anomaly
 		- Inline vs. passive
-- HSM
+- Hardware security module (HSM)
 - Sensors
 - Collectors
 - Aggregators

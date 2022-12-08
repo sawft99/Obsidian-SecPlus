@@ -8,8 +8,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # About
 ---
 - Software app that protect one computer or server ^357ca6
-	- Also Host based firewall
-- Rules and polices for in and out
+	- Also called "Host based" firewall
+- Set rules and polices for in and out traffic
 - Example
 	- Web server would accept 80 and 443 whereas desktop shouldn't
 - Versions
@@ -22,10 +22,11 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - Every version of #Windows has a software firewall
 - Versions
-	- Basic version in control panel
-		- Home users
+	- Basic version
+		- In control panel
+		- Home users use
 	- Windows Firewall with with advanced security
-		- Businesses
+		- Businesses usually use
 		- WF.msc
 
 ```ad-info
@@ -40,10 +41,10 @@ collapse: Close
 - Built-in for Mac
 - Basic version in "System preferences > Security and privacy"
 - Two versions
-	- CLI version named "PF"
-		- Short for <u>Packet filter</u>
+	- CLI version named <u>"PF"</u>
+		- Short for Packet filter
 		- <u>OSX 10 and up</u>
-	- <u>Older ones used IPFW</u>
+	- Older ones used <u>"IPFW"</u>
 		- <u>Internet protocol firewall</u>
 	- Both are in FreeBSD which OSX is based on
 
@@ -55,7 +56,7 @@ collapse: close
 
 # Linux
 ---
-- Built-in called "IPTables"
+- Built-in called <u>"IPTables"</u>
 	- CLI
 	- Accept and reject rules
 
