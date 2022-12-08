@@ -18,14 +18,13 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 ## Hardware Based
 ---
-- Storage device that performs <u>whole disk</u> [[Disk Encryption#About|Encryption]] by using the <u>embedded hardware</u> ^abe3d2
 - <u>Faster</u> than [[#Software Based]]
 - <u>Self encrypting Drive</u> (SED)
+	- <u>Storage device</u> that performs <u>whole disk</u> [[Disk Encryption#About|Encryption]] by using the <u>embedded hardware</u> ^abe3d2
 	- Looks like an external hard drive
-	- Because it is hardware based it is very fast
-	- Also very expensive and therefore not as common vs [[#Software Based]] solutions
+	- Also very expensive and therefore not as common vs [[#Software Based]]
 - <u>Hardware Security Module</u> (HSM) ^5ffc2c
-	- Physical drive that acts as a <u>secure crypto processor</u> during the [[Disk Encryption#About|Encryption]] process or digital signing
+	- <u>Physical device</u> that acts as a <u>secure crypto processor</u> during the [[Disk Encryption#About|Encryption]] process or digital signing
 	- Typically an adapter card over USB or a networked device
 	- Usually tamper proof with high levels of security
 	- Also very expensive and less common vs [[#Software Based]]
@@ -39,9 +38,9 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Supports [[#Advanced Encryption Standard (AES)]] 128 and 256
 - Windows has #Bitlocker built in
 	- <u>Whole</u> disk [[Disk Encryption#About|Encryption]]
-	- "Right click a drive > turn on #Bitlocker
+	- "Right click a drive > turn on #Bitlocker"
 	- Supports [[#Advanced Encryption Standard (AES)]] 128 and 256
-- <u>Most companies use thsoftware based</u>
+- <u>Most companies use software based</u>
 
 # File Level Encryption
 ---
@@ -54,7 +53,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # #Bitlocker Methods
 ---
 - Can use a [[#Trusted Platform Module (TPM)]] chip
-- If you do not have a [[#Trusted Platform Module (TPM)]] chip you can use an external USB drive as a key
+- If you do not have a [[#Trusted Platform Module (TPM)]] chip you <u>can use an external USB drive</u> as a key instead
 	- If you lose the USB drive you can not decrypt your drive
 
 # Trusted Platform Module (TPM)

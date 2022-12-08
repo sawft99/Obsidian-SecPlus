@@ -10,7 +10,6 @@ tags: CL
 - [ ] [[Malware Exploitation]] PID for code injection?
 - [ ] [[Rootkits#Kernel]] more info
 - [ ] More EFS info on [[Disk Encryption#File Level Encryption]]
-- [ ] [[Disk Encryption]] HSM vs SED?
 
 
 ## Working On
@@ -20,15 +19,19 @@ tags: CL
 ## Done
 
 **Complete**
-- [x] TPM info for [[Vocab]] and [[Securing the BIOS]]
-- [x] [[Vocab]] for EFS, TPM, AES,HSM,SED
-- [x] Add Endpoint to [[Vocab]] form [[Endpoint Analysis]]
-- [x] Remove #AntiVirus  tag and replace with backlinks to [[Endpoint Analysis#AntiVirus]]?
-- [x] Rest of [[Endpoint Analysis]] [[Vocab]]
-- [x] Replace #Encryption tag with backlinks?
 
 
+***
 
+## Archive
+
+- [x] 2022-12-08 @ 01:53 PM -- TPM info for [[Vocab1]] and [[Securing the BIOS]]
+- [x] 2022-12-08 @ 01:53 PM -- [[Vocab1]] for EFS, TPM, AES,HSM,SED
+- [x] 2022-12-08 @ 01:53 PM -- Add Endpoint to [[Vocab1]] form [[Endpoint Analysis]]
+- [x] 2022-12-08 @ 01:53 PM -- [[Disk Encryption]] HSM vs SED?
+- [x] 2022-12-08 @ 01:53 PM -- Remove #AntiVirus  tag and replace with backlinks to [[Endpoint Analysis#AntiVirus]]?
+- [x] 2022-12-08 @ 01:53 PM -- Rest of [[Endpoint Analysis]] [[Vocab1]]
+- [x] 2022-12-08 @ 01:53 PM -- Replace #Encryption tag with backlinks?
 
 %% kanban:settings
 ```

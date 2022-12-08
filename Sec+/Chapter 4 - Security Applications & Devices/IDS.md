@@ -7,13 +7,14 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # About
 ---
-- Intrusion Detection System
+- <u>Intrusion Detection System</u>
 - Device or Software on system or network that <u>analyzes data going through it</u>
 - Identify incident or attacks
 - Host based ([[#HIDS]]) or network based ([[#NIDS]])
 
 # HIDS
 ---
+- <u>Host</u> Intrusion Detection System
 - Software on computer or server
 - Logs everything that it "thinks" is suspicious
 
@@ -25,8 +26,9 @@ collapse: close
 
 # NIDS
 ---
+- <u>Network</u> Intrusion Detection System
 - Hardware on network
-- Traffic that goes <u>through a switch is mirrored to a NIDS</u>
+- Traffic that goes <u>through a switch that is mirrored to a NIDS</u>
 
 ```ad-info
 title: NIDS

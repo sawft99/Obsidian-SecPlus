@@ -323,10 +323,12 @@ collapse: close
 	- At rest
 		- [[Securing Storage]]
 	- In transit/motion
+		- [[Data Loss Prevention (DLP)]]
 	- In processing
+		- [[Data Loss Prevention (DLP)]]
 	- Tokenization
 	- Rights management
-- Hardware security module (HSM)
+- [[Disk Encryption#Hardware Based|Hardware security module (HSM) ]]
 - Geographical considerations
 - Cloud access security broker (CASB)
 - Response and recovery controls
@@ -626,6 +628,7 @@ conditioning (HVAC)
 	- Stream
 	- Block
 - Symmetric vs. asymmetric
+	- [[Disk Encryption#Advanced Encryption Standard (AES)|AES]] - Symmetric
 - Lightweight cryptography
 - Steganography
 	- Audio
@@ -637,8 +640,11 @@ conditioning (HVAC)
 	- Low latency
 	- High resiliency
 	- Supporting confidentiality
+		- [[SecBasics#Cybersecurity Models|Confidentiality]]
+		- [[Disk Encryption#About|Encryption]]
 	- Supporting integrity
 	- Supporting obfuscation
+		-  [[Disk Encryption#About|Encryption]]
 	- Supporting authentication
 	- Supporting non-repudiation
 	- Resource vs. security constraints
@@ -688,15 +694,16 @@ conditioning (HVAC)
 ---
 - Endpoint protection
 	- [[Endpoint Analysis#AntiVirus (AV)|AntiVirus (AV)]]
-	- Anti-[[malware]]
-	- Endpoint detection and response (EDR)
+		- Anti-[[malware]]
+	- [[Endpoint Analysis#Endpoint Detection Response (EDR)|Endpoint detection and response (EDR)]]
 	- [[Data Loss Prevention (DLP)]]
 	- Next-generation firewall
 	- Host intrusion prevention system (HIPS)
-	- [[IDS#HIDS|HIDS]]
-	- [[Software Firewalls|Host based firewalls]]
+		- [[Endpoint Analysis#HIDS/HIPS|HIPS]]
+	- [[IDS#HIDS|Host Intrusion Detection System (HIDS)]]
+	- [[Software Firewalls|Host/Sofware based firewalls]]
 - Boot integrity
-	- Boot security/Unified Extensible Firmware Interface (UEFI)
+	- [[Securing the BIOS#UEFI|Boot security/Unified Extensible Firmware Interface (UEFI)]]
 		- [[Securing the BIOS]]
 	- Measured boot
 	- Boot attestation
@@ -724,11 +731,11 @@ conditioning (HVAC)
 	- Patch management
 		- Third-party updates
 		- Auto-update
-- Self-encrypting drive (SED)/full disk [[Disk Encryption#About|Encryption]] (FDE)
+- Self-encrypting drive (SED) & Full Disk Encryption (FDE)
 	- [[Disk Encryption#Hardware Based|Hardware Based Disk Encryption]]
 	- Opal
 - Hardware root of trust
-- Trusted Platform Module (TPM)
+- [[Disk Encryption#Trusted Platform Module (TPM)|Trusted Platform Module (TPM)]]
 - Sandboxing
 
 ## 3.3 - Given a scenario, implement secure network designs

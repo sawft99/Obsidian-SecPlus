@@ -7,7 +7,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # About
 ---
-- Monitors data of system while in use, transit or at rest
+- <u>Monitors data of system while in use, transit or at rest</u>
 - Detects attempts to steal info
 - Hardware and software solutions
 
@@ -23,14 +23,14 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Endpoint DLP
 ---
-- Usually software on workstation monitoring data in use
+- Usually <u>software on workstation</u> monitoring data in use
 - Can stop or alert a file transfer based on rules or policy
 - Similar to an [[IDS]] or [[IPS]] in this way
 	- Detection or Prevention modes
 
 # Network DLP
 ---
-- Hardware or software on network perimeter to check data that is in <u>transit</u> going in and out
+- Hardware or software on <u>network perimeter</u> to check data that is in <u>transit</u> going in and out
 - Special focus on outgoing in particular
 
 # Storage DLP

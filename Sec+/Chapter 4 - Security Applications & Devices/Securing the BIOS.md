@@ -12,10 +12,10 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Software on a chip ^28d134
 - Modern BIOS has been replaced by [[#UEFI]]
 	- Term BIOS may still be used to reference
--  Gives computer instructions on how it will send and receive input ^e94ab9
-	- BIOS tells PC how and what to check to boot to
+-  Gives computer <u>instructions on how it will send and receive input</u> ^e94ab9
+	- BIOS tells PC how and what to boot to
 	- BIOS will take over the machine to load the OS
-	- Responsible for any interactions with hardware
+	- Responsible for <u>any interactions with hardware</u>
 
 # UEFI
 ---
