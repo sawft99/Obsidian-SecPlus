@@ -10,7 +10,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Most PCs can use removeable media
 	- [[Data Loss Prevention (DLP)#Data theft evolution|Data theft evolution]]
 - Want to ensure [[SecBasics#CyberSecurity Models|Confidentiality]]
-	- Apply [[Securing Storage#Encryption|encryption]]
+	- Apply [[Disk Encryption#About|Encryption]]
 
 # Encryption
 ---
@@ -40,7 +40,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Tips
 ---
-- Use full disk [[Securing Storage#Encryption|encryption]]
+- Use full [[Disk Encryption]]k]
 -  [[SecBasics#^45fffd|AAA Model]]
 	- Have proper authentication
 		- Username and passwords

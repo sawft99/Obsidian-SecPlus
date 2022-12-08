@@ -70,7 +70,7 @@ collapse: close
 # Other
 ---
 
-- Other #AntiVirus  may have their own [[Software Firewalls]]
+- Other [[Endpoint Analysis#AntiVirus (AV)|AntiVirus (AV)]] may have their own [[Software Firewalls]]
 - Some firewalls can use system resources
 - Many businesses use hardware based firewalls for a first line of defense
 - Best to run both hardware and software based

@@ -24,7 +24,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - CIA
 	- Confidentiality
 		- Info not being disclosed to unauthorized people
-		- [[Securing Storage#Encryption|Encryption]]
+		- [[Disk Encryption#About|Encryption]]
 	- Integrity
 		- Confirm data has not been modified by unauthorized people
 		- #Hashing
@@ -201,7 +201,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- MISP
 		- [[Malware]] Information Sharing Project
 	- VirusTotal
-		- Upload file and checks across 40+ #AntiVirus
+		- Upload file and checks across 40+ [[Endpoint Analysis#AntiVirus (AV)|AntiVirus (AV)]]
 		- Public repo
 	- Spamhaus
 		- [[Spam]] #Email
@@ -311,7 +311,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - More iterative or thinking across multiple lines
 	- Matrices
 	- Many categories of attacks
-- <u>Focus</u> on [[Securing Storage#Encryption|encryption]] phase
+- <u>Focus</u> on [[Disk Encryption#About|Encryption]] phase
 - pre-ATT&CK
 	- Focus on #Reconnaissance
 	- Aligns with #Reconnaissance and weaponization in Lockheed kill chain [[#Attack Frameworks]]

@@ -226,7 +226,7 @@ collapse: close
 	- Open permissions
 	- Unsecured root accounts
 	- Errors
-	- Weak [[Securing Storage#Encryption|Encryption]]
+	- Weak [[Disk Encryption#About|Encryption]]
 	- Unsecure protocols
 	- Default settings
 	- Open ports and services
@@ -319,7 +319,7 @@ collapse: close
 - Data protection
 	- [[Data loss prevention (DLP)]]
 	- Masking
-	- [[Securing Storage#Encryption|Encryption]]
+	- [[Disk Encryption#About|Encryption]]
 	- At rest
 		- [[Securing Storage]]
 	- In transit/motion
@@ -631,7 +631,7 @@ conditioning (HVAC)
 	- Audio
 	- Video
 	- Image
-- Homomorphic [[Securing Storage#Encryption|Encryption]]
+- Homomorphic [[Disk Encryption#About|Encryption]]
 - Common use cases
 	- Low power devices
 	- Low latency
@@ -687,7 +687,7 @@ conditioning (HVAC)
 ## 3.2 - Given a scenario, implement host or application security solutions
 ---
 - Endpoint protection
-	- #Antivirus
+	- [[Endpoint Analysis#AntiVirus (AV)|AntiVirus (AV)]]
 	- Anti-[[malware]]
 	- Endpoint detection and response (EDR)
 	- [[Data Loss Prevention (DLP)]]
@@ -719,12 +719,13 @@ conditioning (HVAC)
 - Hardening
 	- Open ports and services
 	- Registry
-	- Disk [[Securing Storage#Encryption|Encryption]]
+	- [[Disk Encryption]]
 	- OS
 	- Patch management
 		- Third-party updates
 		- Auto-update
-- Self-encrypting drive (SED)/full disk [[Securing Storage#Encryption|encryption]](FDE)
+- Self-encrypting drive (SED)/full disk [[Disk Encryption#About|Encryption]] (FDE)
+	- [[Disk Encryption#Hardware Based|Hardware Based Disk Encryption]]
 	- Opal
 - Hardware root of trust
 - Trusted Platform Module (TPM)
@@ -851,7 +852,7 @@ conditioning (HVAC)
 	- Context-aware authentication
 	- Containerization
 	- Storage segmentation
-	- Full device [[Securing Storage#Encryption|Encryption]]
+	- Full device [[Disk Encryption#About|Encryption]]
 - Mobile devices
 	- MicroSD HSM
 	- MDM/Unified endpoint management (UEM)
@@ -889,7 +890,7 @@ conditioning (HVAC)
 	- Integration and auditing
 	- Storage
 		- Permissions
-		- [[Securing Storage#Encryption|Encryption]]
+		- [[Disk Encryption#About|Encryption]]
 		- Replication
 		- High availability
 	- Network
