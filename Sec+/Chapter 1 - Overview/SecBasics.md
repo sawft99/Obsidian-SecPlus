@@ -1,5 +1,5 @@
 ---
-tags: [CompTia,SecPlus,CyberSec,Cert,SecBasics]
+tags: [CompTia,SecPlus,CyberSec,Certs,SecBasics]
 #aliases:
 #cssclass:
 #publish:
@@ -8,14 +8,14 @@ tags: [CompTia,SecPlus,CyberSec,Cert,SecBasics]
 # Baseline
 ---
 - Security vs convenience
-	- More security can lead to less convenience
+	- <u>More security can lead to less convenience</u>
 	- By making things more difficult for users it may lead to less security
 	- Balance needed
 - Types of security
 	- Information Security
 		- Act of protecting <u>data and information</u> from unauthorized access, unlawful modification, disruption, disclosure, corruption, and destruction
 		- Data that system is holding <u>NOT</u> the system itself
-	- Information System security
+	- Information System Security
 		- Securing the <u>systems</u> that hold and process critical data
 		- System holding data but <u>NOT</u> the actual data
 
@@ -348,4 +348,10 @@ tags: [CompTia,SecPlus,CyberSec,Cert,SecBasics]
 
 # Objectives
 ---
-	- [[Objectives#4.2 - Summarize the importance of policies, processes, and procedures for incident response|4.2 - Summarize the importance of policies, processes, and procedures for incident response]]
+- [[Objectives#1.2 - Given a scenario, analyze potential indicators to determine the type of attack|1.2 - Given a scenario, analyze potential indicators to determine the type of attack]]
+- [[Objectives#1.3 - Given a scenario, analyze potential indicators associated with application attacks|1.3 - Given a scenario, analyze potential indicators associated with application attacks]]
+- [[Objectives#1.5 - Explain different threat actors, vectors, and intelligence sources|1.5 - Explain different threat actors, vectors, and intelligence sources]]
+- [[Objectives#1.7 - Summarize the techniques used in security assessments|1.7 - Summarize the techniques used in security assessments]]
+- [[Objectives#2.4 - Summarize authentication and authorization design concepts|2.4 - Summarize authentication and authorization design concepts]]
+- [[Objectives#4.2 - Summarize the importance of policies, processes, and procedures for incident response|4.2 - Summarize the importance of policies, processes, and procedures for incident response]]
+- [[Objectives#5.1 - Compare and contrast various types of controls|5.1 - Compare and contrast various types of controls]]

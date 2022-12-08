@@ -38,7 +38,9 @@ tags: [CompTia,SecPlus,CyberSec,Cert,Vocab]
 | Content Filter                                                    | ![[Popup Blockers#Content Filter]]                                                                                                              |
 | Data Loss Prevention (DLP)                                        | ![[Data Loss Prevention (DLP)#About]]                                                                                                           |
 | Firmware                                                          | ![[Securing the BIOS#^28d134]]                                                                                                                  |
-| Botnet                                                            | ![[Botnets & Zombies#^118bae]]                                                                                                                                                |
+| Botnet                                                            | ![[Botnets & Zombies#^118bae]]                                                                                                                  |
+| Spam                                                              | ![[Spam#^dae881]]                                                                                                                               |
+| Malware                                                           | ![[Malware]]                                                                                                                                                |
 
 
 # Also
