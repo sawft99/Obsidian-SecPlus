@@ -47,6 +47,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | BIOS (Basic Input Output System)       | ![[Securing the BIOS#^e94ab9]]                                                |
 | UEFI                                   | ![[Securing the BIOS#UEFI]]                                                   |
 | TPM (Trusted Platform Module)          | ![[Disk Encryption#Trusted Platform Module (TPM)]]                            |
+| Secure Boot | ![[Securing the BIOS#^e16786]]
 | Removeable Media Controls              | ![[Securing Storage#^285fde]]                                                 |
 | NAS (Network Attached Storage)         | ![[Securing Storage#Network Attached Storage (NAS)]]                          |
 | SAN (Storage Area Network)             | ![[Securing Storage#^ed6df7]]                                                 |

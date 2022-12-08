@@ -41,7 +41,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 5. Enable Secure boot
 	1. Additional processes during boot
 	2. Loads Public key from [[Disk Encryption#Trusted Platform Module (TPM)|TPM]]
-	3. <u>Verifies code and has been signed by manufacturer and has not been modified</u>
+	3. <u>Verifies code and has been signed by manufacturer and has not been modified</u> ^e16786
 
 # [[Objectives]]
 ---
