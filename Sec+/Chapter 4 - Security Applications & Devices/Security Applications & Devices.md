@@ -19,10 +19,10 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- [[Popup Blockers#Ads & Malware|Adblocker]]
 - [[Data Loss Prevention (DLP)]]
 - [[Securing the BIOS]]
-- Secure storage
-- Disk #Encryption
+- [[Securing Storage]]
+- [[Disk Encryption]]
 
 
 # [[Objectives]]
 ---
-- ?
+- See sections

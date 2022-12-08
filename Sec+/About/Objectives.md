@@ -226,7 +226,7 @@ collapse: close
 	- Open permissions
 	- Unsecured root accounts
 	- Errors
-	- Weak #Encryption
+	- Weak [[Securing Storage#Encryption|Encryption]]
 	- Unsecure protocols
 	- Default settings
 	- Open ports and services
@@ -319,7 +319,7 @@ collapse: close
 - Data protection
 	- [[Data loss prevention (DLP)]]
 	- Masking
-	- #Encryption
+	- [[Securing Storage#Encryption|Encryption]]
 	- At rest
 		- [[Securing Storage]]
 	- In transit/motion
@@ -631,7 +631,7 @@ conditioning (HVAC)
 	- Audio
 	- Video
 	- Image
-- Homomorphic #Encryption
+- Homomorphic [[Securing Storage#Encryption|Encryption]]
 - Common use cases
 	- Low power devices
 	- Low latency
@@ -719,12 +719,12 @@ conditioning (HVAC)
 - Hardening
 	- Open ports and services
 	- Registry
-	- Disk #Encryption
+	- Disk [[Securing Storage#Encryption|Encryption]]
 	- OS
 	- Patch management
 		- Third-party updates
 		- Auto-update
-- Self-encrypting drive (SED)/full disk #Encryption  (FDE)
+- Self-encrypting drive (SED)/full disk [[Securing Storage#Encryption|encryption]](FDE)
 	- Opal
 - Hardware root of trust
 - Trusted Platform Module (TPM)
@@ -851,7 +851,7 @@ conditioning (HVAC)
 	- Context-aware authentication
 	- Containerization
 	- Storage segmentation
-	- Full device #Encryption
+	- Full device [[Securing Storage#Encryption|Encryption]]
 - Mobile devices
 	- MicroSD HSM
 	- MDM/Unified endpoint management (UEM)
@@ -889,7 +889,7 @@ conditioning (HVAC)
 	- Integration and auditing
 	- Storage
 		- Permissions
-		- #Encryption
+		- [[Securing Storage#Encryption|Encryption]]
 		- Replication
 		- High availability
 	- Network

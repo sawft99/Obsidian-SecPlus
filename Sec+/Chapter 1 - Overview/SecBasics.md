@@ -24,7 +24,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - CIA
 	- Confidentiality
 		- Info not being disclosed to unauthorized people
-		- #Encryption
+		- [[Securing Storage#Encryption|Encryption]]
 	- Integrity
 		- Confirm data has not been modified by unauthorized people
 		- #Hashing
@@ -311,7 +311,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - More iterative or thinking across multiple lines
 	- Matrices
 	- Many categories of attacks
-- <u>Focus</u> on #Encryption   phase
+- <u>Focus</u> on [[Securing Storage#Encryption|encryption]] phase
 - pre-ATT&CK
 	- Focus on #Reconnaissance
 	- Aligns with #Reconnaissance and weaponization in Lockheed kill chain [[#Attack Frameworks]]

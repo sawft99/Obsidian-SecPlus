@@ -8,9 +8,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # About
 ---
 - Endpoints
-	- Any device that is used and connects to your network
+	- Any device that is used and connects to your network ^69959c
 	- Desktop, Laptop, Phone
-	- Move to [[Vocab]]
 - Analysis is used when conducting monitoring, logging, and analysis of an endpoint(s)
 - The job
 	1. Analysts use tools to identify behavioral anomalies
@@ -41,8 +40,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # EPP
 ---
-- A software agent and monitoring system the performs multiple security tasks such as [[#AntiVirus (AV)]], [[#HIDS/HIPS]], #Fireall, [[Data Loss Prevention (DLP)]], and [[Disk Encryption|Encryption]]
-- Gartner magic quadrant that  shows industry leaders
+- A software agent and monitoring system the performs multiple security tasks such as [[#AntiVirus (AV)]], [[#HIDS/HIPS]], Firewall, [[Data Loss Prevention (DLP)]], and [[Disk Encryption|Encryption]]
+- Gartner magic quadrant that shows industry leaders
 
 ```ad-info
 title: Gartner Magic quadrant

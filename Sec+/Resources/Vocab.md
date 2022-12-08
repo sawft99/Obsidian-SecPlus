@@ -47,14 +47,16 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | BIOS (Basic Input Output System)       | ![[Securing the BIOS#^e94ab9]]                                                |
 | UEFI                                   | ![[Securing the BIOS#UEFI]]                                                   |
 | TPM (Trusted Platform Module)          | ![[Disk Encryption#Trusted Platform Module (TPM)]]                            |
-| Secure Boot | ![[Securing the BIOS#^e16786]]
+| Secure Boot                            | ![[Securing the BIOS#^e16786]]                                                |
 | Removeable Media Controls              | ![[Securing Storage#^285fde]]                                                 |
 | NAS (Network Attached Storage)         | ![[Securing Storage#Network Attached Storage (NAS)]]                          |
 | SAN (Storage Area Network)             | ![[Securing Storage#^ed6df7]]                                                 |
+| Encryption                             | ![[Securing Storage#Encryption]]                                              |
 | SED (Self Encrypting Drive)            | ![[Disk Encryption#^abe3d2]]                                                  |
 | EFS (Encrypting File System)           | ![[Disk Encryption#^973f7f]]                                                  |
 | AES (Advanced Encryption Standard)     | ![[Disk Encryption#Advanced Encryption Standard (AES)]]                       |
-| HSM (Hardware Security Module)         | ![[Disk Encryption#^5ffc2c]]                                                                              |
+| HSM (Hardware Security Module)         | ![[Disk Encryption#^5ffc2c]]                                                  |
+| Endpoint                               | ![[Endpoint Analysis#^69959c]]                                                                              |
 
 
 # Also

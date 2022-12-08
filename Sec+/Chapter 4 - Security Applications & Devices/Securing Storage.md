@@ -10,13 +10,13 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Most PCs can use removeable media
 	- [[Data Loss Prevention (DLP)#Data theft evolution|Data theft evolution]]
 - Want to ensure [[SecBasics#CyberSecurity Models|Confidentiality]]
-	- Apply #Encryption
+	- Apply [[Securing Storage#Encryption|encryption]]
 
-# #Encryption
+# Encryption
 ---
 - #Windows has #Bitlocker to go
 	- Software encryption
-- Hardware #Encryption is also an option
+- Hardware Encryption is also an option
 	- Ironkey USB
 
 # Removeable Media Controls
@@ -40,7 +40,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Tips
 ---
-- Use full disk #Encryption
+- Use full disk [[Securing Storage#Encryption|encryption]]
 -  [[SecBasics#^45fffd|AAA Model]]
 	- Have proper authentication
 		- Username and passwords
