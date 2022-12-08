@@ -15,7 +15,7 @@ tags: CL
 - [ ] [[Disk Encryption]] HSM vs SED?
 - [ ] Replace #Encryption tag with backlinks?
 - [ ] Add Endpoint to [[Vocab]] form [[Endpoint Analysis]]
-- [ ] Rest of [[Endpoint Analysis]] vocab
+- [ ] Rest of [[Endpoint Analysis]] [[Vocab]]
 - [ ] Remove #AntiVirus  tag and replace with backlinks to [[Endpoint Analysis#AntiVirus]]?
 
 
