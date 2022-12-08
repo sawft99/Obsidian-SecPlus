@@ -19,7 +19,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 		- Securing the <u>systems</u> that hold and process critical data
 		- System holding data but <u>NOT</u> the actual data
 
-# CyberSecurity Models
+# Cybersecurity Models
 ---
 - CIA
 	- Confidentiality
@@ -32,7 +32,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 		- Data easily and readily accessible
 		- Stored, accessible, and protected at all times
 		- #Uptime
-- AAA
+- AAA ^45fffd
 	- Authentication
 		- <u>Proof of identity</u> and systems confirms
 		- Methods:
@@ -75,7 +75,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Computer crashes or an application fails
 	- BSOD
 	- Affecting <u>availability</u>
-- Social Engineering
+- #SocialEngineering
 	- <u>Manipulating user to reveal</u> confidential information or perform action detrimental to user or company
 	- Phishing
 - Objectives

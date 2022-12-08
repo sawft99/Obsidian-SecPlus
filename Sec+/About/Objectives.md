@@ -321,6 +321,7 @@ collapse: close
 	- Masking
 	- #Encryption
 	- At rest
+		- [[Securing Storage]]
 	- In transit/motion
 	- In processing
 	- Tokenization
@@ -465,6 +466,7 @@ collapse: close
 		- Managed power distribution units (PDUs)
 - Replication
 	- Storage area network (SAN)
+		- [[Securing Storage#Storage Area Network (SAN)|SAN]]
 	- VM
 - On-premises vs. cloud
 - Backup types
@@ -476,7 +478,9 @@ collapse: close
 	- Disk
 	- Copy
 	- Network attached storage (NAS)
+		- [[Securing Storage#Network Attached Storage (NAS)|NAS]]
 	- SAN
+		- [[Securing Storage#Storage Area Network (SAN)|SAN]]
 	- Cloud
 	- Image
 	- Online vs. offline
@@ -488,6 +492,7 @@ collapse: close
 	- Live boot media
 - High availability
 	- Scalability
+	- [[Securing Storage]]
 - Restoration order
 - Diversity
 	- Technologies

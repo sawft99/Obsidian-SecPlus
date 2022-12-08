@@ -17,6 +17,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 2. Laptops
 3. External hard drives
 4. Thumb sticks/USB drives
+	1. Small and can carry a lot of info
 5. Internet such as DropBox
 	1. More dangerous now due to world wide access
 
