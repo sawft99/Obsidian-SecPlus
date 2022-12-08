@@ -24,13 +24,13 @@ collapse: close
 
 ## 1.0 - Threats, Attacks and Vulnerabilities
 
-## 1.1 - Compare and contrast different types of social engineering techniques
+## 1.1 - Compare and contrast different types of #SocialEngineering  techniques
 ---
 - Phishing
 - Smishing
 - Vishing
 - [[Spam]]
-- Spam over Internet messaging ([[Spam#^4a7863|SPIM]])
+- [[Spam]] over Internet messaging ([[Spam#^4a7863|SPIM]])
 - Spear phishing
 - Dumpster diving
 - Shoulder surfing
@@ -42,7 +42,7 @@ collapse: close
 - Identity fraud
 - Invoice scams
 - Credential harvesting
-- Reconnaissance
+- #Reconnaissance
 - Hoax
 - Impersonation
 - [[Common Delivery Methods#Watering hole|Watering hole attack]]
@@ -127,7 +127,7 @@ collapse: close
 - Resource exhaustion
 - Memory leak
 - Secure sockets layer (SSL) stripping
-- Driver manipulation
+- #Drivers  manipulation
 	- Shimming
 	- Refactoring
 - Pass the hash
@@ -155,11 +155,11 @@ collapse: close
 	- DNS poisoning
 	- Universal resource locator (URL) redirection
 	- Domain reputation
-- Distributed denial of service (DDoS)
+- Distributed denial of service - #DDoS
 	- Network
 	- Application
 	- Operational technology (OT)
-- Malicious code or script execution
+- Malicious code or #Script  execution
 	- PowerShell
 	- Python
 	- Bash
@@ -173,7 +173,7 @@ collapse: close
 	- Insider threats
 	- State actors
 	- Hacktivists
-	- Script kiddies
+	- #Script kiddies
 	- Criminal syndicates
 	- [[SecBasics#Hackers|Hackers]]
 		- White hat
@@ -189,13 +189,13 @@ collapse: close
 - Vectors
 	- Direct access
 	- Wireless
-	- Email
+	- #Email
 	- Supply chain
 	- Social media
 	- Removable media
 	- Cloud
 - Threat intelligence sources
-	- Open source intelligence (OSINT)
+	- Open source intelligence (#OSINT)
 	- Closed/proprietary
 	- Vulnerability databases
 	- Public/private information
@@ -226,7 +226,7 @@ collapse: close
 	- Open permissions
 	- Unsecured root accounts
 	- Errors
-	- Weak encryption
+	- Weak #Encryption
 	- Unsecure protocols
 	- Default settings
 	- Open ports and services
@@ -269,8 +269,7 @@ collapse: close
 	- Network
 	- Common Vulnerabilities and Exposures (CVE)/Common Vulnerability Scoring System (CVSS)
 	- Configuration review
-- Syslog/Security information and
-event management (SIEM)
+- Syslog/Security information and event management - #SIEM
 	- Review reports
 	- Packet capture
 	- Data inputs
@@ -289,17 +288,18 @@ event management (SIEM)
 	- Gray box
 	- Rules of engagement
 	- Lateral movement
+		- #LateralMovement
 	- Privilege escalation
 	- Persistence
 	- Cleanup
 	- Bug bounty
 	- Pivoting
-- Passive and active reconnaissance
+- Passive and active #Reconnaissance
 	- Drones/unmanned aerial vehicle (UAV)
 	- War flying
 	- War driving
 	- Footprinting
-	- OSINT
+	- #OSINT
 - Exercise types
 	- Red team
 	- Blue team
@@ -319,7 +319,7 @@ event management (SIEM)
 - Data protection
 	- [[Data loss prevention (DLP)]]
 	- Masking
-	- Encryption
+	- #Encryption
 	- At rest
 	- In transit/motion
 	- In processing
@@ -330,7 +330,7 @@ event management (SIEM)
 - Cloud access security broker (CASB)
 - Response and recovery controls
 - Secure Sockets Layer (SSL)/Transport Layer Security (TLS) inspection
-- Hashing
+- #Hashing
 - API considerations
 - Site resiliency
 	- Hot site
@@ -346,7 +346,7 @@ event management (SIEM)
 ## 2.2 - Summarize virtualization and cloud computing concepts
 ---
 - Cloud models
-	- Infrastructure as a service (IaaS)
+	- #Infrastructure as a service (IaaS)
 	- Platform as a service (PaaS)
 	- Software as a service (SaaS)
 	- Anything as a service (XaaS)
@@ -362,7 +362,7 @@ event management (SIEM)
 - Thin client
 - Containers
 - Micro-services/API
-- Infrastructure as code
+- #Infrastructure as code
 	- Software-defined networking (SDN)
 	- Software-defined visibility (SDV)
 - Serverless architecture
@@ -396,7 +396,7 @@ event management (SIEM)
 - Software diversity
 	- Compiler
 	- Binary
-- Automation/scripting
+- Automation & #Script
 	- Automated courses of action
 	- Continuous monitoring
 	- Continuous validation
@@ -602,7 +602,7 @@ conditioning (HVAC)
 - Key length
 - Key stretching
 - Salting
-- Hashing
+- #Hashing
 - Key exchange
 - Elliptical curve cryptography
 - Perfect forward secrecy
@@ -626,7 +626,7 @@ conditioning (HVAC)
 	- Audio
 	- Video
 	- Image
-- Homomorphic encryption
+- Homomorphic #Encryption
 - Common use cases
 	- Low power devices
 	- Low latency
@@ -664,13 +664,13 @@ conditioning (HVAC)
 	- Simple Network Management Protocol, version 3 (SNMPv3)
 	- Hypertext transfer protocol over SSL/TLS (HTTPS)
 	- IPSec
-		- Authentication header (AH)/Encapsulated security payload (ESP)
+		- Authentication header (AH)/Encapsulated security #Payload  (ESP)
 		- Tunnel/transport
 	- Secure post office protocol (POP)/Internet message access protocol (IMAP)
 - Use cases
 	- Voice and video
 	- Time synchronization
-	- Email and web
+	- #Email and web
 	- File transfer
 	- Directory services
 	- Remote access
@@ -698,7 +698,7 @@ conditioning (HVAC)
 - Database
 	- Tokenization
 	- Salting
-	- Hashing
+	- #Hashing
 - Application security
 	- Input validations
 	- Secure cookies
@@ -714,7 +714,7 @@ conditioning (HVAC)
 - Hardening
 	- Open ports and services
 	- Registry
-	- Disk encryption
+	- Disk #Encryption
 	- OS
 	- Patch management
 		- Third-party updates
@@ -846,7 +846,7 @@ conditioning (HVAC)
 	- Context-aware authentication
 	- Containerization
 	- Storage segmentation
-	- Full device encryption
+	- Full device #Encryption
 - Mobile devices
 	- MicroSD HSM
 	- MDM/Unified endpoint management (UEM)
@@ -873,7 +873,7 @@ conditioning (HVAC)
 	- Bring your own device (BYOD)
 	- Corporate-owned personally enabled (COPE)
 	- Choose your own device (CYOD)
-	- Corporate-owned Virtual desktop infrastructure (VDI)
+	- Corporate-owned Virtual desktop #infrastructure (VDI)
 
 ## 3.6 - Given a scenario, apply cybersecurity solutions to the cloud
 ---
@@ -884,7 +884,7 @@ conditioning (HVAC)
 	- Integration and auditing
 	- Storage
 		- Permissions
-		- Encryption
+		- #Encryption
 		- Replication
 		- High availability
 	- Network
@@ -969,9 +969,9 @@ conditioning (HVAC)
 	- Privilege access management
 	- Filesystem permissions
 
-## 3.9 - Given a scenario, implement public key infrastructure
+## 3.9 - Given a scenario, implement public key #Infrastructure
 ---
-- Public key infrastructure (PKI)
+- Public key #infrastructure (PKI)
 	- Key management
 	- Certificate authority (CA)
 	- Intermediate CA
@@ -989,7 +989,7 @@ conditioning (HVAC)
 	- Code signing
 	- Self-signed
 	- Machine/computer
-	- Email
+	- #Email
 	- User
 	- Root
 	- Domain validation
@@ -1013,7 +1013,7 @@ conditioning (HVAC)
 
 ## 4.1 - Given a scenario, use the appropriate tool to assess organizational security
 ---
-- Network reconnaissance and discovery
+- Network #Reconnaissance and discovery
 	- tracert/traceroute
 	- nslookup/dig
 	- ipconfig/ifconfig
@@ -1039,7 +1039,7 @@ conditioning (HVAC)
 	- grep
 	- chmod
 	- logger
-- Shell and script environments
+- Shell and #Script  environments
 	- SSH
 	- PowerShell
 	- Python
@@ -1087,7 +1087,7 @@ conditioning (HVAC)
 ## 4.3 - Given an incident, utilize appropriate data sources to support an investigation
 ---
 - Vulnerability scan output
-- SIEM dashboards
+- #SIEM dashboards
 	- Sensor
 	- Sensitivity
 	- Trends
@@ -1110,7 +1110,7 @@ conditioning (HVAC)
 - Retention
 - Bandwidth monitors
 - Metadata
-	- Email
+	- #Email
 	- Mobile
 	- Web
 	- File
@@ -1170,7 +1170,7 @@ conditioning (HVAC)
 	- Regulatory/jurisdiction
 	- Data breach notification laws
 - Integrity
-	- Hashing
+	- #Hashing
 	- Checksums
 	- Provenance
 - Preservation
@@ -1214,7 +1214,7 @@ conditioning (HVAC)
 		- Web server
 		- OS
 		- Application server
-		- Network infrastructure devices
+		- Network #Infrastructure  devices
 
 ## 5.3 - Explain the importance of policies to organizational security
 ---

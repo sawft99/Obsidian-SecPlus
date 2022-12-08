@@ -1,5 +1,5 @@
 ---
-tags: [CompTia,SecPlus,CyberSec,Certs,SecBasics]
+tags: [CompTia,SecPlus,CyberSec,Certs]
 #aliases:
 #cssclass:
 #publish:
@@ -73,7 +73,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs,SecBasics]
 	- Breaking through <u>authorization</u>
 - System Failure
 	- Computer crashes or an application fails
-	- "BSOD"
+	- BSOD
 	- Affecting <u>availability</u>
 - Social Engineering
 	- <u>Manipulating user to reveal</u> confidential information or perform action detrimental to user or company
@@ -128,7 +128,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs,SecBasics]
 	- Create own tools
 	- White. Black, Grey hats
 	- '1/10,000 considered'
-- Script Kiddies
+- #Script Kiddies
 	- <u>Low level of skill</u>
 	- Use tools without understanding
 - Objectives
@@ -136,7 +136,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs,SecBasics]
 
 # Threat Actors
 ---
-- Script Kiddies
+- #Script Kiddies
 	- <u>No/Little skill or ability</u>
 	- Blindly use tool
 - Hacktivists
@@ -144,14 +144,14 @@ tags: [CompTia,SecPlus,CyberSec,Certs,SecBasics]
 - Organized crime
 	- Group of <u>hackers well-funded</u> and sophisticated
 - Advanced Persistent Threats ^f3f779
-	- <u>Nation state</u>, covert, OSINT
+	- <u>Nation state</u>, covert, #OSINT
 	- Gain more #Intelligence and info
 	- Often maintain a <u>low profile</u>
 	- Can take place over longer periods off time
 - Objectives
 	- [[Objectives#1.5 - Explain different threat actors, vectors, and intelligence sources|1.5 - Explain different threat actors, vectors, and intelligence sources]]
 
-# Threat Intelligence
+# Threat #Intelligence
 ---
 - Weighing value of #Intelligence
 	- Timeliness
@@ -160,7 +160,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs,SecBasics]
 	- Relevancy
 		- Information is relevant to your use case
 		- Does it affect your organization?
-		- Ex: OSX hacks in a Windows environment are likely not relevant
+		- Ex: #OSX hacks in a #Windows environment are likely not relevant
 	- Accuracy
 		- Produces <u>productive results</u>
 		- <u>Valid and true</u> info
@@ -201,7 +201,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs,SecBasics]
 	- MISP
 		- [[Malware]] Information Sharing Project
 	- VirusTotal
-		- Upload file and checks across 40+ AV
+		- Upload file and checks across 40+ #AntiVirus
 		- Public repo
 	- Spamhaus
 		- [[Spam]] #Email
@@ -234,7 +234,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs,SecBasics]
 		- Who would harm us?
 		- How would they harm us?
 	- Profiling Threat Actors
-		- Create scenarios how intrusion might happen and what motive is #TTP
+		- Create scenarios how intrusion might happen and what motive is TTP
 		- Who wants to cause harm?
 		- What systems?
 	- Hunting
@@ -275,19 +275,19 @@ tags: [CompTia,SecPlus,CyberSec,Certs,SecBasics]
 	- #Reconnaissance
 		- Attacker determines methods to use to attack
 		- Attackers try to have a low profile
-		- Use OSINT and passive tools
+		- Use #OSINT and passive tools
 		- Go from passive to active scanning/actions
 		- Identifying where/how to attack target
 	- Weaponization
-		- Attackers couple payload with exploit code
+		- Attackers couple #Payload with #Exploit  code
 		- Creating tool NOT running
 	- Delivery
-		- Attacker finds vector for payload
+		- Attacker finds vector for #Payload
 	- Exploitation
 		- The moment code is executed and running
 		- "Phase 1"
 	- Installation
-		- During exploit it will install additional code to maintain remote access and achieve persistence
+		- During #Exploit it will install additional code to maintain remote access and achieve persistence
 		- "Phase 2"
 	- #C2 (Command and Control)
 		- Where weaponized code talks to an outside server to use additional functions
@@ -304,14 +304,14 @@ tags: [CompTia,SecPlus,CyberSec,Certs,SecBasics]
 - Adversary tactics, technique, common knowledge or procedures
 - attack.mitre.org
 	- <u>Attack navigator</u>
-		- Can click different types and colors to get #TTP
+		- Can click different types and colors to get TTP
 		- Each one will give you more info
 		- Map of possible methodology for attack and defense
 - Knowledge based maintained by MITRE organization
 - More iterative or thinking across multiple lines
 	- Matrices
 	- Many categories of attacks
-- <u>Focus on exploit phase</u>
+- <u>Focus</u> on #Encryption   phase
 - pre-ATT&CK
 	- Focus on #Reconnaissance
 	- Aligns with #Reconnaissance and weaponization in Lockheed kill chain [[#Attack Frameworks]]
@@ -327,8 +327,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs,SecBasics]
 - Flow
 	- Victim notices/discovers [[Malware]]
 	- Ability to see you've been hacked
-	- As you do IR you may see a C2 server being called
-		- This will point to a infrastructure
+	- As you do IR you may see a #C2 server being called
+		- This will point to a #Infrastructure
 	- Firewall logs can point to an IP being accessed by several hosts
 		- Additional information on #Infrastructure and victim discovery
 	- IP details add info on Adversary

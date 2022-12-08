@@ -14,7 +14,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Web server would accept 80 and 443 whereas desktop shouldn't
 - Versions
 	- #Windows  - #Windows Firewall
-	- #Mac and #OSX - PF and IPFW
+	- #OSX and #OSX - PF and IPFW
 	- #Linux - Iptables
 
 
@@ -25,7 +25,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Basic version
 		- In control panel
 		- Home users use
-	- Windows Firewall with with advanced security
+	- #Windows Firewall with with advanced security
 		- Businesses usually use
 		- WF.msc
 
@@ -36,7 +36,7 @@ collapse: Close
 ```
 
 
-# OSX
+# #OSX
 ---
 - Built-in for Mac
 - Basic version in "System preferences > Security and privacy"
@@ -46,7 +46,7 @@ collapse: Close
 		- <u>OSX 10 and up</u>
 	- Older ones used <u>"IPFW"</u>
 		- <u>Internet protocol firewall</u>
-	- Both are in FreeBSD which OSX is based on
+	- Both are in FreeBSD which #OSX is based on
 
 ```ad-info
 title: PF (Packet Filter)
@@ -54,7 +54,7 @@ collapse: close
 ![[MAC&OSX_Firewall.png]]
 ```
 
-# Linux
+# #Linux
 ---
 - Built-in called <u>"IPTables"</u>
 	- CLI

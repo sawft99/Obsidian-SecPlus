@@ -16,7 +16,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - Attackers can purchase ads (pay per click)
 	- Link to their site or malicious code
-- Adblock <u>browser extension</u> may help filter
+- AdBlock <u>browser extension</u> may help filter
 - Some websites won't deliver content if adblocker is detected
 
 # Content Filter
