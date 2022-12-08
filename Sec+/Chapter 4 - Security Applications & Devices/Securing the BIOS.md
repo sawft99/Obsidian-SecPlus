@@ -22,8 +22,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Unified Extensible Firmware Interface
 	- "YouFee"
 - Newer modern standard
-- Replaces BIOS
-
+- Replaces BIOS but may be used interchangeably
 # Securing
 ---
 1. <u>Flash BIOS</u>

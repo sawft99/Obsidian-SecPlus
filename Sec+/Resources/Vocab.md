@@ -40,17 +40,20 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Firmware                               | ![[Securing the BIOS#^28d134]]                                                |
 | Botnet                                 | ![[Botnets & Zombies#^118bae]]                                                |
 | Spam                                   | ![[Spam#^dae881]]                                                             |
-| [[Malware]]                                | ![[Malware#^7d0970]]                                                          |
+| [[Malware]]                            | ![[Malware#^7d0970]]                                                          |
 | RAT                                    | Remote Access [[Trojans]]                                                     |
 | Virus                                  | ![[Viruses#^c54698]]                                                          |
 | BSOD                                   | Occurs when there is a crash on the PC. Indicates a serious issue in #Windows |
 | BIOS (Basic Input Output System)       | ![[Securing the BIOS#^e94ab9]]                                                |
 | UEFI                                   | ![[Securing the BIOS#UEFI]]                                                   |
-| TPM (Trusted Platform Module)          | ![[Disk Encryption#Trusted Platform Module (TPM)]]                                          |
+| TPM (Trusted Platform Module)          | ![[Disk Encryption#Trusted Platform Module (TPM)]]                            |
 | Removeable Media Controls              | ![[Securing Storage#^285fde]]                                                 |
 | NAS (Network Attached Storage)         | ![[Securing Storage#Network Attached Storage (NAS)]]                          |
 | SAN (Storage Area Network)             | ![[Securing Storage#^ed6df7]]                                                 |
-| SED (Self Encrypting Drive)            | ![[Disk Encryption#^abe3d2]]                                                                              |
+| SED (Self Encrypting Drive)            | ![[Disk Encryption#^abe3d2]]                                                  |
+| EFS (Encrypting File System)           | ![[Disk Encryption#^973f7f]]                                                  |
+| AES (Advanced Encryption Standard)     | ![[Disk Encryption#Advanced Encryption Standard (AES)]]                       |
+| HSM (Hardware Security Module)         | ![[Disk Encryption#^5ffc2c]]                                                                              |
 
 
 # Also

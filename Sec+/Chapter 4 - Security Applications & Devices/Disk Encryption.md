@@ -24,7 +24,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Looks like an external hard drive
 	- Because it is hardware based it is very fast
 	- Also very expensive and therefore not as common vs [[#Software Based]] solutions
-- <u>Hardware Security Module</u> (HSM)
+- <u>Hardware Security Module</u> (HSM) ^5ffc2c
 	- Physical drive that acts as a secure crypto processor during the #Encryption  process or digital signing
 	- Typically an adapter card over USB or a networked device
 	- Usually tamper proof with high levels of security
@@ -47,7 +47,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - Enable encryption on <u>individual files and folders</u>
 - Windows
-	- Encrypting File System (EFS)
+	- Encrypting File System (EFS) ^973f7f
 		- Can right click and enable on a folder
 		- Will make it so only that user is able to see/access
 
