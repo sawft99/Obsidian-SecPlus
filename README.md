@@ -1,6 +1,6 @@
 # Obsidian-SecPlus
 
-Obsidian vault containing notes on CompTIA Sec+ course. Includes information from various sources. [Study Guide](Sec+/About/Study%20Guide.md) blank due to excluding copyright material from the [Udemy course](https://www.udemy.com/course/securityplus) created by [Dijon Training](https://www.diontraining.com/).
+[Obsidian](https://obsidian.md) vault containing notes on CompTIA Sec+ course. Includes information from various sources. [Study Guide](Sec+/About/Study%20Guide.md) blank due to excluding copyright material from the [Udemy course](https://www.udemy.com/course/securityplus) created by [Dijon Training](https://www.diontraining.com/).
 
 # Plugins
 Most of these are not essential but it is what I am using for myself in this vault
