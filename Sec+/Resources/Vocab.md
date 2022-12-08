@@ -1,5 +1,5 @@
 ---
-tags: [CompTia,SecPlus,CyberSec,Cert,Vocab]
+tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 #aliases:
 #cssclass:
 #publish:
@@ -40,7 +40,9 @@ tags: [CompTia,SecPlus,CyberSec,Cert,Vocab]
 | Firmware                                                          | ![[Securing the BIOS#^28d134]]                                                                                                                  |
 | Botnet                                                            | ![[Botnets & Zombies#^118bae]]                                                                                                                  |
 | Spam                                                              | ![[Spam#^dae881]]                                                                                                                               |
-| Malware                                                           | ![[Malware]]                                                                                                                                                |
+| Malware                                                           | ![[Malware#^7d0970]]                                                                                                                            |
+| R.A.T.                                                            | Remote Access [[Trojans]]                                                                                                                       |
+| Virus                                                             | ![[Viruses#^c54698]]                                                                                                                                                |
 
 
 # Also

@@ -1,5 +1,5 @@
 ---
-tags: [CompTia,SecPlus,CyberSec,Cert]
+tags: [CompTia,SecPlus,CyberSec,Certs]
 #aliases:
 #cssclass:
 #publish:
