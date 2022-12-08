@@ -5,5 +5,8 @@
   "spellcheck": true,
   "newFileLocation": "current",
   "newLinkFormat": "shortest",
-  "attachmentFolderPath": "Sec+/Files"
+  "attachmentFolderPath": "Sec+/Files",
+  "userIgnoreFilters": [
+    "OBSResources/"
+  ]
 }
