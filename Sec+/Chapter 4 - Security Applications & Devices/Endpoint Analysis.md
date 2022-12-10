@@ -22,9 +22,9 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 1. [[#AntiVirus (AV)]]
 2. [[IDS#HIDS|HIDS]]/[[HIPS]]
-3. Endpoint Protection Platforms (EPP)
-4. Endpoint Detection Response (EDR)
-5. User and Entity Behavioral Analytics (UEBA)
+3. [[#Endpoint Protection Platforms (EPP)]]
+4. [[#Endpoint Detection Response (EDR)]]
+5. [[#User and Entity Behavioral Analytics (UEBA)]]
 
 # AntiVirus (AV)
 ---

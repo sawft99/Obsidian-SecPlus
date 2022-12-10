@@ -8,14 +8,14 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # About
 ---
 - <u>Intrusion Detection System</u>
-- Device or Software on system or network that <u>analyzes data going through it</u>
+- <u>Device or software</u> on system or network that <u>analyzes data going through it</u>
 - Identify incident or attacks
 - Host based ([[#HIDS]]) or network based ([[#NIDS]])
 
 # HIDS
 ---
 - <u>Host</u> Intrusion Detection System
-- Software on computer or server
+- <u>Software</u> on computer or server
 - Logs everything that it "thinks" is suspicious
 
 ```ad-info

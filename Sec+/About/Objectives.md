@@ -24,10 +24,10 @@ collapse: close
 
 ## 1.0 - Threats, Attacks and Vulnerabilities
 
-## 1.1 - Compare and contrast different types of #SocialEngineering  techniques
+## 1.1 - Compare and contrast different types of Social Engineering  techniques
 ---
 - Phishing
-- Smishing
+	- [[Mobile Malware#^6aa682|Smishing]]
 - Vishing
 - [[Spam]]
 - [[Spam]] over Internet messaging ([[Spam#^4a7863|SPIM]])
@@ -40,11 +40,13 @@ collapse: close
 - Whaling
 - Prepending
 - Identity fraud
+	- [[SIM Cloning & ID Theft]]
 - Invoice scams
 - Credential harvesting
 - #Reconnaissance
 - Hoax
 - Impersonation
+	- [[SIM Cloning & ID Theft]]
 - [[Common Delivery Methods#Watering hole|Watering hole attack]]
 - [[Common Delivery Methods#Typo squatting|Typo squatting]]
 - Influence campaigns
@@ -226,7 +228,7 @@ collapse: close
 	- Open permissions
 	- Unsecured root accounts
 	- Errors
-	- Weak [[Disk Encryption#About|Encryption]]
+	- Weak [[Disk Encryption#^501400|Encryption]]
 	- Unsecure protocols
 	- Default settings
 	- Open ports and services
@@ -319,7 +321,7 @@ collapse: close
 - Data protection
 	- [[Data loss prevention (DLP)]]
 	- Masking
-	- [[Disk Encryption#About|Encryption]]
+	- [[Disk Encryption#^501400]]
 	- At rest
 		- [[Securing Storage]]
 	- In transit/motion
@@ -420,11 +422,13 @@ collapse: close
 		- Time-based one-time password (TOTP)
 		- HMAC-based one-time password (HOTP)
 		- Short message service (SMS)
+			- [[SIM Cloning & ID Theft]]
 		- Token key
 		- Static codes
 		- Authentication applications
 		- Push notifications
 		- Phone call
+			- [[SIM Cloning & ID Theft]]
 	- Smart card authentication
 - Biometrics
 	- Fingerprint
@@ -441,7 +445,9 @@ collapse: close
 - Multifactor authentication (MFA) factors and attributes
 	- Factors
 		- Something you know
+			- [[SIM Cloning & ID Theft]]
 		- Something you have
+			- [[SIM Cloning & ID Theft]]
 		- Something you are
 	- Attributes
 		- Somewhere you are
@@ -449,6 +455,7 @@ collapse: close
 		- Something you exhibit
 		- Someone you know
 - Authentication, authorization, and accounting (AAA)
+	- [[SecBasics#Cybersecurity Models|Model]]
 - Cloud vs. on-premises requirements
 
 ## 2.5 - Given a scenario, implement cybersecurity resilience
@@ -526,6 +533,7 @@ collapse: close
 	- Aircraft
 	- Smart meters
 - Voice over IP (VoIP)
+	- [[SIM Cloning & ID Theft#Protecting]]
 - Heating, ventilation, air
 conditioning (HVAC)
 - Drones/AVs
@@ -538,6 +546,7 @@ conditioning (HVAC)
 	- Narrow-band
 	- Baseband radio
 	- Subscriber identity module (SIM) cards
+		- [[SIM Cloning & ID Theft]]
 	- Zigbee
 - Constraints
 	- Power
@@ -634,17 +643,17 @@ conditioning (HVAC)
 	- Audio
 	- Video
 	- Image
-- Homomorphic [[Disk Encryption#About|Encryption]]
+- Homomorphic [[Disk Encryption#^501400|Encryption]]
 - Common use cases
 	- Low power devices
 	- Low latency
 	- High resiliency
 	- Supporting confidentiality
 		- [[SecBasics#Cybersecurity Models|Confidentiality]]
-		- [[Disk Encryption#About|Encryption]]
+		- [[Disk Encryption#^501400|Encryption]]
 	- Supporting integrity
 	- Supporting obfuscation
-		-  [[Disk Encryption#About|Encryption]]
+		-  [[Disk Encryption#^501400|Encryption]]
 	- Supporting authentication
 	- Supporting non-repudiation
 	- Resource vs. security constraints
@@ -809,6 +818,7 @@ conditioning (HVAC)
 ---
 - Cryptographic protocols
 	- WiFi protected access II (WPA2)
+		- [[Securing Wireless Devices#Wifi|WPA2]]
 	- WiFi protected access III (WPA3)
 	- Counter-mode/CBC-MAC protocol (CCMP)
 	- Simultaneous Authentication of Equals (SAE)
@@ -837,8 +847,8 @@ conditioning (HVAC)
 ---
 - Connection methods and receivers
 	- Cellular
-	- WiFi
-	- Bluetooth
+	- [[Securing Wireless Devices#Wifi|Wifi]]
+	- [[Securing Wireless Devices#Bluetooth|Bluetooth]]
 	- NFC
 	- Infrared
 	- USB
@@ -859,7 +869,7 @@ conditioning (HVAC)
 	- Context-aware authentication
 	- Containerization
 	- Storage segmentation
-	- Full device [[Disk Encryption#About|Encryption]]
+	- Full device [[Disk Encryption#^501400|Encryption]]
 - Mobile devices
 	- MicroSD HSM
 	- MDM/Unified endpoint management (UEM)
@@ -867,11 +877,15 @@ conditioning (HVAC)
 	- SEAndroid
 - Enforcement and monitoring of:
 	- Third-party app stores
+		- [[Mobile Malware]]
 	- Rooting/jailbreaking
+		- [[Mobile Malware]]
 	- Sideloading
 	- Custom firmware
+		- [[Mobile Malware]]
 	- Carrier unlocking
 	- Firmware over-the-air (OTA) updates
+		- [[Mobile Malware]]
 	- Camera use
 	- SMS/multimedia message service (MMS)/Rich communication services (RCS)
 	- External media
@@ -897,7 +911,7 @@ conditioning (HVAC)
 	- Integration and auditing
 	- Storage
 		- Permissions
-		- [[Disk Encryption#About|Encryption]]
+		- [[Disk Encryption#^501400|Encryption]]
 		- Replication
 		- High availability
 	- Network

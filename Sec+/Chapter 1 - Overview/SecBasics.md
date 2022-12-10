@@ -24,7 +24,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - CIA
 	- Confidentiality
 		- Info not being disclosed to unauthorized people
-		- [[Disk Encryption#About|Encryption]]
+		- [[Disk Encryption#^501400|Encryption]]
 	- Integrity
 		- Confirm data has not been modified by unauthorized people
 		- #Hashing
@@ -311,7 +311,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - More iterative or thinking across multiple lines
 	- Matrices
 	- Many categories of attacks
-- <u>Focus</u> on [[Disk Encryption#About|Encryption]] phase
+- <u>Focus</u> on [[Disk Encryption#^501400|Encryption]] phase
 - pre-ATT&CK
 	- Focus on #Reconnaissance
 	- Aligns with #Reconnaissance and weaponization in Lockheed kill chain [[#Attack Frameworks]]

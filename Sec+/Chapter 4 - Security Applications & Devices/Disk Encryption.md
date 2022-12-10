@@ -1,5 +1,5 @@
 ---
-tags: [CompTia,SecPlus,CyberSec,Certs]
+tags: [CompTia,SecPlus,CyberSec,Certs
 #aliases:
 #cssclass:
 #publish:
@@ -20,11 +20,11 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - <u>Faster</u> than [[#Software Based]]
 - <u>Self encrypting Drive</u> (SED)
-	- <u>Storage device</u> that performs <u>whole disk</u> [[Disk Encryption#About|Encryption]] by using the <u>embedded hardware</u> ^abe3d2
+	- <u>Storage device</u> that performs <u>whole disk</u> [[#^501400|Encryption]] by using the <u>embedded hardware</u> ^abe3d2
 	- Looks like an external hard drive
 	- Also very expensive and therefore not as common vs [[#Software Based]]
 - <u>Hardware Security Module</u> (HSM) ^5ffc2c
-	- <u>Physical device</u> that acts as a <u>secure crypto processor</u> during the [[Disk Encryption#About|Encryption]] process or digital signing
+	- <u>Physical device</u> that acts as a <u>secure crypto processor</u> during the [[#^501400|Encryption]] process or digital signing
 	- Typically an adapter card over USB or a networked device
 	- Usually tamper proof with high levels of security
 	- Also very expensive and less common vs [[#Software Based]]
@@ -33,11 +33,11 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - Mac and #OSX  have #FileVault  [[Endpoint Analysis#AntiVirus (AV)|AntiVirus]]built in
 	- Slower than [[#Hardware Based]]
-	- <u>Whole</u> disk [[Disk Encryption#About|Encryption]]
+	- [[#Full Disk Encryption]]
 	- "System preferences > Security"
 	- Supports [[#Advanced Encryption Standard (AES)]] 128 and 256
 - Windows has #Bitlocker built in
-	- <u>Whole</u> disk [[Disk Encryption#About|Encryption]]
+	- [[#Full Disk Encryption]]
 	- "Right click a drive > turn on #Bitlocker"
 	- Supports [[#Advanced Encryption Standard (AES)]] 128 and 256
 - <u>Most companies use software based</u>
@@ -58,8 +58,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Trusted Platform Module (TPM)
 ---
-- Chip residing on the motherboard that contains an [[Disk Encryption#About|Encryption]]  key
-- #Bitlocker  will use the key already inside the TPM chip for its [[Disk Encryption#About|Encryption]] operation
+- Chip residing on the motherboard that contains an [[#^501400|Encryption]]  key
+- #Bitlocker  will use the key already inside the TPM chip for its [[#^501400|Encryption]] operation
 - If you take the hard drive out and put it into another computer you would not be able to read it because that computer has a different TPM chip with a different key on it
 
 # Advanced Encryption Standard (AES)
