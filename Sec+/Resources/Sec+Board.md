@@ -11,6 +11,7 @@ tags: CL
 - [ ] [[Rootkits#Kernel]] more info
 - [ ] More EFS info on [[Disk Encryption#File Level Encryption]]
 - [ ] AV options on [[Mobile Malware]]?
+- [ ] [[Bluetooth Attacks]] obj 3.4 relaiton?
 
 
 ## Working On

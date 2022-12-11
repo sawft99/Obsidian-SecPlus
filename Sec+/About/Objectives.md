@@ -139,8 +139,8 @@ collapse: close
 - Wireless
 	- Evil twin
 	- Rogue access point
-	- Bluesnarfing
-	- Bluejacking
+	- [[Bluetooth Attacks#^024d42|Bluesnarfing]]
+	- [[Bluetooth Attacks#^79dbd5|Bluejacking]]
 	- Disassociation
 	- Jamming
 	- Radio frequency identifier (RFID)
@@ -683,6 +683,7 @@ conditioning (HVAC)
 	- Secured file transfer protocol (SFTP)
 	- Simple Network Management Protocol, version 3 (SNMPv3)
 	- Hypertext transfer protocol over SSL/TLS (HTTPS)
+		- [[Security of Apps]]
 	- IPSec
 		- Authentication header (AH)/Encapsulated security #Payload  (ESP)
 		- Tunnel/transport
@@ -856,20 +857,23 @@ conditioning (HVAC)
 	- Point to multipoint
 	- Global Positioning System (GPS)
 	- RFID
-- Mobile device management (MDM)
+- [[Security of Apps#Mobile Device Management (MDM)|Mobile device management (MDM)]]
 	- Application management
 	- Content management
 	- Remote wipe
+		- [[Mobile Device Theft]]
 	- Geofencing
 	- Geolocation
+		- [[Mobile Device Security]]
 	- Screen locks
 	- Push notifications
 	- Passwords and pins
+		- [[Mobile Device Security]]
 	- Biometrics
 	- Context-aware authentication
 	- Containerization
 	- Storage segmentation
-	- Full device [[Disk Encryption#^501400|Encryption]]
+	- Full device [[Disk Encryption#Full Disk Encryption|Encryption]]
 - Mobile devices
 	- MicroSD HSM
 	- MDM/Unified endpoint management (UEM)

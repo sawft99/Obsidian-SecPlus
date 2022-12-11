@@ -7,17 +7,17 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # About
 ---
-- Cellphone, GPS, Fitbit
+- Cellphone, [[Security of Apps|GPS]], Fitbit
 - Best practices
 	- Wifi
 	- BLE
 - Phone Hijacking
-- Mobile Malware
-- ID Theft
-- BLE Attacks
+- [[Mobile Malware]]
+- [[SIM Cloning & ID Theft]]
+- [[Bluetooth Attacks]]
 	- Bluesnarfing
 	- Bluejacking
-- Device theft
+- [[Mobile Device Theft]]
 - [[Endpoint Analysis#AntiVirus (AV)|Antivirus]] for mobile
 - Hardening devices
 
