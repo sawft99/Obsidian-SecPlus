@@ -13,13 +13,15 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Jailbreaking & Rooting
 ---
-- Jailbreaking
+- Jailbreaking ^b2238c
 	- Used on #IPhone
 	- Remove security protection Apple put in place in order to take it to other carriers or install 3rd party apps
-- Rooting
+	- See also [[Mobile Malware]]
+- Rooting ^6f9cfd
 	- Used on #Android
 		- Is #Linux at heart
 	- Can install apps you want and make phone do things it's not designed to do
+	- See also [[Mobile Malware]]
 
 # Browser
 ---
@@ -62,10 +64,3 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - [[Objectives#3.1 - Given a scenario, implement secure protocols|3.1 - Given a scenario, implement secure protocols]]
 - [[Objectives#3.5 - Given a scenario, implement secure mobile solutions|3.5 - Given a scenario, implement secure mobile solutions]]
-
-# TODO (Delete when done)
----
-- [x] Added vocab
-- [x] Added and linked objectives in document
-- [x] Linked any relevant backlinks to and from document
-- [x] Linked objectives back to document
