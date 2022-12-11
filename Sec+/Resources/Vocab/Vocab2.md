@@ -1,5 +1,5 @@
 ---
-tags: [CompTia,SecPlus,CyberSec,Certs,vocab]
+tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 #aliases:
 #cssclass:
 #publish:
@@ -32,5 +32,3 @@ tags: [CompTia,SecPlus,CyberSec,Certs,vocab]
 | Endpoint                                     | ![[Endpoint Analysis#^69959c]]                                                |
 | Antivirus (AV)                               | ![[Endpoint Analysis#AntiVirus (AV)]]                                         |
 | Host Intrusion... (HIDS/HIPS)                | ![[Endpoint Analysis#^84109b]]                                                |
-|                                              |                                                                               |
--

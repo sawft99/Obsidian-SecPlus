@@ -11,9 +11,9 @@
   "obsidian-trim-whitespace",
   "obsidian-sortable",
   "dataview",
-  "influx",
   "obsidian-git",
   "obsidian-html-plugin",
   "tag-wrangler",
-  "obsidian42-strange-new-worlds"
+  "obsidian42-strange-new-worlds",
+  "influx"
 ]

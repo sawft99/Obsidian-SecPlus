@@ -43,7 +43,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Endpoint Protection Platforms (EPP)
 ---
-- A software agent and monitoring system the performs multiple security tasks such as [[#AntiVirus (AV)]], [[#HIDS/HIPS]], Firewall, [[Data Loss Prevention (DLP)]], and [[Disk Encryption|Encryption]] ^fc7325
+- A software agent and monitoring system the performs multiple security tasks such as [[#AntiVirus (AV)]], [[#HIDS/HIPS]], [[Software Firewalls]], [[Data Loss Prevention (DLP)]], and [[Disk Encryption|Encryption]] ^fc7325
 - Gartner magic quadrant that shows industry leaders
 
 ```ad-info
