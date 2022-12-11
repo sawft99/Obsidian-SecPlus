@@ -19,7 +19,6 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Modern day use is typically for bypassing #2FA on websites that utilize a call or SMS verification method
 - This translates to "ID Theft" or "Account takeover"
 
-
 # #SocialEngineering schemes
 ---
 1. Calling service provider to impersonate real person trying to activate a phone
