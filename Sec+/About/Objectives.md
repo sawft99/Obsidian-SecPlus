@@ -859,6 +859,8 @@ conditioning (HVAC)
 	- RFID
 - [[Security of Apps#Mobile Device Management (MDM)|Mobile device management (MDM)]]
 	- Application management
+		- [[Security of Apps#Mobile Device Management (MDM)|Mobile Device Management (MDM)]]
+		- [[Bring Your Own Device (BYOD)]]
 	- Content management
 	- Remote wipe
 		- [[Mobile Device Theft]]
@@ -872,7 +874,7 @@ conditioning (HVAC)
 	- Biometrics
 	- Context-aware authentication
 	- Containerization
-	- Storage segmentation
+	- [[Bring Your Own Device (BYOD)#Storage Segmentation|Storage segmentation]]
 	- Full device [[Disk Encryption#Full Disk Encryption|Encryption]]
 - Mobile devices
 	- MicroSD HSM
@@ -896,14 +898,17 @@ conditioning (HVAC)
 	- USB on the go (OTG)
 	- Recording microphone
 	- GPS tagging
+		- [[Security of Apps#Mobile Device Management (MDM)|Mobile Device Management (MDM)]]
 	- WiFi direct/ad hoc
 	- Tethering
 	- Hotspot
 	- Payment methods
 - Deployment models
 	- Bring your own device (BYOD)
+		- [[Bring Your Own Device (BYOD)]]
 	- Corporate-owned personally enabled (COPE)
 	- Choose your own device (CYOD)
+		- [[Bring Your Own Device (BYOD)#Choose Your Own Device (CYOD)|Choose Your Own Device (CYOD)]]
 	- Corporate-owned Virtual desktop #infrastructure (VDI)
 
 ## 3.6 - Given a scenario, apply cybersecurity solutions to the cloud
