@@ -735,7 +735,7 @@ conditioning (HVAC)
 		- Manual code review
 	- Dynamic code analysis
 	- Fuzzing
-- Hardening
+- [[Hardening]]
 	- Open ports and services
 	- Registry
 	- [[Disk Encryption]]
