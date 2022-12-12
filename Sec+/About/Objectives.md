@@ -851,6 +851,7 @@ conditioning (HVAC)
 	- [[Securing Wireless Devices#Wifi|Wifi]]
 	- [[Securing Wireless Devices#Bluetooth|Bluetooth]]
 	- NFC
+		- [[Hardening Mobile Devices]]
 	- Infrared
 	- USB
 	- Point to point
@@ -872,6 +873,7 @@ conditioning (HVAC)
 	- Passwords and pins
 		- [[Mobile Device Security]]
 	- Biometrics
+		- [[Hardening Mobile Devices]]
 	- Context-aware authentication
 	- Containerization
 	- [[Bring Your Own Device (BYOD)#Storage Segmentation|Storage segmentation]]
@@ -889,7 +891,9 @@ conditioning (HVAC)
 	- Sideloading
 	- Custom firmware
 		- [[Mobile Malware]]
+		- [[Security of Apps#Jailbreaking & Rooting|Jailbreaking & Rooting]]
 	- Carrier unlocking
+		- [[Security of Apps#Jailbreaking & Rooting\Jailbreaking & Rooting]]
 	- Firmware over-the-air (OTA) updates
 		- [[Mobile Malware]]
 	- Camera use
@@ -901,7 +905,9 @@ conditioning (HVAC)
 		- [[Security of Apps#Mobile Device Management (MDM)|Mobile Device Management (MDM)]]
 	- WiFi direct/ad hoc
 	- Tethering
+		- [[Hardening Mobile Devices]]
 	- Hotspot
+		- [[Hardening Mobile Devices]]
 	- Payment methods
 - Deployment models
 	- Bring your own device (BYOD)

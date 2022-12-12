@@ -18,6 +18,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Popular in earlier days to use for long distance or international calls
 - Modern day use is typically for bypassing #2FA on websites that utilize a call or SMS verification method
 - This translates to "ID Theft" or "Account takeover"
+- SIMv2 made cloning more difficult
 
 # #SocialEngineering schemes
 ---

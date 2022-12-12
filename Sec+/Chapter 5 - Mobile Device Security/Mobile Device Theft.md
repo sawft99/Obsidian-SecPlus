@@ -21,9 +21,9 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 		- #Android uses FindMyPhone
 	- <u>DON'T</u> attempt to recover on you own
 		- Work with police
-- Remote Lock
+- Remote Lock ^4bafd6
 	- Requires someone to <u>enter a pin or password before someone can use</u> your device ^e74e43
-- Remote Wipe
+- Remote Wipe ^75caa3
 	- <u>Remotely erase contents of the device</u> to ensure the information can not be recovered ^0f617e
 	- Don't want a thief to access data
 

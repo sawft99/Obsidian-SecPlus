@@ -28,4 +28,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Location services                               | Combination of services on a mobile device that allow the location to be used. Primarily GPS. |
 | Bring Your Own device (BYOD)                    | [[Bring Your Own Device (BYOD)]]                                                              |
 | Storage Segmentation                            | ![[Bring Your Own Device (BYOD)#^9579c9]]                                                     |
-| Choose Your Own Device (CYOD)                   | ![[Bring Your Own Device (BYOD)#^9bf98c]]                          |
+| Choose Your Own Device (CYOD)                   | ![[Bring Your Own Device (BYOD)#^9bf98c]]                                                     |
+| Near Field Communication (NFC)                  | ![[Hardening Mobile Devices#^b9fdff]]                                                         |
+| Tethering                                       |   ![[Hardening Mobile Devices#^092f4f]]                                                                                            |
+| Hotspot                                         |    ![[Hardening Mobile Devices#^16a462]]                                                                                           |

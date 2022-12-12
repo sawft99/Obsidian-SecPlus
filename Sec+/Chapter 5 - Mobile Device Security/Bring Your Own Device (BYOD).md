@@ -53,14 +53,6 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - Ensure you have a policy and a choice was not made default by not actually making a choice
 
-
 # [[Objectives]]
 ---
 - [[Objectives#3.5 - Given a scenario, implement secure mobile solutions|3.5 - Given a scenario, implement secure mobile solutions]]
-
-# TODO (Delete when done)
----
-- [x] Added vocab
-- [x] Added and linked objectives in document
-- [ ] Linked any relevant backlinks to and from document
-- [ ] Linked objectives back to document
