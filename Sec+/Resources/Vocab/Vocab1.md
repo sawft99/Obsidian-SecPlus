@@ -34,8 +34,3 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Intrusion Prevention System (IPS)        |                                                                               |
 | Masquerading                                 | ![[Malware Exploitation#^37eaf8]]                                             |
 | "Living off the land"                        | ![[Malware Exploitation#^2dbb0a]]                                             |
-
-
-# Also
----
-- See [[SecBasics]]

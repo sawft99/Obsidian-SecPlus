@@ -224,6 +224,7 @@ collapse: close
 ---
 - Cloud-based vs. on-premises vulnerabilities
 - Zero-day
+	- [[Unnecessary Applications]]
 - Weak configurations
 	- Open permissions
 	- Unsecured root accounts
@@ -232,6 +233,7 @@ collapse: close
 	- Unsecure protocols
 	- Default settings
 	- Open ports and services
+		- [[Unnecessary Applications]]
 - Third-party risks
 	- Vendor management
 		- System integration
@@ -738,9 +740,18 @@ conditioning (HVAC)
 	- Registry
 	- [[Disk Encryption]]
 	- OS
+		- [[Security of Apps#Mobile Device Management (MDM)|Mobile Device Management (MDM)]]
+		- [[Hardening Mobile Devices]]
+		- [[Mobile Malware]]
 	- Patch management
 		- Third-party updates
+			- [[Security of Apps#Mobile Device Management (MDM)|Mobile Device Management (MDM)]]
+			- [[Hardening Mobile Devices]]
+			- [[Mobile Malware]]
 		- Auto-update
+			- [[Security of Apps#Mobile Device Management (MDM)|Mobile Device Management (MDM)]]
+			- [[Hardening Mobile Devices]]
+			- [[Mobile Malware]]
 - Self-encrypting drive (SED) & Full Disk Encryption (FDE)
 	- [[Disk Encryption#Hardware Based|Hardware Based Disk Encryption]]
 	- Opal

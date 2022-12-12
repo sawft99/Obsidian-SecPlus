@@ -21,5 +21,5 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - [ ] Added vocab
 - [ ] Added and linked objectives in document
-- [ ] Linked any relevant backlinks to and from document
 - [ ] Linked objectives back to document
+- [ ] Linked any relevant backlinks to and from document
