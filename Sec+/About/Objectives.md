@@ -232,6 +232,7 @@ collapse: close
 	- Weak [[Disk Encryption#^501400|Encryption]]
 	- Unsecure protocols
 	- Default settings
+		- [[Unnecessary Applications#Baseline Image|Baseline Image]]
 	- Open ports and services
 		- [[Unnecessary Applications]]
 - Third-party risks
@@ -243,6 +244,7 @@ collapse: close
 	- Data storage
 - Improper or weak patch management
 	- Firmware
+		- [[Securing the BIOS#^9479f4|Firmware]]
 	- Operating system (OS)
 	- Applications
 - Legacy platforms
