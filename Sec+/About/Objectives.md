@@ -245,8 +245,15 @@ collapse: close
 - Improper or weak patch management
 	- Firmware
 		- [[Securing the BIOS#^9479f4|Firmware]]
+		- [[Security of Apps#Mobile Device Management (MDM)|Mobile Device Management (MDM)]]
 	- Operating system (OS)
+		- [[Security of Apps#Mobile Device Management (MDM)|Mobile Device Management (MDM)]]
+		- [[Hardening Mobile Devices]]
+		- [[Hardening]]
 	- Applications
+		- [[Security of Apps#Mobile Device Management (MDM)|Mobile Device Management (MDM)]]
+		- [[Hardening Mobile Devices]]
+		- [[Hardening]]
 - Legacy platforms
 - Impacts
 	- Data loss
@@ -731,7 +738,9 @@ conditioning (HVAC)
 	- Hypertext Transfer Protocol (HTTP) headers
 	- Code signing
 	- Whitelisting
+		- [[Restricting Applications]]
 	- Blacklisting
+		- [[Restricting Applications]]
 	- Secure coding practices
 	- Static code analysis
 		- Manual code review
@@ -1179,7 +1188,9 @@ conditioning (HVAC)
 
 - Reconfigure endpoint security solutions
 	- Application whitelisting
+		- [[Restricting Applications]]
 	- Application blacklisting
+		- [[Restricting Applications]]
 	- Quarantine
 - Configuration changes
 	- Firewall rules
@@ -1190,6 +1201,7 @@ conditioning (HVAC)
 - Isolation
 - Containment
 - Segmentation
+	- [[Bring Your Own Device (BYOD)#Storage Segmentation|Storage Segmentation]]
 - Secure Orchestration, Automation, and Response (SOAR)
 	- Runbooks
 	- Playbooks

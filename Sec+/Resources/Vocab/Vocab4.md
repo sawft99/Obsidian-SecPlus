@@ -5,9 +5,11 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 #publish:
 ---
 
-| Term                                          | Meaning                               |
-| --------------------------------------------- | ------------------------------------- |
-| [[Hardening]]                                     | ![[Hardening#^029877]]                |
-| Least Functionality                           | ![[Unnecessary Applications#^9df915]] |
-| System Center Configuration Management (SCCM) | ![[Unnecessary Applications#^0c7124]] |
-| Baseline Image                                | ![[Unnecessary Applications#Baseline Image]]                                      |
+| Term                                          | Meaning                                      |
+| --------------------------------------------- | -------------------------------------------- |
+| [[Hardening]]                                 | ![[Hardening#^029877]]                       |
+| Least Functionality                           | ![[Unnecessary Applications#^9df915]]        |
+| System Center Configuration Management (SCCM) | ![[Unnecessary Applications#^0c7124]]        |
+| Baseline Image                                | ![[Unnecessary Applications#Baseline Image]] |
+| Whitelisting                                  | ![[Restricting Applications#^80ea87]]        | 
+| Blacklisting                                  | ![[Restricting Applications#^74bc0c]]        |
