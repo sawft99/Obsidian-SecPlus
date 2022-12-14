@@ -14,15 +14,7 @@ collapse: close
 ![[Sec+Objectives.pdf]]
 ```
 
-| Objective                             | Weight |
-| ------------------------------------- | ------ |
-| Attacks, Threats, and Vulnerabilities | 24%    |
-| Architecture and Design               | 21%    |
-| Implementation                        | 25%    |
-| Operations and Incident Response      | 16%    |
-| Governance, Risk, and Compliance      | 14%    |
-
-## 1.0 - Threats, Attacks and Vulnerabilities
+# 1.0 - Threats, Attacks and Vulnerabilities
 
 ## 1.1 - Compare and contrast different types of Social Engineering  techniques
 ---
