@@ -52,6 +52,6 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	2. [[Bring Your Own Device (BYOD)#Choose Your Own Device (CYOD|Choose Your Own Device (CYOD)]] better policy
 12. Employ good security policies
 
-# [[Objectives]]
+# Objectives
 ---
 - [[Objectives#3.5 - Given a scenario, implement secure mobile solutions|3.5 - Given a scenario, implement secure mobile solutions]]

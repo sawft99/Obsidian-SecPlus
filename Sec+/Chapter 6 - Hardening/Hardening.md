@@ -12,6 +12,6 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- <u>Does not guarantee security</u>
 	- Mitigate risk by minimizing vulnerabilities and exposure to threats
 
-# [[Objectives]]
+# Objectives
 ---
 - [[Objectives#3.2 - Given a scenario, implement host or application security solutions|3.2 - Given a scenario, implement host or application security solutions]]

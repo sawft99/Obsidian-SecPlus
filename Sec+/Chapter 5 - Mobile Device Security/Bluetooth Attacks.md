@@ -20,7 +20,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Disable Bluetooth if not needed
 - Don't use discoverable mode if you're not currently pairing
 
-# [[Objectives]]
+# Objectives
 ---
 - [[Objectives#1.4 - Given a scenario, analyze potential indicators associated with network attacks|1.4 - Given a scenario, analyze potential indicators associated with network attacks]]
 - [[Objectives#3.4 - Given a scenario, install and configure wireless security settings|3.4 - Given a scenario, install and configure wireless security settings]]

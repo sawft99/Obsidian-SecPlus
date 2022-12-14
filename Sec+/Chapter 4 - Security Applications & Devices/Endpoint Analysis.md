@@ -87,7 +87,7 @@ collapse:close
 	- Advanced Endpoint Protection (AEP)
 	- NextGen AV (NGAV)
 
-# [[Objectives]]
+# Objectives
 ---
 - [[Objectives#3.1 - Given a scenario, implement secure protocols|3.1 - Given a scenario, implement secure protocols]]
 - [[Objectives#3.3 - Given a scenario, implement secure network designs|3.3 - Given a scenario, implement secure network designs]]

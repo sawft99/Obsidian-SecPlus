@@ -68,7 +68,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs
 - 128 or 256 bit keys
 	- 256 considered "Unbreakable"
 
-# [[Objectives]]
+# Objectives
 ---
 - [[Objectives#2.1 - Explain the importance of security concepts in an enterprise environment|2.1 - Explain the importance of security concepts in an enterprise environment]]
 - [[Objectives#2.8 - Summarize the basics of cryptographic concepts||2.8 - Summarize the basics of cryptographic concepts|]]

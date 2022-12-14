@@ -33,7 +33,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Google voice number
 	- Single phone number but no one knows the real number behind it
 
-# [[Objectives]]
+# Objectives
 ---
 - [[Objectives#1.1 - Compare and contrast different types of Social Engineering techniques|1.1 - Compare and contrast different types of Social Engineering techniques]]
 - [[Objectives#2.4 - Summarize authentication and authorization design concepts|2.4 - Summarize authentication and authorization design concepts]]
