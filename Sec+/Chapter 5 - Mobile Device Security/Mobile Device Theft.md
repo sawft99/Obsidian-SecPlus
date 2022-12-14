@@ -27,6 +27,6 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- <u>Remotely erase contents of the device</u> to ensure the information can not be recovered ^0f617e
 	- Don't want a thief to access data
 
-# [[Objectives]]
+# Objectives
 ---
 - [[Objectives#3.5 - Given a scenario, implement secure mobile solutions|3.5 - Given a scenario, implement secure mobile solutions]]

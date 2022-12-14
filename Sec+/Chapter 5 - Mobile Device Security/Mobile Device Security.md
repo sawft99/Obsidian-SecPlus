@@ -21,6 +21,6 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - [[Endpoint Analysis#AntiVirus (AV)|Antivirus]] for mobile
 - [[Hardening Mobile Devices]]
 
-# [[Objectives]]
+# Objectives
 ---
 - [[Objectives#1.5 - Explain different threat actors, vectors, and intelligence sources|1.5 - Explain different threat actors, vectors, and intelligence sources]]
