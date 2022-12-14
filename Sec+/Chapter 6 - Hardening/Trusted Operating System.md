@@ -13,7 +13,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - Item
 
-# [[Objectives]]
+# Objectives
 ---
 - Obj
 

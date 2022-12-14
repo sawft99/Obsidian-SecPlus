@@ -60,7 +60,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - TLS
 	- Encrypts connection and tunnel between you and the server to ensure [[SecBasics#Cybersecurity Models|Confidentiality]] and no #MITM attacks ^9255c3
 
-# [[Objectives]]
+# Objectives
 ---
 - [[Objectives#3.1 - Given a scenario, implement secure protocols|3.1 - Given a scenario, implement secure protocols]]
 - [[Objectives#3.5 - Given a scenario, implement secure mobile solutions|3.5 - Given a scenario, implement secure mobile solutions]]

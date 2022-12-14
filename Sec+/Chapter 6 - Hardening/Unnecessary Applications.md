@@ -32,6 +32,6 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Allows admins to <u>manage large amounts of software</u> ^0c7124
 - Push out new configurations and policies to PCs
 
-# [[Objectives]]
+# Objectives
 ---
 - [[Objectives#1.6 - Explain the security concerns associated with various types of vulnerabilities|1.6 - Explain the security concerns associated with various types of vulnerabilities]]

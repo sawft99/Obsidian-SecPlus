@@ -137,7 +137,7 @@ collapse:close
 	- A random number assigned to a running application to represent it
 	- Can be used as a reference
 
-# [[Objectives]]
+# Objectives
 ---
 - [[Objectives#3.2 - Given a scenario, implement host or application security solutions|3.2 - Given a scenario, implement host or application security solutions]]
 - [[Objectives#3.3 - Given a scenario, implement secure network designs|3.3 - Given a scenario, implement secure network designs]]

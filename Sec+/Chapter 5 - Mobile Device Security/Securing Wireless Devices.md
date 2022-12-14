@@ -27,7 +27,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Keys are shared to each other
 	- Some devices use weak [[Disk Encryption#^501400|Encryption]]
 
-# [[Objectives]]
+# Objectives
 ---
 - [[Objectives#3.4 - Given a scenario, install and configure wireless security settings|3.4 - Given a scenario, install and configure wireless security settings]]
 - [[Objectives#3.5 - Given a scenario, implement secure mobile solutions|3.5 - Given a scenario, implement secure mobile solutions]]
