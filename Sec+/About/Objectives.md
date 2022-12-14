@@ -814,6 +814,7 @@ conditioning (HVAC)
 		- Anomaly
 		- Inline vs. passive
 - Hardware security module (HSM)
+	- [[Disk Encryption#Hardware Based|Disk Encryption]]
 - Sensors
 - Collectors
 - Aggregators
@@ -835,6 +836,7 @@ conditioning (HVAC)
 - Port spanning/port mirroring
 	- Port taps
 - Monitoring services
+	- [[Restricting Applications#Services|Services]]
 - File integrity monitors
 
 ## 3.4 - Given a scenario, install and configure wireless security settings
@@ -856,6 +858,7 @@ conditioning (HVAC)
 	- Remote Authentication Dial-in User Server (RADIUS) Federation
 - Methods
 	- Pre-shared key (PSK) vs. Enterprise vs. Open
+		- [[Disk Encryption#Advanced Encryption Standard (AES)|Advanced Encryption Standard (AES)]]
 	- WiFi Protected Setup (WPS)
 	- Captive portals
 - Installation considerations
@@ -886,11 +889,12 @@ conditioning (HVAC)
 		- [[Bring Your Own Device (BYOD)]]
 	- Content management
 	- Remote wipe
-		- [[Mobile Device Theft]]
+		- [[Mobile Device Theft#^75caa3|Mobile Device Theft]]
 	- Geofencing
 	- Geolocation
 		- [[Mobile Device Security]]
 	- Screen locks
+		- [[Mobile Device Theft#^4bafd6|Remote Lock]]
 	- Push notifications
 	- Passwords and pins
 		- [[Mobile Device Security]]
@@ -902,13 +906,15 @@ conditioning (HVAC)
 	- Full device [[Disk Encryption#Full Disk Encryption|Encryption]]
 - Mobile devices
 	- MicroSD HSM
-	- MDM/Unified endpoint management (UEM)
+		- [[Disk Encryption#Hardware Based|Disk Encryption]]
+	- Mobile Device Management (MDM)/Unified endpoint management (UEM)
+		- [[Security of Apps#Mobile Device Management (MDM)|Mobile Device Management (MDM)]]
 	- Mobile application management (MAM)
 	- SEAndroid
 - Enforcement and monitoring of:
 	- Third-party app stores
 		- [[Mobile Malware]]
-	- Rooting/jailbreaking
+	- Rooting/Jailbreaking
 		- [[Mobile Malware]]
 	- Sideloading
 	- Custom firmware
@@ -1195,6 +1201,7 @@ conditioning (HVAC)
 - Configuration changes
 	- Firewall rules
 	- MDM
+		- [[Security of Apps#Mobile Device Management (MDM)|Mobile Device Management (MDM)]]
 	- [[Data Loss Prevention (DLP)]]
 	- [[Popup Blockers#Content Filter|Content Filter]]
 	- Update or revoke certificates

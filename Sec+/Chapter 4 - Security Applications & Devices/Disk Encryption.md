@@ -66,10 +66,11 @@ tags: [CompTia,SecPlus,CyberSec,Certs
 ---
 - <u>Symmetric</u> key encryption
 - 128 or 256 bit keys
-	- 256 "Unbreakable"
+	- 256 considered "Unbreakable"
 
 # [[Objectives]]
 ---
 - [[Objectives#2.1 - Explain the importance of security concepts in an enterprise environment|2.1 - Explain the importance of security concepts in an enterprise environment]]
 - [[Objectives#2.8 - Summarize the basics of cryptographic concepts||2.8 - Summarize the basics of cryptographic concepts|]]
 - [[Objectives#3.2 - Given a scenario, implement host or application security solutions|3.2 - Given a scenario, implement host or application security solutions]]
+- [[Objectives#3.3 - Given a scenario, implement secure network designs|3.3 - Given a scenario, implement secure network designs]]

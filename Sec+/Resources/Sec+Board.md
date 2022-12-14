@@ -7,7 +7,6 @@ tags: CL
 
 ## To do
 
-- [ ] [[Malware Exploitation]] PID for code injection?
 - [ ] [[Rootkits#Kernel]] more info
 - [ ] More EFS info on [[Disk Encryption#File Level Encryption]]
 - [ ] AV options on [[Mobile Malware]]?
@@ -16,6 +15,7 @@ tags: CL
 
 ## Working On
 
+- [ ] [[Malware Exploitation]] PID for code injection?
 
 
 ## Done
