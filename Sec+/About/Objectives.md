@@ -188,16 +188,17 @@ collapse: close
 	- Social media
 	- Removable media
 	- Cloud
-- Threat intelligence sources
-	- Open source intelligence (#OSINT)
+- [[SecBasics#Threat Intelligence|Threat Intelligence]] sources
+	- Open source intelligence #OSINT
 	- Closed/proprietary
 	- Vulnerability databases
-	- Public/private information
-	sharing centers
+	- Public/private information sharing centers
 	- Dark web
 	- Indicators of compromise
+		- [[Symptoms of Infection]]
 	- Automated indicator sharing (AIS)
-	- Structured threat information exchange (STIX)/Trusted automated exchange of indicator information (TAXII)
+	- Structured threat information exchange (STIX))
+	- Trusted automated exchange of indicator information (TAXII)
 	- Predictive analysis
 	- Threat maps
 	- File/code repositories
@@ -210,7 +211,9 @@ collapse: close
 	- Local industry groups
 	- Social media
 	- Threat feeds
+		- [[SecBasics#Threat Intelligence|Threat Intelligence]]
 	- Adversary tactics, techniques, and procedures (TTP)
+		- [[SecBasics#^a6b869|TTP]]
 
 ## 1.6 - Explain the security concerns associated with various types of vulnerabilities
 ---

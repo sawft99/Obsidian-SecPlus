@@ -191,7 +191,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Closed
 	- Data <u>derived from their own research</u> from analysis and reports
 	- FireEye - Proprietary with closed data
-- Open #OSINT
+- [[#^36c7e3|Open]] #OSINT
 	- Data <u>openly available</u> without subscription
 	- Reputation lists and [[Malware]] signature databases
 	- US-CERT
@@ -288,7 +288,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 		- Identifying where/how to attack target
 	- Weaponization
 		- Attackers couple #Payload with #Exploit  code
-		- Creating tool NOT running
+		- Creating tool but <u>NOT running</u>
 	- Delivery
 		- Attacker finds vector for #Payload
 		- [[Malware Infections#Threat vector|Threat vector]]
