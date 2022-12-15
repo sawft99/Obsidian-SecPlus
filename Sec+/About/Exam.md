@@ -13,6 +13,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - 70 - 90 questions
 - 3 -5 sims
 - Score 750/900
+- [[Objectives]]
 
 ## Fee
 ---
