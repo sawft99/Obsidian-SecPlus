@@ -16,7 +16,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Botnet                                       | ![[Botnets & Zombies#^118bae]]                                                |
 | Remote Access Trojan (RAT)                   | Remote Access [[Trojans]]                                                     |
 | Virus                                        | ![[Viruses#^c54698]]                                                          |
-| Blue Screen of Death (BSOD)                  | Occurs when there is a crash on the PC. Indicates a serious issue in #Windows |
+| Blue Screen of Death (BSOD)                  | ![[SecBasics#^e2abc0]] |
 | Basic Input Output System (BIOS)             | ![[Securing the BIOS#^e94ab9]]                                                |
 | Unified Extensible Firmware Interface (UEFI) | ![[Securing the BIOS#UEFI]]                                                   |
 | Trusted Platform Module (TPM)                | ![[Disk Encryption#Trusted Platform Module (TPM)]]                            |

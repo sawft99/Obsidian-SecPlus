@@ -10,7 +10,6 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 
 | Term                                         | Meaning                                                                       |
 | -------------------------------------------- | ----------------------------------------------------------------------------- |
-| TTP                                          | Tactics, Techniques, Procedures                                               |
 | Malware                                      | ![[Malware#^7d0970]]                                                          |
 | Zombies                                      | ![[Botnets & Zombies#^3c2842]]                                                |
 | Distributed Denial of Service (DDOS)         |                                                                               |

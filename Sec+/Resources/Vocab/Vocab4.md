@@ -15,5 +15,6 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Blacklisting                                  | ![[Restricting Applications#^74bc0c]]        |
 | Services                                      | ![[Restricting Applications#^b13d85]]        |
 | Process ID (PID)                              | ![[Restricting Applications#^206b5d]]        |
+| Trusted Operating System (TOS)                | ![[Trusted Operating System#^a0d6b8]]                                             |
 
 -

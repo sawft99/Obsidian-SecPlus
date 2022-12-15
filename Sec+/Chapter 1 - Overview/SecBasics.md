@@ -11,7 +11,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- <u>More security can lead to less convenience</u>
 	- By making things more difficult for users it may lead to less security
 	- Balance needed
-- Types of security
+- Types of security ^5689a1
 	- Information Security
 		- Act of protecting <u>data and information</u> from unauthorized access, unlawful modification, disruption, disclosure, corruption, and destruction
 		- Data that system is holding <u>NOT</u> the system itself
@@ -21,7 +21,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Cybersecurity Models
 ---
-- CIA
+- CIA ^51b6d8
 	- Confidentiality
 		- Info not being disclosed to unauthorized people
 		- [[Disk Encryption#^501400|Encryption]]
@@ -73,7 +73,10 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Breaking through <u>authorization</u>
 - System Failure
 	- Computer crashes or an application fails
+		- [[Symptoms of Infection]]
 	- BSOD
+		- Occurs when there is a crash on the PC. Indicates a serious issue in #Windows ^e2abc0
+		- [[Symptoms of Infection]]
 	- Affecting <u>availability</u>
 - #SocialEngineering
 	- <u>Manipulating user to reveal</u> confidential information or perform action detrimental to user or company
@@ -152,6 +155,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- [[Objectives#1.5 - Explain different threat actors, vectors, and intelligence sources|1.5 - Explain different threat actors, vectors, and intelligence sources]]
 
 # Threat #Intelligence
+
+## Assessing #Intelligence
 ---
 - Weighing value of #Intelligence
 	- Timeliness
@@ -224,17 +229,18 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Threat Hunting
 ---
-- Cyber security technique designed to detect presence of threats not discovered by normal security monitoring
-- Is a proactive method vs reactive such as in Incident Response
+- Cyber security technique designed to <u>detect presence of threats not discovered by normal security monitoring</u> ^2a9491
+- Is a <u>proactive method vs reactive</u> such as in Incident Response
 - Potentially less disrupting than pen test
 	- Analyze data within systems you already have
 - Process
 	- Hypothesis
-		- Based from threat model and based on potential events with higher likelihood and impact
+		- Based from threat model and based on <u>potential events with higher likelihood and impact</u>
 		- Who would harm us?
 		- How would they harm us?
 	- Profiling Threat Actors
 		- Create scenarios how intrusion might happen and what motive is TTP
+			- Tactics, Techniques, Procedures ^a6b869
 		- Who wants to cause harm?
 		- What systems?
 	- Hunting
@@ -263,9 +269,9 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- [[Objectives#1.7 - Summarize the techniques used in security assessments|1.7 - Summarize the techniques used in security assessments]]
 
 # Attack Frameworks
----
 
 ## Lockheed Martin Kill Chain
+---
 - About
 	- First made under contract
 	- Release to public eventually
@@ -273,7 +279,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Somewhat older
 - Steps
 	- #Reconnaissance
-		- Attacker determines methods to use to attack
+		- <u>Attacker determines methods</u> to use to attack
+		- [[Malware Infections#Attack Vector|Attack Vector]]
 		- Attackers try to have a low profile
 		- Use #OSINT and passive tools
 		- Go from passive to active scanning/actions
@@ -283,6 +290,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 		- Creating tool NOT running
 	- Delivery
 		- Attacker finds vector for #Payload
+		- [[Malware Infections#Threat vector|Threat vector]]
 	- Exploitation
 		- The moment code is executed and running
 		- "Phase 1"
@@ -299,9 +307,9 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Map out security plan based on steps
 	- Detect, deny, disrupt, degrade, deceive, destroy
 
-## MITRE AA&CK Framework
+## MITRE ATT&CK Framework
 ---
-- Adversary tactics, technique, common knowledge or procedures
+- Adversary tactics, technique, and common knowledge
 - attack.mitre.org
 	- <u>Attack navigator</u>
 		- Can click different types and colors to get TTP
@@ -316,7 +324,9 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Focus on #Reconnaissance
 	- Aligns with #Reconnaissance and weaponization in Lockheed kill chain [[#Attack Frameworks]]
 	- Detect before it is a problem
+
 ## Diamond Model of Intrusion analysis
+---
 - Focus on <u>intrusion event</u>
 - Categories
 	- Victim
@@ -332,19 +342,34 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Firewall logs can point to an IP being accessed by several hosts
 		- Additional information on #Infrastructure and victim discovery
 	- IP details add info on Adversary
-	- Model
-		- ![[Diamond-Model.png]]
 - Once all is identified define a tuple
-	- An array with 4 categories and other metadata
+	- Definition
+		- A finite ordered list of elements ^d9cef6
+	- Create an array with 4 categories and other metadata
 	- "E = {something}"
 	- Helps with an automated info like a #SIEM
-	- Model
-		- ![[Diamond-E=.png]]
+
 ## All
 ---
 - Can use individually or combined
-- Example
-	- ![[CombinedModels.png]]
+
+```ad-info
+title: Diamond Model
+collapse:close
+![[Diamond-Model.png]]
+```
+
+```ad-info
+title: Diamond E Model
+collapse:close
+![[Diamond-E=.png]]
+```
+
+```ad-info
+title: Combined Models
+collapse:close
+1[[CombinedModels.png]]
+```
 
 # Objectives
 ---
