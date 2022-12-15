@@ -220,6 +220,8 @@ collapse: close
 - Cloud-based vs. on-premises vulnerabilities
 - Zero-day
 	- [[Unnecessary Applications]]
+	- [[Updates and Patches]]
+	- [[Patch Management]]
 - Weak configurations
 	- Open permissions
 	- Unsecured root accounts
@@ -238,6 +240,8 @@ collapse: close
 	- Outsourced code development
 	- Data storage
 - Improper or weak patch management
+	- [[Updates and Patches]]
+	- [[Patch Management]]
 	- Firmware
 		- [[Securing the BIOS#^9479f4|Firmware]]
 		- [[Security of Apps#Mobile Device Management (MDM)|Mobile Device Management (MDM)]]
@@ -560,6 +564,7 @@ conditioning (HVAC)
 	- Network
 	- Crypto
 	- Inability to patch
+		- [[Updates and Patches]]
 	- Authentication
 	- Range
 	- Cost
@@ -751,6 +756,8 @@ conditioning (HVAC)
 		- [[Mobile Malware]]
 		- [[Trusted Operating System]]
 	- Patch management
+		- [[Updates and Patches]]
+		- [[Patch Management]]
 		- Third-party updates
 			- [[Security of Apps#Mobile Device Management (MDM)|Mobile Device Management (MDM)]]
 			- [[Hardening Mobile Devices]]

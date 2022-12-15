@@ -32,7 +32,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - Any application that runs in the background and performs various functions ^b13d85
 - Any unused services should be disabled
-- #Windows update service often disabled because patching is usually handled by a third party service in larger environments
+- #Windows update service often disabled because [[Updates and Patches]] are usually handled by a third party service in larger environments
 
 ## #Windows
 
