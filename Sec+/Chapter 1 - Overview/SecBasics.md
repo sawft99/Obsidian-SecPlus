@@ -91,7 +91,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Alarms, locks, cameras, ID cards, guards
 - Technical Controls
 	- Smart cards, ACL, [[IDS]]/IPS, network authentication
-- Administrative Controls
+- Administrative Controls ^50e62d
 	- AKA "Managerial Controls"
 	- Policy, procedures, awareness, training, disaster recovery
 		- User training one of the most cost effective methods
@@ -191,9 +191,9 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Closed
 	- Data <u>derived from their own research</u> from analysis and reports
 	- FireEye - Proprietary with closed data
-- Open
+- Open #OSINT
 	- Data <u>openly available</u> without subscription
-	- Reputation lists and[[Malware]] signature databases
+	- Reputation lists and [[Malware]] signature databases
 	- US-CERT
 		- Computer emergency readiness team
 		- Regular reports, analysis, bulletins
@@ -214,15 +214,15 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 		- ISC Suspicious domain
 - Threat feeds
 	- <u>Explicit knowledge</u>
-		- Knowledge you can write down, see, feel, or touch
+		- Knowledge you can write down, see, or touch ^c4a1c4
 	- <u>Implicit knowledge</u>
-		- Experienced practitioners analysis
+		- Experienced practitioners analysis ^b8800d
 		- "Sense" what is wrong
 		- Ability to have attitude and instinct
 		- Can't write down. Purely Experience
 - #OSINT
 	- Open Source #Intelligence
-	- Obtain info about person/company via public records websites, social media
+	- Obtain info about person/company via public records websites, social media ^36c7e3
 	- Enumeration scans
 - Objectives
 	- [[Objectives#1.5 - Explain different threat actors, vectors, and intelligence sources|1.5 - Explain different threat actors, vectors, and intelligence sources]]
@@ -279,9 +279,10 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Somewhat older
 - Steps
 	- #Reconnaissance
-		- <u>Attacker determines methods</u> to use to attack
-		- [[Malware Infections#Attack Vector|Attack Vector]]
+		- Attacker determines <u>methods to use to attack</u>
+			- [[Malware Infections#Attack Vector|Attack Vector]]
 		- Attackers try to have a low profile
+			- [[Endpoint Analysis#Advanced Threat Protection (ATP)|Advanced Threat Protection (ATP)]]
 		- Use #OSINT and passive tools
 		- Go from passive to active scanning/actions
 		- Identifying where/how to attack target
@@ -297,7 +298,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Installation
 		- During #Exploit it will install additional code to maintain remote access and achieve persistence
 		- "Phase 2"
-	- #C2 (Command and Control)
+	- Command and Control #C2
 		- Where weaponized code talks to an outside server to use additional functions
 		- Able to remotely use host at this point
 		- Establish 2 way communication
@@ -360,7 +361,7 @@ collapse:close
 ```
 
 ```ad-info
-title: Diamond E Model
+title: Diamond Model Tuple
 collapse:close
 ![[Diamond-E=.png]]
 ```
@@ -368,7 +369,7 @@ collapse:close
 ```ad-info
 title: Combined Models
 collapse:close
-1[[CombinedModels.png]]
+![[CombinedModels.png]]
 ```
 
 # Objectives

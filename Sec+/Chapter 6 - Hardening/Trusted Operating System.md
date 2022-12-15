@@ -13,20 +13,28 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Operating Systems meeting requirements
 	- #Windows 7+
 	- #OSX 10.6+
-	- FreeBSD (TrustedBSD module)
-	- Red Hat Enterprise
-	- Some other that a re less popular
+	- #Linux
+		- FreeBSD (TrustedBSD module)
+		- Red Hat Enterprise
+	- Some other that are less popular
 
 # Finding OS Version
 
 ## #Windows
 ---
 - Msinfo32.exe
+- Ver.exe
 
 ```ad-info
 title: MSInfo32.exe
 collapse:close
 ![[Win_MSInfo32.png]]
+```
+
+```ad-info
+title: Ver.exe
+collapse:close
+![[Win_Ver.png]]
 ```
 
 # Objectives
