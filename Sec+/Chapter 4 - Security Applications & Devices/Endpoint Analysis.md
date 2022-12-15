@@ -82,7 +82,7 @@ collapse:close
 # Advanced Threat Protection (ATP)
 ---
 - More crossover and <u>hybrid companies/products</u> emerging
-	- EPP, EDR, UEBA all in one
+	- [[#Endpoint Protection Platforms (EPP)]], [[#Endpoint Detection Response (EDR)]], [[#User and Entity Behavioral Analytics (UEBA)]] all in one
 - Other names
 	- Advanced Endpoint Protection (AEP)
 	- NextGen AV (NGAV)

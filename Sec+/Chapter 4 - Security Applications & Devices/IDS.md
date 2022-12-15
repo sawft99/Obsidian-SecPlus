@@ -66,7 +66,7 @@ collapse: close
 		- Such as opening up MS Word and setting off an alert
 - False Negative
 	- Something <u>bad happens but is identified as a legit</u> process
-		- Getting a virus but IDS does not go off
+		- Getting [[Viruses]] but IDS does not go off
 
 # Operations
 ---

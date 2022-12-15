@@ -23,7 +23,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - Technical limitations placed on a system in regards to the utilization of USB storage devices and other removeable media can be accessed ^285fde
 - Examples
-	- Group policy disallowing read and/or write access to USB/CD drives
+	- [[Group Policies]] disallowing read and/or write access to USB/CD drives
 - Need to consider admin controls as well
 	- Policy that guides technical specifications
 
