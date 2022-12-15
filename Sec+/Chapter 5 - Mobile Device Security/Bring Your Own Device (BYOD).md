@@ -36,6 +36,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # Patching
 ---
 - [[Security of Apps#Mobile Device Management (MDM)|MDM]] can handle OS and app patching for devices the company hands out
+	- [[Updates and Patches]]
+	- [[Patch Management]]
 - People may not allow [[Security of Apps#Mobile Device Management (MDM)|MDM]] software to be installed on their device in BYOD instances
 
 # Choose Your Own Device (CYOD)

@@ -343,16 +343,12 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Firewall logs can point to an IP being accessed by several hosts
 		- Additional information on #Infrastructure and victim discovery
 	- IP details add info on Adversary
-- Once all is identified define a tuple
-	- Definition
-		- A finite ordered list of elements ^d9cef6
+- Once all is identified <u>define a tuple</u>
+	- A finite ordered list of elements ^d9cef6
 	- Create an array with 4 categories and other metadata
 	- "E = {something}"
 	- Helps with an automated info like a #SIEM
-
-## All
----
-- Can use individually or combined
+- Models can be used individually or combined
 
 ```ad-info
 title: Diamond Model

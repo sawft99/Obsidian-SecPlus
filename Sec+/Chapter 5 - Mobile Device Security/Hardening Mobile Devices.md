@@ -16,6 +16,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 1. Update device to latest version Software, [[Securing the BIOS#^9479f4|Firmware]], and OS
 	1. <u>Most devices are hacked due to not being patched against vulnerabilities</u>
 	2. [[Updates and Patches]]
+	3. [[Patch Management]]
+	4. [[Security of Apps#Mobile Device Management (MDM)|Mobile Device Management (MDM)]]
 2. Install [[Endpoint Analysis#AntiVirus (AV)|AntiVirus (AV)]]
 3. Train users on proper security and use of the device
 	1. Safe websites

@@ -67,6 +67,7 @@ collapse: close
 	- [[Backdoors & Logic Bombs#Logic Bombs|Logic Bombs]]
 	- [[Spyware]]
 	- Keyloggers
+		- [[Spyware]]
 	- Remote access [[Trojans]] (RAT)
 	- [[Rootkits]]
 	- [[Backdoors & Logic Bombs#Backdoors|Backdoors]]
@@ -226,6 +227,7 @@ collapse: close
 	- Open permissions
 	- Unsecured root accounts
 	- Errors
+		- [[Patch Management#Stages|Patch Management - Auditing]]
 	- Weak [[Disk Encryption#^501400|Encryption]]
 	- Unsecure protocols
 	- Default settings
