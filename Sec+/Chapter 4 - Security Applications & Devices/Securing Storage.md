@@ -10,7 +10,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Most PCs can use removeable media
 	- [[Data Loss Prevention (DLP)#Data theft evolution|Data theft evolution]]
 - Want to ensure [[SecBasics#CyberSecurity Models|Confidentiality]]
-	- Apply [[Disk Encryption#^501400]]
+	- Apply [[Disk Encryption]]]
 
 # Encryption
 ---
@@ -24,8 +24,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Technical limitations placed on a system in regards to the utilization of USB storage devices and other removeable media can be accessed ^285fde
 - Examples
 	- [[Group Policies]] disallowing read and/or write access to USB/CD drives
-- Need to consider admin controls as well
-	- Policy that guides technical specifications
+- Need to consider [[SecBasics#^50e62d|admin controls]] as well
 
 # Network Attached Storage (NAS)
 ---
@@ -40,7 +39,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Tips
 ---
-- Use full [[Disk Encryption]]k]
+- Use [[Disk Encryption#Full Disk Encryption|Full Disk Encryption]]
 -  [[SecBasics#^45fffd|AAA Model]]
 	- Have proper authentication
 		- Username and passwords

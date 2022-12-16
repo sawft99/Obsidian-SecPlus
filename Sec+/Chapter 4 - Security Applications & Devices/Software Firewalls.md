@@ -8,13 +8,13 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # About
 ---
 - Software app that protect one computer or server ^357ca6
-	- Also called "Host based" firewall
+	- Also called "<u>Host based</u>" firewall
 - Set rules and polices for in and out traffic
 - Example
 	- Web server would accept 80 and 443 whereas desktop shouldn't
 - Versions
 	- #Windows  - #Windows Firewall
-	- #OSX and #OSX - PF and IPFW
+	-  #OSX - PF and IPFW
 	- #Linux - Iptables
 
 
@@ -35,15 +35,14 @@ collapse: Close
 ![[Windows_Adv_Firewall.png]]
 ```
 
-
 # #OSX
 ---
-- Built-in for Mac
+- Built-in for Mac and #OSX
 - Basic version in "System preferences > Security and privacy"
 - Two versions
 	- CLI version named <u>"PF"</u>
 		- Short for Packet filter
-		- <u>OSX 10 and up</u>
+		- #OSX <u>10 and up</u>
 	- Older ones used <u>"IPFW"</u>
 		- <u>Internet protocol firewall</u>
 	- Both are in FreeBSD which #OSX is based on
@@ -66,10 +65,8 @@ collapse: close
 ![[Linux_IPtables_Firewall.png]]
 ```
 
-
 # Other
 ---
-
 - Other [[Endpoint Analysis#AntiVirus (AV)|AntiVirus (AV)]] may have their own [[Software Firewalls]]
 - Some firewalls can use system resources
 - Many businesses use hardware based firewalls for a first line of defense

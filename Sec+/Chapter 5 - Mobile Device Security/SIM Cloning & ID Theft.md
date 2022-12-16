@@ -13,7 +13,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # SIM Cloning
 ---
-- Allows two phones to utilize the same service and allows the attacker to gain access to the phones data ^e94d65
+- Allows <u>two phones to utilize the same service</u> and allows the attacker to <u>gain access to the phones data</u> ^e94d65
 	- Someone sends a text to the phone and both phones get it
 - Popular in earlier days to use for long distance or international calls
 - Modern day use is typically for bypassing #2FA on websites that utilize a call or SMS verification method

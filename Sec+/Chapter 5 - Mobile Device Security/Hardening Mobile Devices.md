@@ -23,8 +23,10 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	1. Safe websites
 	2. How to use social media correctly
 	3. What apps are allowed
+		1. [[Restricting Applications]]
 4. Only install apps from official mobile stores
-	1. At least have [[Endpoint Analysis#AntiVirus (AV)|AntiVirus (AV)]]
+	1. Stores at least have [[Endpoint Analysis#AntiVirus (AV)|AntiVirus (AV)]]
+	2. Google Play Store and Apple App Store
 5. Do not [[Security of Apps#Jailbreaking & Rooting|Jailbreak]] #IPhone or [[Security of Apps#Jailbreaking & Rooting|Root]] #Android
 	1. Bypasses built-in protection
 6. Only use [[SIM Cloning & ID Theft#^f19809|SIMv2]]
@@ -35,13 +37,14 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	2. Wifi
 	3. Bluetooth
 		1. Make device undiscoverable if needed
+		2. [[Bluetooth Attacks#Protecting|Bluetooth Attacks]]
 	4. Mobile Hotspot ^16a462
 		1. A place where wireless internet is accessible
 		2. Using your phone as a hotspot is known as [[#^092f4f|Tethering]]
 	5. Tethering ^092f4f
 		1. Using your mobile device to allow other devices to access the internet
 		2.  Can be over BLE, Wifi, USB
-		3. When using mobile device as [[#^16a462]]
+		3. When using mobile device as [[#^16a462|Mobile Hotspot]]
 	6. Location services
 8. Turn on encryption for voice and data
 	1. Bluetooth

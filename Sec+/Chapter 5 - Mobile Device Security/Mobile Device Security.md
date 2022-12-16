@@ -15,8 +15,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - [[Mobile Malware]]
 - [[SIM Cloning & ID Theft]]
 - [[Bluetooth Attacks]]
-	- Bluesnarfing
-	- Bluejacking
+	- [[Bluetooth Attacks#^024d42|Bluesnarfing]]
+	- [[Bluetooth Attacks#^79dbd5|Bluejacking]]
 - [[Mobile Device Theft]]
 - [[Endpoint Analysis#AntiVirus (AV)|Antivirus]] for mobile
 - [[Hardening Mobile Devices]]

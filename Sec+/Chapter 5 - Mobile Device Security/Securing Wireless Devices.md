@@ -26,6 +26,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - By default a shared <u>link key</u> is created to encrypt the connection between 2 devices
 	- Keys are shared to each other
 	- Some devices use weak [[Disk Encryption#^501400|Encryption]]
+- [[Bluetooth Attacks]]
 
 # Objectives
 ---

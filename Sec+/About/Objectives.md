@@ -19,7 +19,8 @@ collapse: close
 ## 1.1 - Compare and contrast different types of Social Engineering  techniques
 ---
 - Phishing
-	- [[Mobile Malware#^6aa682|Smishing]]
+	- [[Mobile Malware#^6aa682|Smishing
+	- ]
 - Vishing
 - [[Spam]]
 - [[Spam]] over Internet messaging ([[Spam#^4a7863|SPIM]])
@@ -850,6 +851,7 @@ conditioning (HVAC)
 	- WiFi protected access II (WPA2)
 		- [[Securing Wireless Devices#Wifi|WPA2]]
 	- WiFi protected access III (WPA3)
+		- [[Securing Wireless Devices]]
 	- Counter-mode/CBC-MAC protocol (CCMP)
 	- Simultaneous Authentication of Equals (SAE)
 - Authentication protocols
@@ -873,6 +875,7 @@ conditioning (HVAC)
 	- Channel overlays
 	- Wireless access point (WAP) placement
 	- Controller and access point security
+		- [[Securing Wireless Devices]]
 
 ## 3.5 - Given a scenario, implement secure mobile solutions
 ---
@@ -901,6 +904,7 @@ conditioning (HVAC)
 	- Screen locks
 		- [[Mobile Device Theft#^4bafd6|Remote Lock]]
 	- Push notifications
+		- [[Mobile Malware]]
 	- Passwords and pins
 		- [[Mobile Device Security]]
 	- Biometrics
@@ -926,7 +930,7 @@ conditioning (HVAC)
 		- [[Mobile Malware]]
 		- [[Security of Apps#Jailbreaking & Rooting|Jailbreaking & Rooting]]
 	- Carrier unlocking
-		- [[Security of Apps#Jailbreaking & Rooting\Jailbreaking & Rooting]]
+		- [[Security of Apps#Jailbreaking & Rooting|Jailbreaking & Rooting]]
 	- Firmware over-the-air (OTA) updates
 		- [[Mobile Malware]]
 	- Camera use

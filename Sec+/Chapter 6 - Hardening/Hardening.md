@@ -11,6 +11,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Act of configuring an OS by updating it, creating rules & policies to govern it, and removing unnecessary applications and services ^029877
 	- <u>Does not guarantee security</u>
 	- Mitigate risk by minimizing vulnerabilities and exposure to threats
+- [[Hardening Mobile Devices]]
 
 # Objectives
 ---

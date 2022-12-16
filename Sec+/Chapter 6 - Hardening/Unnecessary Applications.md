@@ -10,7 +10,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Every app introduces additional code and therefore <u>additional vulnerabilities</u>
 	- Leaves opportunities for more zero days and other vulnerabilities
 - Administrators practice [[#Least Functionality]]
-- Personal computers are more likely to unnecessary programs
+- Personal computers are more likely to have unnecessary programs
 
 # Least Functionality
 ---

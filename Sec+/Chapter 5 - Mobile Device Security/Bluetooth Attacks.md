@@ -16,7 +16,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # Protecting
 ---
 - Change Bluetooth pairing key
-	- Default of 0000 or 1234
+	- Default of 0000 or 1234 on many devices
 - Disable Bluetooth if not needed
 - Don't use discoverable mode if you're not currently pairing
 
