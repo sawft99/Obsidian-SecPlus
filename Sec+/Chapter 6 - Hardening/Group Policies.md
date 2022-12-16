@@ -31,6 +31,7 @@ collapse:close
 ## Active Directory
 ---
 - You instead work with Group Policy Objectives (GPOs)
+- Create user and computer policies
 - Used to create a secure [[Unnecessary Applications#Baseline Image|Baseline]]
 	- Once created you need to test with a [[#^331295|Baselining]] procedure
 	- Everything should be categorized as safe or needing further investigation
@@ -42,6 +43,42 @@ collapse:close
 ![[Windows_AD_GroupPolicy.png]]
 ```
 
+## Applocker
+---
+- Allows you to create rules for scripts, installers, packaged app, and executable rules
+- [[Restricting Applications#Whitelisting|Whitelisting]] and [[Restricting Applications#Blacklisting|Blacklisting]] rules
+- Can make rules based on publisher, path, or file #Hashing
+
+```ad-info
+title: Applocker in Group Policy
+collapse:close
+![[Win_Applocker1.png]]
+```
+
+```ad-info
+title: Creating an Applocker rule - Select Group
+collapse:close
+![[Win_Applocker_Rule1.png]]
+```
+
+```ad-info
+title: Creating an Applocker rule - Select type
+collapse:close
+![[Win_Applocker_Rule2.png]]
+```
+
+```ad-info
+title: Creating an Applocker rule - Define path
+collapse:close
+![[Pasted image 20221216155148.png]]
+```
+
+```ad-info
+title: Creating an Applocker rule - Exceptions
+collapse:close
+![[Pasted image 20221216155453.png]]
+```
+
 # Vocab
 ---
 - Baselining
@@ -51,6 +88,7 @@ collapse:close
 # Objectives
 ---
 - [[Objectives#2.1 - Explain the importance of security concepts in an enterprise environment|2.1 - Explain the importance of security concepts in an enterprise environment]]
+- [[Objectives#3.2 - Given a scenario, implement host or application security solutions|3.2 - Given a scenario, implement host or application security solutions]]
 
 # TODO (Delete when done)
 ---

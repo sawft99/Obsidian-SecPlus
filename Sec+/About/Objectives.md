@@ -742,8 +742,10 @@ conditioning (HVAC)
 	- Code signing
 	- Whitelisting
 		- [[Restricting Applications]]
+		- [[Group Policies]]
 	- Blacklisting
 		- [[Restricting Applications]]
+		- [[Group Policies]]
 	- Secure coding practices
 	- Static code analysis
 		- Manual code review
@@ -758,6 +760,7 @@ conditioning (HVAC)
 		- [[Hardening Mobile Devices]]
 		- [[Mobile Malware]]
 		- [[Trusted Operating System]]
+		- [[Group Policies]]
 	- Patch management
 		- [[Updates and Patches]]
 		- [[Patch Management]]

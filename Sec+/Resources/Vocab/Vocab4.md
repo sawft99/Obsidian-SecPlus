@@ -24,6 +24,6 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Baseline Security Analyzer (MBSA)                   | ![[Patch Management#^974484]]                |
 | Group Policy                                        | ![[Group Policies#^7935c4]]                  |
 | Baselining                                          | ![[Group Policies#^331295]]                  |
-| Security Template                                   | ![[Group Policies#^7935c4]]                                             |
+| Security Template                                   | ![[Group Policies#^7935c4]]                  |
 
 -
