@@ -7,11 +7,75 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # About
 ---
-- Item
+- Determine what file system you should use and how it will affect [[Hardening]] your computer
+- Types
+	- New technology File System (NTFS)
+	- File Allocation Table (FAT32)
+	- Extended File System (ext4)
+	- HFS+
+	-  Apple file System (APFS)
+- Use [[Disk Encryption#Full Disk Encryption|Full Disk Encryption]] when possible
 
-# Topic
+# Platforms
+
+## #Windows
 ---
-- Item
+- Can utilize FAT32 or NTFS
+- NTFS
+	- The default file system format for #Windows and is more secure because it supports logging, [[Securing Storage#Encryption|Encryption]]/[[Disk Encryption]], larger partition sizes, and larger files than FAT32
+	- Is newer and <u>recommended to use</u> over FAT32
+	- Can convert FAT32 to NTFS
+		- 'Convert DriveLetter:\ /FS:NTFS'
+
+## #Linux
+---
+- Uses Extended File System (ext4)
+
+## #OSX
+---
+- Should use Apple file System (APFS)
+	- The most recent and most secure version support on #OSX
+
+# Maintenance and Recovery
+
+## About
+---
+- Hard drives eventually fail so there are methods to extend the life and help with recovery
+
+## Methods
+---
+1. Remove temporary files
+2. Conduct periodic file system checks
+	1. #Windows - chkdsk
+	2. #Linux  - fsck
+	3. #OSX - "First Aid" in disk utility app
+3. Defrag
+	1. Defrag via cli or app
+4. Ensure good backups
+	1. Multiple software and cloud solutions
+5. Know how to use restore techniques and verify your backups
+	1. System restore points
+	2. Tape backups
+	3. Hard drive backups
+	4. Individual backups
+
+```ad-info
+title: Windows - chkdsk
+collapse:close
+![[Win_FS_chkdsk.png]]
+```
+
+```ad-info
+title: Windows - Defrag CLI
+collapse:close
+![[Win_Defrag_CLI.png]]
+```
+
+```ad-info
+title: Windows - Defrag App 
+collapse:close
+![[Win_Defrag_App.png]]]
+```
 
 # Objectives
 ---
