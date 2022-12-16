@@ -29,11 +29,11 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 ## #Linux
 ---
-- Uses Extended File System (ext4)
+- Uses ext4
 
 ## #OSX
 ---
-- Should use Apple file System (APFS)
+- Should use APFS
 	- The most recent and most secure version support on #OSX
 
 # Maintenance and Recovery
@@ -59,11 +59,29 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	3. Hard drive backups
 	4. Individual backups
 
+## Examples
+---
+### File System
+
 ```ad-info
 title: Windows - chkdsk
 collapse:close
 ![[Win_FS_chkdsk.png]]
 ```
+
+```ad-info
+title: Linux - fsck
+collapse:close
+![[Linux_fsck.png]]
+```
+
+```ad-info
+title: OSX - First Aid
+collapse:close
+![[OSX_FistAid.png]]
+```
+
+### Defrag
 
 ```ad-info
 title: Windows - Defrag CLI
@@ -75,6 +93,12 @@ collapse:close
 title: Windows - Defrag App 
 collapse:close
 ![[Win_Defrag_App.png]]]
+```
+
+```ad-info
+title: OSX - Defrag App
+collapse:close
+![[OSX_Defrag_App.png]]
 ```
 
 # Objectives
