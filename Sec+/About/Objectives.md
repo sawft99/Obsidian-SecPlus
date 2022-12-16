@@ -742,10 +742,10 @@ conditioning (HVAC)
 	- Code signing
 	- Whitelisting
 		- [[Restricting Applications]]
-		- [[Group Policies]]
+		- [[Group Policies#Applocker|Applocker]]
 	- Blacklisting
 		- [[Restricting Applications]]
-		- [[Group Policies]]
+		- [[Group Policies#Applocker|Applocker]]
 	- Secure coding practices
 	- Static code analysis
 		- Manual code review

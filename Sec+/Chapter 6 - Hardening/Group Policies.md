@@ -48,6 +48,10 @@ collapse:close
 - Allows you to create rules for scripts, installers, packaged app, and executable rules
 - [[Restricting Applications#Whitelisting|Whitelisting]] and [[Restricting Applications#Blacklisting|Blacklisting]] rules
 - Can make rules based on publisher, path, or file #Hashing
+- Examples
+	- Allow all programs by default and then [[Restricting Applications#Blacklisting|Blacklist]] apps
+	- Deny all programs by default and then [[Restricting Applications#Whitelisting|Whitelist]]
+	- Any mix
 
 ```ad-info
 title: Applocker in Group Policy
@@ -76,7 +80,19 @@ collapse:close
 ```ad-info
 title: Creating an Applocker rule - Exceptions
 collapse:close
-![[Pasted image 20221216155453.png]]
+![[Win_Applocker_Rule4.png]]
+```
+
+```ad-info
+title: Creating an Applocker rule - Nameing
+collapse:close
+![[Win_Applocker_Rule5.png]]
+```
+
+```ad-info
+title: Creating an Applocker rule - Results
+collapse:close
+![[Win_Applocker_Rule6.png]]
 ```
 
 # Vocab
@@ -89,10 +105,3 @@ collapse:close
 ---
 - [[Objectives#2.1 - Explain the importance of security concepts in an enterprise environment|2.1 - Explain the importance of security concepts in an enterprise environment]]
 - [[Objectives#3.2 - Given a scenario, implement host or application security solutions|3.2 - Given a scenario, implement host or application security solutions]]
-
-# TODO (Delete when done)
----
-- [x] Added vocab
-- [ ] Added and linked objectives in document
-- [ ] Linked objectives back to document
-- [ ] Linked any relevant backlinks to and from document
