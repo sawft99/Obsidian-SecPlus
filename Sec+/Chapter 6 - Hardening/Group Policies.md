@@ -7,14 +7,14 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # About
 ---
-- A set of rules or policies that can be applied to a set of users or computer accounts within the operating systesm ^7935c4
+- A set of rules or policies that can be applied to a set of users or computer accounts within the operating system ^7935c4
 
 # Using in #Windows
 
 ## Local
 ---
 - Local Group Policy Editor
-	- Creates and manages local computer polcies in a #Windows environment
+	- Creates and manages local computer polices in a #Windows environment
 	- GPedit.msc
 - Policies ^0cf784
 	- Each one acts as a <u>security template</u>
@@ -32,7 +32,7 @@ collapse:close
 ---
 - You instead work with Group Policy Objectives (GPOs)
 - Used to create a secure [[Unnecessary Applications#Baseline Image|Baseline]]
-	- Once created you need to test with a [[#^331295|Baselineing]] procedure
+	- Once created you need to test with a [[#^331295|Baselining]] procedure
 	- Everything should be categorized as safe or needing further investigation
 
 ```ad-info
@@ -44,9 +44,9 @@ collapse:close
 
 # Vocab
 ---
-- Baselineing
-	- Process of measureing changes in the network, hardware, and software environment ^331295
-	- Find what "normal" is so you can latter identify abnormal behavior, deviations, and [[IDS#^ed7614|aomalies]]
+- Baselining
+	- Process of measuring changes in the network, hardware, and software environment ^331295
+	- Find what "normal" is so you can latter identify abnormal behavior, deviations, and [[IDS#^ed7614|anomalies]]
 
 # Objectives
 ---

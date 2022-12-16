@@ -19,8 +19,7 @@ collapse: close
 ## 1.1 - Compare and contrast different types of Social Engineering  techniques
 ---
 - Phishing
-	- [[Mobile Malware#^6aa682|Smishing
-	- ]
+	- [[Mobile Malware#^6aa682|Smishing]]
 - Vishing
 - [[Spam]]
 - [[Spam]] over Internet messaging ([[Spam#^4a7863|SPIM]])
