@@ -327,6 +327,7 @@ collapse: close
 - Configuration management
 	- Diagrams
 	- Baseline configuration
+		- [[Group Policies]]
 	- Standard naming conventions
 	- Internet protocol (IP) schema
 - Data sovereignty
