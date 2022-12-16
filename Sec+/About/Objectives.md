@@ -337,6 +337,7 @@ collapse: close
 	- [[Disk Encryption#^501400]]
 	- At rest
 		- [[Securing Storage]]
+		- [[File Systems & Hard Drives]]
 	- In transit/motion
 		- [[Data Loss Prevention (DLP)]]
 	- In processing
@@ -761,6 +762,7 @@ conditioning (HVAC)
 		- [[Mobile Malware]]
 		- [[Trusted Operating System]]
 		- [[Group Policies]]
+		- [[File Systems & Hard Drives]]
 	- Patch management
 		- [[Updates and Patches]]
 		- [[Patch Management]]

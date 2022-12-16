@@ -25,5 +25,9 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Group Policy                                        | ![[Group Policies#^7935c4]]                  |
 | Baselining                                          | ![[Group Policies#^331295]]                  |
 | Security Template                                   | ![[Group Policies#^7935c4]]                  |
+| New Table File System (NTFS)                        | ![[File Systems & Hard Drives#^ada5d0]]      |
+| Extended File System (ext4)                         | ![[File Systems & Hard Drives#^8e18e9]]      |
+| Apple File System (APFS)                            | ![[File Systems & Hard Drives#^5736b2]]      |
+| Hierarchical File System+ (HFS+)                    | ![[File Systems & Hard Drives#^729b3d]]                                             |
 
 -
