@@ -9,7 +9,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - Analysis is used when conducting monitoring, logging, and analysis of an endpoint(s)
 - The job
-	1. Analysts use tools to identify behavioral anomalies
+	1. Analysts use tools to identify behavioral [[IDS#^ed7614|anomalies]]
 	2. Then Identify techniques used by the [[Malware]] such as [[Active Intercept & Privilege Escalation|Privilege Escalation]] and persistence on the host
 - Each system reacts or works on different [[IDS#Methods|Methods]]
 
@@ -56,6 +56,7 @@ collapse:close
 ---
 - A software agent that <u>collects system data and logs for analysis</u> by a monitoring system to provide early detection of threats ^46bc3d
 - More focus on <u>behavior and anomalies</u> than signatures
+	- [[IDS#^ed7614|Anomalies]]
 - Logs endpoints observables and indicators which then combines with an analysis
 - "Early detection" of threats
 - Not designed to stop execution but to provide currently running and historical visibility in a compromise

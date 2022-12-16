@@ -21,6 +21,9 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Service Pack                                        | ![[Updates and Patches#^dacc50]]             |
 | Patch Management                                    | ![[Patch Management#^f08696]]                |
 | System Center Security Configuration Manager (SCCM) | ![[Patch Management#^d1d9c8]]                |
-| Baseline Security Analyzer (MBSA)                   | ![[Patch Management#^974484]]                                             |
+| Baseline Security Analyzer (MBSA)                   | ![[Patch Management#^974484]]                |
+| Group Policy                                        | ![[Group Policies#^7935c4]]                  |
+| Baselining                                          | ![[Group Policies#^331295]]                  |
+| Security Template                                   | ![[Group Policies#^7935c4]]                                             |
 
 -

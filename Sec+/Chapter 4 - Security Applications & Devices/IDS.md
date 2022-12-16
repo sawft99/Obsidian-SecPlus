@@ -46,7 +46,7 @@ collapse: close
 	- <u>Specific declaration</u>
 		- Filtering Port, IP, etc.
 		- "No Telnet inbound/outbound"
-- Anomaly
+- Anomaly ^ed7614
 	- Analyzes the current traffic <u>against the established baseline</u> and triggers an alert if <u>outside the statistical average</u>
 	- Full name "Statistical anomaly detection"
 		- Also "Anomaly based detection" or "Statistical based detection"

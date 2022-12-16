@@ -11,6 +11,7 @@ tags: CL
 - [ ] More EFS info on [[Disk Encryption#File Level Encryption]]
 - [ ] AV options on [[Mobile Malware]]?
 - [ ] [[Bluetooth Attacks]] obj 3.4 relaiton?
+- [ ] GPO and AD definitions on [[Group Policies]]
 
 
 ## Working On
