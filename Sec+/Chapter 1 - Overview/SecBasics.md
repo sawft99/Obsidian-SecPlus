@@ -22,9 +22,9 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # Cybersecurity Models
 ---
 - CIA ^51b6d8
-	- Confidentiality
+	- Confidentiality ^9c173d
 		- Info not being disclosed to unauthorized people
-		- [[Disk Encryption#^501400|Encryption]]
+		- [[Disk Encryption#^501400|Encryption]] can keep data confidential
 	- Integrity
 		- Confirm data has not been modified by unauthorized people
 		- #Hashing

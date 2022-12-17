@@ -28,6 +28,11 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | New Table File System (NTFS)                        | ![[File Systems & Hard Drives#^ada5d0]]      |
 | Extended File System (ext4)                         | ![[File Systems & Hard Drives#^8e18e9]]      |
 | Apple File System (APFS)                            | ![[File Systems & Hard Drives#^5736b2]]      |
-| Hierarchical File System+ (HFS+)                    | ![[File Systems & Hard Drives#^729b3d]]                                             |
+| Hierarchical File System+ (HFS+)                    | ![[File Systems & Hard Drives#^729b3d]]      |
+| Supply Chain                                        |                                              |
+| Due Diligence                                       |                                              |
+| Trusted Computing Environment                       |                                              |
+| End of Life (EOL)                                   |                                              |
+| Risk of Appetite                                    |                                              |
 
 -
