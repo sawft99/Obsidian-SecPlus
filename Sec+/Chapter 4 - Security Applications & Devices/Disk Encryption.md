@@ -28,6 +28,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs
 	- Typically an adapter card over USB or a networked device
 	- Usually tamper proof with high levels of security
 	- Also very expensive and less common vs [[#Software Based]]
+	- See also [[Root of Trust#Hardware Security Module (HSM)|Root of Trust]]
 
 ## Software Based
 ---
@@ -60,14 +61,9 @@ tags: [CompTia,SecPlus,CyberSec,Certs
 ---
 - Chip residing on the motherboard that contains an [[#^501400|Encryption]]  key
 - A specification for hardware based storage of digital certificates, keys, #Hashing (hashed) passwords, and other user and platform identification information ^e5cd31
+- Also used for [[Root of Trust]]
 - #Bitlocker  will use the key already inside the TPM chip for its [[#^501400|Encryption]] operation
 - If you take the hard drive out and put it into another computer you would not be able to read it because that computer has a different TPM chip with a different key on it
-
-```ad-info
-title: TPM Design
-collapse:close
-![[TPM_Design.png]]
-```
 
 # Advanced Encryption Standard (AES)
 ---
