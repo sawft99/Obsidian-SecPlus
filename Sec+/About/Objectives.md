@@ -88,6 +88,7 @@ collapse: close
 	- Tainted training data for machine learning (ML)
 	- Security of machine learning algorithms
 - Supply-chain attacks
+	- [[Supply Chain Assessment]]
 - Cloud-based vs. on-premises attacks
 - Cryptographic attacks
 	- Birthday
@@ -165,6 +166,7 @@ collapse: close
 ---
 - [[SecBasics#Hackers|Hackers and threats]]
 	- Advanced persistent threat (APT)
+		- [[SecBasics#^f3f779|SecBasics]]
 	- Insider threats
 	- State actors
 	- Hacktivists
@@ -186,6 +188,7 @@ collapse: close
 	- Wireless
 	- #Email
 	- Supply chain
+		- [[Supply Chain Assessment]]
 	- Social media
 	- Removable media
 	- Cloud
@@ -239,6 +242,7 @@ collapse: close
 		- System integration
 		- Lack of vendor support
 	- Supply chain
+		- [[Supply Chain Assessment]]
 	- Outsourced code development
 	- Data storage
 - Improper or weak patch management

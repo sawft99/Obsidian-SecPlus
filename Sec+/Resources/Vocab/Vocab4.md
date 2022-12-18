@@ -29,10 +29,12 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Extended File System (ext4)                         | ![[File Systems & Hard Drives#^8e18e9]]      |
 | Apple File System (APFS)                            | ![[File Systems & Hard Drives#^5736b2]]      |
 | Hierarchical File System+ (HFS+)                    | ![[File Systems & Hard Drives#^729b3d]]      |
-| Supply Chain                                        |                                              |
-| Due Diligence                                       |                                              |
-| Trusted Computing Environment                       |                                              |
-| End of Life (EOL)                                   |                                              |
-| Risk of Appetite                                    |                                              |
+| Supply Chain                                        | ![[Supply Chain Assessment#^69419f]]         |
+| Due Diligence                                       | ![[Supply Chain Assessment#^cae203]]         |
+| Trusted Computing Environment                       | ![[Supply Chain Assessment#^8320bc]]         |
+| End of Life (EOL)                                   | ![[Supply Chain Assessment#^01cc85]]         |
+| Risk of Appetite                                    | ![[Supply Chain Assessment#^251acb]]         |
+| Trusted Foundry                                     | ![[Supply Chain Assessment#^3779ea]]         |
+| Hardware Source Authenticity                        | ![[Supply Chain Assessment#^c74a15]]                                             |
 
 -

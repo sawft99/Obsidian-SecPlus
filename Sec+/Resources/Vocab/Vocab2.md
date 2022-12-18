@@ -19,7 +19,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Blue Screen of Death (BSOD)                  | ![[SecBasics#^e2abc0]] |
 | Basic Input Output System (BIOS)             | ![[Securing the BIOS#^e94ab9]]                                                |
 | Unified Extensible Firmware Interface (UEFI) | ![[Securing the BIOS#UEFI]]                                                   |
-| Trusted Platform Module (TPM)                | ![[Disk Encryption#Trusted Platform Module (TPM)]]                            |
+| Trusted Platform Module (TPM)                | ![[Disk Encryption#^e5cd31]]                            |
 | Secure Boot                                  | ![[Securing the BIOS#^e16786]]                                                |
 | Removeable Media Controls                    | ![[Securing Storage#^285fde]]                                                 |
 | Network Attached Storage (SAN)               | ![[Securing Storage#Network Attached Storage (NAS)]]                          |
