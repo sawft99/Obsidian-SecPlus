@@ -8,7 +8,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # About
 ---
 - Hardware Root of Trust (ROT) ^f30681
-	- A cryptographic module embedded in a computer system that can endorse trusted execution and attest to boot settings and metrics
+	- A cryptographic module embedded in a computer system that can endorse trusted execution and [[Trusted Firmware#Attestation|Attestation]] to boot settings and metrics
 	- Used to scan the boot metrics and OS files to verify their signatures, which can then be used to sign a digital report (certificate)
 
 # TPM Expanded
@@ -30,6 +30,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 		- Attestation Identity Keys (AIK)
 		- Storage Keys
 	- #Bitlocker and other [[Disk Encryption#Full Disk Encryption|Full Disk Encryption]] technology can utilize [[Disk Encryption#Trusted Platform Module (TPM)|Trusted Platform Module (TPM)]]
+- See also [[Disk Encryption#Trusted Platform Module (TPM)|Trusted Platform Module (TPM)]]
 
 ```ad-tip
 title: The main idea

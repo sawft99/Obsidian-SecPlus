@@ -53,6 +53,14 @@ collapse:close
 	- Deny all programs by default and then [[Restricting Applications#Whitelisting|Whitelist]]
 	- Any mix
 
+### Process
+
+#### Video
+
+![Vid](https://www.youtube.com/watch?v=T-oSIeuNkbk)
+
+#### Step by step
+
 ```ad-info
 title: Applocker in Group Policy
 collapse:close
@@ -74,7 +82,7 @@ collapse:close
 ```ad-info
 title: Creating an Applocker rule - Define path
 collapse:close
-![[Pasted image 20221216155148.png]]
+![[Win_Applocker_Rule3.png]]
 ```
 
 ```ad-info
@@ -84,7 +92,7 @@ collapse:close
 ```
 
 ```ad-info
-title: Creating an Applocker rule - Nameing
+title: Creating an Applocker rule - Naming
 collapse:close
 ![[Win_Applocker_Rule5.png]]
 ```

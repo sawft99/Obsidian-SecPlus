@@ -49,13 +49,13 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ```ad-info
 title: Services
 collapse:close
-![[Pasted image 20221213154619.png]]
+![[Win_Service1.png]]
 ```
 
 ```ad-info
 title: Service Details
 collapse:close
-![[Pasted image 20221213154736.png]]
+![[Win_Service2.png]]
 ```
 
 ### CLI
@@ -68,7 +68,7 @@ collapse:close
 ```ad-info
 title: Services CLI
 collapse:close
-![[Pasted image 20221213155332.png]]
+![[Win_Service3.png]]
 ```
 
 # #OSX
@@ -128,7 +128,7 @@ collapse:close
 ```ad-info
 title: Kill Command
 collapse:close
-![[Pasted image 20221213171705.png]]
+![[Linux_Service2.png]]
 ```
 
 # Vocab

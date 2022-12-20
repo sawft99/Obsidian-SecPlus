@@ -19,7 +19,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ## Hardware Based
 ---
 - <u>Faster</u> than [[#Software Based]]
-- <u>Self encrypting Drive</u> (SED)
+- <u>Self encrypting Drive</u> (SED) ^7230a4
 	- <u>Storage device</u> that performs <u>whole disk</u> [[#^501400|Encryption]] by using the <u>embedded hardware</u> ^abe3d2
 	- Looks like an external hard drive
 	- Also very expensive and therefore not as common vs [[#Software Based]]
@@ -28,7 +28,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Typically an adapter card over USB or a networked device
 	- Usually tamper proof with high levels of security
 	- Also very expensive and less common vs [[#Software Based]]
-	- See also [[Root of Trust#Hardware Security Module (HSM)| Root of Trust]]
+	- See also [[Root of Trust#Hardware Security Module (HSM)|Root of Trust]]
+	- See also [[Trusted Firmware#Self-Encrypting Drives|Self-Encrypting Drives]]
 
 ## Software Based
 ---
@@ -64,6 +65,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Also used for [[Root of Trust]]
 - #Bitlocker  will use the key already inside the TPM chip for its [[#^501400|Encryption]] operation
 - If you take the hard drive out and put it into another computer you would not be able to read it because that computer has a different TPM chip with a different key on it
+- See also [[Root of Trust]]
+- See also [[Trusted Firmware]]
 
 # Advanced Encryption Standard (AES)
 ---

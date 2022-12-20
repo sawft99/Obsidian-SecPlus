@@ -13,16 +13,18 @@ tags: CL
 - [ ] [[Bluetooth Attacks]] obj 3.4 relaiton?
 - [ ] GPO and AD definitions on [[Group Policies]]
 - [ ] [[Root of Trust]] puf and fpga
+- [ ] [[Root of Trust]] TPM components defined?
+- [ ] [[Root of Trust]] and [[Trusted Firmware ]]Define digital signing
 
 
 ## Working On
 
-- [ ] [[Malware Exploitation]] PID for code injection?
 
 
 ## Done
 
 **Complete**
+- [x] [[Malware Exploitation]] PID for code injection?
 
 
 ***

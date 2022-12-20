@@ -734,8 +734,8 @@ conditioning (HVAC)
 - Boot integrity
 	- [[Securing the BIOS#UEFI|Boot security/Unified Extensible Firmware Interface (UEFI)]]
 		- [[Securing the BIOS]]
-	- Measured boot
-	- Boot attestation
+	- [[Trusted Firmware#Measured Boot|Measured Boot]]
+	- [[Trusted Firmware#Attestation|Boot Attestation]]
 		- [[Root of Trust]]
 - Database
 	- Tokenization
@@ -781,9 +781,9 @@ conditioning (HVAC)
 			- [[Mobile Malware]]
 - Self-encrypting drive (SED) & Full Disk Encryption (FDE)
 	- [[Disk Encryption#Hardware Based|Hardware Based Disk Encryption]]
+	- [[Trusted Firmware#Self-Encrypting Drives|Self-Encrypting Drives]]
 	- Opal
-- Hardware root of trust
-	- [[Root of Trust]]
+- Hardware [[Root of Trust]]
 - [[Disk Encryption#Trusted Platform Module (TPM)|Trusted Platform Module (TPM)]]
 - Sandboxing
 
