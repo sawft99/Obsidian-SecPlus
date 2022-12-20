@@ -12,7 +12,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Exploit]
 
 # [[Securing the BIOS#^9479f4|Firmware]] Exploit
 ---
-- A [[Securing the BIOS#^9479f4|Firmware]] exploit gives an attacker an opportunity to run any code at the highest level of CPU privilege
+- A [[Securing the BIOS#^9479f4|Firmware]] #Exploit gives an attacker an opportunity to run any code at the highest level of CPU privilege
 	- By infecting the [[Securing the BIOS#^9479f4|Firmware]] yo can essentially have a [[Rootkits|Rootkit]] over the entire system
 
 # [[Hardening]] Mechanisms

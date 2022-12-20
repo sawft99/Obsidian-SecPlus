@@ -786,6 +786,7 @@ conditioning (HVAC)
 - Hardware [[Root of Trust]]
 - [[Disk Encryption#Trusted Platform Module (TPM)|Trusted Platform Module (TPM)]]
 - Sandboxing
+	- [[Endpoint Analysis#User and Entity Behavioral Analytics (UEBA)|User and Entity Behavioral Analytics (UEBA)]]
 
 ## 3.3 - Given a scenario, implement secure network designs
 ---
