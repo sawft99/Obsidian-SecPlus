@@ -1,7 +1,9 @@
 {
 	"nodes":[
-		{"id":"2fdd9d8fc3ae078d","x":-560,"y":-274,"width":400,"height":400,"type":"file","file":"Sec+/Chapter 7 - Supply Chain Management/Root of Trust.md"},
-		{"id":"91bb969304dedb7c","x":-100,"y":-160,"width":400,"height":273,"type":"file","file":"Sec+/Files/Win_MSInfo32.png"}
+		{"id":"88a757dfd0b98e19","x":-538,"y":-262,"width":400,"height":400,"type":"file","file":"Sec+/Chapter 7 - Supply Chain Management/Root of Trust.md"},
+		{"id":"1ad8755c2c584cd3","x":74,"y":19,"width":400,"height":400,"type":"file","file":"Sec+/Chapter 4 - Security Applications & Devices/Disk Encryption.md"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"2720ba988359a99f","fromNode":"88a757dfd0b98e19","fromSide":"right","toNode":"1ad8755c2c584cd3","toSide":"top"}
+	]
 }
