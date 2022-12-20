@@ -24,7 +24,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Removeable Media Controls                    | ![[Securing Storage#^285fde]]                           |
 | Network Attached Storage (SAN)               | ![[Securing Storage#Network Attached Storage (NAS)]]    |
 | Storage Area Network (SAN)                   | ![[Securing Storage#^ed6df7]]                           |
-| Encryption                                   | ![[Disk Encryption#^501400\|Encryption]]                |
+| Encryption                                   | ![[Disk Encryption#^501400|Encryption]]                |
 | Self Encrypting Drive (SED)                  | ![[Disk Encryption#^abe3d2]]                            |
 | Encrypting File System (EFS)                 | ![[Disk Encryption#^973f7f]]                            |
 | Advanced Encryption Standard (AES)           | ![[Disk Encryption#Advanced Encryption Standard (AES)]] |

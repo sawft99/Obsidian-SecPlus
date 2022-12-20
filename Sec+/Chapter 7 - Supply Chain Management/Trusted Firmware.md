@@ -1,5 +1,5 @@
 ---
-tags: [CompTia,SecPlus,CyberSec,Certs]
+tags: [CompTia,SecPlus,CyberSec,Certs,Exploit]
 #aliases:
 #cssclass:
 #publish:
@@ -10,7 +10,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Want to prevent [[Securing the BIOS#^9479f4|Firmware]] exploits to create a more secure environment
 - Multiple [[#Types]] of firmware
 
-# [[Securing the BIOS#^9479f4|Firmware]] Exploits
+# [[Securing the BIOS#^9479f4|Firmware]] Exploit
 ---
 - A [[Securing the BIOS#^9479f4|Firmware]] exploit gives an attacker an opportunity to run any code at the highest level of CPU privilege
 	- By infecting the [[Securing the BIOS#^9479f4|Firmware]] yo can essentially have a [[Rootkits|Rootkit]] over the entire system
@@ -61,7 +61,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - A disk drive where the controller can automatically [[Disk Encryption#^501400|Encrypt]] data that is written to it ^93fa17
 - Hard drives contain [[Securing the BIOS#^9479f4|Firmware]] to run [[Disk Encryption]] when data is being written and read
 	- Done at hardware level to take load off of CPU and OS
-- See also [[Disk Encryption#^7230a4|Self-Encrypting Drives]]
+- See also [[Disk Encryption#Hardware Based|Self-Encrypting Drives]]
 
 # Objectives
 ---

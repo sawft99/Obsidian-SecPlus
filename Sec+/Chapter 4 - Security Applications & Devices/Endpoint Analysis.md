@@ -75,7 +75,7 @@ collapse:close
 	4. Based on their decision it will be determined as either a threat or safe
 
 ```ad-info
-title: Microsoft Advanced Threat Analytics Example
+title: #Microsoft Advanced Threat Analytics Example
 collapse:close
 ![[MS-ATT.png]]
 ```

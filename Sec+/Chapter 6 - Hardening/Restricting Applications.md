@@ -9,7 +9,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - Stopping users from downloading, installing, and running software
 - Able to centrally manage both [[#Whitelisting]] and [[#Blacklisting]]
-	- Microsoft #ActiveDirectory and #GroupPolicy
+	- #Microsoft #ActiveDirectory and [[Group Policies]]
 
 # Whitelisting
 ---

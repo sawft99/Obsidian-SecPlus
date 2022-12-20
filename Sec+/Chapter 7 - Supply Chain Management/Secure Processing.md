@@ -16,9 +16,19 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ## Processor Security Extensions (PSE)
 ---
 - Low level CPU changes and instructions that enable secure processing
+- Labeled differently across some brands
+	- #AMD
+		- Secure Memory Encryption (SME)
+		- Secure Encrypted Virtualization (SEV)
+	- #Intel 
+		- Trusted Execution Technology (TXT)
+		- Software Guard Extension (SGX)
 
 ## Trusted Execution
 ---
+- The [[#Processor Security Extensions (PSE)]] invoke the [[Disk Encryption#Trusted Platform Module (TPM)|Trusted Platform Module (TPM)]] chip and [[Trusted Firmware#Secure Boot|Secure Boot]] [[Trusted Firmware#Attestation|Attestation]] to ensure that a [[Trusted Operating System]] is running
+- When you boot the system want to use[[Trusted Firmware]], [[Trusted Firmware#UEFI|UEFI]], [[Root of Trust#TPM Expanded|TPM]] and [[Trusted Firmware#Secure Boot|Secure Boot]]
+- Common to #Microsoft when installing #Windows on #AMD and #Intel hardware
 
 ## Secure Enclave
 ---

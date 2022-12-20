@@ -60,7 +60,7 @@ collapse:close
 	- #IOT
 - All can be automated
 	- Remove human element so it can not be compromised by a person
-- See also [[Disk Encryption#^5ffc2c|Disk Encryption]]
+- See also [[Disk Encryption#Hardware Based|Disk Encryption]]
 
 # Tampering
 ---

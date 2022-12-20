@@ -18,7 +18,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	1. <u>Create policy, systems, and procedures to track</u> updates along with a method to verify that they are compatible
 	2. Also determine <u>how to apply</u>
 	3. Baseline Security Analyzer (MBSA)
-		1. Microsoft tool that helps identify misconfigurations on #Windows  workstations ^974484
+		1. #Microsoft tool that helps identify misconfigurations on #Windows  workstations ^974484
 2. Testing
 	1. Test [[Updates and Patches]] before applying to new network
 	2. Create small test network/lab
@@ -26,7 +26,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	1. <u>Deploy</u> to all workstations that need the patch
 	2. Can be automated or manual
 		1. System Center Security Configuration Manager (SCCM)
-			1. Microsoft tool to help with larger scale patch management ^d1d9c8
+			1. #Microsoft tool to help with larger scale patch management ^d1d9c8
 		2. Many #Linux OS uses <u>packet managers</u> instead
 	3. Larger companies are recommended to use a centrally managed system and not default #Windows  update utility
 		4. May want to [[Restricting Applications#CLI|stop Windows Update service]] so 3rd party patch will take over without conflict

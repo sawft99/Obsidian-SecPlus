@@ -19,7 +19,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ## Hardware Based
 ---
 - <u>Faster</u> than [[#Software Based]]
-- <u>Self encrypting Drive</u> (SED) ^7230a4
+- <u>Self encrypting Drive</u> (SED)
 	- <u>Storage device</u> that performs <u>whole disk</u> [[#^501400|Encryption]] by using the <u>embedded hardware</u> ^abe3d2
 	- Looks like an external hard drive
 	- Also very expensive and therefore not as common vs [[#Software Based]]

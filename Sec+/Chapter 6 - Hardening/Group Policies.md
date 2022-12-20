@@ -28,7 +28,7 @@ collapse:close
 ![[Windows_LocalPolicy.png]]
 ```
 
-## Active Directory
+## #ActiveDirectory
 ---
 - You instead work with Group Policy Objectives (GPOs)
 - Create user and computer policies
