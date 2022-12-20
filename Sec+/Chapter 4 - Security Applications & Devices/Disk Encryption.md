@@ -28,7 +28,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs
 	- Typically an adapter card over USB or a networked device
 	- Usually tamper proof with high levels of security
 	- Also very expensive and less common vs [[#Software Based]]
-	- See also [[Root of Trust#Hardware Security Module (HSM)|Root of Trust]]
+	- See also [[Root of Trust#Hardware Security Module (HSM)| Root of Trust]]
 
 ## Software Based
 ---

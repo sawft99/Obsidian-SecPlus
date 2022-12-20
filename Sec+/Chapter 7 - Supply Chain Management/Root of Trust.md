@@ -51,23 +51,24 @@ collapse:close
 
 # Hardware Security Module (HSM)
 ---
-- An appliance for generating and storing cryptographic keys that is less susceptible to tampering and insider threats than software based storage
+- An <u>appliance for generating and storing cryptographic keys</u> that is less susceptible to tampering and insider threats than software based storage
 - A long key could still be compromised
 - Types
 	- PCI card
 	- Rack mount
 	- #IOT
 - All can be automated
-- Remove human element
+	- Remove human element so it can not be compromised by a person
 - See also [[Disk Encryption#^5ffc2c|Disk Encryption]]
+
+# Tampering
+---
+- Ant-Tamper
+	- Method that makes it difficult for an attacker to alter the authorized execution of software ^e22ab4
+- Mechanisms
+	- Mechanisms include a Field Programable Gate Array (FPGA) and a Physically Unencodable Function (PUF)
+		- Zeros out cryptographic key
 
 # Objectives
 ---
-- Obj
-
-# TODO (Delete when done)
----
-- [ ] Added vocab
-- [ ] Added and linked objectives in document
-- [ ] Linked objectives back to document
-- [ ] Linked any relevant backlinks to and from document
+- [[Objectives#3.2 - Given a scenario, implement host or application security solutions|3.2 - Given a scenario, implement host or application security solutions]]

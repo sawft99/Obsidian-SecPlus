@@ -12,6 +12,7 @@ tags: CL
 - [ ] AV options on [[Mobile Malware]]?
 - [ ] [[Bluetooth Attacks]] obj 3.4 relaiton?
 - [ ] GPO and AD definitions on [[Group Policies]]
+- [ ] [[Root of Trust]] puf and fpga
 
 
 ## Working On

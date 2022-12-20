@@ -736,6 +736,7 @@ conditioning (HVAC)
 		- [[Securing the BIOS]]
 	- Measured boot
 	- Boot attestation
+		- [[Root of Trust]]
 - Database
 	- Tokenization
 	- Salting
@@ -782,6 +783,7 @@ conditioning (HVAC)
 	- [[Disk Encryption#Hardware Based|Hardware Based Disk Encryption]]
 	- Opal
 - Hardware root of trust
+	- [[Root of Trust]]
 - [[Disk Encryption#Trusted Platform Module (TPM)|Trusted Platform Module (TPM)]]
 - Sandboxing
 
