@@ -62,13 +62,11 @@ collapse:close
 ![[Application_Containerization.png]]
 ```
 
+# Installing
+---
+
+![](https://www.youtube.com/watch?v=J-S_TvtIm5Y)
+
 # Objectives
 ---
 - [[Objectives#2.2 - Summarize virtualization and cloud computing concepts|2.2 - Summarize virtualization and cloud computing concepts]]
-
-# TODO (Delete when done)
----
-- [x] Added vocab
-- [ ] Added and linked objectives in document
-- [ ] Linked objectives back to document
-- [ ] Linked any relevant backlinks to and from document

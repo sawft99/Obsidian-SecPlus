@@ -387,7 +387,7 @@ collapse: close
 - Edge computing
 - Thin client
 - Containers
-	- [[Virtualization]]
+	- [[Hypervisors#Application Containerization|Application Containerization]]
 - Micro-services/API
 - #Infrastructure as code
 	- Software-defined networking (SDN)
@@ -397,6 +397,7 @@ collapse: close
 - Resource policies
 - Transit gateway
 - [[Virtualization]]
+	- [[Hypervisors]]
 	- Virtual machine (VM) sprawl avoidance
 	- VM escape protection
 

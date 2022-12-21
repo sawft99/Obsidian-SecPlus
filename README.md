@@ -22,4 +22,7 @@ Most of these are not essential but it is what I am using for myself in this vau
 - [Tag Wrangler](https://github.com/pjeby/tag-wrangler)
 - [Obsidian42 - Strange New Worlds](https://github.com/TfTHacker/obsidian42-strange-new-worlds)
 
-If nothing else Influx and Strange New Worlds do a great job of linking information. Obsidian Sortable is convinent and simply allows you to sort a table however you like. I use the [KanBan board](Sec+/Resources/Sec+Board.md) to keep a "To do" list.
+If nothing else Influx and Strange New Worlds do a great job of linking information. Obsidian Sortable is convenient and simply allows you to sort a table however you like. I use the [KanBan board](Sec+/Resources/Sec+Board.md) to keep a "To do" list.
+
+# Additional info
+Use 'reading view' where possible. It looks better and embedded videos will show up properly.
