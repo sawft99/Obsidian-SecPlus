@@ -8,7 +8,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # About
 ---
 - What each [[Virtualization#Virtual Machine Types|Virtual Machine]] runs on
-- Manages the distribution of the physical resources of a host machine (Server) to the virtual machines being run (Guests)
+- Manages the distribution of the physical resources of a host machine (Server) to the virtual machines being run (Guests) ^4158e0
 - Includes CPU, memory, and hard disk space
 
 # Types
@@ -16,8 +16,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ## Type 1
 ---
 - "Bare metal" or "Native"
--<u> Runs directly on the host hardware</u> and functions as a type of OS
-- Faster and more efficient
+- <u>Runs directly on the host hardware</u> and functions as a type of OS
+- Faster and more efficient than [[#Type 2]]
 - Hypervisor doesn't need to waste resources by running a full OS
 - <u>Stripped down specialized OS</u> to provide physical resources to a [[Virtualization#Virtual Machine Types|Virtual Machine]] it hosts
 - Examples
@@ -47,8 +47,14 @@ collapse:close
 
 # Application Containerization
 ---
-- A single operating system [[Rootkits#Kernel|Kernel]] is shared across multiple virtual machine but each virtual machine receives its own user space for programs and data
+- A single operating system [[Rootkits#Kernel|Kernel]] is shared across multiple virtual machine but each virtual machine receives its own user space for programs and data ^9c31f9
 - Allows for <u>rapid and efficient</u> deployment of distributed applications without launching a full virtual machine
+- More efficient than [[#Type 1]] and [[#Type 2]] if it can meet your needs
+- Common on #Linux servers
+- Examples
+	- Docker
+	- Parallels Virtuozzo
+	- OpenVZ
 
 ```ad-info
 title: Application Containerization - Virtual vs Container
@@ -62,7 +68,7 @@ collapse:close
 
 # TODO (Delete when done)
 ---
-- [ ] Added vocab
+- [x] Added vocab
 - [ ] Added and linked objectives in document
 - [ ] Linked objectives back to document
 - [ ] Linked any relevant backlinks to and from document

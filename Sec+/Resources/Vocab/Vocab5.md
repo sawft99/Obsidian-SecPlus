@@ -23,7 +23,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Virtual Machine                       | ![[Virtualization#^a150cf]]                    |
 | Virtual Machine - System              | ![[Virtualization#^5235a8]]                    |
 | Virtual Machine - Processor           | ![[Virtualization#^84d522]]                    |
-| Hypervisor                            |                                                |
-| Application Containerization                                      |                                                |
+| Hypervisor                            | ![[Hypervisors#^4158e0]]                                               |
+| Application Containerization          |  ![[Hypervisors#^9c31f9]]                                              |
 
 -
