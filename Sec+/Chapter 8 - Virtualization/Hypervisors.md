@@ -16,7 +16,10 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ## Type 1
 ---
 - "Bare metal" or "Native"
-- Runs directly on the host hardware and functions as a type of OS
+-<u> Runs directly on the host hardware</u> and functions as a type of OS
+- Faster and more efficient
+- Hypervisor doesn't need to waste resources by running a full OS
+- <u>Stripped down specialized OS</u> to provide physical resources to a [[Virtualization#Virtual Machine Types|Virtual Machine]] it hosts
 - Examples
 	- #Microsoft HyperV
 	- #Citrix Zen
@@ -32,15 +35,25 @@ collapse:close
 ## Type 2
 ---
 - Runs in a normal such as #Microsoft #Windows , #Apple #OSX , and #Linux
-- Host OS runs an app that acts as a hypervisor
+- Host OS <u>runs an app that acts as a hypervisor</u>
 - Examples
 	- Virtualbox
-	- VMWare
 
 ```ad-info
 title: Virtual - Type 2
 collapse:close
 ![[Virtual_Type2.png]]
+```
+
+# Application Containerization
+---
+- A single operating system [[Rootkits#Kernel|Kernel]] is shared across multiple virtual machine but each virtual machine receives its own user space for programs and data
+- Allows for <u>rapid and efficient</u> deployment of distributed applications without launching a full virtual machine
+
+```ad-info
+title: Application Containerization - Virtual vs Container
+collapse:close
+![[Application_Containerization.png]]
 ```
 
 # Objectives
