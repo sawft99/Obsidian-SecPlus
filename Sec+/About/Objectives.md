@@ -342,10 +342,13 @@ collapse: close
 	- At rest
 		- [[Securing Storage]]
 		- [[File Systems & Hard Drives]]
+		- [[Secure Processing#Bus Encryption|Bus Encryption]]
 	- In transit/motion
 		- [[Data Loss Prevention (DLP)]]
+		- [[Secure Processing#Bus Encryption|Bus Encryption]]
 	- In processing
 		- [[Data Loss Prevention (DLP)]]
+		- [[Secure Processing]]
 	- Tokenization
 	- Rights management
 - [[Disk Encryption#Hardware Based|Hardware security module (HSM) ]]
@@ -768,6 +771,7 @@ conditioning (HVAC)
 		- [[Trusted Operating System]]
 		- [[Group Policies]]
 		- [[File Systems & Hard Drives]]
+		- [[Secure Processing]]
 	- Patch management
 		- [[Updates and Patches]]
 		- [[Patch Management]]
@@ -1335,13 +1339,16 @@ conditioning (HVAC)
 - Diversity of training techniques
 - Third-party risk management
 	- Vendors
+		- [[Supply Chain Assessment]]
 	- Supply chain
+		-[[Supply Chain Assessment]]
 	- Business partners
 	- Service level agreement (SLA)
 	- Memorandum of understanding (MOU)
 	- Measurement systems analysis (MSA)
 	- Business partnership agreement (BPA)
 	- End of life (EOL)
+		- [[Supply Chain Assessment]]
 	- End of service (EOS)
 	- NDA
 - Data
