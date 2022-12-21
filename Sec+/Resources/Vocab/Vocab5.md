@@ -18,6 +18,11 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Trusted Execution                     | ![[Secure Processing#^cb8327]]                 |
 | Secure Enclave                        | ![[Secure Processing#^3a07c7]]]                |
 | Atomic Execution                      | ![[Secure Processing#^28e559]]                 |
-| Bus Encryption                        | ![[Secure Processing#^010ce7]]                                               |
+| Bus Encryption                        | ![[Secure Processing#^010ce7]]                 |
+| [[Virtualization]]                    | ![[Virtualization#^24a69d]]                    |
+| Virtual Machine                       | ![[Virtualization#^a150cf]]                    |
+| Virtual Machine - System              | ![[Virtualization#^5235a8]]                    |
+| Virtual Machine - Processor           | ![[Virtualization#^84d522]]                    |
+| Hypervisor                                      |                                                |
 
 -

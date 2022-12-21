@@ -387,6 +387,7 @@ collapse: close
 - Edge computing
 - Thin client
 - Containers
+	- [[Virtualization]]
 - Micro-services/API
 - #Infrastructure as code
 	- Software-defined networking (SDN)
@@ -395,7 +396,7 @@ collapse: close
 - Services integration
 - Resource policies
 - Transit gateway
-- Virtualization
+- [[Virtualization]]
 	- Virtual machine (VM) sprawl avoidance
 	- VM escape protection
 
