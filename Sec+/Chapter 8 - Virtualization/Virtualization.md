@@ -12,6 +12,9 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Virtual machine
 	- A container for an emulated computer that runs an entire OS ^a150cf
 - Reduces need for additional power, space, and cooling along with shrinking physical infrastructure
+- Elastic
+	- Easy to scale up and scale down resources ^a6ee8d
+	- Consider [[Threats to VMs#Data Remnants|Data Remnants]] vulnerabilities
 
 # Virtual Machine Types
 

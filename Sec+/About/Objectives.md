@@ -381,8 +381,10 @@ collapse: close
 	- Private
 	- Hybrid
 - Cloud service providers
+	- [[Threats to VMs#Data Remnants|Data Remnants]]
 - Managed service provider (MSP)/Managed security service provider (MSSP)
 - On-premises vs. off-premises
+	- [[Threats to VMs#Data Remnants|Data Remnants]]
 - Fog computing
 - Edge computing
 - Thin client
@@ -400,6 +402,7 @@ collapse: close
 	- [[Hypervisors]]
 	- Virtual machine (VM) sprawl avoidance
 	- VM escape protection
+		- [[Threats to VMs#Mitigating|VM Escape]]
 
 ## 2.3 - Summarize secure application development, deployment, and automation concepts
 ---
