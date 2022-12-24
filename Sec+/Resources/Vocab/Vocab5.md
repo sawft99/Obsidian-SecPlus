@@ -25,9 +25,9 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Virtual Machine - Processor           | ![[Virtualization#^84d522]]                    |
 | Hypervisor                            | ![[Hypervisors#^4158e0]]                       |
 | Application Containerization          | ![[Hypervisors#^9c31f9]]                       |
-| Elastic/Elasticity                               | ![[Virtualization#^a6ee8d]]                    |
+| Elastic/Elasticity                    | ![[Virtualization#^a6ee8d]]                    |
 | VM Escape                             |                                                |
 | Data Remnants                         |                                                |
-|                                       |                                                |
+| Privilege Elevation                   |                                                |
 
 -

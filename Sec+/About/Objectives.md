@@ -402,7 +402,7 @@ collapse: close
 	- [[Hypervisors]]
 	- Virtual machine (VM) sprawl avoidance
 	- VM escape protection
-		- [[Threats to VMs#Mitigating|VM Escape]]
+		- [[Threats to VMs#VM Escape|VM Escape]]
 
 ## 2.3 - Summarize secure application development, deployment, and automation concepts
 ---
