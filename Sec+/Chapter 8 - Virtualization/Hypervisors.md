@@ -13,7 +13,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Types
 
-## Type 1
+## Type 1 - System
 ---
 - "Bare metal" or "Native"
 - <u>Runs directly on the host hardware</u> and functions as a type of OS
@@ -32,12 +32,12 @@ collapse:close
 ![[Virtual_Type1.png]]
 ```
 
-## Type 2
+## Type 2 - Processor
 ---
 - Runs in a normal such as #Microsoft #Windows , #Apple #OSX , and #Linux
 - Host OS <u>runs an app that acts as a hypervisor</u>
 - Examples
-	- Virtualbox
+	- #Oracle Virtualbox
 
 ```ad-info
 title: Virtual - Type 2
@@ -57,13 +57,22 @@ collapse:close
 	- OpenVZ
 
 ```ad-info
-title: Application Containerization - Virtual vs Container
+title: Application Containerization - Virtual - Type 1 vs Container
 collapse:close
 ![[Application_Containerization.png]]
 ```
 
-# Installing
+# Examples - Installs
+
+## [[#Type 1 - System]]
 ---
+- Installing #VMware ESXI on a bare metal system
+
+![](https://www.youtube.com/watch?v=r3EDlvfQAsw)
+
+## [[#Type 2 - Processor]]
+---
+- Installing #Windows 10 on a Mac with #Oracle Virtualbox
 
 ![](https://www.youtube.com/watch?v=J-S_TvtIm5Y)
 
