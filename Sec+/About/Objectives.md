@@ -390,6 +390,7 @@ collapse: close
 - Thin client
 - Containers
 	- [[Hypervisors#Application Containerization|Application Containerization]]
+	- [[Threats to VMs#Compromised Containers|Compromised Containers]]
 - Micro-services/API
 - #Infrastructure as code
 	- Software-defined networking (SDN)
@@ -401,6 +402,7 @@ collapse: close
 - [[Virtualization]]
 	- [[Hypervisors]]
 	- Virtual machine (VM) sprawl avoidance
+		- [[Securing VMs#^bfbd7c|Sprawl]]
 	- VM escape protection
 		- [[Threats to VMs#VM Escape|VM Escape]]
 

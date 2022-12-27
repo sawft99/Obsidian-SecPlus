@@ -5,8 +5,6 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 #publish:
 ---
 
-# Vocab
----
 | Term                                            | Meaning                |
 | ----------------------------------------------- | ---------------------- |
 | TTP                                             | ![[SecBasics#^a6b869]] |

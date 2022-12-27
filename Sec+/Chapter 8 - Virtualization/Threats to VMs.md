@@ -11,7 +11,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- [[#VM Escape]]
 	- [[#Data Remnants]]
 	- [[#Privilege Elevation]]
-	- Live VM Migration
+	- [[#Live Migration]]
+	-
 - [[Virtualization#Virtual Machine Types|Virtual Machines]] are separate and segmented by default
 - Exploiting one VM does not necessarily mean they can move to another
 
@@ -19,7 +20,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 ## About
 ---
-- An attack that allows an attacker to break out of a normally isolated [[Virtualization#Virtual Machine Types|Virtual Machine]] by interacting directly with the [[Hypervisors]]
+- An attack that allows an attacker to break out of a normally isolated [[Virtualization#Virtual Machine Types|Virtual Machine]] by interacting directly with the [[Hypervisors]] ^a2ffe1
 - Can migrate out and to another  [[Virtualization#Virtual Machine Types|Virtual Machine]]
 - Difficult
 - Exploit physical resources between [[Virtualization#Virtual Machine Types|Virtual Machines]]
@@ -30,15 +31,15 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Data Remnants
 ---
-- Contents of a [[Virtualization#Virtual Machine Types|Virtual Machine]] that exist as deleted files on a cloud-based server after deprovisioning a [[Virtualization#Virtual Machine Types|Virtual Machine]]
+- Contents of a [[Virtualization#Virtual Machine Types|Virtual Machine]] that exist as deleted files on a cloud-based server after deprovisioning a [[Virtualization#Virtual Machine Types|Virtual Machine]] ^07f11c
 - Data can be recovered by attackers which will compromise [[SecBasics#^9c173d|Confidentiality]]
-- Cloud providers can introduce these threats because the physical server is not controlled by your company
+- <u>Cloud providers can introduce these</u> threats because the physical server is not controlled by your company
 
 # Privilege Elevation
 
 ## About
 ---
-- Occurs when a user is able to grant themselves the ability to run functions as a higher level user
+- Occurs when a user is able to grant themselves the ability to run functions as a higher level user ^32adea
 	- Such as root or admin
 - Bad on a [[Virtualization#Virtual Machine Types|Virtual Machine]] but it can be worse on a physical server or [[Hypervisors]] due to access to multiple [[Virtualization#Virtual Machine Types|Virtual Machines]]
 - See also [[Active Intercept & Privilege Escalation]]
@@ -49,15 +50,22 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Live Migration
 ---
--
+- Occurs when a [[Virtualization#Virtual Machine Types|Virtual Machine]] is moved from one physical server to another over the network ^6413ed
+- If an attacker can place themselves between the two physical server they can perform a type of #MITM attack
+- Capturing data as it is transferred if it is not encrypted
+- This can compromise [[SecBasics#^9c173d|Confidentiality]] of data
+
+# Compromised Containers
+---
+- All containers are sharing the same single OS
+- If the OS on the host computer is compromised then all of the [[Hypervisors#Application Containerization|Containers]] can also be comprimised
+
+```ad-info
+title: Containers
+collapse:close
+![[Container1.png]]
+```
 
 # Objectives
 ---
 - [[Objectives#2.2 - Summarize virtualization and cloud computing concepts|2.2 - Summarize virtualization and cloud computing concepts]]
-
-# TODO (Delete when done)
----
-- [ ] Added vocab
-- [ ] Added and linked objectives in document
-- [ ] Linked objectives back to document
-- [ ] Linked any relevant backlinks to and from document

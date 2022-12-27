@@ -4,6 +4,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 #cssclass:
 #publish:
 ---
+
 | Term                                  | Meaning                                        |
 | ------------------------------------- | ---------------------------------------------- |
 | Hardware Root of Trust (ROT)          | ![[Root of Trust#^f30681]]                     |
@@ -26,8 +27,9 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Hypervisor                            | ![[Hypervisors#^4158e0]]                       |
 | Application Containerization          | ![[Hypervisors#^9c31f9]]                       |
 | Elastic/Elasticity                    | ![[Virtualization#^a6ee8d]]                    |
-| VM Escape                             |                                                |
-| Data Remnants                         |                                                |
-| Privilege Elevation                   |                                                |
+| VM Escape                             | ![[Threats to VMs#^a2ffe1]]                    |
+| Data Remnants                         | ![[Threats to VMs#^07f11c]]                    |
+| Privilege Elevation                   | ![[Threats to VMs#^32adea]]                    |
+| Live Migration                        | ![[Threats to VMs#^6413ed]]                                               |
 
 -
