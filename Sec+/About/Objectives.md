@@ -756,6 +756,7 @@ conditioning (HVAC)
 - [[Application Security]]
 	- Input validations
 	- Secure cookies
+		- [[Web Browser Concerns#Cookies|Cookies]]
 	- Hypertext Transfer Protocol (HTTP) headers
 	- Code signing
 	- Whitelisting
