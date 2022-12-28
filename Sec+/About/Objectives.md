@@ -817,7 +817,9 @@ conditioning (HVAC)
 	- DMZ
 	- East-west traffic
 	- Extranet
+		- [[Web Browser Concerns]]
 	- Intranet
+		- [[Web Browser Concerns]]
 	- Zero trust
 - Virtual private network (VPN)
 	- Always on
