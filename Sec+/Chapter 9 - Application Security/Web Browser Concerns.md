@@ -110,7 +110,7 @@ collapse:close
 ![[Windows_IEOptions12.png]]
 ```
 
-## Enterprise
+## Enterprise - IE 11
 ---
 ```ad-info
 title: Locate Group Policy Section

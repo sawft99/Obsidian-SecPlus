@@ -159,7 +159,7 @@ collapse: close
 	- PowerShell
 	- Python
 	- Bash
-	- Macros
+	- [[Viruses#^dd31c6|Macros]]
 	- Virtual Basic for Applications (VBA)
 
 ## 1.5 - Explain different threat actors, vectors, and intelligence sources

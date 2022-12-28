@@ -7,11 +7,63 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # About
 ---
-- Item
+- #Microsoft  Office is one of the largest productivity suites
+	- Excel - Spreadsheets
+	- Word - Word Processor
+	- Outlook - Email
+	- More
 
-# Topic
+# Protecting Files
 ---
-- Item
+- Password protect
+	- Built in to many apps in Office suite
+- Read Only
+	- Stops from being modified
+- [[Viruses#^dd31c6|Macros]]
+	- Check settings
+	- By default <u>SHOULD</u> set to "Disable all macros without notification"
+		- Can sett with [[Group Policies]]
+	- #Microsoft defaults to allowing
+- Digital Certificates
+	- Set to only open files from valid signatures
+- Encrypt documents
+	- Office or #Bitlocker
+
+```ad-info
+title: Password Protect
+collapse:close
+Tools > Password Protect
+![[Windows_OfficePassProtect1.png]]
+```
+
+```ad-info
+title: Macros
+collapse:close
+Preferences/Tools > Security
+![[Windows_Macros1.png]]
+```
+
+# Protecting Emails
+---
+- Digital signatures and digital certificates
+	- Relies on Public Key #Infrastructure  (PKI)
+- Archive
+	- File should be password protected and/or encrypted
+- Junk mail
+	- Filter in server and client
+
+# Other Apps
+---
+- User Account Control (UAC)
+	- Prevents unauthorized access and avoids #UserAction errors in the form of accidental changes ^b1fab1
+	- When running it asks if you want to run as admin and you will need to put in admin credentials
+
+```ad-info
+title: UAC Popup
+collapse:close
+![[Windows_UAC1.png]]
+```
+
 
 # Objectives
 ---
