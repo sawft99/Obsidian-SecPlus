@@ -20,6 +20,11 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Session
 		- Keeps track of user, preferences, shopping cart, etc
 		- Maintains connection/session between you and the server
+- Secure Attribute
+	- When a cookie has the Secure attribute, the user agent includes the cookie in an HTTP request <u>only if the request is transmitted over a secure channel</u> (typically HTTPS).
+	- Although seemingly useful for protecting cookies from active network attackers, the Secure attribute <u>protects only the cookie’s confidentiality</u>
+	- Forcing the web application to use TLS or SSL <u>does not force</u> the cookie to be sent over TLS/SSL, so you still would need to set the Secure attribute on the cookie.
+	- Hashing the cookie provides <u>integrity of the cookie, not confidentiality</u>.
 - Cookies are becoming blocked or removed now, some companies have moved to "Server side tracking"
 	- Allows them to do similar tracking without cookies
 
