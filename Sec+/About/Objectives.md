@@ -124,7 +124,7 @@ collapse: close
 - Memory leak
 - Secure sockets layer (SSL) stripping
 - #Drivers  manipulation
-	- Shimming
+	- [[Rootkits#^b62b08|Shimming]]
 	- Refactoring
 - Pass the hash
 
@@ -504,7 +504,7 @@ collapse: close
 - Replication
 	- Storage area network (SAN)
 		- [[Securing Storage#Storage Area Network (SAN)|SAN]]
-	- VM
+	- [[Virtualization#Virtual Machine Types|Virtual Machine]]
 - On-premises vs. cloud
 - Backup types
 	- Full
@@ -529,6 +529,8 @@ collapse: close
 	- Live boot media
 - High availability
 	- Scalability
+		- [[Securing Storage#Network Attached Storage (NAS)|Network Attached Storage (NAS)]]
+		- [[Securing Storage#Storage Area Network (SAN)|Storage Area Network (SAN)]]
 	- [[Securing Storage]]
 - Restoration order
 - Diversity
@@ -751,7 +753,7 @@ conditioning (HVAC)
 	- Tokenization
 	- Salting
 	- #Hashing
-- Application security
+- [[Application Security]]
 	- Input validations
 	- Secure cookies
 	- Hypertext Transfer Protocol (HTTP) headers
@@ -759,9 +761,11 @@ conditioning (HVAC)
 	- Whitelisting
 		- [[Restricting Applications]]
 		- [[Group Policies#Applocker|Applocker]]
+		- [[Web Browser Security]]
 	- Blacklisting
 		- [[Restricting Applications]]
 		- [[Group Policies#Applocker|Applocker]]
+		- [[Web Browser Security]]
 	- Secure coding practices
 	- Static code analysis
 		- Manual code review
@@ -835,6 +839,7 @@ conditioning (HVAC)
 - Network appliances
 	- Jump servers
 	- Proxy servers
+		- [[Web Browser Security#^0799dc|Proxies]]
 		- Forward
 		- Reverse
 	- [[IDS#NIDS|Network Intrusion Detection System (NIDS)]]
@@ -934,6 +939,7 @@ conditioning (HVAC)
 		- [[Hardening Mobile Devices]]
 	- Context-aware authentication
 	- Containerization
+		- [[Hypervisors#Application Containerization|Application Containerization]]
 	- [[Bring Your Own Device (BYOD)#Storage Segmentation|Storage segmentation]]
 	- Full device [[Disk Encryption#Full Disk Encryption|Encryption]]
 - Mobile devices
@@ -1047,7 +1053,9 @@ conditioning (HVAC)
 	- Password keys
 	- Password vaults
 	- TPM
+		- [[Disk Encryption#Trusted Platform Module (TPM)|Trusted Platform Module (TPM)]]
 	- HSM
+		- [[Root of Trust#Hardware Security Module (HSM)|Hardware Security Module (HSM)]]
 	- Knowledge-based authentication
 - Authentication
 	- EAP

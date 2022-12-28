@@ -70,7 +70,7 @@ collapse:close
 - With analytics as the primary function and large amount of data provided, they rely heavily on advanced computing techniques like #MachineLearning or #AI
 - Flow
 	1. Typical flow would be taking an unknown threat and placing it into a #Sandbox environment for analysis
-	2. Heuristic model is generated base don what the system saw
+	2. Heuristic model is generated based on what the system saw
 	3. Passes it into its #MachineLearning  and #AI
 	4. Based on their decision it will be determined as either a threat or safe
 

@@ -28,7 +28,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Integrity
 		- Confirm data has not been modified by unauthorized people
 		- #Hashing
-	- Availability
+	- Availability ^3803a7
 		- Data easily and readily accessible
 		- Stored, accessible, and protected at all times
 		- #Uptime
@@ -89,7 +89,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - Physical controls
 	- Alarms, locks, cameras, ID cards, guards
-- Technical Controls
+- Technical Controls ^c5223f
 	- Smart cards, ACL, [[IDS]]/IPS, network authentication
 - Administrative Controls ^50e62d
 	- AKA "Managerial Controls"

@@ -7,19 +7,11 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # About
 ---
-- Item
-
-# Topic
----
-- Item
-
-# Objectives
----
-- Obj
-
-# TODO (Delete when done)
----
-- [ ] Added vocab
-- [ ] Added and linked objectives in document
-- [ ] Linked objectives back to document
-- [ ] Linked any relevant backlinks to and from document
+- Applications introduce additional abilities for an OS
+	- Browsing the internet
+		- Web browsers
+	- Productivity apps
+		- #Microsoft Office apps
+	- Many other apps
+- Each applications can introduce new vulnerabilities
+- [[Restricting Applications#Whitelisting|Whitelisting]] and [[Restricting Applications#Blacklisting|Blacklisting]] apps to control them
