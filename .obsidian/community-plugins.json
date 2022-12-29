@@ -1,6 +1,5 @@
 [
   "obsidian-kanban",
-  "obsidian-markmind",
   "find-unlinked-files",
   "obsidian-admonition",
   "obsidian-underline",
@@ -15,5 +14,6 @@
   "tag-wrangler",
   "obsidian42-strange-new-worlds",
   "influx",
-  "media-extended"
+  "media-extended",
+  "obsidian-mindmap-nextgen"
 ]

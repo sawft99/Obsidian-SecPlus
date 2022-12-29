@@ -15,6 +15,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Locally Shared Object (LSO)       | ![[Web Browser Concerns#^30b780]]                                                                                                              |
 | Add-Ons                           | ![[Web Browser Concerns#^4017f6]]                                                                                                              |
 | Advanced Security Options         | ![[Web Browser Concerns#^3759d6]]                                                                                                              |
-| User Account Control (UAC)        | ![[Securing Applications#^b1fab1]]                                                                                                                                                |
+| User Account Control (UAC)        | ![[Securing Applications#^b1fab1]]                                                                                                             |
+| Software Development Life Cycle (SDLC)                                  |                                                                                                                                                |
 
 -
