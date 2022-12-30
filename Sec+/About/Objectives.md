@@ -228,13 +228,16 @@ collapse: close
 	- [[Patch Management]]
 - Weak configurations
 	- Open permissions
+		- [[SDLC Principles#Least Privilege|Least Privilege]]
 	- Unsecured root accounts
 	- Errors
 		- [[Patch Management#Stages|Patch Management - Auditing]]
+		- [[SDLC Principles#Fail Securely|Fail Securely]]
 	- Weak [[Disk Encryption#^501400|Encryption]]
 	- Unsecure protocols
 	- Default settings
 		- [[Unnecessary Applications#Baseline Image|Baseline Image]]
+		- [[SDLC Principles#Create Secure Defaults|Create Secure Defaults]]
 	- Open ports and services
 		- [[Unnecessary Applications]]
 - Third-party risks
@@ -431,8 +434,10 @@ collapse: close
 	- Obfuscation/camouflage
 	- Code reuse/dead code
 	- Server-side vs. client-side execution and validation
+		- [[SDLC Principles#Never Trust User Input|Never Trust User Input]]
 	- Memory management
 	- Use of third-party libraries and software development kits (SDKs)
+		- [[SDLC Principles#Rely on Trusted SDKs|Rely on Trusted SDKs]]
 	- Data exposure
 - Open Web Application Security Project (OWASP)
 - Software diversity
@@ -764,10 +769,12 @@ conditioning (HVAC)
 	- #Hashing
 - [[Application Security]]
 	- Input validations
+		- [[SDLC Principles#Never Trust User Input|Never Trust User Input]]
 	- Secure cookies
 		- [[Web Browser Concerns#Cookies|Cookies]]
 	- Hypertext Transfer Protocol (HTTP) headers
 	- Code signing
+		- [[SDLC Principles#Authentication & Integrity|Authentication & Integrity]]
 	- Whitelisting
 		- [[Restricting Applications]]
 		- [[Group Policies#Applocker|Applocker]]
@@ -777,6 +784,7 @@ conditioning (HVAC)
 		- [[Group Policies#Applocker|Applocker]]
 		- [[Web Browser Security]]
 	- Secure coding practices
+		- [[SDLC Principles]]
 	- Static code analysis
 		- Manual code review
 	- Dynamic code analysis
@@ -1349,7 +1357,7 @@ conditioning (HVAC)
 	- Job rotation
 	- Mandatory vacation
 	- Separation of duties
-	- Least privilege
+	- [[SDLC Principles#Least Privilege|Least privilege]]
 	- Clean desk space
 	- Background checks
 	- Non-disclosure agreement (NDA)
@@ -1376,6 +1384,7 @@ conditioning (HVAC)
 	- Business partnership agreement (BPA)
 	- End of life (EOL)
 		- [[Supply Chain Assessment]]
+		- [[Software Development#Maintenance|Maintenance/Retirement]] of a product
 	- End of service (EOS)
 	- NDA
 - Data
