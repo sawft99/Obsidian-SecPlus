@@ -43,18 +43,20 @@ collapse:close
 ![[Windows_AD_GroupPolicy.png]]
 ```
 
-## Applocker
+# Applocker
+
+## About
 ---
 - Allows you to create rules for scripts, installers, packaged app, and executable rules
 - [[Restricting Applications#Whitelisting|Whitelisting]] and [[Restricting Applications#Blacklisting|Blacklisting]] rules
 - Can make rules based on publisher, path, or file #Hashing
 - Examples
 	- Allow all programs by default and then [[Restricting Applications#Blacklisting|Blacklist]] apps
-	- Deny all programs by default and then [[Restricting Applications#Whitelisting|Whitelist]]
+	- Deny all programs by default and then [[Restricting Applications#Whitelisting|Whitelist]] apps
 	- Any mix
 
-### Process
-
+## Process
+---
 #### Video
 
 ![Vid](https://www.youtube.com/watch?v=T-oSIeuNkbk)

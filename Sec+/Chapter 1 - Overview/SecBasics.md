@@ -23,14 +23,15 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - CIA ^51b6d8
 	- Confidentiality ^9c173d
-		- Info not being disclosed to unauthorized people
+		- Ensuring info is not being disclosed to unauthorized people
 		- [[Disk Encryption#^501400|Encryption]] can keep data confidential
-	- Integrity
-		- Confirm data has not been modified by unauthorized people
-		- #Hashing
+	- Integrity ^1f11b5
+		- Confirm data has not been modified in any way by unauthorized people without permission
+		- #Hashing or Journaling showing an audit trail
 	- Availability ^3803a7
-		- Data easily and readily accessible
+		- Data easily and readily accessible to authorized users
 		- Stored, accessible, and protected at all times
+		- Creating redundancy, error handling, and having software free from bugs
 		- #Uptime
 - AAA ^45fffd
 	- Authentication

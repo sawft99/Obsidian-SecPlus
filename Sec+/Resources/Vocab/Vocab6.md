@@ -20,6 +20,11 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Waterfall Model                        | ![[Software Development#^3b5f48]]                                                                                                              |
 | Version Control                        | ![[Software Development#^af2f0a]]                                                                                                              |
 | Retired                                | ![[Software Development#^8ccdc5]]                                                                                                              |
-| Agile Model                            | ![[Software Development#^e7f76c]]                                                                                                                                               |
+| Agile Model                            | ![[Software Development#^e7f76c]]                                                                                                              |
+| Development Operations (DevOps)        | ![[Software Development#^7d9800]]                                                                                                              |
+| Threat Modeling                        | ![[SDLC Principles#^666e21]]                                                                                                                   |
+| Least Privilege                        | ![[SDLC Principles#^a507db]]                                                                                                                   |
+| Defense In Depth                       | ![[SDLC Principles#^526bd3]]                                                                                                                   |
+| Software Development Kit (SDK)         | ![[SDLC Principles#^e6f72a]]                                                                                                                                               |
 
 -

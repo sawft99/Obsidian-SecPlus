@@ -64,7 +64,7 @@ collapse:close
 
 # Tampering
 ---
-- Ant-Tamper
+- Anti-Tamper
 	- Method that makes it difficult for an attacker to alter the authorized execution of software ^e22ab4
 - Mechanisms
 	- Mechanisms include a Field Programable Gate Array (FPGA) and a Physically Unencodable Function (PUF)

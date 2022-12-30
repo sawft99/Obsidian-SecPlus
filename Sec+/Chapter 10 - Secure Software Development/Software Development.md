@@ -110,17 +110,10 @@ collapse:close
 
 # Development Operations (DevOps)
 ---
-- Where [[Software Development]] and Information Technology work together to speed up development and deployment of an app
+- Where [[Software Development]] and Information Technology work together to speed up development and deployment of an app ^7d9800
 - Reduces timeline
 
 # Objectives
 ---
 - [[Objectives#2.1 - Explain the importance of security concepts in an enterprise environment|2.1 - Explain the importance of security concepts in an enterprise environment]]
 - [[Objectives#2.3 - Summarize secure application development, deployment, and automation concepts|2.3 - Summarize secure application development, deployment, and automation concepts]]
-
-# TODO (Delete when done)
----
-- [x] Added vocab
-- [x] Added and linked objectives in document
-- [ ] Linked objectives back to document
-- [ ] Linked any relevant backlinks to and from document
