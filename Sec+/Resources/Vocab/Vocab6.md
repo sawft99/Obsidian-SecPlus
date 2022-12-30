@@ -19,6 +19,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Software Development Life Cycle (SDLC) | ![[Software Development#^f67d9d]]                                                                                                              |
 | Waterfall Model                        | ![[Software Development#^3b5f48]]                                                                                                              |
 | Version Control                        | ![[Software Development#^af2f0a]]                                                                                                              |
-| Retired                                | ![[Software Development#^8ccdc5]]                                                                                                                                               |
+| Retired                                | ![[Software Development#^8ccdc5]]                                                                                                              |
+| Agile Model                            | ![[Software Development#^e7f76c]]                                                                                                                                               |
 
 -

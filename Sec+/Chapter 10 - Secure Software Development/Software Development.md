@@ -21,17 +21,18 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 ## About
 ---
-- Each project phase is broken into smaller portions and as each is finished you move onto the next ^3b5f48
-- Flows from the top down
-- Visually looks like a water fall
+- Each project phase is broken into smaller pieces and once one section is finished you move onto the next ^3b5f48
+- Flows from the top down and visually looks like a water fall
 - Good for <u>complex projects and high levels of security</u>
 - But <u>time consuming and not good for rapid deployment and development</u>
-- Any changes in requirements would require you to restart
+- Any changes in requirements would require you to restart the process
 - In stricter waterfall scenarios you can't add new features until the initial product comes out or the cycle finishes
+- Typical periods of 6 - 12 month phases
 
 ```ad-info
 title: Waterfall Model
 collapse:close
+![[WaterfallModel2.png]]
 ![[WaterfallModel1.png]]
 ```
 
@@ -87,6 +88,30 @@ collapse:close
 	- <u>For CompTia</u> this is part of the [[#Maintenance]] phase but it is common for this to be its own phase in other models
 	- #Windows XP is retired and therefore no longer supported
 	- Need to <u>develop a migration plan</u> to replace
+
+# Agile Model
+
+## About
+---
+- Projects are performed in "time-box" or small increments to allow more adaptivity to change ^e7f76c
+- Still perform most of the phases in the [[#Waterfall Model]] but it is much quicker
+- Typical 2 - 4 week periods also known as a "Sprint"
+
+```ad-info
+title: Agile Model
+collapse:close
+![[AgileModel1.png]]
+```
+
+# Model Comparison
+---
+- [[#Waterfall Model]] may be for larger products such as releasing an operating system
+- [[#Agile Model]] releasing 2 - 3 features during sprint to work up to the final product
+
+# Development Operations (DevOps)
+---
+- Where [[Software Development]] and Information Technology work together to speed up development and deployment of an app
+- Reduces timeline
 
 # Objectives
 ---
