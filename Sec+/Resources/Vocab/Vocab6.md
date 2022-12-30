@@ -18,13 +18,18 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | User Account Control (UAC)             | ![[Securing Applications#^b1fab1]]                                                                                                             |
 | Software Development Life Cycle (SDLC) | ![[Software Development#^f67d9d]]                                                                                                              |
 | Waterfall Model                        | ![[Software Development#^3b5f48]]                                                                                                              |
+| Agile Model                            | ![[Software Development#^e7f76c]]                                                                                                              |
 | Version Control                        | ![[Software Development#^af2f0a]]                                                                                                              |
 | Retired                                | ![[Software Development#^8ccdc5]]                                                                                                              |
-| Agile Model                            | ![[Software Development#^e7f76c]]                                                                                                              |
 | Development Operations (DevOps)        | ![[Software Development#^7d9800]]                                                                                                              |
-| Threat Modeling                        | ![[SDLC Principles#^666e21]]                                                                                                                   |
+| Threat Modeling                        | ![[SDLC Principles#^2f0503]]                                                                                                                   |
 | Least Privilege                        | ![[SDLC Principles#^a507db]]                                                                                                                   |
 | Defense In Depth                       | ![[SDLC Principles#^526bd3]]                                                                                                                   |
-| Software Development Kit (SDK)         | ![[SDLC Principles#^e6f72a]]                                                                                                                                               |
+| Software Development Kit (SDK)         | ![[SDLC Principles#^e6f72a]]                                                                                                                   |
+| Exceptions                             | ![[Testing Methods#^13a069]]                                                                                                                   |
+| Runtime Error                          | ![[Testing Methods#^ed3630]]                                                                                                                   |
+| Syntax Error                           | ![[Testing Methods#^492e68]]                                                                                                                   |
+| Structured Exception Handling (SEH)    | ![[Testing Methods#^f9b49c]]                                                                                                                   |
+| Input Validation                       | ![[SDLC Principles#^a571f8]]                                                                                                                                               |
 
 -

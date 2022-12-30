@@ -21,7 +21,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Threat Modeling
 ---
-- Prioritizes vulnerability identification and patching  throughout the [[Software Development#Software Development Life Cycle (SDLC)|SDLC)]] ^666e21
+- Threat modeling works to identify, communicate, and understand threats and mitigations within the context of protecting something of value [^1] ^2f0503
+- Prioritizes vulnerability identification and patching throughout the [[Software Development#Software Development Life Cycle (SDLC)|SDLC]]
 - By prioritizing threats an analyst can identify applications or systems that should receive additional protections, which ones have known vulnerabilities, which threats are most likely to affect the system
 - Can then appropriately assign resources to address any issues
 
@@ -39,8 +40,17 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 ## Never Trust User Input
 ---
-- Any input that is received from #UserAction and input should undergo "input validation" prior to allowing it to be utilized by the application
+- Any input that is received from #UserAction and input should undergo "Input Validation" prior to allowing it to be utilized by the application
+	- When applications verify that information received from a user matches a specific format or range of values ^a571f8
 	- Ensuring information entered is valid and not able to negatively affect a system
+	- Example
+	- "Check SSN value, If SSN is greater than 000-00-0000 and SSN is less than 999-99-9999 then do a function, otherwise return an error"
+
+```ad-info
+title: Input Validation Example
+collapse:close
+![[InputValidationExample1.png]]
+```
 
 ## Minimize Attack Surface
 ---
@@ -80,3 +90,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - [[Objectives#2.3 - Summarize secure application development, deployment, and automation concepts|2.3 - Summarize secure application development, deployment, and automation concepts]]
 - [[Objectives#3.2 - Given a scenario, implement host or application security solutions|3.2 - Given a scenario, implement host or application security solutions]]
 - [[Objectives#5.3 - Explain the importance of policies to organizational security|5.3 - Explain the importance of policies to organizational security]]
+
+# References
+
+[^1]: https://owasp.org/www-community/Threat_Modeling
