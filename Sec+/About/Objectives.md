@@ -330,8 +330,10 @@ collapse: close
 ---
 - Configuration management
 	- Diagrams
+		- [[Software Development]]
 	- Baseline configuration
 		- [[Group Policies]]
+		- [[Software Development]]
 	- Standard naming conventions
 	- Internet protocol (IP) schema
 - Data sovereignty
@@ -410,13 +412,20 @@ collapse: close
 ---
 - Environment
 	- Development
+		- [[Software Development#About|Software Development]]
 	- Test
+		- [[Software Development#Testing|Software Development]]
 	- Staging
+		- [[Software Development#Integration|Software Development]]
 	- Production
+		- [[Software Development#Integration|Software Development]]
 	- Quality assurance (QA)
+		- [[Software Development#Testing|Software Development Testing]]
+		- [[Software Development#Maintenance|Software Development Maintenance]]
 - Provisioning and deprovisioning
 - Integrity measurement
 - Secure coding techniques
+	- [[Software Development#Waterfall Model|Waterfall Model]]
 	- Normalization
 	- Stored procedures
 	- Obfuscation/camouflage
@@ -438,7 +447,7 @@ collapse: close
 	- Continuous deployment
 - Elasticity
 - Scalability
-- Version control
+- [[Software Development#^f7f5aa|Version Control]]
 
 ## 2.4 - Summarize authentication and authorization design concepts
 ---
