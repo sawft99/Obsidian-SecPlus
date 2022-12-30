@@ -30,6 +30,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Runtime Error                          | ![[Testing Methods#^ed3630]]                                                                                                                   |
 | Syntax Error                           | ![[Testing Methods#^492e68]]                                                                                                                   |
 | Structured Exception Handling (SEH)    | ![[Testing Methods#^f9b49c]]                                                                                                                   |
-| Input Validation                       | ![[SDLC Principles#^a571f8]]                                                                                                                                               |
+| Input Validation                       | ![[SDLC Principles#^a571f8]]                                                                                                                   |
+| Static Analysis                        |                                                                                                                                                |
+| Dynamic Analysis                       |                                                                                                                                                |
 
 -

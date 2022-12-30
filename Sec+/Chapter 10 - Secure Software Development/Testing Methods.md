@@ -71,17 +71,19 @@ collapse:close
 
 ## Dynamic Analysis
 ---
-- Performing an analysis while it is being run
+- Performing an analysis while software is being run
 - [[#Fuzzing]] is a common method used to perform dynamic analysis
 
 ## Fuzzing
 ---
 - Using a piece of software/program to insert randomized data into another software/program in an attempt to find system failures, memory leaks, error handling issues, and improper [[SDLC Principles#Never Trust User Input|Input Validation]]
--
+- Does many different types of random inputs to test
+- Network fuzzing also exists to stress test the entirety of a network
 
 # Objectives
 ---
-- Obj
+- [[Objectives#2.3 - Summarize secure application development, deployment, and automation concepts||2.3 - Summarize secure application development, deployment, and automation concepts|]]
+- [[Objectives#3.2 - Given a scenario, implement host or application security solutions|3.2 - Given a scenario, implement host or application security solutions]]
 
 # TODO (Delete when done)
 ---
