@@ -299,7 +299,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Installation
 		- During #Exploit it will install additional code to maintain remote access and achieve persistence
 		- "Phase 2"
-	- Command and Control #C2
+	- Command and Control #C2 ^5ba0e4
 		- Where weaponized code talks to an outside server to use additional functions
 		- Able to remotely use host at this point
 		- Establish 2 way communication

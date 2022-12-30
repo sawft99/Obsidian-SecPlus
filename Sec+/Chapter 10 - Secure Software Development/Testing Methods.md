@@ -52,7 +52,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Credit card site asking for information like Name, DOB, and SSN
 	- Entering information such as a 14th month or an SSN less than 9 characters should be caught
 - Using [[SDLC Principles#Never Trust User Input|Input Validation]] should catch or prevent these errors
-	- Attackers often abuse input validation to conduct Cross site Scripting (XSS), SQL Injection, and Buffer Overflows
+	- Attackers often abuse input validation to conduct Cross site Scripting (XSS), SQL Injection, and [[Buffer Overflow]]
 
 ```ad-info
 title: Credit Card Error
@@ -65,18 +65,18 @@ collapse:close
 
 ## Static Analysis
 ---
-- Source code of an application is reviewed manually or with automatic tools <u>without running the code</u>
-- Someone who knows the language it is written in
+- Source code of an application is reviewed manually or with automatic tools <u>without running the code</u> ^95dd07
+- Reviewed by someone who knows the language it is written in
 - Some automation tools can be used to automatically find errors and bring them to your attention
 
 ## Dynamic Analysis
 ---
-- Performing an analysis while software is being run
+- Performing an analysis while software is being run ^c957be
 - [[#Fuzzing]] is a common method used to perform dynamic analysis
 
 ## Fuzzing
 ---
-- Using a piece of software/program to insert randomized data into another software/program in an attempt to find system failures, memory leaks, error handling issues, and improper [[SDLC Principles#Never Trust User Input|Input Validation]]
+- Using a piece of software/program to insert randomized data into another software/program in an attempt to find system failures, memory leaks, error handling issues, and improper [[SDLC Principles#Never Trust User Input|Input Validation]] ^e90821
 - Does many different types of random inputs to test
 - Network fuzzing also exists to stress test the entirety of a network
 
@@ -84,10 +84,3 @@ collapse:close
 ---
 - [[Objectives#2.3 - Summarize secure application development, deployment, and automation concepts||2.3 - Summarize secure application development, deployment, and automation concepts|]]
 - [[Objectives#3.2 - Given a scenario, implement host or application security solutions|3.2 - Given a scenario, implement host or application security solutions]]
-
-# TODO (Delete when done)
----
-- [ ] Added vocab
-- [ ] Added and linked objectives in document
-- [ ] Linked objectives back to document
-- [ ] Linked any relevant backlinks to and from document

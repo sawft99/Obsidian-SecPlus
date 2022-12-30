@@ -14,6 +14,7 @@ kanban-plugin: basic
 - [ ] [[Root of Trust]] TPM components defined?
 - [ ] [[Root of Trust]] and [[Trusted Firmware]] Define digital signing
 - [ ] Code signing def [[SDLC Principles]]
+- [ ] CVE def on [[Software Vulnerabilities & Exploits]]
 
 
 ## Working On

@@ -58,10 +58,11 @@ collapse: close
 - [[Malware]]
 	- [[Ransomware]]
 	- [[Trojans]]
+		- [[Software Vulnerabilities & Exploits#Remote Code Execution (RCE)|Remote Code Execution (RCE)]]
 	- [[Worms]]
 	- Potentially unwanted programs (PUPs)
 	- [[Malware Exploitation|Fileless virus]]
-	- Command and control #C2
+	- [[SecBasics#^5ba0e4|Command & Control]] #C2
 	- [[Botnets & Zombies]]
 	- [[Ransomware]]
 	- [[Backdoors & Logic Bombs#Logic Bombs|Logic Bombs]]
@@ -99,6 +100,7 @@ collapse: close
 ---
 - [[Active Intercept & Privilege Escalation|Privilege Escalation]]
 - Cross-site scripting
+	- [[SDLC Principles#Never Trust User Input|Input Validation]]
 - Injections
 	- Structured query language (SQL)
 	- [[Rootkits#DLL Injection|DLL Injection]]
@@ -106,10 +108,13 @@ collapse: close
 	- Extensible markup language (XML)
 - Pointer/object dereference
 - Directory traversal
-- Buffer overflows
+	- [[Software Vulnerabilities & Exploits#Directory Traversal|Directory Traversal]]
+- [[Buffer Overflow]]
+	- [[Testing Methods#Structured Exception Handling (SEH)|Structured Exception Handling (SEH)]]
 - Race conditions
 	- Time of check/time of use
 - Error handling
+	- [[Testing Methods#Errors|Errors]]
 - Improper input handling
 - Replay attack
 	- Session replays
@@ -222,7 +227,7 @@ collapse: close
 ## 1.6 - Explain the security concerns associated with various types of vulnerabilities
 ---
 - Cloud-based vs. on-premises vulnerabilities
-- Zero-day
+- [[Software Vulnerabilities & Exploits#Zero Day|Zero Day]]
 	- [[Unnecessary Applications]]
 	- [[Updates and Patches]]
 	- [[Patch Management]]
@@ -233,6 +238,7 @@ collapse: close
 	- Errors
 		- [[Patch Management#Stages|Patch Management - Auditing]]
 		- [[SDLC Principles#Fail Securely|Fail Securely]]
+		- [[Testing Methods#Forms Of Code Analysis|Forms Of Code Analysis]]
 	- Weak [[Disk Encryption#^501400|Encryption]]
 	- Unsecure protocols
 	- Default settings
@@ -243,7 +249,9 @@ collapse: close
 - Third-party risks
 	- Vendor management
 		- System integration
+			- [[Software Development#Integration|Waterfall Model - Integration]]
 		- Lack of vendor support
+			- [[Software Development#Maintenance|Retired]]
 	- Supply chain
 		- [[Supply Chain Assessment]]
 	- Outsourced code development
@@ -418,6 +426,7 @@ collapse: close
 		- [[Software Development#About|Software Development]]
 	- Test
 		- [[Software Development#Testing|Software Development]]
+		- [[Testing Methods]]
 	- Staging
 		- [[Software Development#Integration|Software Development]]
 	- Production
@@ -450,6 +459,7 @@ collapse: close
 	- Continuous integration
 	- Continuous delivery
 	- Continuous deployment
+	- [[Testing Methods#Fuzzing|Fuzzing]]
 - Elasticity
 - Scalability
 - [[Software Development#^f7f5aa|Version Control]]
@@ -785,10 +795,10 @@ conditioning (HVAC)
 		- [[Web Browser Security]]
 	- Secure coding practices
 		- [[SDLC Principles]]
-	- Static code analysis
+	- [[Testing Methods#Static Analysis|Static Code Analysis]]
 		- Manual code review
-	- Dynamic code analysis
-	- Fuzzing
+	- [[Testing Methods#Dynamic Analysis|Dynamic Code Analysis]]
+	- [[Testing Methods#Fuzzing|Fuzzing]]
 - [[Hardening]]
 	- Open ports and services
 	- Registry
