@@ -30,7 +30,12 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - [[Buffer Overflow]] process that is specific to this model
 	- If an attacker places too much information in the [[#Stack]] or changes the value of the Return pointer they can carry out an attack
 	- Overwrite the return address of the pointer so that it will point to a different place in the [[#Stack]] where an attacker could have left some malicious code or [[Malware]]
-	- When the non malicious code (The actual app) is run it hits the return pointer and will execute the malicious code/[[Malware]]
+	- When the non malicious code (The actual app) is run it hits the return pointer and will execute the malicious code or [[Malware]]
+		- AKA [[#Smashing the Stack]]
+
+# Smashing the Stack
+---
+- Occurs when an attacker fills up the buffer with Non Operational Instruction (NOP) so that the return address may hit a NOP and continue on until it finds the attackers code to run
 
 ```ad-info
 title: Stack - First In Last Out
