@@ -24,7 +24,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 ## First In Last Out
 ---
-- Type of [[#Stack]] where the first thing in is the last thing to be removed
+- Principle in a [[#Stack]] where the first thing in is the last thing to be removed
 - Data is filled from the bottom of the memory to the top
 	- <u>Picture example is inverse of this</u>, as in top to bottom, but this is considered the standard way to represent a stack
 - [[Buffer Overflow]] process that is specific to this model
