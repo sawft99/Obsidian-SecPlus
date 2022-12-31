@@ -33,15 +33,15 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- When the non malicious code (The actual app) is run it hits the return pointer and will execute the malicious code or [[Malware]]
 		- AKA [[#Smashing the Stack]]
 
-# Smashing the Stack
----
-- Occurs when an attacker fills up the buffer with Non Operational Instruction (NOP) so that the return address may hit a NOP and continue on until it finds the attackers code to run
-
 ```ad-info
 title: Stack - First In Last Out
 collapse:close
 ![[StackExample1.png]]
 ```
+
+# Smashing the Stack
+---
+- Occurs when an attacker fills up the buffer with Non Operational Instruction (NOP) so that the return address may hit a NOP and continue on until it finds the attackers code to run
 
 # Examples & Explanations
 ---
