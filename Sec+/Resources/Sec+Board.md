@@ -16,6 +16,7 @@ kanban-plugin: basic
 - [ ] Code signing def [[SDLC Principles]]
 - [ ] CVE def on [[Software Vulnerabilities & Exploits]]
 - [ ] Return address def [[Buffer Overflow]]
+- [ ] Return pointer def [[Buffer Overflow]]
 
 
 ## Working On

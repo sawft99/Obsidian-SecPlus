@@ -54,13 +54,28 @@ collapse:close
 
 # Smashing the Stack
 ---
-- Occurs when an attacker fills up the <u>stack portion of the buffer</u> with Non Operational Instruction (NOP) so that the return address may hit a NOP and continue on until it finds the attackers code to run
+- Occurs when an attacker fills up the <u>stack portion of the buffer</u> so that the return address may lead into and continue on until it finds the attackers code to run
+- A common method to use is adding NOP instructions to fill the space
+	- Can lead to a [[#NOP Slide]]
 - A NOP instruction is an instruction telling the program to do nothing and continue on to the next part
-- Can lead to a [[#NOP Slide]]
 
 # NOP Slide
 ---
-- When the series of NOPs occur are hit by the legit app
+- When the series of NOPs that occur are hit by the legit app and they finally hit the return pointer that leads to the memory address containing the malicious code/[[Malware]]
+
+```ad-info
+title: NOP Slide Example
+collapse:close
+![[NOPSlideExample1.png]]
+```
+
+# Address Space Randomization Layout (ASLR)
+---
+- Method used by programmers to randomly arrange the different address spaces used by a program or process to prevent [[Buffer Overflow]] exploits
+- Helps prevent attacker form knowing or guessing where a return pointer is in a legitimate program has been set to call back
+	- Side channel attacks can potentially bypass
+- Primarily made for common apps or OS's
+- Introduced in #Windows Vista
 
 # Examples & Explanations
 ---
