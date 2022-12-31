@@ -41,7 +41,7 @@ collapse:close
 
 # Smashing the Stack
 ---
-- Occurs when an attacker fills up the buffer with Non Operational Instruction (NOP) so that the return address may hit a NOP and continue on until it finds the attackers code to run
+- Occurs when an attacker fills up the stack portion of the buffer with Non Operational Instruction (NOP) so that the return address may hit a NOP and continue on until it finds the attackers code to run
 
 # Examples & Explanations
 ---
