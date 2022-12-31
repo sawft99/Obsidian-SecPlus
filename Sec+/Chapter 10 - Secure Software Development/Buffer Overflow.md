@@ -60,7 +60,7 @@ collapse:close
 
 # NOP Slide
 ---
--
+- When the series of NOPs occur are hit by the legit app
 
 # Examples & Explanations
 ---
