@@ -116,6 +116,7 @@ collapse: close
 - Error handling
 	- [[Testing Methods#Errors|Errors]]
 - Improper input handling
+	- [[SDLC Principles#Never Trust User Input|Input Validation]]
 - Replay attack
 	- Session replays
 - Integer overflow
@@ -123,6 +124,7 @@ collapse: close
 	- Server-side
 	- Client-side
 	- Cross-site
+		- [[SDLC Principles#Never Trust User Input|Input Validation]]
 - Application programming
 	- Interface (API) attacks
 - Resource exhaustion

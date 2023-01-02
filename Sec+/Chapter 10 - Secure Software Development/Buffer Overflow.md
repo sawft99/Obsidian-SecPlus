@@ -7,7 +7,12 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # About
 ---
-- Occurs when a process stores data outside the memory range ([[#^80b29e|Buffer]]) allocated by the developer ^7e4396
+- Buffer
+	- A temporary storage area that a program uses to store data ^80b29e
+- Stack
+	- Reserved area of memory where the program saves the return address when a function call instruction is received ^f4b832
+- Buffer Overflow
+	- Occurs when a process stores data outside the memory range ([[#^80b29e|Buffer]]) allocated by the developer ^7e4396
 - Buffer Overflow can also e used as a general term to refer to any other section of memory with an overflow issue
 - <u>85% of data breaches occur from Buffer Overflows</u> as the initial [[Malware Infections#Attack Vector|Attack Vector]]
 - Example
@@ -19,25 +24,15 @@ collapse:close
 ![[MemoryArea1.png]]
 ```
 
-# Buffer
----
-- A temporary storage area that a program uses to store data ^80b29e
-
-# Stack
-
-## About
----
-- Reserved area of memory where the program saves the return address when a function call instruction is received ^f4b832
-
 ```ad-info
 title: Stack Layout
 collapse:close
 ![[StackArea1.png]]
 ```
 
-## First In Last Out
+# First In Last Out
 ---
-- Principle in a [[#Stack]] where the first thing in is the last thing to be removed
+- Principle in a [[#^f4b832|Stack]] where the first thing in is the last thing to be removed
 - Data is filled from the bottom of the memory to the top (Low address to high address)
 	- <u>Picture example is inverse of this</u>, as in top to bottom, but this is considered the standard way to represent a stack
 - [[Buffer Overflow]] process that is specific to this model
@@ -54,14 +49,15 @@ collapse:close
 
 # Smashing the Stack
 ---
-- Occurs when an attacker fills up the <u>stack portion of the buffer</u> so that the return address may lead into and continue on until it finds the attackers code to run
+- Occurs when an attacker fills up the <u>stack portion of the buffer</u> so that the return address may lead into and continue on until it finds the attackers code to run ^3d13e7
+- NOP instruction
+	- An instruction telling the program to do nothing and continue on to the next part ^fe8100
 - A common method to use is adding NOP instructions to fill the space
 	- Can lead to a [[#NOP Slide]]
-- A NOP instruction is an instruction telling the program to do nothing and continue on to the next part
 
 # NOP Slide
 ---
-- When the series of NOPs that occur are hit by the legit app and they finally hit the return pointer that leads to the memory address containing the malicious code/[[Malware]]
+- When the series of NOPs that occur are hit by the legit app and they finally hit the return pointer that leads to the memory address containing the malicious code/[[Malware]] ^c9fb54
 
 ```ad-info
 title: NOP Slide Example
@@ -71,7 +67,7 @@ collapse:close
 
 # Address Space Randomization Layout (ASLR)
 ---
-- Method used by programmers to randomly arrange the different address spaces used by a program or process to prevent [[Buffer Overflow]] exploits
+- Method used by programmers to randomly arrange the different address spaces used by a program or process to prevent [[Buffer Overflow]] exploits ^15aa75
 - Helps prevent attacker form knowing or guessing where a return pointer is in a legitimate program has been set to call back
 	- Side channel attacks can potentially bypass
 - Primarily made for common apps or OS's
@@ -93,7 +89,7 @@ collapse:close
 
 # TODO (Delete when done)
 ---
-- [ ] Added vocab
+- [x] Added vocab
 - [ ] Added and linked objectives in document
 - [ ] Linked objectives back to document
 - [ ] Linked any relevant backlinks to and from document

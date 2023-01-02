@@ -40,10 +40,11 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 ## Never Trust User Input
 ---
-- Any input that is received from #UserAction and input should undergo "Input Validation" prior to allowing it to be utilized by the application
+- Input Validation
 	- When applications verify that information received from a user matches a specific format or range of values ^a571f8
 	- Ensuring information entered is valid and not able to negatively affect a system
-	- Example
+- Any input that is received from #UserAction and input should undergo "Input Validation" prior to allowing it to be utilized by the application
+- Example
 	- "Check SSN value, If SSN is greater than 000-00-0000 and SSN is less than 999-99-9999 then do a function, otherwise return an error"
 
 ```ad-info
