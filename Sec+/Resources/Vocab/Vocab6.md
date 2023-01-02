@@ -34,5 +34,3 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Static Analysis                        | ![[Testing Methods#^95dd07]]                                                                                                                   |
 | Dynamic Analysis                       | ![[Testing Methods#^c957be]]                                                                                                                   |
 | Fuzzing                                | ![[Testing Methods#^e90821]]                                                                                                                                               |
-
--

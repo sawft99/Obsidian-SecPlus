@@ -39,7 +39,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 ## About
 ---
-- Occurs when a user is able to grant themselves the ability to run functions as a higher level user ^32adea
+- When a user is able to grant themselves the ability to run functions as a higher level user ^32adea
 	- Such as root or admin
 - Bad on a [[Virtualization#Virtual Machine Types|Virtual Machine]] but it can be worse on a physical server or [[Hypervisors]] due to access to multiple [[Virtualization#Virtual Machine Types|Virtual Machines]]
 - See also [[Active Intercept & Privilege Escalation]]
