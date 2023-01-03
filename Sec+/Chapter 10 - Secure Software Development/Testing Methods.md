@@ -52,7 +52,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Credit card site asking for information like Name, DOB, and SSN
 	- Entering information such as a 14th month or an SSN less than 9 characters should be caught
 - Using [[SDLC Principles#Never Trust User Input|Input Validation]] should catch or prevent these errors
-	- Attackers often abuse input validation to conduct Cross site Scripting (XSS), SQL Injection, and [[Buffer Overflow]]
+	- Attackers often abuse input validation to conduct Cross site Scripting (XSS), [[SQL Injection]], and [[Buffer Overflow]]
 
 ```ad-info
 title: Credit Card Error

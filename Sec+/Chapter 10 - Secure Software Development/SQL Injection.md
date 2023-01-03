@@ -74,10 +74,3 @@ Generally, if you see any kind of question with the 1=1 statement or something e
 # Objectives
 ---
 - [[Objectives#1.3 - Given a scenario, analyze potential indicators associated with application attacks|1.3 - Given a scenario, analyze potential indicators associated with application attacks]]
-
-# TODO (Delete when done)
----
-- [x] Added vocab
-- [ ] Added and linked objectives in document
-- [ ] Linked objectives back to document
-- [ ] Linked any relevant backlinks to and from document
