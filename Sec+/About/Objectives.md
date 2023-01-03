@@ -101,7 +101,7 @@ collapse: close
 - [[Active Intercept & Privilege Escalation|Privilege Escalation]]
 - [[XSS and XSRF#Cross Site Scripting (XSS)|Cross Site Scripting (XSS)]]
 	- [[SDLC Principles#Never Trust User Input|Input Validation]]
-- Injections
+- [[SQL Injection#Injection Attack|Injection Attacks]]
 	- [[SQL Injection]]
 	- [[Rootkits#DLL Injection|DLL Injection]]
 	- Lightweight directory	access protocol (LDAP)
@@ -118,6 +118,7 @@ collapse: close
 	- [[Testing Methods#Errors|Errors]]
 - Improper input handling
 	- [[SDLC Principles#Never Trust User Input|Input Validation]]
+	- [[SQL Injection]]
 - Replay attack
 	- Session replays
 - Integer overflow
