@@ -7,7 +7,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # About
 ---
-- Most browsers have the ability to <u>block JavaScript</u>
+- Most [[Security of Apps#Browser|Browsers]] have the ability to <u>block JavaScript</u>
 - May need to disable for legit functions on some websites where it is necessary
 - Best to turn on for all by default
 - [[#Ads & Malware]] constantly inventing new methods to work around
@@ -16,12 +16,12 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - Attackers can purchase ads (pay per click)
 	- Link to their site or malicious code
-- AdBlock <u>browser extension</u> may help filter
+- AdBlock [[Web Browser Concerns#Add-Ons|Add-On]] may help filter
 - Some websites won't deliver content if adblocker is detected
 
 # Content Filter
 ---
-- <u>Blocking external files</u> like JavaScript, images, or web pages from loading
+- <u>Blocking external files</u> like JavaScript, images, or web pages from loading ^56e474
 - Popular in school and work places
 - Usually blocked by categories such as "Gambling"
 - See also [[Web Browser Security#General Security for Browsers|General Security for Browsers]]

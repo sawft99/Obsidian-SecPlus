@@ -9,7 +9,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - Applications introduce additional abilities for an OS
 	- Browsing the internet
-		- Web browsers
+		- Web [[Security of Apps#Browser|Browsers]]
 	- Productivity apps
 		- #Microsoft Office apps
 	- Many other apps

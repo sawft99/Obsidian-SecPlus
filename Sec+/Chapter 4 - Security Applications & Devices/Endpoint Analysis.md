@@ -28,7 +28,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # AntiVirus (AV)
 ---
-- Software capable of detecting and removing [[Viruses]] and in most cases other types of [[Malware]]
+- Software capable of detecting and removing [[Viruses]] and in most cases other types of [[Malware]] ^982ce4
 - Sometimes also called "Antimalware"
 
 # HIDS/HIPS
@@ -82,7 +82,7 @@ collapse:close
 
 # Advanced Threat Protection (ATP)
 ---
-- More crossover and <u>hybrid companies/products</u> emerging
+- More crossover and <u>hybrid companies/products</u> emerging ^befc27
 	- [[#Endpoint Protection Platforms (EPP)]], [[#Endpoint Detection Response (EDR)]], [[#User and Entity Behavioral Analytics (UEBA)]] all in one
 - Other names
 	- Advanced Endpoint Protection (AEP)

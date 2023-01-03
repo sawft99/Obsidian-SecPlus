@@ -19,7 +19,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Exploit]
 
 ## UEFI
 ---
-- A type of systems firmware providing support for 64-bit CPU operation at boot, full GUI and mouse operation at boot, and better boot security
+- A type of systems firmware providing support for 64-bit CPU operation at boot, full GUI and mouse operation at boot, and better boot security ^8422a7
 - Supports various operations related to
 - [[Securing the BIOS#^e94ab9|BIOS]] is legacy at this point
 - See also [[Securing the BIOS#UEFI|Securing the BIOS]]

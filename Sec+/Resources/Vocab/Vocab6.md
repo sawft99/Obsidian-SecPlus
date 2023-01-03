@@ -33,4 +33,4 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Input Validation                       | ![[SDLC Principles#^a571f8]]                                                                                                                   |
 | Static Analysis                        | ![[Testing Methods#^95dd07]]                                                                                                                   |
 | Dynamic Analysis                       | ![[Testing Methods#^c957be]]                                                                                                                   |
-| Fuzzing                                | ![[Testing Methods#^e90821]]                                                                                                                                               |
+| Fuzzing                                | ![[Testing Methods#^e90821]]                                                                                                                   |

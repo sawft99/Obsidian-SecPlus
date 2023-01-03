@@ -10,7 +10,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Endpoint Protection Platforms (EPP)             | ![[Endpoint Analysis#^fc7325]]                                                                |
 | Endpoint Detection Response (EDR)               | ![[Endpoint Analysis#^46bc3d]]                                                                |
 | User and Entity Behavioral Analytics (UEBA)     | ![[Endpoint Analysis#^2a3fce]]                                                                |
-| Advanced Threat Protection (ATP)                | ![[Endpoint Analysis#Advanced Threat Protection (ATP)]]                                       |
+| Advanced Threat Protection (ATP)                | ![[Endpoint Analysis#^befc27]]                                                                |
 | Wifi Protected Access (WPA)                     | ![[Securing Wireless Devices#^fa413c]]                                                        |
 | SMS Phishing (Smishing)                         | ![[Mobile Malware#^6aa682]]                                                                   |
 | Subscriber Identity Module (SIM)                | ![[SIM Cloning & ID Theft#^f19809]]                                                           |
@@ -30,5 +30,5 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Storage Segmentation                            | ![[Bring Your Own Device (BYOD)#^9579c9]]                                                     |
 | Choose Your Own Device (CYOD)                   | ![[Bring Your Own Device (BYOD)#^9bf98c]]                                                     |
 | Near Field Communication (NFC)                  | ![[Hardening Mobile Devices#^b9fdff]]                                                         |
-| Tethering                                       |   ![[Hardening Mobile Devices#^092f4f]]                                                                                            |
-| Hotspot                                         |    ![[Hardening Mobile Devices#^16a462]]                                                                                           |
+| Tethering                                       | ![[Hardening Mobile Devices#^092f4f]]                                                         |
+| Hotspot                                         | ![[Hardening Mobile Devices#^16a462]]                                                         |

@@ -21,7 +21,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Baseline Image
 ---
-- Create a secure image that contains for all workstations
+- Create a secure image that contains for all workstations ^65c355
 	- OS
 	- Minimum applications needed to function
 	- Configuration policies

@@ -30,6 +30,4 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | VM Escape                             | ![[Threats to VMs#^a2ffe1]]                    |
 | Data Remnants                         | ![[Threats to VMs#^07f11c]]                    |
 | Privilege Elevation                   | ![[Threats to VMs#^32adea]]                    |
-| Live Migration                        | ![[Threats to VMs#^6413ed]]                                               |
-
--
+| Live Migration                        | ![[Threats to VMs#^6413ed]]                    |

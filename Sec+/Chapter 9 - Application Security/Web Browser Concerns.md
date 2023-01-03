@@ -43,7 +43,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Password manager
 - Not necessarily bad but it can introduce additional code which can bring vulnerabilities
 - Could also download add-ons from outside the normal stores where they can more likely to contain [[Malware]]
-- Organizations will often block additional extensions to keep the browser "slim"
+- Organizations will often block additional [[#Add-Ons]] to keep the browser "slim"
 	- See also [[Unnecessary Applications]]
 
 # Advanced Security Options
@@ -135,10 +135,3 @@ collapse:close
 ---
 - [[Objectives#3.2 - Given a scenario, implement host or application security solutions|3.2 - Given a scenario, implement host or application security solutions]]
 - [[Objectives#3.3 - Given a scenario, implement secure network designs|3.3 - Given a scenario, implement secure network designs]]
-
-# TODO (Delete when done)
----
-- [x] Added vocab
-- [x] Added and linked objectives in document
-- [ ] Linked objectives back to document
-- [ ] Linked any relevant backlinks to and from document

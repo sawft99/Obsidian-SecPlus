@@ -99,13 +99,14 @@ collapse: close
 ## 1.3 - Given a scenario, analyze potential indicators associated with application attacks
 ---
 - [[Active Intercept & Privilege Escalation|Privilege Escalation]]
-- Cross-site scripting
+- [[XSS and XSRF#Cross Site Scripting (XSS)|Cross Site Scripting (XSS)]]
 	- [[SDLC Principles#Never Trust User Input|Input Validation]]
 - Injections
-	- Structured query language (SQL)
+	- [[SQL Injection]]
 	- [[Rootkits#DLL Injection|DLL Injection]]
 	- Lightweight directory	access protocol (LDAP)
 	- Extensible markup language (XML)
+		- [[XSS and XSRF#Cross Site Scripting (XSS)|Cross Site Scripting (XSS)]]
 - Pointer/object dereference
 - Directory traversal
 	- [[Software Vulnerabilities & Exploits#Directory Traversal|Directory Traversal]]
@@ -122,8 +123,13 @@ collapse: close
 - Integer overflow
 - Request forgeries
 	- Server-side
+		- [[XSS and XSRF]]
 	- Client-side
+		- [[XSS and XSRF]]
+		- [[XSS and XSRF#DOM-Based|DOM-Based XSS]]
 	- Cross-site
+		- [[XSS and XSRF#Cross Site Scripting (XSS)|Cross Site Scripting (XSS)]]
+		- [[XSS and XSRF#Cross Site Request Forgery (XSRF/CSRF)|Cross Site Request Forgery (XSRF/CSRF)]]
 		- [[SDLC Principles#Never Trust User Input|Input Validation]]
 - Application programming
 	- Interface (API) attacks
@@ -148,7 +154,7 @@ collapse: close
 	- Near field communication (NFC)
 	- Initialization vector (IV)
 - [[Active Intercept & Privilege Escalation|Man in the middle]]
-- Man in the browser
+- Man in the [[Security of Apps#Browser|Browser]]
 - Layer 2 attacks
 	- Address resolution protocol (ARP) poisoning
 	- Media access control (MAC) flooding

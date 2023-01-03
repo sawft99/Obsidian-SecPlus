@@ -23,13 +23,13 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- <u>Storage device</u> that performs <u>whole disk</u> [[#^501400|Encryption]] by using the <u>embedded hardware</u> ^abe3d2
 	- Looks like an external hard drive
 	- Also very expensive and therefore not as common vs [[#Software Based]]
-- <u>Hardware Security Module</u> (HSM) ^5ffc2c
-	- <u>Physical device</u> that acts as a <u>secure crypto processor</u> during the [[#^501400|Encryption]] process or digital signing
+- <u>Hardware Security Module</u> (HSM)
+	- <u>Physical device</u> that acts as a <u>secure crypto processor</u> during the [[#^501400|Encryption]] process or digital signing ^5ffc2c
 	- Typically an adapter card over USB or a networked device
 	- Usually tamper proof with high levels of security
 	- Also very expensive and less common vs [[#Software Based]]
-	- See also [[Root of Trust#Hardware Security Module (HSM)|Root of Trust]]
-	- See also [[Trusted Firmware#Self-Encrypting Drives|Self-Encrypting Drives]]
+- See also [[Root of Trust#Hardware Security Module (HSM)|Root of Trust]]
+- See also [[Trusted Firmware#Self-Encrypting Drives|Self-Encrypting Drives]]
 
 ## Software Based
 ---
@@ -70,7 +70,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Advanced Encryption Standard (AES)
 ---
-- <u>Symmetric</u> key encryption
+- A type of <u>symmetric</u> key encryption ^dccf53
+- Common in WIFI
 - 128 or 256 bit keys
 	- 256 considered "Unbreakable"
 

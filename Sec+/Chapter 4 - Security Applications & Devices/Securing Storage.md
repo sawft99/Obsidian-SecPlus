@@ -28,7 +28,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Network Attached Storage (NAS)
 ---
-- Appliance full of hard drives that connects directly into the network
+- Appliance full of hard drives that connects directly into the network ^f90205
 - Often uses a RAID
 - High availability and #Uptime is important here
 - Combine multiple NAS units to form a [[#Storage Area Network (SAN)]]
