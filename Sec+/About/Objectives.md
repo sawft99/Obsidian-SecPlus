@@ -14,7 +14,7 @@ collapse: close
 ![[Sec+Objectives.pdf]]
 ```
 
-# 1.0 - Threats, Attacks and Vulnerabilities
+# 1.0 - Threats, Attacks, and Vulnerabilities
 
 ## 1.1 - Compare and contrast different types of Social Engineering  techniques
 ---
