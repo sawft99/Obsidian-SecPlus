@@ -29,14 +29,14 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Encrypt documents
 	- Office or #Bitlocker
 
-```ad-info
+```ad-example
 title: Password Protect
 collapse:close
 Tools > Password Protect
 ![[Windows_OfficePassProtect1.png]]
 ```
 
-```ad-info
+```ad-example
 title: Macros
 collapse:close
 Preferences/Tools > Security
@@ -58,7 +58,7 @@ Preferences/Tools > Security
 	- Prevents unauthorized access and avoids #UserAction errors in the form of accidental changes ^b1fab1
 	- When running it asks if you want to run as admin and you will need to put in admin credentials
 
-```ad-info
+```ad-example
 title: UAC Popup
 collapse:close
 ![[Windows_UAC1.png]]

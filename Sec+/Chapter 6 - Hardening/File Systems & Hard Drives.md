@@ -24,7 +24,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - NTFS
 	- The default file system format for #Windows and is more secure because it supports logging, [[Disk Encryption#Full Disk Encryption|Full Disk Encryption]], larger partition sizes, and larger files than FAT32 ^ada5d0
 	- Is newer and <u>recommended to use</u> over FAT32
-	- Can convert FAT32 to NTFS
+- Can convert FAT32 to NTFS
 		- 'Convert DriveLetter:\ /FS:NTFS'
 
 ## #Linux
@@ -65,19 +65,19 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 ### File System
 
-```ad-info
+```ad-example
 title: Windows - chkdsk
 collapse:close
 ![[Win_FS_chkdsk.png]]
 ```
 
-```ad-info
+```ad-example
 title: Linux - fsck
 collapse:close
 ![[Linux_fsck.png]]
 ```
 
-```ad-info
+```ad-example
 title: OSX - First Aid
 collapse:close
 ![[OSX_FistAid.png]]
@@ -85,25 +85,25 @@ collapse:close
 
 ### Defrag
 
-```ad-info
+```ad-example
 title: Windows - Defrag CLI
 collapse:close
 ![[Win_Defrag_CLI.png]]
 ```
 
-```ad-info
+```ad-example
 title: Windows - Defrag App 
 collapse:close
 ![[Win_Defrag_App.png]]]
 ```
 
-```ad-info
+```ad-example
 title: OSX - Defrag App
 collapse:close
 ![[OSX_Defrag_App.png]]
 ```
 
-```ad-info
+```ad-example
 title: Linux - Defrag CLI
 collapse:close
 ![[Linux_Defrag_CLI.png]]

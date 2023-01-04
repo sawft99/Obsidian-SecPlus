@@ -20,7 +20,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - <u>Software</u> on computer or server
 - Logs everything that it "thinks" is suspicious
 
-```ad-info
+```ad-example
 title: HIDS (Snort)
 collapse: close
 ![[HIDS_Snort.png]]

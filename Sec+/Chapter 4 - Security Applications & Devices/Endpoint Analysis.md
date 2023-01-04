@@ -74,7 +74,7 @@ collapse:close
 	3. Passes it into its #MachineLearning  and #AI
 	4. Based on their decision it will be determined as either a threat or safe
 
-```ad-info
+```ad-example
 title: #Microsoft Advanced Threat Analytics Example
 collapse:close
 ![[MS-ATT.png]]

@@ -46,13 +46,13 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 		 2. Set to "Disable" if you do not want that to happen
 	 2. Starting and stopping service
 
-```ad-info
+```ad-example
 title: Services
 collapse:close
 ![[Win_Service1.png]]
 ```
 
-```ad-info
+```ad-example
 title: Service Details
 collapse:close
 ![[Win_Service2.png]]
@@ -65,7 +65,7 @@ collapse:close
 	2. sc start ...
 	3. net stop wuauserv
 
-```ad-info
+```ad-example
 title: Services CLI
 collapse:close
 ![[Win_Service3.png]]
@@ -83,7 +83,7 @@ collapse:close
 	1. "Quit" will attempt to exit the application cleanly first
 	2. For [[Malware]] you likely want "Force Quit"
 
-```ad-info
+```ad-example
 title: Accessing Activity Monitor
 collapse:close
 1. Applications
@@ -94,7 +94,7 @@ collapse:close
 ![[OSX_Service3.png]]
 ```
 
-```ad-info
+```ad-example
 title: Inside Activity Monitor
 collapse:close
 1. Opening Activity Monitor 
@@ -119,13 +119,13 @@ collapse:close
 3. In terminal again
 	1. kill pid xxxx
 
-```ad-info
+```ad-example
 title: Top Command
 collapse:close
 ![[Linux_Service1.png]]
 ```
 
-```ad-info
+```ad-example
 title: Kill Command
 collapse:close
 ![[Linux_Service2.png]]

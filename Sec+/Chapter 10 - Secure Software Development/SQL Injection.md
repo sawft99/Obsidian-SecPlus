@@ -31,7 +31,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - If the query is correct and returns "true" to the web app, the web app can take its next steps such as logging a user in
 - If the query is not correct then "false" is returned to the web app, the web app can take an action such as prompting again for the correct credentials
 
-```ad-info
+```ad-example
 title: SQL Query Example
 collapse:close
 ![[SQLQuery1.png]]
@@ -49,7 +49,7 @@ collapse:close
 	- Does the jason user have a password of 'password' <u>or does 1=1</u>
 - Because 1=1 will return a value of "true" the website will then log you in
 
-```ad-info
+```ad-example
 title: SQL Injection Example
 collapse:close
 ![[SQLInjection1.png]]

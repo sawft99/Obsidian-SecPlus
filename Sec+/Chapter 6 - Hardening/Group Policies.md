@@ -22,7 +22,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- A set of rules that can be applied to users and computers
 		- Lockouts, Password complexity, White/Black list apps
 
-```ad-info
+```ad-example
 title: Local Group Policy Editory - GPEdit.msc
 collapse:close
 ![[Windows_LocalPolicy.png]]
@@ -36,7 +36,7 @@ collapse:close
 	- Once created you need to test with a [[#^331295|Baselining]] procedure
 	- Everything should be categorized as safe or needing further investigation
 
-```ad-info
+```ad-example
 title: Active Directory Group Policy
 collapse:close
 

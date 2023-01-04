@@ -32,16 +32,17 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- #Bitlocker and other [[Disk Encryption#Full Disk Encryption|Full Disk Encryption]] technology can utilize [[Disk Encryption#Trusted Platform Module (TPM)|Trusted Platform Module (TPM)]]
 - See also [[Disk Encryption#Trusted Platform Module (TPM)|Trusted Platform Module (TPM)]]
 
-```ad-tip
-title: The main idea
-collapse: close
-Understand that [[Disk Encryption#Trusted Platform Module (TPM)|Trusted Platform Module (TPM)]] verifies a secure boot and provides a digital report
-```
-
 ```ad-info
 title: TPM Design
 collapse:close
 ![[TPM_Design.png]]
+```
+
+
+```ad-tip
+title: The main idea
+collapse: close
+Understand that [[Disk Encryption#Trusted Platform Module (TPM)|Trusted Platform Module (TPM)]] verifies a [[Trusted Firmware#Secure Boot|Secure Boot]] and provides a digital report
 ```
 
 ## Management

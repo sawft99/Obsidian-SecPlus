@@ -23,4 +23,5 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Structured Query Language (SQL)           | ![[SQL Injection#^c4ac0f]]                                                                        |
 | Injection Attack                          | ![[SQL Injection#^de8163]]                                                                        |
 | SQL Injection                             | ![[SQL Injection#^7df86f]]                                                                        |
+| Extensible Markup Language (XML)          | ![[XML Vulnerabilities#^5a1e86]]                                                                                                  |
 -

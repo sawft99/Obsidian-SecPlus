@@ -48,7 +48,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Example
 	- "Check SSN value, If SSN is greater than 000-00-0000 and SSN is less than 999-99-9999 then do a function, otherwise return an error"
 
-```ad-info
+```ad-example
 title: Input Validation Example
 collapse:close
 ![[InputValidationExample1.png]]

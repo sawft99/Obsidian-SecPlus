@@ -30,7 +30,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - Regularly update browser and extensions
 
-```ad-info
+```ad-example
 title: Chrome Popup Blocker
 collapse:close
 ![[Chrome_Popup_Ex.png]]

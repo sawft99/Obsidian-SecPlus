@@ -55,14 +55,14 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 ## Home Users - IE 11
 ---
-```ad-info
+```ad-example
 title: Internet Options
 collapse:close
 1. First go to Internet Options
 ![[Windows_IEOptions1.png]]
 ```
 
-```ad-info
+```ad-example
 title: Home Page & History
 collapse:close
 2. Confirm Home Page and History settings
@@ -70,14 +70,14 @@ collapse:close
 ![[Windows_IEOptions3.png]]
 ```
 
-```ad-info
+```ad-example
 title: Security Zones
 collapse:close
 3. Configure security settings of zones and add sites, if needed, to the various lists
 ![[Windows_IEOptions4.png]]
 ```
 
-```ad-info
+```ad-example
 title: Popups
 collapse:close
 4. Confure the popup blocker and any allowed sites
@@ -85,14 +85,14 @@ collapse:close
 ![[Windows_IEOptions6.png]]
 ```
 
-```ad-info
+```ad-example
 title: Cookies
 collapse:close
 5. Configure cookie settings
 ![[Windows_IEOptions7.png]]
 ```
 
-```ad-info
+```ad-example
 title: AutoComplete
 collapse:close
 6. Configure any autocomplete settings
@@ -100,7 +100,7 @@ collapse:close
 ![[Windows_IEOptions9.png]]
 ```
 
-```ad-info
+```ad-example
 title: Proxy
 collapse:close
 7. Configure Proxy settings
@@ -108,7 +108,7 @@ collapse:close
 ![[Windows_IEOptions11.png]]
 ```
 
-```ad-info
+```ad-example
 title: Advanced
 collapse:close
 8. Many more settings can be configured from the advanced menu
@@ -117,14 +117,14 @@ collapse:close
 
 ## Enterprise - IE 11
 ---
-```ad-info
+```ad-example
 title: Locate Group Policy Section
 collapse:close
 1. Administrative Templates > WIndows Components > Internet Explorer
 ![[Windows_GPOIE1.png]]
 ```
 
-```ad-info
+```ad-example
 title: Configure Settings
 collapse:close
 2. Configure Settings as Needed

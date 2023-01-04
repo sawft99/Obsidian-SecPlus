@@ -28,7 +28,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- When [[Virtualization#Virtual Machine Types|Virtual Machines]] are created, used, and deployed, without proper management or oversight by system admins ^089aa0
 - Enable [[Disk Encryption#^501400|Encryption]] on the files that make up the [[Virtualization#Virtual Machine Types|Virtual Machine]]
 
-```ad-info
+```ad-example
 title: VM Folder Example
 collapse:close
 ![[VM_Folder1.png]]

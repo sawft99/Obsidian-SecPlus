@@ -54,8 +54,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Using [[SDLC Principles#Never Trust User Input|Input Validation]] should catch or prevent these errors
 	- Attackers often abuse input validation to conduct Cross site Scripting (XSS), [[SQL Injection]], and [[Buffer Overflow]]
 
-```ad-info
-title: Credit Card Error
+```ad-example
+title: Credit Card Error Example
 collapse:close
 ![[CreditCardInputError1.png]]
 ![[CreditCardInputError2.png]]

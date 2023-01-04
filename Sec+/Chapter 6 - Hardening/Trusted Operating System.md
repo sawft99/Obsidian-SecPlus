@@ -26,13 +26,13 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Msinfo32.exe
 - Ver.exe
 
-```ad-info
+```ad-example
 title: MSInfo32.exe
 collapse:close
 ![[Win_MSInfo32.png]]
 ```
 
-```ad-info
+```ad-example
 title: Ver.exe
 collapse:close
 ![[Win_Ver.png]]
