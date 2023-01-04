@@ -7,7 +7,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 
 | Term                                 | Meaning                           |
 | ------------------------------------ | --------------------------------- |
-| Malware                              | ![[Malware#^7d0970]]              | 
+| Malware                              | ![[Malware#^7d0970]]              |
 | Zombies                              | ![[Botnets & Zombies#^3c2842]]    |
 | Distributed Denial of Service (DDOS) |                                   |
 | Spam                                 | ![[Spam#^dae881]]                 |
@@ -26,7 +26,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | DLL Sideloading                      | ![[Malware Exploitation#^53d7c6]] |
 | DLL Injection                        | ![[Rootkits#^47df2b]]             |
 | Process Hollowing                    | ![[Malware Exploitation#^9040b0]] |
-| Intrusion Detection System (IDS)     | ![[IDS#About]]                    |
-| Intrusion Prevention System (IPS)    |                                   |
+| Intrusion Detection System (IDS)     | ![[IDS#^a1d565]]                    |
+| Intrusion Prevention System (IPS)    | ![[IDS#^f81e57]]                                  |
 | Masquerading                         | ![[Malware Exploitation#^37eaf8]] |
 | "Living off the land"                | ![[Malware Exploitation#^2dbb0a]] |

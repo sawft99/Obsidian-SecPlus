@@ -25,7 +25,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - Usually <u>software on workstation</u> monitoring data in use
 - Can stop or alert a file transfer based on rules or policy
-- Similar to an [[IDS]] or [[IPS]] in this way
+- Similar to an [[IDS]] or [[IDS#^f81e57|IPS]] in this way
 	- Detection or Prevention modes
 
 # Network DLP

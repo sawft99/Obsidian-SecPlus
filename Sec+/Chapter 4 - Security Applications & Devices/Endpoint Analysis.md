@@ -34,11 +34,11 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # HIDS/HIPS
 ---
 - Host Intrusion Detection System/Host Intrusion Prevention System ^84109b
-- A type of [[IDS]] or [[IPS]] that monitors a computer system for unexpected behavior or drastic changes to the systems state on an endpoint
+- A type of [[IDS]] or [[IDS#^f81e57|IPS]] that monitors a computer system for unexpected behavior or drastic changes to the systems state on an endpoint
 - Both will use <u>signature based detection</u> with logging and monitoring
 - Often use <u>"File system Integrity Monitoring"</u>
 	- Checks that OS, driver, and application files have not been changed
-- Is usually able to address the problem better than a network based [[IDS]]/[[IPS]] since it is directly on the machine
+- Is usually able to address the problem better than a network based [[IDS]]/[[IDS#^f81e57|IPS]] since it is directly on the machine
 - See also [[IDS#HIDS|IDS]]
 
 # Endpoint Protection Platforms (EPP)

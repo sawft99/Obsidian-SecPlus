@@ -14,7 +14,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - [[Software Firewalls]]
 - [[IDS]]
-- [[IPS]]
+- [[IDS#^f81e57|IPS]]
 - [[Popup Blockers]]
 	- [[Popup Blockers#Ads & Malware|Adblocker]]
 - [[Data Loss Prevention (DLP)]]

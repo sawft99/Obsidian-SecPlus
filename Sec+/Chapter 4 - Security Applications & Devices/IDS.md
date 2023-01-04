@@ -8,9 +8,11 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # About
 ---
 - <u>Intrusion Detection System</u>
-- <u>Device or software</u> on system or network that <u>analyzes data going through it</u>
+- <u>Device or software</u> on system or network that <u>analyzes data going through it</u> ^a1d565
 - Identify incident or attacks
 - Host based ([[#HIDS]]) or network based ([[#NIDS]])
+- Intrusion Prevention System (IPS)
+	- An [[IDS]] with capabilities to also prevent [[Malware]] ^f81e57
 
 # HIDS
 ---
@@ -71,7 +73,7 @@ collapse: close
 # Operations
 ---
 - <u>ONLY alert and log</u>
-- [[IPS]] actually prevents issues
+- [[IDS#^f81e57|IPS]] actually prevents issues
 - Host based systems will usually log only locally
 	- Set up a Syslog server
 	- If logs are kept only on the host an attacker could damage or alter the logs
