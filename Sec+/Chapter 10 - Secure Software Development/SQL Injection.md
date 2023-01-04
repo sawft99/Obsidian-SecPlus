@@ -9,6 +9,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - Structured Query Language
 	- The language a web app communicates to a database server to ask for information ^c4ac0f
+	- Columns are often referred to as "Tables"
 - SQL Injection
 	- A type of [[#Injection Attack]] consisting of the insertion or injection of a SQL query via input data from the client to a web application ^7df86f
 - SQL Injection attacks popular because they interact with databases which often contain
@@ -18,7 +19,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - Insertion of additional information or code through data input from a client to an application ^de8163
 - Can occur with any code
-- SQL,HTML, XML, and LDAP are common languages but SQL is the most popular
+- SQL,HTML, [[XML Vulnerabilities|XML]], and LDAP are common languages but SQL is the most popular
 
 # How SQL Functions - Example
 ---
@@ -39,13 +40,13 @@ collapse:close
 # How SQL Injections Function - Example
 ---
 - Instead of entering normal password you might enter something like
-	- '`OR 1=1;'
+	- <u>'`OR 1=1;'</u>
 - So the query would look like
 	- select * from Users where user_id = 'jason' and <u>password = '`OR 1=1;'</u>
 	- Select any record from the user table in the database where the UID is "Jason" and the password is '`OR 1=1;'
 - Everything <u>AFTER</u> the single quote (') will be treated as a command
 - The difference now is the lookup is asking
-	- Does the jason user have a password  of 'password' or does 1=1
+	- Does the jason user have a password of 'password' <u>or does 1=1</u>
 - Because 1=1 will return a value of "true" the website will then log you in
 
 ```ad-info
@@ -54,10 +55,22 @@ collapse:close
 ![[SQLInjection1.png]]
 ```
 
-# SQL Injection - Demo
+# SQL Injection - Demos
+
+## Long Explanation/Demo
 ---
 
 ![](https://www.youtube.com/watch?v=ciNHn38EyRc)
+
+## SQLMap Demo
+---
+
+![](https://www.youtube.com/watch?v=cx6Xs3F_1Uc)
+
+## Burp Suite Demo
+---
+
+![](https://www.youtube.com/watch?v=cyWmZ2WgnEE)
 
 # Mitigating SQL Injections
 ---
