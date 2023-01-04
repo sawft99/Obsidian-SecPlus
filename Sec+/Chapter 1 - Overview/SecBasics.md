@@ -312,11 +312,11 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ## MITRE ATT&CK Framework
 ---
 - Adversary tactics, technique, and common knowledge
-- attack.mitre.org
-	- <u>Attack navigator</u>
-		- Can click different types and colors to get TTP
-		- Each one will give you more info
-		- Map of possible methodology for attack and defense
+- <u>Attack navigator</u>
+	- attack.mitre.org
+	- Can click different types and colors to get TTP
+	- Each one will give you more info
+	- Map of possible methodology for attack and defense
 - Knowledge based maintained by MITRE organization
 - More iterative or thinking across multiple lines
 	- Matrices
