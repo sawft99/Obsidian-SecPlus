@@ -58,7 +58,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # Compromised Containers
 ---
 - All containers are sharing the same single OS
-- If the OS on the host computer is compromised then all of the [[Hypervisors#Application Containerization|Containers]] can also be comprimised
+- If the OS on the host computer is compromised then all of the [[Hypervisors#Application Containerization|Containers]] can also be compromised
 
 ```ad-info
 title: Containers

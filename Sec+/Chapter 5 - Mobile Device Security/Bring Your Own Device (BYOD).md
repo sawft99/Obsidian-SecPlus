@@ -51,9 +51,13 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 			- Stopping devices from connecting to Wifi
 			- Still can not use at home
 
-# Tip
----
+```ad-danger
+title: Policy Before Implementations
+collapse: close
 - Ensure you have a policy and a choice was not made default by not actually making a choice
+- Create a plan ad then adjust implementations to fit the policy
+- Don't start a project or policy and then make a standard around that
+```
 
 # Objectives
 ---

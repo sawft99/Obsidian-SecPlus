@@ -38,9 +38,8 @@ collapse:close
 ![[TPM_Design.png]]
 ```
 
-
 ```ad-tip
-title: The main idea
+title: Exam Tip
 collapse: close
 Understand that [[Disk Encryption#Trusted Platform Module (TPM)|Trusted Platform Module (TPM)]] verifies a [[Trusted Firmware#Secure Boot|Secure Boot]] and provides a digital report
 ```

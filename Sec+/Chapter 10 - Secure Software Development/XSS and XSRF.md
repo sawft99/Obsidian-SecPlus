@@ -63,7 +63,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Submit [[Web Browser Concerns#Cookies|Cookies]] twice to make sure they both match and have the proper [[SecBasics#^1f11b5|Integrity]]
 
 ```ad-tip
-title: XSS vs XSRF/CSRF - Main Idea
+title: Exam Tip - XSS vs XSRF/CSRF
 collapse: close
 - XSS ![[XSS and XSRF#^18a429]] ![[XSS and XSRF#^2512a1]]
 - XSRF/CSRF ![[XSS and XSRF#^eea3e5]] ![[XSS and XSRF#^09a7b3]]

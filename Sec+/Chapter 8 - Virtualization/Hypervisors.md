@@ -55,9 +55,10 @@ collapse:close
 	- Docker
 	- Parallels Virtuozzo
 	- OpenVZ
+- See also [[Threats to VMs#Compromised Containers|Compromised Containers]]
 
 ```ad-info
-title: Application Containerization - Virtual - Type 1 vs Container
+title: Application Container vs [[Hypervisors]]
 collapse:close
 ![[Application_Containerization.png]]
 ```
