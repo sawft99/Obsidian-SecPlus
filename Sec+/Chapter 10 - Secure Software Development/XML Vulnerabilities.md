@@ -46,7 +46,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Format anything you define with ```<thing>``` and end with ```</thing>```
 - Indent parent/child information for readability
 	- Such as above where the document is defined, followed by the question, followed by the questions information and the pattern repeats backwards as you end each definition
-
+s
 # Attacks
 
 ## XML Bomb (Billion Laughs Attack)
