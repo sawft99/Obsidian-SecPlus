@@ -23,5 +23,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Structured Query Language (SQL)           | ![[SQL Injection#^c4ac0f]]                                                                        |
 | Injection Attack                          | ![[SQL Injection#^de8163]]                                                                        |
 | SQL Injection                             | ![[SQL Injection#^7df86f]]                                                                        |
-| Extensible Markup Language (XML)          | ![[XML Vulnerabilities#^5a1e86]]                                                                                                  |
+| Extensible Markup Language (XML)          | ![[XML Vulnerabilities#^5a1e86]]                                                                  |
+| XML Bomb (Billion Laughs Attack)          | ![[XML Vulnerabilities#^fd20be]]                                                                  |
+| XML External Entity (XXE)                 | ![[XML Vulnerabilities#^a3ddab]]                                                                  |
+| Race Condition                            | ![[Race Conditions#^d9302d]]                                                                                                  |
 -

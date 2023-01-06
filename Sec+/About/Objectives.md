@@ -107,18 +107,20 @@ collapse: close
 	- Lightweight directory	access protocol (LDAP)
 	- Extensible markup language (XML)
 		- [[XSS and XSRF#Cross Site Scripting (XSS)|Cross Site Scripting (XSS)]]
+		- [[XML Vulnerabilities]]
 - Pointer/object dereference
 - Directory traversal
 	- [[Software Vulnerabilities & Exploits#Directory Traversal|Directory Traversal]]
 - [[Buffer Overflow]]
 	- [[Testing Methods#Structured Exception Handling (SEH)|Structured Exception Handling (SEH)]]
-- Race conditions
+- [[Race Conditions]]
 	- Time of check/time of use
 - Error handling
 	- [[Testing Methods#Errors|Errors]]
 - Improper input handling
 	- [[SDLC Principles#Never Trust User Input|Input Validation]]
 	- [[SQL Injection]]
+	- [[XML Vulnerabilities]]
 - Replay attack
 	- Session replays
 - Integer overflow

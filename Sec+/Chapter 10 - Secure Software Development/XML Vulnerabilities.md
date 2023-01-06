@@ -16,7 +16,15 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ```ad-tip
 title: Exam Tip
 collapse: close
-Generally if you see any question in regards to XML it is likely related to [[XML Vulnerabilities]]
+1. Generally if you see any question in regards to XML it is likely related to [[XML Vulnerabilities]]
+2. However, be sure it is not HTML or JavaScript since they look similar
+
+| Language   | Give aways                                            |
+| ---------- | ----------------------------------------------------- |
+| HTML       | font, css, img, or  href                              |
+| JavaScript | Some form of scripting, variables, functions, methods |
+| XML        | Question, ID, Type, Element, Entity                   |
+
 ```
 
 # Format Example
@@ -57,20 +65,20 @@ Generally if you see any question in regards to XML it is likely related to [[XM
 
 ## XML Bomb (Billion Laughs Attack)
 ---
-- XML encodes entities he expand to exponential sizes, consuming memory on the host, and potentially crashing it
+- XML encodes entities he expand to exponential sizes, consuming memory on the host, and potentially crashing it ^fd20be
 - Form of #DDoS
 
 ## XML External Entity (XXE)
 
 ### About
 ---
-- An attack that embeds a request for a local resource
+- An XML attack that embeds a request for a local resource ^a3ddab
 - Similar to File Inclusion
 - Attempts to access "file:///etc/shadow" are a giveaway to this type of attack
-- To prevent have proper input validation
+- To prevent have proper [[SDLC Principles#Never Trust User Input|Input Validation]]
 
 ### XML External Entity (XXE) Example
-
+---
 ```XML
 <?xml version="1.0" encoding="ISO-8859-1"?>
 	<!DOCTYPE foo [
@@ -82,10 +90,3 @@ Generally if you see any question in regards to XML it is likely related to [[XM
 # Objectives
 ---
 - [[Objectives#1.3 - Given a scenario, analyze potential indicators associated with application attacks|1.3 - Given a scenario, analyze potential indicators associated with application attacks]]
-
-# TODO (Delete when done)
----
-- [ ] Added vocab
-- [ ] Added and linked objectives in document
-- [ ] Linked objectives back to document
-- [ ] Linked any relevant backlinks to and from document
