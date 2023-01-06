@@ -13,6 +13,12 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - XML data is submitted from you to the server or from server to server
 - So make sure there is encryption and [[SDLC Principles#Never Trust User Input|Input Validation]] otherwise it can be vulnerable to #spoofing, [[XSS and XSRF#Cross Site Request Forgery (XSRF/CSRF)|Request Forgery]] and [[SQL Injection#Injection Attack|Injection]] of arbitrary code
 
+```ad-tip
+title: Exam Tip
+collapse: close
+Generally if you see any question in regards to XML it is likely related to [[XML Vulnerabilities]]
+```
+
 # Format Example
 
 ## Code
@@ -60,6 +66,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - An attack that embeds a request for a local resource
 - Similar to File Inclusion
+- Attempts to access "file:///etc/shadow" are a giveaway to this type of attack
+- To prevent have proper input validation
 
 ### XML External Entity (XXE) Example
 
@@ -70,8 +78,6 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 		<!ENTITY xxe SYSTEM "file:///etc/shadow" >]>
 	<foo>&xxe;</foo>
 ```
-
-- Attempts to access "file:///etc/shadow" are a giveaway to this type of attack
 
 # Objectives
 ---
