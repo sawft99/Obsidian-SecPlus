@@ -35,8 +35,23 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - Exploits against file systems and databases usually comes in the form of a "Time of Check to Time of Use" (TOCTTOU)
 	- The potential vulnerability that occurs when there is a change between when an app checked a resource and when the app used the resource
+	- Invalidate check already made
 
+## Example
+---
+- Shopping app
+- Leave items in cart
+- Come back to later and check out
+- If the shopping app doesn't check again to see the current prices or if the items are in stock this would be a TOCTTOU issue
 
+## Prevention
+---
+1. Develop applications to not process things sequentially if possible
+	1. Doing things in parallel vs step 1, then 2, then 3, etc
+	2. Decreases the number of sequences and therefore less race condition possibilities
+2. Impellent a locking mechanism to provide app with exclusive access
+	1. A shopping app where the item is in your cart and it is locked in your cart for 5 minutes so other people can not order something out of stock
+	2. A similar concept can be employed with a database or file share where you check the file out, change it, and then check back in thus preventing multiple people from editing at the same time and causing conflicts
 
 # Objectives
 ---
