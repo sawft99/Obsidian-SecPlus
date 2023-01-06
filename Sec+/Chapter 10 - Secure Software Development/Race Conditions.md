@@ -33,8 +33,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 ## About
 ---
-- Usually comes in the form of a "Time of Check to Time of Use (TOCTTOU)
-	-
+- Exploits against file systems and databases usually comes in the form of a "Time of Check to Time of Use" (TOCTTOU)
+	- The potential vulnerability that occurs when there is a change between when an app checked a resource and when the app used the resource
 
 
 
