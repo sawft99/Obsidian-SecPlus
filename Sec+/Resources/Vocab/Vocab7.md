@@ -26,5 +26,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Extensible Markup Language (XML)          | ![[XML Vulnerabilities#^5a1e86]]                                                                  |
 | XML Bomb (Billion Laughs Attack)          | ![[XML Vulnerabilities#^fd20be]]                                                                  |
 | XML External Entity (XXE)                 | ![[XML Vulnerabilities#^a3ddab]]                                                                  |
-| Race Condition                            | ![[Race Conditions#^d9302d]]                                                                                                  |
+| Race Condition                            | ![[Race Conditions#^d9302d]]                                                                      |
+| Dereferencing                             | ![[Race Conditions#^6aa111]]                                                                      |
+| Time of Check to Time of Use (TOCTTOU)    | ![[Race Conditions#^6362a5]]                                                                                                  |
 -

@@ -109,12 +109,13 @@ collapse: close
 		- [[XSS and XSRF#Cross Site Scripting (XSS)|Cross Site Scripting (XSS)]]
 		- [[XML Vulnerabilities]]
 - Pointer/object dereference
+	- [[Race Conditions#Dereferencing/Null Pointer Dereferencing|Dereferencing/Null Pointer Dereferencing]]
 - Directory traversal
 	- [[Software Vulnerabilities & Exploits#Directory Traversal|Directory Traversal]]
 - [[Buffer Overflow]]
 	- [[Testing Methods#Structured Exception Handling (SEH)|Structured Exception Handling (SEH)]]
 - [[Race Conditions]]
-	- Time of check/time of use
+	- [[Race Conditions#About|Time of Check to Time of Use]]
 - Error handling
 	- [[Testing Methods#Errors|Errors]]
 - Improper input handling

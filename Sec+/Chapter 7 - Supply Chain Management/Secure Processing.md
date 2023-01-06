@@ -40,8 +40,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ## Atomic Execution
 ---
 - Extensions in place to control certain operations that should only be performed once or not at all such as initializing a memory location ^28e559
-- Extension in place to make sure an atomic execution
-- Help against [[Buffer Overflow]] and race conditions
+- Extension in place to make sure an attacker can't reuse or hijack something like memory inistialization
+- Help against [[Buffer Overflow]] and [[Race Conditions]]
 
 ## Bus Encryption
 ---

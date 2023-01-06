@@ -15,7 +15,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 ## About
 ---
-- A software vulnerability when code attempts to remove relationship between the pointer and the thing the pointer is pointing to in memory
+- A software vulnerability when code attempts to remove relationship between the pointer and the thing the pointer is pointing to in memory ^6aa111
 - Hard for [[Endpoint Analysis#AntiVirus (AV)|AntiVirus (AV)]] to detect and mitigate
 	- If you get in before the [[Endpoint Analysis#AntiVirus (AV)|AntiVirus (AV)]] can take hold it may not detect it
 
@@ -34,7 +34,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ## About
 ---
 - Exploits against file systems and databases usually comes in the form of a "Time of Check to Time of Use" (TOCTTOU)
-	- The potential vulnerability that occurs when there is a change between when an app checked a resource and when the app used the resource
+	- The potential vulnerability that occurs when there is <u>a change between when an app checked a resource and when the app used the resource</u> ^6362a5
 	- Invalidate check already made
 
 ## Example
@@ -50,16 +50,16 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	1. Doing things in parallel vs step 1, then 2, then 3, etc
 	2. Decreases the number of sequences and therefore less race condition possibilities
 2. Impellent a locking mechanism to provide app with exclusive access
-	1. A shopping app where the item is in your cart and it is locked in your cart for 5 minutes so other people can not order something out of stock
+	1. A shopping app where the item is in your cart and it is locked in your cart for 5 minutes so other people can not order something that may be out of stock
 	2. A similar concept can be employed with a database or file share where you check the file out, change it, and then check back in thus preventing multiple people from editing at the same time and causing conflicts
 
 # Objectives
 ---
-- Obj
+- [[Objectives#1.3 - Given a scenario, analyze potential indicators associated with application attacks|1.3 - Given a scenario, analyze potential indicators associated with application attacks]]
 
 # TODO (Delete when done)
 ---
-- [ ] Added vocab
-- [ ] Added and linked objectives in document
-- [ ] Linked objectives back to document
-- [ ] Linked any relevant backlinks to and from document
+- [x] Added vocab
+- [x] Added and linked objectives in document
+- [x] Linked objectives back to document
+- [x] Linked any relevant backlinks to and from document
