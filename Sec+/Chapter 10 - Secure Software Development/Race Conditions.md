@@ -56,10 +56,3 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # Objectives
 ---
 - [[Objectives#1.3 - Given a scenario, analyze potential indicators associated with application attacks|1.3 - Given a scenario, analyze potential indicators associated with application attacks]]
-
-# TODO (Delete when done)
----
-- [x] Added vocab
-- [x] Added and linked objectives in document
-- [x] Linked objectives back to document
-- [x] Linked any relevant backlinks to and from document
