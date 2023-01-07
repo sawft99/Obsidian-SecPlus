@@ -243,11 +243,11 @@ collapse: close
 	- [[Unnecessary Applications]]
 	- [[Updates and Patches]]
 	- [[Patch Management]]
-- Weak configurations
+- [[Design Vulnerabilities#Weak or Default Configurations|Weak or Default Configurations]]
 	- Open permissions
 		- [[SDLC Principles#Least Privilege|Least Privilege]]
 	- Unsecured root accounts
-	- Errors
+	- [[Testing Methods#Errors|Errors]]
 		- [[Patch Management#Stages|Patch Management - Auditing]]
 		- [[SDLC Principles#Fail Securely|Fail Securely]]
 		- [[Testing Methods#Forms Of Code Analysis|Forms Of Code Analysis]]
@@ -256,6 +256,7 @@ collapse: close
 	- Default settings
 		- [[Unnecessary Applications#Baseline Image|Baseline Image]]
 		- [[SDLC Principles#Create Secure Defaults|Create Secure Defaults]]
+		- [[Design Vulnerabilities#Weak or Default Configurations|Weak or Default Configurations]]
 	- Open ports and services
 		- [[Unnecessary Applications]]
 - Third-party risks
@@ -593,6 +594,7 @@ collapse: close
 	- Wearables
 	- Facility automation
 	- Weak defaults
+		- [[Design Vulnerabilities#Weak or Default Configurations|Weak or Default Configurations]]
 - Specialized
 	- Medical systems
 	- Vehicles

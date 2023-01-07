@@ -27,7 +27,7 @@ collapse: close
 
 ```
 
-# Format Example
+# XML Document Example
 
 ## Code
 ---
@@ -57,9 +57,22 @@ collapse: close
 ---
 - Begin document with the XML info line ```<?xml version="1.0" encoding="UTF-8"?>``` and end with ```</xml>```
 	- XML version or encoding could be different
+	- Last line of document may not need to end with ```</xml>```
 - Format anything you define with ```<thing>``` and end with ```</thing>```
 - Indent parent/child information for readability
 	- Such as above where the document is defined, followed by the question, followed by the questions information and the pattern repeats backwards as you end each definition
+
+# XML URL/XPath Example
+
+## Code
+---
+```URL
+https://mysite.com/add_to_cart.php?itemId=5"+perItemPrice="0.00"+quantity="100"+/><item+id="5&quantity=0
+```
+
+## Breakdown
+---
+- Some XML injection attacks done on a website will send an altered URL
 
 # Attacks
 
@@ -86,6 +99,24 @@ collapse: close
 		<!ENTITY xxe SYSTEM "file:///etc/shadow" >]>
 	<foo>&xxe;</foo>
 ```
+
+## XPath Injection
+
+### About
+---
+- XPath Injection is an attack technique used to exploit web sites that construct <u>XPath queries from user-supplied input</u>
+- By sending <u>intentionally malformed information</u> into the web site, an attacker can find out how the XML data is structured, or access data that they may not normally have access to
+
+```ad-danger
+title: Exam Tip
+collapse:open
+Xpath questions should not be on the exam but they may use other questions that are based around the URL being changed to accomplish an attack
+```
+
+### Example
+---
+
+![](https://www.youtube.com/watch?v=6tV8EuaHI9M)
 
 # Objectives
 ---
