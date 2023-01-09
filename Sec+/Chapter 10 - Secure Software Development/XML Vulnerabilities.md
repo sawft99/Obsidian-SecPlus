@@ -29,7 +29,7 @@ collapse: close
 
 # XML Document Example
 
-## Code
+## Example Code
 ---
 ```XML
 <?xml version="1.0" encoding="UTF-8"?>
@@ -61,18 +61,6 @@ collapse: close
 - Format anything you define with ```<thing>``` and end with ```</thing>```
 - Indent parent/child information for readability
 	- Such as above where the document is defined, followed by the question, followed by the questions information and the pattern repeats backwards as you end each definition
-
-# XML URL/XPath Example
-
-## Code
----
-```URL
-https://mysite.com/add_to_cart.php?itemId=5"+perItemPrice="0.00"+quantity="100"+/><item+id="5&quantity=0
-```
-
-## Breakdown
----
-- Some XML injection attacks done on a website will send an altered URL
 
 # Attacks
 
@@ -106,6 +94,7 @@ https://mysite.com/add_to_cart.php?itemId=5"+perItemPrice="0.00"+quantity="100"+
 ---
 - XPath Injection is an attack technique used to exploit web sites that construct <u>XPath queries from user-supplied input</u>
 - By sending <u>intentionally malformed information</u> into the web site, an attacker can find out how the XML data is structured, or access data that they may not normally have access to
+- Similar to [[SQL Injection]]
 
 ```ad-danger
 title: Exam Tip
@@ -113,8 +102,22 @@ collapse:open
 Xpath questions should not be on the exam but they may use other questions that are based around the URL being changed to accomplish an attack
 ```
 
-### Example
+## Example Code
 ---
+```URL
+https://mysite.com/add_to_cart.php?itemId=5"+perItemPrice="0.00"+quantity="100"+/><item+id="5&quantity=0
+```
+
+## Breakdown
+---
+- Some XML injection attacks done on a website will send an altered URL
+- As seen in the URL above, the attacker is attempting add 100 of "Item 5" for a price of $0 by manipulating user input for an XML field
+
+## Example Video
+---
+
+![](https://www.youtube.com/watch?v=xFDI_2nQcz8)
+
 
 ![](https://www.youtube.com/watch?v=6tV8EuaHI9M)
 

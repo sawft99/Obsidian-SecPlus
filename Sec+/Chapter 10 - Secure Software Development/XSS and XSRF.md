@@ -18,10 +18,12 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 ## About
 ---
-- Victim is the <u>user NOT the server</u> ^fdebb6
+- Victim is the <u>user NOT the server</u>
 	- Server may or may not already be compromised
 - Exploits focus on <u>trust between user and the server they visit</u> ^2512a1
 - Attacker is able to insert code into the webpage that's being delivered from the server to the victim/client
+	- This code (often JavaScript) is usually injected from a separate “attack site”
+	- Can also manifest itself as an embedded JavaScript image tag, header manipulation (as in manipulated HTTP response headers), or other HTML-embedded image object within emails
 - Multiple types: [[#Stored/Persistent]], [[#Reflected]], [[#DOM-Based]]
 
 ## Stored/Persistent
@@ -40,7 +42,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- DOM is part of a users [[Security of Apps#Browser|Browser]]
 - AKA "Client Side Cross Site Scripting" attack
 
-### Prevention
+## Prevention
+---
 - Use <u>output encoding</u> to prevent <u>code injection</u> during delivery of content
 - Use [[SDLC Principles#Never Trust User Input|Input Validation]] to stop HTML tags from being entered by users when entering information on a web form
 - A user can increase security setting for [[Web Browser Concerns#Cookies|Cookies]] and [[Web Browser Concerns#Configuring the Browser - Examples|disabling scripting]] for websites
@@ -51,12 +54,13 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - Exploits focus on <u>the trust a website has in a user</u> ^09a7b3
 - Example
-	- Once logged into bank account the website trust you
+	- Once logged into bank account the website "trusts" you
 	- Attacker sends a command to web server via your authenticated session
 	- Forges request to <u>make it look like it came from the victim</u>
 	- An attacker usually can't see the web server response but it could still could be used to do some functions on the site like change a password or transfer money
 
-### Prevention
+## Prevention
+---
 - Require specialized tokens on web pages that have forms like CAPTCHA
 - Use good authentication and [[Disk Encryption#^501400|Encryption]] techniques
 - Scan XML files submitted by a user
