@@ -8,5 +8,9 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Term      | Meaning                    |
 | --------- | -------------------------- |
 | OSI Model | ![[The OSI Model#^2ed6f4]] |
+| Hubs      |                            |
+| Bridges   |                            |
+| Switches          |                            |
+
 
 -

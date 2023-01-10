@@ -1058,6 +1058,7 @@ conditioning (HVAC)
 		- Cost
 		- Need for segmentation
 		- Open Systems Interconnection (OSI) layers
+			- [[The OSI Model]]
 - Cloud native controls vs. third-party solutions
 
 ## 3.7 - Given a scenario, implement identity and account management controls
