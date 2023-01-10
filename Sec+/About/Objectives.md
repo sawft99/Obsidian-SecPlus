@@ -161,8 +161,11 @@ collapse: close
 - Man in the [[Security of Apps#Browser|Browser]]
 - Layer 2 attacks
 	- Address resolution protocol (ARP) poisoning
+		- [[Switches#MAC Spoofing|MAC Spoofing]]
 	- Media access control (MAC) flooding
+		- [[Switches#MAC Flooding|MAC Flooding]]
 	- MAC cloning
+		- [[Switches#MAC Spoofing|MAC Spoofing]]
 - Domain name system (DNS)
 	- Domain hijacking
 	- DNS poisoning
@@ -172,6 +175,7 @@ collapse: close
 	- Network
 	- Application
 	- Operational technology (OT)
+	- [[Switches#Physical Tampering|Physical Tampering]]
 - Malicious code or #Script  execution
 	- PowerShell
 	- Python
@@ -649,6 +653,7 @@ conditioning (HVAC)
 	- Biometrics
 	- Electronic
 	- Physical
+		- [[Switches#Physical Tampering|Physical Tampering]]
 	- Cable locks
 - USB data blocker
 - Lighting
