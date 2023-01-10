@@ -31,5 +31,5 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Time of Check to Time of Use (TOCTTOU)    | ![[Race Conditions#^6362a5]]                                                                      |
 | Insecure Components                       | ![[Design Vulnerabilities#^a1d24f]]                                                               |
 | Insufficient Logging and Monitoring       | ![[Design Vulnerabilities#^ec410b]]                                                               |
-| Weak or Default Configurations            | ![[Design Vulnerabilities#^4eadc3]]                                                                                                  |
+| Weak or Default Configurations            | ![[Design Vulnerabilities#^4eadc3]]                                                               |
 -

@@ -12,6 +12,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - May be referred to as an "XML Injection" but this is not technically correct as the vulnerabilities lie in parsing
 - XML data is submitted from you to the server or from server to server
 - So make sure there is encryption and [[SDLC Principles#Never Trust User Input|Input Validation]] otherwise it can be vulnerable to #spoofing, [[XSS and XSRF#Cross Site Request Forgery (XSRF/CSRF)|Request Forgery]] and [[SQL Injection#Injection Attack|Injection]] of arbitrary code
+- More on XML [Here](https://www.educba.com/xml-encoding/)
 
 ```ad-tip
 title: Exam Tip
@@ -42,7 +43,7 @@ collapse: close
 </xml>
 ```
 
-## Breakdown
+## Breakdown By Line
 ---
 1. Specifies the version of XML and the encoding used
 2. Defines a question
@@ -55,7 +56,7 @@ collapse: close
 
 ## Always
 ---
-- Begin document with the XML info line ```<?xml version="1.0" encoding="UTF-8"?>``` and end with ```</xml>```
+- Begin document with the XML info line:   ```<?xml version="1.0" encoding="UTF-8"?>```
 	- XML version or encoding could be different
 	- Last line of document may not need to end with ```</xml>```
 - Format anything you define with ```<thing>``` and end with ```</thing>```
@@ -78,7 +79,7 @@ collapse: close
 - Attempts to access "file:///etc/shadow" are a giveaway to this type of attack
 - To prevent have proper [[SDLC Principles#Never Trust User Input|Input Validation]]
 
-### XML External Entity (XXE) Example
+### Example Code
 ---
 ```XML
 <?xml version="1.0" encoding="ISO-8859-1"?>
