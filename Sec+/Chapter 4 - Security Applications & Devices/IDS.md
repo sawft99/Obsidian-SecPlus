@@ -30,7 +30,7 @@ collapse: close
 ---
 - <u>Network</u> Intrusion Detection System
 - Hardware on network
-- Traffic that goes <u>through a switch that is mirrored to a NIDS</u>
+- Traffic that goes through a [[Switches|switch]] that is mirrored to a NIDS
 
 ```ad-info
 title: NIDS

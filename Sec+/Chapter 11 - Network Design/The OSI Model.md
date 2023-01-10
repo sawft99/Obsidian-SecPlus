@@ -30,7 +30,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - At this level Bits are grouped into Frames
 - Examples
 	- MAC Addresses
-	- Switches
+	- [[Switches]]
 		- Use MAC Addresses to decide where to send a frame
 	- Bridges/Hub
 		- Earlier device before switches
@@ -43,7 +43,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Examples
 	- IP Addresses
 	- Layer 3 Switches which use MAC and IP to route
-	- Routers
+	- [[Routers]]z
 
 ## Transport
 ---

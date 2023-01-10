@@ -908,11 +908,13 @@ conditioning (HVAC)
 	- Stateless
 	- Unified threat management (UTM)
 	- Network address translation (NAT) gateway
+		- [[Routers]]
 	- [[Popup Blockers#Content Filter|Content/URL Filter]]
 	- Open-source vs. proprietary
 	- Hardware vs. software
 	- Appliance vs. host-based vs. virtual
 - Access control list (ACL)
+	- [[Switches#MAC Spoofing|MAC Spoofing]]
 - Route security
 - Quality of service (QoS)
 - Implications of IPv6

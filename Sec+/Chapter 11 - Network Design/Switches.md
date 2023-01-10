@@ -15,6 +15,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Separate physical LAN to WAN into 2 logical networks or connect 2 logical networks ^841797
 - Switches
 	- The evolution of both Hubs and Bridges combined
+	- Works at the [[The OSI Model#Data Link|Data Link]] layer
 	- Every port is like a bridge and hub combined by connecting logical networks and being able to send traffic out of individual ports ^b00706
 	- Intelligence use of MAC and only sending out traffic to the MAC in question
 	- Improves overall security and reduces traffic
@@ -23,7 +24,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 ## MAC Flooding
 ---
-- An attempt to overwhelm the limited switch memory set aside to store the MAC address for each port ^334c18
+- An attempt to <u>overwhelm the limited switch memory</u> set aside to store the MAC address for each port ^334c18
 	- Content Addressable Memory (CAM Table)
 - A flooded switch can begin to act like a hub and start broadcasting traffic on all ports
 
@@ -31,13 +32,13 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 ### About
 ---
-- Occurs when an attacker masks their own MAC address to pretend they have the MAC address of another device ^0b472f
+- Occurs when an attacker masks their own MAC address to <u>pretend they have the MAC address of another</u> device ^0b472f
 - Example
 	- WIFI may use MAC filtering to prevent unknown device from connecting
-	- Switch your MAC address to an allowed address and you could bypass an ACL like this
+	- Switch your MAC address to an allowed address and you could bypass an [[Routers#Access Control List (ACL)|Access Control List (ACL)]] like this
 - Often combined with Address Resolution Protocol (ARP) Spoofing
 	- Relies on MAC addresses as a way to associate IP's to MAC and vice versa
-- Appear as the destination the traffic is attempting to go to
+- Appear as the destination the traffic is attempting to go to in order to trick other network devices
 
 ### Prevention
 ---
