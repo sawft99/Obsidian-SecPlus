@@ -49,13 +49,13 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - Manages and ensures transport of packets from host to destination with either TCP or UDP
 - TCP
-	- Connection Oriented
+	- <u>Connection Oriented</u>
 	- 3 way handshake
-	- Packets grouped into Segments
+	- Packets grouped into <u>Segments</u>
 - UDP
-	- Connectionless
+	- <u>Connectionless</u>
 	- "Fire and Forget"
-	- Packets grouped into Datagrams
+	- Packets grouped into <u>Datagrams</u>
 
 ## Session
 ---
@@ -79,7 +79,12 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- SMTP
 	- FTP
 - Where user most interacts with a network
--
+
+```ad-info
+title: OSI Visual
+collapse:close
+![[OSIViz1.png]]
+```
 
 # Objectives
 ---
@@ -88,7 +93,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # TODO (Delete when done)
 ---
-- [ ] Added vocab
+- [x] Added vocab
 - [x] Added and linked objectives in document
 - [ ] Linked objectives back to document
 - [ ] Linked any relevant backlinks to and from document

@@ -5,6 +5,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 #publish:
 ---
 
-| Term      | Meaning  |
-| --------- | -------- |
+| Term      | Meaning                    |
+| --------- | -------------------------- |
 | OSI Model | ![[The OSI Model#^2ed6f4]] |
+
+-
