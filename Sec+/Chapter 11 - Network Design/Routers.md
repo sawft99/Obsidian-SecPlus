@@ -9,7 +9,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - Operate at the [[The OSI Model#Network|Network]] layer
 - Make decisions on IP addresses
-- Connects 2 or more networks to form internetworks
+- Connects 2 or more networks to form internetworks ^42ecfb
 - Example
 	- Connecting home office to internet
 
@@ -20,18 +20,19 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Access Control List (ACL)
 ---
-- An ordered set of rules that a router uses to decide whether to permit or deny traffic based on given characteristics
-	- Source/Dest IP
+- An ordered set of rules that a router uses to decide whether to permit or deny traffic based on given characteristics ^0d9649
+- Such as:
+	 - Source/Dest IP
 	- Source/Dest Port
 	- Application or Service
 
 # IP Spoofing
 ---
-- Similar to [[Switches#MAC Spoofing|MAC Spoofing]] but with an IP address
+- Similar to [[Switches#MAC Spoofing|MAC Spoofing]] but with an IP address ^e29634
 - Attacker assigns themselves a valid IP on the network
 - Tricks devices on network into sending traffic to the attacker
 
-# Hardening
+# Hardening the Router
 ---
 - Routers are a common target because they are the external interface to the internet
 - Change default U/P
@@ -43,10 +44,3 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # Objectives
 ---
 - [[Objectives#3.3 - Given a scenario, implement secure network designs|3.3 - Given a scenario, implement secure network designs]]
-
-# TODO (Delete when done)
----
-- [ ] Added vocab
-- [ ] Added and linked objectives in document
-- [ ] Linked objectives back to document
-- [ ] Linked any relevant backlinks to and from document

@@ -859,6 +859,7 @@ conditioning (HVAC)
 	- Virtual IP
 	- Persistence
 - Network segmentation
+	- [[Routers]]
 	- Virtual local area network (VLAN)
 	- DMZ
 	- East-west traffic
@@ -912,9 +913,11 @@ conditioning (HVAC)
 	- [[Popup Blockers#Content Filter|Content/URL Filter]]
 	- Open-source vs. proprietary
 	- Hardware vs. software
+		- [[Software Firewalls]]
 	- Appliance vs. host-based vs. virtual
 - Access control list (ACL)
 	- [[Switches#MAC Spoofing|MAC Spoofing]]
+	- [[Routers#Access Control List (ACL)|Access Control List (ACL)]]
 - Route security
 - Quality of service (QoS)
 - Implications of IPv6
