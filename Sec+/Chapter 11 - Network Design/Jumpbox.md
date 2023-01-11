@@ -7,7 +7,9 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # About
 ---
-- Item
+- Internet facing host
+	- Any host that accepts inbound connections from the internet
+	- Such as a Web or email server in the [[Network Zones#DMZ|DMZ]]
 
 # Topic
 ---

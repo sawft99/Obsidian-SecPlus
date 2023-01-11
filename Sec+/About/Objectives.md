@@ -859,13 +859,14 @@ conditioning (HVAC)
 	- Virtual IP
 	- Persistence
 - Network segmentation
+	- [[Network Zones]]
 	- [[Routers]]
 	- Virtual local area network (VLAN)
-	- DMZ
+	- [[Network Zones#DMZ|DMZ]]
 	- East-west traffic
-	- Extranet
+	- [[Network Zones#Extranet|Extranet]]
 		- [[Web Browser Concerns]]
-	- Intranet
+	- [[Network Zones#Intranet|Intranet]]
 		- [[Web Browser Concerns]]
 	- Zero trust
 - Virtual private network (VPN)
@@ -903,6 +904,7 @@ conditioning (HVAC)
 - Collectors
 - Aggregators
 - Firewalls
+	- [[Network Zones]]
 	- Web application firewall (WAF)
 	- Next-generation firewall
 	- Stateful
