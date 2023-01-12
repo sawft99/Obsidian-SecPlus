@@ -19,7 +19,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | IP Spoofing               | ![[Routers#^e29634]]       |
 | De-Militarized Zone       | ![[Network Zones#^741e54]] |
 | Extranet                  | ![[Network Zones#^eebd81]] |
-| Intranet                  | ![[Network Zones#^1b848e]]                           |
+| Intranet                  | ![[Network Zones#^1b848e]] |
+| Internet Facing Host      | ![[Jumpbox#^195140]]                           |
 
 
 -

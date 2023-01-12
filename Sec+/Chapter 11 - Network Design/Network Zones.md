@@ -35,11 +35,12 @@ collapse:close
 # DMZ
 ---
 - De-Militarized Zone
-- Focused on providing controlled access to publicly available servers that are hosted within your organizations network ^741e54
-- Self hosted email, webservers
+- A segmented zone isolated from the rest of a private network by one or more firewalls that accepts connections from the internet over designated ports ^741e54
+- Focused on providing controlled access to publicly available servers that are hosted within your organizations network
+- Self hosted email, webservers, proxy, RDP
 - Created with multiple interfaces on firewall
 - Each server has its own IP
-- Separates critical access
+- Traffic between [[#LAN]] and [[#DMZ]] passes through a firewall and potentially an [[IDS]]
 
 # Extranet
 ---
