@@ -1059,8 +1059,12 @@ conditioning (HVAC)
 		- High availability
 	- Network
 		- Virtual networks
+			- [[VLAN]]
 		- Public and private subnets
+			- [[Subnetting]]
+			- [[Network Address Translation]]
 		- Segmentation
+			- [[VLAN]]
 		- API inspection and integration
 	- Compute
 		- Security groups
@@ -1068,9 +1072,10 @@ conditioning (HVAC)
 		- Instance awareness
 		- Virtual private cloud (VPC) endpoint
 		- Container security
+			- [[Hypervisors#Application Containerization|Application Containerization]]
 - Solutions
 	- CASB
-	- Application security
+	- [[Application Security]]
 	- Next-generation secure web gateway (SWG)
 	- Firewall considerations in a cloud environment
 		- Cost

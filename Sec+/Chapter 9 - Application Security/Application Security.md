@@ -15,3 +15,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Many other apps
 - Each applications can introduce new vulnerabilities
 - [[Restricting Applications#Whitelisting|Whitelisting]] and [[Restricting Applications#Blacklisting|Blacklisting]] apps to control them
+
+# Objectives
+---
+[[Objectives#3.6 - Given a scenario, apply cybersecurity solutions to the cloud|3.6 - Given a scenario, apply cybersecurity solutions to the cloud]]

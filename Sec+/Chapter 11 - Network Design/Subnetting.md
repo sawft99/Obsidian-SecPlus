@@ -11,13 +11,13 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Benefits
 	- Compartmentalize
 		- More security
+		- Isolate some risks
 		- Gives you opportunity to place additional [[Routers]] and [[Routers#Access Control List (ACL)|Access Control List (ACL)]] rule
 	- Efficient
 		- Reduce broadcasts and collisions
-
-# Topic
----
-- Item
+- Use different policies for each subnet
+	- Printers, servers, desktops, etc
+- Monitor all subnets and the traffic that goes in and out of them
 
 # Objectives
 ---
@@ -25,7 +25,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # TODO (Delete when done)
 ---
-- [ ] Added vocab
-- [ ] Added and linked objectives in document
+- [x] Added vocab
+- [x] Added and linked objectives in document
 - [ ] Linked objectives back to document
 - [ ] Linked any relevant backlinks to and from document
