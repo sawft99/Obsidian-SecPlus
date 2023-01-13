@@ -834,6 +834,7 @@ conditioning (HVAC)
 	- Patch management
 		- [[Updates and Patches]]
 		- [[Patch Management]]
+		- [[Network Access Control]]
 		- Third-party updates
 			- [[Security of Apps#Mobile Device Management (MDM)|Mobile Device Management (MDM)]]
 			- [[Hardening Mobile Devices]]
@@ -879,8 +880,8 @@ conditioning (HVAC)
 	- HTML5
 	- Layer 2 tunneling protocol (L2TP)
 - DNS
-- Network access control (NAC)
-	- Agent and agentless
+- [[Network Access Control]]
+	- [[Network Access Control#Agents|Agent and agentless]]
 - Out-of-band management
 - Port security
 	- Broadcast storm prevention
@@ -1296,6 +1297,7 @@ conditioning (HVAC)
 	- Application blacklisting
 		- [[Restricting Applications]]
 	- Quarantine
+		- [[Network Access Control]]
 - Configuration changes
 	- Firewall rules
 	- MDM
