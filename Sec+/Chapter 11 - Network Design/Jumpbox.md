@@ -13,26 +13,15 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- A computer that is able to access the internet is not necessarily an IFH
 	- It would need to be designed to accept inbound traffic from the internet
 - Bastion Host
-	- Hosts or servers in the [[Network Zones#DMZ|DMZ]] which are not configured with any services that run on the [[Network Zones#LAN|LAN]]
+	- Hosts or servers in the [[Network Zones#DMZ|DMZ]] which are not configured with any services that run on the [[Network Zones#LAN|LAN]] ^045841
 	- Such as Active Directory
 - Jumpbox
-	- Hardened host that provides access to other hosts within the [[Network Zones#DMZ|DMZ]]
+	- Hardened host that provides access to other hosts within the [[Network Zones#DMZ|DMZ]] ^6b6444
 	- Only the Jumpbox can/should communicate between the [[Network Zones#LAN|LAN]] and [[Network Zones#DMZ|DMZ]]
 	- Can be a [[Virtualization#Virtual Machine Types|Virtual Machine]] or physical
 		- With virtual you could build the VM from an [[Unnecessary Applications#Baseline Image|Baseline Image]] or template, destroy it, and then recreate it the next time you need it
 	- Jumpbox and management workstation should have no [[Unnecessary Applications]] and kept minimal while also being fully hardened
 
-# Topic
----
-- Item
-
 # Objectives
 ---
 - [[Objectives#3.5 - Given a scenario, implement secure mobile solutions|3.5 - Given a scenario, implement secure mobile solutions]]
-
-# TODO (Delete when done)
----
-- [ ] Added vocab
-- [ ] Added and linked objectives in document
-- [ ] Linked objectives back to document
-- [ ] Linked any relevant backlinks to and from document

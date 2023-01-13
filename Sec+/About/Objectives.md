@@ -819,6 +819,7 @@ conditioning (HVAC)
 	- [[Testing Methods#Dynamic Analysis|Dynamic Code Analysis]]
 	- [[Testing Methods#Fuzzing|Fuzzing]]
 - [[Hardening]]
+	- [[Jumpbox]]
 	- Open ports and services
 	- Registry
 	- [[Disk Encryption]]

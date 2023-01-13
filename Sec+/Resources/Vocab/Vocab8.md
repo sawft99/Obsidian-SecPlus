@@ -20,7 +20,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | De-Militarized Zone       | ![[Network Zones#^741e54]] |
 | Extranet                  | ![[Network Zones#^eebd81]] |
 | Intranet                  | ![[Network Zones#^1b848e]] |
-| Internet Facing Host      | ![[Jumpbox#^195140]]                           |
-
+| Internet Facing Host      | ![[Jumpbox#^195140]]       |
+| Bastion Host              | ![[Jumpbox#^045841]]       |
+| Jumpbox                   | ![[Jumpbox#^6b6444]]       |
 
 -
