@@ -771,7 +771,11 @@ conditioning (HVAC)
 	- Remote access
 	- Domain name resolution
 	- Routing and switching
+		- [[Routers]]
+		- [[Switches]]
+			- [[VLAN]]
 	- Network address allocation
+		- [[Subnetting]]
 	- Subscription services
 
 ## 3.2 - Given a scenario, implement host or application security solutions
@@ -863,7 +867,7 @@ conditioning (HVAC)
 - Network segmentation
 	- [[Network Zones]]
 	- [[Routers]]
-	- Virtual local area network (VLAN)
+	- [[VLAN|Virtual local area network (VLAN)]]
 	- [[Network Zones#DMZ|DMZ]]
 	- East-west traffic
 	- [[Network Zones#Extranet|Extranet]]
