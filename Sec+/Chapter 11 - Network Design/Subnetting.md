@@ -12,7 +12,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Compartmentalize
 		- More security
 		- Isolate some risks
-		- Gives you opportunity to place additional [[Routers]] and [[Routers#Access Control List (ACL)|Access Control List (ACL)]] rule
+		- Gives you opportunity to place additional [[Routers]], [[IDS]], and [[Routers#Access Control List (ACL)|Access Control List (ACL)]] rule
 	- Efficient
 		- Reduce broadcasts and collisions
 - Use different policies for each subnet
