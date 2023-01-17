@@ -5,8 +5,9 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 #publish:
 ---
 
-| Term     | Meaning  |
-| -------- | -------- |
+| Term               | Meaning                         |
+| ------------------ | ------------------------------- |
 | Perimeter Security | ![[Perimeter Security#^7713ce]] |
+| Firewall           | ![[Firewalls#^3a1f24]]                                |
 
 -

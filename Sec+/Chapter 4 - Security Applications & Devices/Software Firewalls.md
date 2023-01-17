@@ -10,13 +10,13 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Software app that protect one computer or server ^357ca6
 	- Also called "<u>Host based</u>" firewall
 - Set rules and polices for in and out traffic
-- Example
-	- Web server would accept 80 and 443 whereas desktop shouldn't
+	- Example
+		- Web server would accept 80 and 443 whereas desktop shouldn't
 - Versions
 	- #Windows  - #Windows Firewall
 	-  #OSX - PF and IPFW
 	- #Linux - Iptables
-
+- See also [[Firewalls]]
 
 # #Windows Firewall
 ---
@@ -67,9 +67,9 @@ collapse: close
 
 # Other
 ---
-- Other [[Endpoint Analysis#AntiVirus (AV)|AntiVirus (AV)]] may have their own [[Software Firewalls]]
-- Some firewalls can use system resources
-- Many businesses use hardware based firewalls for a first line of defense
+- Other [[Endpoint Analysis#AntiVirus (AV)|AntiVirus (AV)]] may have their own version of a software firewall
+- Some firewalls can heavily use system resources
+- Many businesses use [[Firewalls#Hardware Firewalls|Hardware Firewalls]] for a first line of defense
 - Best to run both hardware and software based
 
 # Objectives
