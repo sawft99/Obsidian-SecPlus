@@ -898,10 +898,10 @@ conditioning (HVAC)
 	- Bridge Protocol Data Unit (BPDU) guard
 	- Loop prevention
 	- Dynamic Host Configuration Protocol (DHCP) snooping
-	- Media access control (MAC) filtering
+	- [[Firewalls#MAC Filtering|MAC Filtering]]
 - Network appliances
 	- Jump servers
-	- Proxy servers
+	- [[Proxy Servers]]
 		- [[Web Browser Security#^0799dc|Proxies]]
 		- Forward
 		- Reverse
@@ -915,23 +915,25 @@ conditioning (HVAC)
 - Sensors
 - Collectors
 - Aggregators
-- Firewalls
+- [[Firewalls]]
 	- [[Network Zones]]
-	- Web application firewall (WAF)
+	- [[Firewalls#Web Application Firewall (WAF)|Web application firewall (WAF)]]
 	- Next-generation firewall
-	- Stateful
-	- Stateless
-	- Unified threat management (UTM)
-	- [[Network Address Translation]] (NAT) gateway
+	- [[Firewalls#Stateful|Stateful]]
+	- [[Firewalls#Stateless|Stateless]]
+	- [[Unified Threat Management]] (UTM)
+	- [[Firewalls#Network Address Translation (NAT) Filtering|Network Address Translation (NAT) Filtering]]
 		- [[Routers]]
 	- [[Popup Blockers#Content Filter|Content/URL Filter]]
 	- Open-source vs. proprietary
 	- Hardware vs. software
 		- [[Software Firewalls]]
+		- [[Firewalls#Hardware Firewalls|Hardware Firewalls]]
 	- Appliance vs. host-based vs. virtual
 - Access control list (ACL)
 	- [[Switches#MAC Spoofing|MAC Spoofing]]
 	- [[Routers#Access Control List (ACL)|Access Control List (ACL)]]
+	- [[Firewalls#Access Control List (ACL) Config & Rules|Access Control List (ACL) Config & Rules]]
 - Route security
 - [[Telephony#Quality of Service (QOS)|Quality of Service (QOS)]]
 - Implications of IPv6

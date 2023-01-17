@@ -77,6 +77,7 @@ collapse:close
 1. Can be prevented with [[SDLC Principles#Never Trust User Input|Input Validation]]
 	1. Web app could have detected the escape character and returned an error instead of allowing the code to be sent to the database
 2. Use concept of [[SDLC Principles#Least Privilege|Least Privilege]] when accessing
+3. [[Firewalls#Web Application Firewall (WAF)|Web Application Firewall (WAF)]]
 
 ```ad-tip
 title: Exam Tip

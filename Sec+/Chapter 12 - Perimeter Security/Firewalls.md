@@ -8,6 +8,9 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # About
 ---
 - Screens traffic and protects one network from another ^3a1f24
+- Most firewalls operate at either [[The OSI Model#Network|Layer 3]] or [[The OSI Model#Transport|Layer 4]]
+	- [[#Application Layer Gateway (ALG)]] becoming more popular
+	- Other types include [[#Network Address Translation (NAT) Filtering]], [[#Circuit Level Gateway]], and [[#Web Application Firewall (WAF)]]
 
 # Types
 
@@ -59,11 +62,18 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Instead of blocking based on ports that are used, it inspects headers to determine the type of application it is meant for
 - Resource intensive
 - "[[The OSI Model#Application|Layer 7]] firewalls"
+- Rising in popularity
 
 # Circuit Level Gateway
 ---
 - Operates at the [[The OSI Model#Session|Session]] layer and <u>only</u> inspects traffic during the <u>establishment</u> of the initial session over [[The OSI Model#Transport|UDP]] or [[The OSI Model#Transport|TCP]] ^5ecc78
 - Once established the rest of the traffic can go through without any additional checks
+
+# Web Application Firewall (WAF)
+---
+- More modern firewall
+- Protects your server by inspecting traffic being sent to and from a specific web application ^f3e13f
+- Helps prevent [[XSS and XSRF#Cross Site Scripting (XSS)|Cross Site Scripting (XSS)]] and [[SQL Injection]] because they specifically look for threats like these specifically
 
 # MAC Filtering
 ---

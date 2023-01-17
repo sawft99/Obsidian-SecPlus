@@ -14,6 +14,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | [[Network Address Translation]] Filtering | ![[Firewalls#^50150a]]          |
 | Application Layer Gateway                 | ![[Firewalls#^710136]]          |
 | Circuit Level Gateway                     | ![[Firewalls#^5ecc78]]          |
+| Web Application Firewall (WAF) | ![[Firewalls#^f3e13f]] |
 | MAC Filtering                             | ![[Firewalls#^d377c8]]                                |
 
 
