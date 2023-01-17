@@ -768,13 +768,16 @@ conditioning (HVAC)
 	- #Email and web
 	- File transfer
 	- Directory services
+		- [[Group Policies]]
+		- [[Software Vulnerabilities & Exploits#Directory Traversal|Directory Traversal]]
+		- [[Group Policies#Active Directory|Active Directory]]
 	- Remote access
 	- Domain name resolution
 	- Routing and switching
 		- [[Routers]]
 		- [[Switches]]
 			- [[VLAN]]
-	- Network address allocation
+	- [[Network Address Translation]]
 		- [[Subnetting]]
 	- Subscription services
 
@@ -916,7 +919,7 @@ conditioning (HVAC)
 	- Stateful
 	- Stateless
 	- Unified threat management (UTM)
-	- Network address translation (NAT) gateway
+	- [[Network Address Translation]] (NAT) gateway
 		- [[Routers]]
 	- [[Popup Blockers#Content Filter|Content/URL Filter]]
 	- Open-source vs. proprietary
