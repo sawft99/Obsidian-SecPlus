@@ -764,6 +764,7 @@ conditioning (HVAC)
 	- Secure post office protocol (POP)/Internet message access protocol (IMAP)
 - Use cases
 	- Voice and video
+		- [[Telephony]]
 	- Time synchronization
 	- #Email and web
 	- File transfer
@@ -930,7 +931,7 @@ conditioning (HVAC)
 	- [[Switches#MAC Spoofing|MAC Spoofing]]
 	- [[Routers#Access Control List (ACL)|Access Control List (ACL)]]
 - Route security
-- Quality of service (QoS)
+- [[Telephony#Quality of Service (QOS)|Quality of Service (QOS)]]
 - Implications of IPv6
 - Port spanning/port mirroring
 	- Port taps

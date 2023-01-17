@@ -31,8 +31,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Double Tagging                      | ![[VLAN#^cd1391]]                        |
 | Subnetting                          | ![[Subnetting#^c99c40]]                  |
 | Network Address Translation (NAT)   | ![[Network Address Translation#^e4650a]] |
-| Telephony                           |                                          |
-| Modems                              |                                          |
-| Public Branch Exchange (PBX)        |                                          |
-| Voice Over Internet Protocol (VOIP) |                                          |
-| Quality of Service (QOS)            |                                          |
+| Telephony                           | ![[Telephony#^9ad8ff]]                   |
+| Modems                              | ![[Telephony#^6e0cc5]]                   |
+| Public Branch Exchange (PBX)        | ![[Telephony#^7d5fa4]]                   |
+| Voice Over Internet Protocol (VOIP) | ![[Telephony#^0b3233]]                                         |
+| Quality of Service (QOS)            |                       ![[Telephony#^89467f]]                   |

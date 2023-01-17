@@ -7,12 +7,12 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # About
 ---
-- Term used to describe devices that provide voice communication to users
+- Term used to describe devices that provide voice communication to users ^9ad8ff
 - Originally used in networks to make outside connections
 
 # Modems
 ---
-- A device that could modulate digital information into an analog signal for transmission over a standard dial-up phone line
+- A device that can modulate digital information into an analog signal for transmission over a standard dial-up phone line ^6e0cc5
 - Could plug directly into a computer/server
 - Such as AOL
 
@@ -38,7 +38,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 ## About
 ---
-- Internal phone system used in large organizations
+- Internal phone system used in large organizations ^7d5fa4
 - More common than modem
 - Attackers often go after to get free long distance calls
 
@@ -58,25 +58,26 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Easier to manage vs PBX
 - Common for companies to use [[Subnetting]] and [[VLAN]] to create separate voice and data networks
 - Many organizations try to run both on the same network
-- Relies on IP phones, software, and VOIP gateways
+- Relies on IP phones, software, and VOIP gateways ^0b3233
 	- IP phones use an ethernet cable versus a traditional phone cable 
 
 ## Prevention
 ---
-- Update [[Securing the BIOS#^9479f4|Firmware]]
+- Update [[Securing the BIOS#^9479f4|Firmware]] and install [[Updates and Patches]]
 - Use good authentication and [[Disk Encryption#^501400|Encryption]]
 
 ## Quality of Service (QOS)
 ---
-- 
+- The use of mechanisms or technologies that work on a network to control traffic and ensure the performance of critical applications with limited network capacity [^1] ^89467f
+- Applies to [[#Voice Over Internet Protocol (VOIP)]]
+- Implement to improve [[SecBasics#^3803a7|Availability]]
+- VOIP can use a lot of bandwidth
+- High latency can affect phone calls very easily
+- Susceptible to #DDoS 
 
 # Objectives
 ---
 - [[Objectives#3.1 - Given a scenario, implement secure protocols|3.1 - Given a scenario, implement secure protocols]]
+- [[Objectives#3.3 - Given a scenario, implement secure network designs|3.3 - Given a scenario, implement secure network designs]]
 
-# TODO (Delete when done)
----
-- [ ] Added vocab
-- [ ] Added and linked objectives in document
-- [ ] Linked objectives back to document
-- [ ] Linked any relevant backlinks to and from document
+[^1]: https://www.fortinet.com/resources/cyberglossary/qos-quality-of-service
