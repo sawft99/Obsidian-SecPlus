@@ -62,12 +62,12 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Circuit Level Gateway
 ---
-- Operates at the [[The OSI Model#Session|Session]] layer and <u>only</u> inspects traffic during the <u>establishment</u> of the initial session over [[The OSI Model#Transport|UDP]] or [[The OSI Model#Transport|TCP]]
+- Operates at the [[The OSI Model#Session|Session]] layer and <u>only</u> inspects traffic during the <u>establishment</u> of the initial session over [[The OSI Model#Transport|UDP]] or [[The OSI Model#Transport|TCP]] ^5ecc78
 - Once established the rest of the traffic can go through without any additional checks
 
 # MAC Filtering
 ---
-- Stop computers on [[Network Zones#LAN|LAN]] from accessing certain things based on a MAC
+- Stop computers on [[Network Zones#LAN|LAN]] from accessing certain things based on a MAC ^d377c8
 - Analyzes/Stops before device and traffic reaches the [[The OSI Model#Network|Network]] layer on any other physical ports
 
 # Access Control List (ACL) Config & Rules
@@ -94,12 +94,11 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- "deny TCP any any port 23"
 		- Stops any device on the network from sending information over the [[Network Zones#WAN|WAN]]  on port 23
 - Implicit Deny
-	- Traffic denied the ability to enter or leave the network because there is <u>no specific rule</u> that allows it
+	- Traffic denied the ability to enter or leave the network because there is <u>no specific rule</u> that <u>explicitly allows</u> it
 	- Create an ACL rule at the bottom of the list (highest number)
 	- "deny TCP any any port any"
 		- Stops any outbound TCP traffic
-	- Common for this to be the default on 
-- Implicit Allow
+	- Common for this to be the default on newer firewalls
 
 # Objectives
 ---
