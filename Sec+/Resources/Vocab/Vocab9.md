@@ -1,0 +1,12 @@
+---
+tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
+#aliases:
+#cssclass:
+#publish:
+---
+
+| Term     | Meaning  |
+| -------- | -------- |
+| Perimeter Security | ![[Perimeter Security#^7713ce]] |
+
+-

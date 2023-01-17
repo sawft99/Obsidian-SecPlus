@@ -22,4 +22,5 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Objectives
 ---
+- [[Objectives#3.3 - Given a scenario, implement secure network designs|3.3 - Given a scenario, implement secure network designs]]
 - [[Objectives#3.6 - Given a scenario, apply cybersecurity solutions to the cloud|3.6 - Given a scenario, apply cybersecurity solutions to the cloud]]

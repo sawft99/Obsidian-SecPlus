@@ -670,7 +670,7 @@ conditioning (HVAC)
 - Visitor logs
 - Faraday cages
 - Air gap
-- Demilitarized zone (DMZ)
+- [[Network Zones#DMZ|Demilitarized zone (DMZ]]
 - Protected cable distribution
 - Secure areas
 	- Air gap
@@ -893,6 +893,8 @@ conditioning (HVAC)
 - Out-of-band management
 - Port security
 	- Broadcast storm prevention
+		- [[Subnetting]]
+		- [[VLAN]]
 	- Bridge Protocol Data Unit (BPDU) guard
 	- Loop prevention
 	- Dynamic Host Configuration Protocol (DHCP) snooping
