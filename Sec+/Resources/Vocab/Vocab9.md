@@ -10,6 +10,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Perimeter Security         | ![[Perimeter Security#^7713ce]] |
 | Firewall                   | ![[Firewalls#^3a1f24]]          |
 | Stateless Packet Filtering |                                 |
-| Stateful Packet Filtering                           |                                 |
+| Stateful Packet Filtering  |                                 |
+| [[Network Address Translation]] Filtering                           |                                 |
 
 -

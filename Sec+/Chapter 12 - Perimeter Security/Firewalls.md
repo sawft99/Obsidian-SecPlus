@@ -48,9 +48,14 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - It then makes an 'accept' or 'deny' decision based on its [[Routers#Access Control List (ACL)|Access Control List (ACL)]]rules
 - This makes it more in depth compared to [[#Stateless]]
 
-# [[Network Address Translation]](NAT) Filtering
+# [[Network Address Translation]] (NAT) Filtering
 ---
 - Filter traffic based on the ports being used and type of connection such as [[The OSI Model#Transport|UDP]] or [[The OSI Model#Transport|TCP]]
+- Check endpoint connection by matching incoming traffic to requesting IP and port
+
+# Application Layer Gateway
+---
+- 
 
 # Objectives
 ---
