@@ -5,9 +5,11 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 #publish:
 ---
 
-| Term               | Meaning                         |
-| ------------------ | ------------------------------- |
-| Perimeter Security | ![[Perimeter Security#^7713ce]] |
-| Firewall           | ![[Firewalls#^3a1f24]]                                |
+| Term                       | Meaning                         |
+| -------------------------- | ------------------------------- |
+| Perimeter Security         | ![[Perimeter Security#^7713ce]] |
+| Firewall                   | ![[Firewalls#^3a1f24]]          |
+| Stateless Packet Filtering |                                 |
+| Stateful Packet Filtering                           |                                 |
 
 -
