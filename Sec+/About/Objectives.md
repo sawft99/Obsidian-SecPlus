@@ -1323,6 +1323,7 @@ conditioning (HVAC)
 		- [[Security of Apps#Mobile Device Management (MDM)|Mobile Device Management (MDM)]]
 	- [[Data Loss Prevention (DLP)]]
 	- [[Popup Blockers#Content Filter|Content Filter]]
+		- [[Proxy Servers#Content Filter|Proxy Server]]
 	- Update or revoke certificates
 - Isolation
 - Containment

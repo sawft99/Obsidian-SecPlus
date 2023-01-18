@@ -8,6 +8,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # About
 ---
 - Item
+- See also [[Data Loss Prevention (DLP)]]
 
 # Topic
 ---

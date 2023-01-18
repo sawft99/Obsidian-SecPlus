@@ -43,7 +43,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	1. Show users how to go to 'https' version of a site
 	2. Close browser with keys instead of mouse
 	3. Other safe browsing apps
-3. Proxies and content filters
+3. [[Proxy Servers]] and [[Proxy Servers#Content Filter|Content Filters]]]
 	1. Proxies cache a website to reduce requests, bandwidth usage, and potentially hide the source of a request ^0799dc
 	2. A [[Proxy Servers#Content Filter|Content Filter]] can blacklist specific websites or by entire categories such as "Gambling" websites
 4. Prevent malicious code
