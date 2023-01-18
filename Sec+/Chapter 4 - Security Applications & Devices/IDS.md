@@ -40,7 +40,7 @@ collapse: close
 
 # Methods
 ---
-- Signature
+- Signature ^646241
 	- Specific <u>string of bytes</u> to trigger an alert
 	- Continually searches for a known specific key
 	- Any time it sees a pattern it is flagged

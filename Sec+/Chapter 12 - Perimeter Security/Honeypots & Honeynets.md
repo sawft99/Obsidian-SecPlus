@@ -7,19 +7,20 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # About
 ---
-- Item
+- Used to <u>attract and trap potential attackers</u> ^c14603
+- Used for researching threats and attackers
+- Honeynet Project is a well known project that reports what they learn
+- Not common to setup unless you work for a security focused company
 
-# Topic
+# Honeypot
 ---
-- Item
+- A single computer, file, group of files, or unused IPs ^3aa452
+
+# Honeynet
+---
+- A group of computers, servers, or area of a network ^6b0653
+- When a single [[#Honeypot]] is not enough for your purposes 
 
 # Objectives
 ---
-- Obj
-
-# TODO (Delete when done)
----
-- [ ] Added vocab
-- [ ] Added and linked objectives in document
-- [ ] Linked objectives back to document
-- [ ] Linked any relevant backlinks to and from document
+- [[Objectives#2.1 - Explain the importance of security concepts in an enterprise environment|2.1 - Explain the importance of security concepts in an enterprise environment]]

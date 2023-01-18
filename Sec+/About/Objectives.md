@@ -368,16 +368,18 @@ collapse: close
 - Data protection
 	- [[Data loss prevention (DLP)]]
 	- Masking
-	- [[Disk Encryption#^501400]]
+	- [[Disk Encryption#^501400|Encryption]]
 	- At rest
 		- [[Securing Storage]]
 		- [[File Systems & Hard Drives]]
 		- [[Secure Processing#Bus Encryption|Bus Encryption]]
 	- In transit/motion
 		- [[Data Loss Prevention (DLP)]]
+		- [[Data Loss Prevention]]
 		- [[Secure Processing#Bus Encryption|Bus Encryption]]
 	- In processing
 		- [[Data Loss Prevention (DLP)]]
+		- [[Data Loss Prevention]]
 		- [[Secure Processing]]
 	- Tokenization
 	- Rights management
@@ -393,9 +395,8 @@ collapse: close
 	- Cold site
 	- Warm site
 - Deception and disruption
-	- Honeypots
-	- Honeyfiles
-	- Honeynets
+	- [[Honeypots & Honeynets]]
+		- Honeyfiles
 	- Fake telemetry
 	- DNS sinkhole
 
@@ -788,7 +789,7 @@ conditioning (HVAC)
 	- [[Endpoint Analysis#AntiVirus (AV)|AntiVirus (AV)]]
 		- Anti-[[malware]]
 	- [[Endpoint Analysis#Endpoint Detection Response (EDR)|Endpoint detection and response (EDR)]]
-	- [[Data Loss Prevention (DLP)]]
+	- [[Data Loss Prevention]]
 	- Next-generation firewall
 	- Host intrusion prevention system (HIPS)
 		- [[Endpoint Analysis#HIDS/HIPS|HIPS]]
@@ -1321,7 +1322,7 @@ conditioning (HVAC)
 		- [[Firewalls#Access Control List (ACL) Config & Rules|Access Control List (ACL) Config & Rules]]
 	- MDM
 		- [[Security of Apps#Mobile Device Management (MDM)|Mobile Device Management (MDM)]]
-	- [[Data Loss Prevention (DLP)]]
+	- [[Data Loss Prevention]]
 	- [[Popup Blockers#Content Filter|Content Filter]]
 		- [[Proxy Servers#Content Filter|Proxy Server]]
 	- Update or revoke certificates
