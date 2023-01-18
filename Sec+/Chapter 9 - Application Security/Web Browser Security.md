@@ -45,7 +45,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	3. Other safe browsing apps
 3. Proxies and content filters
 	1. Proxies cache a website to reduce requests, bandwidth usage, and potentially hide the source of a request ^0799dc
-	2. Content filters can blacklist specific websites or by entire categories such as "Gambling" websites
+	2. A [[Proxy Servers#Content Filter|Content Filter]] can blacklist specific websites or by entire categories such as "Gambling" websites
 4. Prevent malicious code
 	1. Configure your browser to prevent ActiveX, Java applets, Flash, and other active content from downloading and running
 	2. Do so with controls in browser

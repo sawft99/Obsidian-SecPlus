@@ -24,7 +24,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - <u>Blocking external files</u> like JavaScript, images, or web pages from loading ^56e474
 - Popular in school and work places
 - Usually blocked by categories such as "Gambling"
-- See also [[Web Browser Security#General Security for Browsers|General Security for Browsers]]
+- See also [[Web Browser Security#General Security for Browsers|General Security for Browsers]] and [[Proxy Servers#Content Filter|Proxy Servers]]
 
 # Best practice
 ---
