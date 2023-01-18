@@ -373,6 +373,7 @@ collapse: close
 		- [[Securing Storage]]
 		- [[File Systems & Hard Drives]]
 		- [[Secure Processing#Bus Encryption|Bus Encryption]]
+		- [[Data Loss Prevention]]
 	- In transit/motion
 		- [[Data Loss Prevention (DLP)]]
 		- [[Data Loss Prevention]]
@@ -790,9 +791,8 @@ conditioning (HVAC)
 		- Anti-[[malware]]
 	- [[Endpoint Analysis#Endpoint Detection Response (EDR)|Endpoint detection and response (EDR)]]
 	- [[Data Loss Prevention]]
-	- Next-generation firewall
-	- Host intrusion prevention system (HIPS)
-		- [[Endpoint Analysis#HIDS/HIPS|HIPS]]
+	- [[Unified Threat Management|Next-generation firewall]]
+	- [[Endpoint Analysis#HIDS/HIPS|Host intrusion prevention system (HIPS)]]
 	- [[IDS#HIDS|Host Intrusion Detection System (HIDS)]]
 	- [[Software Firewalls|Host/Sofware based firewalls]]
 - Boot integrity
@@ -919,7 +919,7 @@ conditioning (HVAC)
 - [[Firewalls]]
 	- [[Network Zones]]
 	- [[Firewalls#Web Application Firewall (WAF)|Web application firewall (WAF)]]
-	- Next-generation firewall
+	- [[Unified Threat Management|Next-generation firewall]]
 	- [[Firewalls#Stateful|Stateful]]
 	- [[Firewalls#Stateless|Stateless]]
 	- [[Unified Threat Management]] (UTM)

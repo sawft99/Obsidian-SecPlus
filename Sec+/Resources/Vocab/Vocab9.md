@@ -20,7 +20,9 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Honeypot                                   | ![[Honeypots & Honeynets#^c14603]]![[Honeypots & Honeynets#^3aa452]] |
 | Honeynet                                   | ![[Honeypots & Honeynets#^c14603]]![[Honeypots & Honeynets#^6b0653]] |
 | Network Intrusion Detection System (NIDS)  | ![[NIDS & NIPS#^675d49]]                                             |
-| Network Intrusion Prevention System (NIPS) | ![[NIDS & NIPS#^7ad297]]                                                                     |
+| Network Intrusion Prevention System (NIPS) | ![[NIDS & NIPS#^7ad297]]                                             |
+| Unified Threat Management (UTM)            | ![[Unified Threat Management#^f0c75b]]                               |
+| Next Generation Firewall (NGFW)                   | ![[Unified Threat Management#^5c6a65]]                                                                     |
 
 
 -

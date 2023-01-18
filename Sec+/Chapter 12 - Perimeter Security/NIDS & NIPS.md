@@ -27,6 +27,7 @@ collapse:close
 	- Sees all traffic crossing the network versus only the traffic meant for the device MAC address
 	- Only if on mirrored ports in [[Switches]]
 - <u>Can only detect, monitor, or alert</u> with heuristics or [[IDS#^646241|Signatures]]
+- <u>Passive</u>
 
 # Network Intrusion Prevention System (NIPS)
 
@@ -36,6 +37,7 @@ collapse:close
 - In addition to functions of NIDS
 - Install "in-line" in network
 - Tune correctly to avoid false positives and #DDoS
+- <u>Active</u>
 
 ## Fail Open Or Shut?
 ---
