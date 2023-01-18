@@ -341,7 +341,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Ability to see you've been hacked
 	- As you do IR you may see a #C2 server being called
 		- This will point to a #Infrastructure
-	- Firewall logs can point to an IP being accessed by several hosts
+	- [[Firewalls]] logs can point to an IP being accessed by several hosts
 		- Additional information on #Infrastructure and victim discovery
 	- IP details add info on Adversary
 - Once all is identified <u>define a tuple</u>

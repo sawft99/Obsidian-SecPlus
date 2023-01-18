@@ -117,7 +117,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # TODO (Delete when done)
 ---
-- [ ] Added vocab
-- [ ] Added and linked objectives in document
-- [ ] Linked objectives back to document
+- [x] Added vocab
+- [x] Added and linked objectives in document
+- [x] Linked objectives back to document
 - [ ] Linked any relevant backlinks to and from document
