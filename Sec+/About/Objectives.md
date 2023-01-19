@@ -213,6 +213,7 @@ collapse: close
 	- Social media
 	- Removable media
 	- Cloud
+		- [[Cloud Computing]]
 - [[SecBasics#Threat Intelligence|Threat Intelligence]] sources
 	- Open source intelligence #OSINT
 	- Closed/proprietary
@@ -414,9 +415,11 @@ collapse: close
 	- Hybrid
 - Cloud service providers
 	- [[Threats to VMs#Data Remnants|Data Remnants]]
+	- [[Cloud Computing]]
 - Managed service provider (MSP)/Managed security service provider (MSSP)
 - On-premises vs. off-premises
 	- [[Threats to VMs#Data Remnants|Data Remnants]]
+	- [[Cloud Computing]]
 - Fog computing
 - Edge computing
 - Thin client
@@ -429,6 +432,7 @@ collapse: close
 	- Software-defined visibility (SDV)
 - Serverless architecture
 - Services integration
+	- [[Cloud Computing#Hyperconvergence|Hyperconvergence]]
 - Resource policies
 - Transit gateway
 - [[Virtualization]]
@@ -1053,6 +1057,7 @@ conditioning (HVAC)
 	- Choose your own device (CYOD)
 		- [[Bring Your Own Device (BYOD)#Choose Your Own Device (CYOD)|Choose Your Own Device (CYOD)]]
 	- Corporate-owned Virtual desktop #infrastructure (VDI)
+		- [[Cloud Computing#Virtual Desktop Infrastructure (VDI)|Virtual Desktop Infrastructure (VDI)]]
 
 ## 3.6 - Given a scenario, apply cybersecurity solutions to the cloud
 ---
@@ -1078,6 +1083,7 @@ conditioning (HVAC)
 	- Compute
 		- Security groups
 		- Dynamic resource allocation
+			- [[Cloud Computing]]
 		- Instance awareness
 		- Virtual private cloud (VPC) endpoint
 		- Container security

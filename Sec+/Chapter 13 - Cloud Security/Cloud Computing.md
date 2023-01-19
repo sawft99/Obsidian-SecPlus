@@ -29,14 +29,14 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Virtual Desktop Infrastructure (VDI)
 ---
-- A full desktop operating system for an end user to use from a centralized server
+- A full desktop operating system for an end user to use from a centralized server ^a1b451
 - Security benefits example
 	- Can create a new [[Virtualization#Virtual Machine Types|Virtual Machine]] every time a user logs in
 	- Even if exploited it is non persistent so every time a user logs off the [[Virtualization#Virtual Machine Types|Virtual Machine]] or at midnight, the [[Virtualization#Virtual Machine Types|Virtual Machine]] is destroyed
 
 # Secure Enclaves
 ---
-- Use 2 different areas where data can be stored and accessed from
+- Uses 2 different areas where data can be stored and accessed from ^82b260
 - Each enclave can be accessed by the proper processor
 
 # Secure Volumes
@@ -51,10 +51,3 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - [[Objectives#2.2 - Summarize virtualization and cloud computing concepts|2.2 - Summarize virtualization and cloud computing concepts]]
 - [[Objectives#3.5 - Given a scenario, implement secure mobile solutions|3.5 - Given a scenario, implement secure mobile solutions]]
 - [[Objectives#3.6 - Given a scenario, apply cybersecurity solutions to the cloud|3.6 - Given a scenario, apply cybersecurity solutions to the cloud]]
-
-# TODO (Delete when done)
----
-- [ ] Added vocab
-- [ ] Added and linked objectives in document
-- [ ] Linked objectives back to document
-- [ ] Linked any relevant backlinks to and from document

@@ -24,7 +24,10 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Unified Threat Management (UTM)            | ![[Unified Threat Management#^f0c75b]]                               |
 | Next Generation Firewall (NGFW)            | ![[Unified Threat Management#^5c6a65]]                               |
 | Cloud Computing                            | ![[Cloud Computing#^3cf5c0]]                                         |
-| Hyperconvergence                           | ![[Cloud Computing#^eb058d]]                                                                     |
+| Hyperconvergence                           | ![[Cloud Computing#^eb058d]]                                         |
+| Virtual Desktop Infrastructure (VDI)       | ![[Cloud Computing#^a1b451]]                                         |
+| Secure Enclave                             | ![[Cloud Computing#^82b260]]                                         |
+| Secure Volume                              | ![[Cloud Computing#Secure Volumes]]                                                                     |
 
 
 -
