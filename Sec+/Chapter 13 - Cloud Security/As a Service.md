@@ -10,8 +10,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - A form of [[Cloud Computing]]
 - Types
 	- [[#Software as a Service (SaaS)]]
-	- [[#Infrastructure as a Service (Iaas)]] 
-	- [[#Platform as a Service (PaaS)]] 
+	- [[#Infrastructure as a Service (Iaas)]]
+	- [[#Platform as a Service (PaaS)]]
 	- [[#Security as a Service (SECaaS)]]
 	- [[#Other Cloud Services]]
 
@@ -25,12 +25,13 @@ collapse:close
 ---
 - Provides functions needed for a <u>complete service</u> to be delivered
 - Functions
-	- Hardware 
+	- Hardware
 	- Operating system
 	- Backend Software
 	- Applications
-- Such as Office 365
-	- Email, Word Docs, Power Point
+- Example
+	- Office 365
+		- Email, Word Docs, Power Point
 
 # Infrastructure as a Service (Iaas)
 ---
@@ -88,14 +89,14 @@ collapse:close
 ## Cloud Sandboxing
 ---
 - Utilizes separate [[Virtual Networks]] to allow security professionals to test suspicious files, malicious files, and other forms of [[Malware]]
--  Often used for Incident Response teams to test files
+- Often used for Incident Response teams to test files
 - Runs in real time
 
 ## Cloud Content Filter
 ---
 - [[Proxy Servers#Content Filter]|Content Filter]] that runs in the cloud
 - Organizations traffic goes from the organizations network to the cloud provider over a VPN before going out to internet
-- Provider can give you the ability to configure policies such as time limits and categories
+- Provider can give you the ability to configure policies such as time limits, content, and categories
 - Can also deliver reports about what users were doing, threats blocked, etc
 
 # Other Cloud Services
@@ -107,6 +108,7 @@ collapse:close
 - Identity Management
 - Business Continuity
 - Disaster Recovery
+- More...
 
 # Objectives
 ---
@@ -114,7 +116,7 @@ collapse:close
 
 # TODO (Delete when done)
 ---
-- [ ] Added vocab
+- [x] Added vocab
 - [x] Added and linked objectives in document
 - [ ] Linked objectives back to document
 - [ ] Linked any relevant backlinks to and from document

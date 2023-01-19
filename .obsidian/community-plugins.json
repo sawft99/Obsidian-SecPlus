@@ -7,12 +7,12 @@
   "templater-obsidian",
   "table-editor-obsidian",
   "obsidian-sortable",
-  "dataview",
   "obsidian-git",
   "obsidian-html-plugin",
   "tag-wrangler",
   "obsidian42-strange-new-worlds",
   "influx",
   "media-extended",
-  "obsidian-markmind"
+  "obsidian-markmind",
+  "obsidian-trim-whitespace"
 ]
