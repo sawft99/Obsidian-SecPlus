@@ -31,12 +31,24 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # Virtual Desktop Infrastructure (VDI)
 ---
 - A full desktop operating system for an end user to use from a centralized server
-- Security benefits
+- Security benefits example
 	- Can create a new [[Virtualization#Virtual Machine Types|Virtual Machine]] every time a user logs in
+	- Even if exploited it is non persistent so every time a user logs off the [[Virtualization#Virtual Machine Types|Virtual Machine]] or at midnight, the [[Virtualization#Virtual Machine Types|Virtual Machine]] is destroyed
+
+# Secure Enclaves
+---
+- item
+
+# Secure Volumes
+---
+- item
 
 # Objectives
 ---
-- Obj
+- [[Objectives#1.5 - Explain different threat actors, vectors, and intelligence sources|1.5 - Explain different threat actors, vectors, and intelligence sources]]
+- [[Objectives#2.2 - Summarize virtualization and cloud computing concepts|2.2 - Summarize virtualization and cloud computing concepts]]
+- [[Objectives#3.5 - Given a scenario, implement secure mobile solutions|3.5 - Given a scenario, implement secure mobile solutions]]
+- [[Objectives#3.6 - Given a scenario, apply cybersecurity solutions to the cloud|3.6 - Given a scenario, apply cybersecurity solutions to the cloud]]
 
 # TODO (Delete when done)
 ---
