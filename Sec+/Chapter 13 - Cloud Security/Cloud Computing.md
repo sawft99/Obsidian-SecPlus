@@ -7,7 +7,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # About
 ---
-- A way of offering on demand services that extend traditional capabilities of a computer or network
+- A way of offering on demand services that extend traditional capabilities of a computer or network ^3cf5c0
 - Increases
 	- [[SecBasics#^3803a7|Availability]]
 	- [[Virtualization#^a6ee8d|Elasticity]]
@@ -23,9 +23,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Hyperconvergence
 ---
-- Fully integrate storage, network, and servers
+- Fully integrates storage, network, and servers by having software and [[Virtualization]] manage these tasks ^eb058d
 - Don't have to perform hardware changes
-- Software and [[Virtualization]] managing integration
 - Single interface and device to manage
 
 # Virtual Desktop Infrastructure (VDI)
@@ -37,11 +36,14 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Secure Enclaves
 ---
-- item
+- Use 2 different areas where data can be stored and accessed from
+- Each enclave can be accessed by the proper processor
 
 # Secure Volumes
 ---
-- item
+- Keep data at rest secure
+- When data is needed, it is decrypted and mounted
+- When it is no longer needed, it is unmounted and encrypted again
 
 # Objectives
 ---

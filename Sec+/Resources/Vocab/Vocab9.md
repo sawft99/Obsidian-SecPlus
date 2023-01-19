@@ -22,7 +22,9 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Network Intrusion Detection System (NIDS)  | ![[NIDS & NIPS#^675d49]]                                             |
 | Network Intrusion Prevention System (NIPS) | ![[NIDS & NIPS#^7ad297]]                                             |
 | Unified Threat Management (UTM)            | ![[Unified Threat Management#^f0c75b]]                               |
-| Next Generation Firewall (NGFW)                   | ![[Unified Threat Management#^5c6a65]]                                                                     |
+| Next Generation Firewall (NGFW)            | ![[Unified Threat Management#^5c6a65]]                               |
+| Cloud Computing                            | ![[Cloud Computing#^3cf5c0]]                                         |
+| Hyperconvergence                           | ![[Cloud Computing#^eb058d]]                                                                     |
 
 
 -
