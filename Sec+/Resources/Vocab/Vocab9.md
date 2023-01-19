@@ -27,7 +27,11 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Hyperconvergence                           | ![[Cloud Computing#^eb058d]]                                         |
 | Virtual Desktop Infrastructure (VDI)       | ![[Cloud Computing#^a1b451]]                                         |
 | Secure Enclave                             | ![[Cloud Computing#^82b260]]                                         |
-| Secure Volume                              | ![[Cloud Computing#Secure Volumes]]                                                                     |
+| Secure Volume                              | ![[Cloud Computing#Secure Volumes]]                                  |
+| Public Cloud                               | ![[Cloud Types#^d9e4bb]]                                             |
+| Private Cloud                              | ![[Cloud Types#^566e78]]                                             |
+| Hybrid Cloud                               | ![[Cloud Types#^3fb568]]                                             |
+| Community Cloud                            | ![[Cloud Types#^b141a0]]                                                                     |
 
 
 -

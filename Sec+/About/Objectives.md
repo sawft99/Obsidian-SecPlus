@@ -409,10 +409,10 @@ collapse: close
 	- Platform as a service (PaaS)
 	- Software as a service (SaaS)
 	- Anything as a service (XaaS)
-	- Public
-	- Community
-	- Private
-	- Hybrid
+	- [[Cloud Types#Public Cloud|Public Cloud]]
+	- [[Cloud Types#Community Cloud|Community Cloud]]
+	- [[Cloud Types#Private Cloud|Private Cloud]]
+	- [[Cloud Types#Hybrid Cloud|Hybrid Cloud]]
 - Cloud service providers
 	- [[Threats to VMs#Data Remnants|Data Remnants]]
 	- [[Cloud Computing]]
@@ -1077,6 +1077,7 @@ conditioning (HVAC)
 		- Public and private subnets
 			- [[Subnetting]]
 			- [[Network Address Translation]]
+			- [[Cloud Types#Private Cloud|Private Cloud]]
 		- Segmentation
 			- [[VLAN]]
 		- API inspection and integration

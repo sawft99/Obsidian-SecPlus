@@ -40,6 +40,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # Cloud DLP
 ---
 - Cloud software that protects data <u>in the cloud service</u>
+- See also [[Cloud Computing]]
 
 # Objectives
 ---

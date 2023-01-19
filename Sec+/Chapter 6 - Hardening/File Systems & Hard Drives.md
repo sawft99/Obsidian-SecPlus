@@ -54,7 +54,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 3. Defrag
 	1. Defrag via cli or app
 4. Backups
-	1. Multiple software and cloud solutions
+	1. Multiple software and [[Cloud Computing]] solutions
 5. Know how to use restore techniques and verify your backups
 	1. System restore points
 	2. Tape backups
