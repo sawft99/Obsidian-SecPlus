@@ -1258,8 +1258,10 @@ conditioning (HVAC)
 - Incident response process
 	- Preparation
 	- Identification
+		- [[As a Service#Sandboxing|Sandboxing]]
 	- Containment
 	- Eradication
+		- [[Removing Malware]]
 	- Recovery
 	- Lessons learned
 - Exercises
