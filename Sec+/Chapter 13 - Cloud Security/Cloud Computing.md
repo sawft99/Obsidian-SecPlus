@@ -20,12 +20,19 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Reduce power, space, and cooling
 - Achieves higher availability by firing up [[Virtualization#Virtual Machine Types|Virtual Machines]] when needed
 	- Allows more dynamic use of server resources like CPU and RAM
-- Cloud providers will often use 'Hyperconvergence'
-	- 
 
-# Security Issues
+# Hyperconvergence
 ---
-- Many of the normal security issues carry over into the cloud as well
+- Fully integrate storage, network, and servers
+- Don't have to perform hardware changes
+- Software and [[Virtualization]] managing integration
+- Single interface and device to manage
+
+# Virtual Desktop Infrastructure (VDI)
+---
+- A full desktop operating system for an end user to use from a centralized server
+- Security benefits
+	- Can create a new [[Virtualization#Virtual Machine Types|Virtual Machine]] every time a user logs in
 
 # Objectives
 ---
