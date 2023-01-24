@@ -1,9 +1,9 @@
 {
   "collapse-filter": false,
-  "search": "",
-  "showTags": true,
+  "search": "line:(at rest)",
+  "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [],

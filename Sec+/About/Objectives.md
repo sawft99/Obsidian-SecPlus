@@ -542,6 +542,7 @@ collapse: close
 		- Multipath
 	- Network
 		- Load balancers
+			- [[Cloud Security]]
 		- Network interface card (NIC) teaming
 	- Power
 		- Uninterruptible power supply (UPS)
@@ -578,6 +579,7 @@ collapse: close
 	- Scalability
 		- [[Securing Storage#Network Attached Storage (NAS)|Network Attached Storage (NAS)]]
 		- [[Securing Storage#Storage Area Network (SAN)|Storage Area Network (SAN)]]
+		- [[Cloud Security]]
 	- [[Securing Storage]]
 - Restoration order
 - Diversity
@@ -1062,10 +1064,12 @@ conditioning (HVAC)
 ## 3.6 - Given a scenario, apply cybersecurity solutions to the cloud
 ---
 - Cloud security controls
+	- [[Cloud Security]]
 	- High availability across zones
 	- Resource policies
 	- Secrets management
 	- Integration and auditing
+		- [[Cloud Security]]
 	- Storage
 		- Permissions
 		- [[Disk Encryption#^501400|Encryption]]

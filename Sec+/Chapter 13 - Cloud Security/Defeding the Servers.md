@@ -7,15 +7,23 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # About
 ---
-- Item
+- Several different types of servers
+	- [[#File Servers]]
 
-# Topic
+# File Servers
 ---
-- Item
+- Used to store, transfer, migrate, synchronize, and archive files for your organization
+- Can be any computer
+	- #Windows , #OSX , or #Linux
+- Encryption at rest
+- Monitoring and logging
+- [[IDS#HIDS|HIDS]]
 
 # Objectives
 ---
-- Obj
+- [[Objectives#1.7 - Summarize the techniques used in security assessments|1.7 - Summarize the techniques used in security assessments]]
+- [[Objectives#3.1 - Given a scenario, implement secure protocols|3.1 - Given a scenario, implement secure protocols]]
+- [[Objectives#3.2 - Given a scenario, implement host or application security solutions|3.2 - Given a scenario, implement host or application security solutions]]
 
 # TODO (Delete when done)
 ---
