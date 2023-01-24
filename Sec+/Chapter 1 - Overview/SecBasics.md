@@ -55,7 +55,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 		- <u>Logging</u>
 		- <u>Non-Repudiation</u>
 			- Proof someone did something
--  Objectives
+- Objectives
 	- [[Objectives#2.4 - Summarize authentication and authorization design concepts|2.4 - Summarize authentication and authorization design concepts]]
 
 # Security threats
@@ -288,7 +288,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 		- Go from passive to active scanning/actions
 		- Identifying where/how to attack target
 	- Weaponization
-		- Attackers couple #Payload with #Exploit  code
+		- Attackers couple #Payload with #Exploit code
 		- Creating tool but <u>NOT running</u>
 	- Delivery
 		- Attacker finds vector for #Payload

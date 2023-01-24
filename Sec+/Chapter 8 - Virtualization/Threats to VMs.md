@@ -21,7 +21,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ## About
 ---
 - An attack that allows an attacker to break out of a normally isolated [[Virtualization#Virtual Machine Types|Virtual Machine]] by interacting directly with the [[Hypervisors]] ^a2ffe1
-- Can migrate out and to another  [[Virtualization#Virtual Machine Types|Virtual Machine]]
+- Can migrate out and to another [[Virtualization#Virtual Machine Types|Virtual Machine]]
 - Difficult
 - Exploit physical resources between [[Virtualization#Virtual Machine Types|Virtual Machines]]
 
@@ -34,6 +34,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Contents of a [[Virtualization#Virtual Machine Types|Virtual Machine]] that exist as deleted files on a cloud-based server after deprovisioning a [[Virtualization#Virtual Machine Types|Virtual Machine]] ^07f11c
 - Data can be recovered by attackers which will compromise [[SecBasics#^9c173d|Confidentiality]]
 - <u>Cloud providers can introduce these</u> threats because the physical server is not controlled by your company
+- See also [[Cloud Security#Security Practices|Cloud Security]]
 
 # Privilege Elevation
 

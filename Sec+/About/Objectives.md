@@ -16,7 +16,7 @@ collapse: close
 
 # 1.0 - Threats, Attacks, and Vulnerabilities
 
-## 1.1 - Compare and contrast different types of Social Engineering  techniques
+## 1.1 - Compare and contrast different types of Social Engineering techniques
 ---
 - Phishing
 	- [[Mobile Malware#^6aa682|Smishing]]
@@ -140,7 +140,7 @@ collapse: close
 - Resource exhaustion
 - Memory leak
 - Secure sockets layer (SSL) stripping
-- #Drivers  manipulation
+- #Drivers manipulation
 	- [[Rootkits#^b62b08|Shimming]]
 	- Refactoring
 - Pass the hash
@@ -176,7 +176,7 @@ collapse: close
 	- Application
 	- Operational technology (OT)
 	- [[Switches#Physical Tampering|Physical Tampering]]
-- Malicious code or #Script  execution
+- Malicious code or #Script execution
 	- PowerShell
 	- Python
 	- Bash
@@ -402,13 +402,13 @@ collapse: close
 	- Fake telemetry
 	- DNS sinkhole
 
-## 2.2 - Summarize virtualization and cloud computing concepts
+## 2.2 - Summarize virtualizatio4n and cloud computing concepts
 ---
 - Cloud models
-	- #Infrastructure as a service (IaaS)
-	- Platform as a service (PaaS)
-	- Software as a service (SaaS)
-	- Anything as a service (XaaS)
+	- [[As a Service#Infrastructure as a Service (Iaas)|Infrastructure as a Service (Iaas)]]
+	- [[As a Service#Platform as a Service (PaaS)|Platform as a service (PaaS)]]
+	- [[As a Service#Software as a Service (SaaS)|Software as a service (SaaS)]]
+	- [[As a Service|Anything as a Service]]
 	- [[Cloud Types#Public Cloud|Public Cloud]]
 	- [[Cloud Types#Community Cloud|Community Cloud]]
 	- [[Cloud Types#Private Cloud|Private Cloud]]
@@ -733,7 +733,7 @@ conditioning (HVAC)
 		- [[Disk Encryption#^501400|Encryption]]
 	- Supporting integrity
 	- Supporting obfuscation
-		-  [[Disk Encryption#^501400|Encryption]]
+		- [[Disk Encryption#^501400|Encryption]]
 	- Supporting authentication
 	- Supporting non-repudiation
 	- Resource vs. security constraints
@@ -765,7 +765,7 @@ conditioning (HVAC)
 	- Hypertext transfer protocol over SSL/TLS (HTTPS)
 		- [[Security of Apps]]
 	- IPSec
-		- Authentication header (AH)/Encapsulated security #Payload  (ESP)
+		- Authentication header (AH)/Encapsulated security #Payload (ESP)
 		- Tunnel/transport
 	- Secure post office protocol (POP)/Internet message access protocol (IMAP)
 - Use cases
@@ -1233,7 +1233,7 @@ conditioning (HVAC)
 	- grep
 	- chmod
 	- logger
-- Shell and #Script  environments
+- Shell and #Script environments
 	- SSH
 	- PowerShell
 	- Python
@@ -1418,7 +1418,7 @@ conditioning (HVAC)
 		- Web server
 		- OS
 		- Application server
-		- Network #Infrastructure  devices
+		- Network #Infrastructure devices
 
 ## 5.3 - Explain the importance of policies to organizational security
 ---
