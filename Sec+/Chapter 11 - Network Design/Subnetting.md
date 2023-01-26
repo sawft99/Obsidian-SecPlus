@@ -17,7 +17,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 		- Reduce broadcasts and collisions
 - Use different policies for each subnet
 	- Printers, servers, desktops, etc
-- Monitor all subnets and the traffic that goes in and out of them
+- [[SecBasics#^45fffd|Monitor]] all subnets and the traffic that goes in and out of them
 - See also [[Network Address Translation#IP Ranges|IP Ranges]]
 
 # Objectives

@@ -30,8 +30,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Network DLP
 ---
-- Hardware or software on <u>network perimeter</u> to check data that is in <u>transit</u> going in and out
-- Special focus on outgoing in particular
+- Hardware or software on <u>network perimeter</u> to check data that is <u>in transit</u> whether it is going in or out
+- Special focus on <u>outgoing</u> traffic in particular
 
 # Storage DLP
 ---

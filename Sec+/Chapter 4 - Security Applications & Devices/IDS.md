@@ -65,10 +65,10 @@ collapse: close
 	- Something <u>bad happened and system flagged</u> and/or alerted
 - True Negative
 	- Good and <u>normal happened and system didn't flag</u>
-- False Positive
+- False Positive ^70e651
 	- A legit or <u>normal operation was flagged improperly</u>
 		- Such as opening up MS Word and setting off an alert
-- False Negative
+- False Negative ^212e67
 	- Something <u>bad happens but is identified as a legit</u> process
 		- Getting [[Viruses]] but IDS does not go off
 
@@ -85,5 +85,6 @@ collapse: close
 
 # Objectives
 ---
+- [[Objectives#1.7 - Summarize the techniques used in security assessments|1.7 - Summarize the techniques used in security assessments]]
 - [[Objectives#3.2 - Given a scenario, implement host or application security solutions|3.2 - Given a scenario, implement host or application security solutions]]
 - [[Objectives#3.3 - Given a scenario, implement secure network designs|3.3 - Given a scenario, implement secure network designs]]

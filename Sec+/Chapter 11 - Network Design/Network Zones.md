@@ -28,7 +28,7 @@ collapse:close
 ---
 - Wide Area Network
 - Internet connection
-- Monitor and firewall
+- [[SecBasics#^45fffd|Monitor]] and [[Firewalls|Firewall]]
 - Use VPN to keep [[SecBasics#^51b6d8|Confidentiality]] of data going across WAN/Internet
 	- HTTPS with TLS is a form of a VPN
 
@@ -46,7 +46,7 @@ collapse:close
 ---
 - A form of a [[#DMZ]] that is created for partner organizations to access over a [[#WAN]] ^eebd81
 - Not publicly accessible
-- Monitored heavily
+- [[SecBasics#^45fffd|Monitored]] heavily
 
 # Intranet
 ---

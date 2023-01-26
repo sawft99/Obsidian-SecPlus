@@ -41,7 +41,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - Use [[Disk Encryption#Full Disk Encryption|Full Disk Encryption]]
 -  [[SecBasics#^45fffd|AAA Model]]
-	- Have proper authentication
+	- Have proper [[SecBasics#^45fffd|Authentication]]
 		- Username and passwords
 			- Unique to each person
 	- Log access to devices

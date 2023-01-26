@@ -12,13 +12,13 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # Vulnerabilities & Concerns
 ---
 - If they physical server crashes it can effect you and anyone else on the same physical server
-	- [[SecBasics#^3803a7|Availabilitiy]]
+	- [[SecBasics#^51b6d8|Availability]]
 - If one company isn't securing their virtual environment on the server, then all other organizations on the same physical host could be vulnerable
 	- This type of collective data is known as 'Collocated Data'
 
 # Prevention
 ---
-- Ensure you configure, manage, and audit user access to the virtual servers
+- Ensure you configure, manage, and [[SecBasics#^45fffd|Audit]] user access to the virtual servers
 - Ensure cloud server has [[Endpoint Analysis#AntiVirus (AV)|AntiVirus (AV)]], [[Routers#Access Control List (ACL)|Access Control List (ACL)]], [[Updates and Patches]] especially in an [[As a Service#Infrastructure as a Service (Iaas)|Infrastructure as a Service (Iaas)]] setup
 
 # Maintaining Availability

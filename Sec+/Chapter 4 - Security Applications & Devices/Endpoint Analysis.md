@@ -7,7 +7,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # About
 ---
-- Analysis is used when conducting monitoring, logging, and analysis of an endpoint(s)
+- Analysis is used when conducting [[SecBasics#^45fffd|monitoring, logging]], and analysis of an endpoint(s)
 - The job
 	1. Analysts use tools to identify behavioral [[IDS#^ed7614|anomalies]]
 	2. Then Identify techniques used by the [[Malware]] such as [[Active Intercept & Privilege Escalation|Privilege Escalation]] and persistence on the host
@@ -34,8 +34,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # HIDS/HIPS
 ---
 - Host Intrusion Detection System/Host Intrusion Prevention System ^84109b
-- A type of [[IDS]] or [[IDS#^f81e57|IPS]] that monitors a computer system for unexpected behavior or drastic changes to the systems state on an endpoint
-- Both will use <u>signature based detection</u> with logging and monitoring
+- A type of [[IDS]] or [[IDS#^f81e57|IPS]] that [[SecBasics#^45fffd|monitors]] a computer system for unexpected behavior or drastic changes to the systems state on an endpoint
+- Both will use <u>signature based detection</u> with [[SecBasics#^45fffd|Logging and Monitoring]]
 - Often use <u>"File system Integrity Monitoring"</u>
 	- Checks that OS, driver, and application files have not been changed
 - Is usually able to address the problem better than a network based [[IDS]]/[[IDS#^f81e57|IPS]] since it is directly on the machine
@@ -43,7 +43,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Endpoint Protection Platforms (EPP)
 ---
-- A software agent and monitoring system the performs multiple security tasks such as [[#AntiVirus (AV)]], [[#HIDS/HIPS]], [[Software Firewalls]], [[Data Loss Prevention (DLP)]], and [[Disk Encryption|Encryption]] ^fc7325
+- A software agent and [[SecBasics#^45fffd|Monitoring]] system the performs multiple security tasks such as [[#AntiVirus (AV)]], [[#HIDS/HIPS]], [[Software Firewalls]], [[Data Loss Prevention (DLP)]], and [[Disk Encryption|Encryption]] ^fc7325
 - Gartner magic quadrant that shows industry leaders
 
 ```ad-info
@@ -54,7 +54,7 @@ collapse:close
 
 # Endpoint Detection Response (EDR)
 ---
-- A software agent that <u>collects system data and logs for analysis</u> by a monitoring system to provide early detection of threats ^46bc3d
+- A software agent that <u>collects system data and logs for analysis</u> by a [[SecBasics#^45fffd|Monitoring]] system to provide early detection of threats ^46bc3d
 - More focus on <u>behavior and anomalies</u> than signatures
 	- [[IDS#^ed7614|Anomalies]]
 - Logs endpoints observables and indicators which then combines with an analysis
@@ -66,12 +66,12 @@ collapse:close
 ---
 - A system that can provide <u>automated identification</u> of suspicious activity by user accounts and endpoints ^2a3fce
 - Focus is not on collecting data but on <u>the analysis of it</u>
-- Establishing baseline knowledge and then monitoring for anything outside of the baseline
+- Establishing baseline knowledge and then [[SecBasics#^45fffd|Monitoring]] for anything outside of the baseline
 - With analytics as the primary function and large amount of data provided, they rely heavily on advanced computing techniques like #MachineLearning or #AI
 - Flow
 	1. Typical flow would be taking an unknown threat and placing it into a #Sandbox environment for analysis
 	2. Heuristic model is generated based on what the system saw
-	3. Passes it into its #MachineLearning  and #AI
+	3. Passes it into its #MachineLearning and #AI
 	4. Based on their decision it will be determined as either a threat or safe
 
 ```ad-example

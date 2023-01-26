@@ -9,7 +9,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - A way of offering on demand services that extend traditional capabilities of a computer or network ^3cf5c0
 - Increases
-	- [[SecBasics#^3803a7|Availability]]
+	- [[SecBasics#^51b6d8|Availability]]
 	- [[Virtualization#^a6ee8d|Elasticity]]
 	- Resiliency
 - Can bring additional security challenges

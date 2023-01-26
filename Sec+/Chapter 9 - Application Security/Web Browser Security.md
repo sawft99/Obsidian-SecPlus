@@ -9,7 +9,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - Gateway to the internet with all of its abilities and risks
 - Web apps are more common now instead of full apps
-	- Cross platform and better [[SecBasics#^3803a7|Availability]]
+	- Cross platform and better [[SecBasics#^51b6d8|Availability]]
 	- Faster deployment
 	- Relies on a browser
 	- Browser security is more important in particular if your company uses web apps

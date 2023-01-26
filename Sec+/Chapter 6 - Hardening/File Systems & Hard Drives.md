@@ -13,7 +13,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- File Allocation Table (FAT32)
 	- Extended File System (ext4) ^8e18e9
 	- Hierarchical File System+ (HFS+) ^729b3d
-	-  Apple file System (APFS) ^5736b2
+	- Apple file System (APFS) ^5736b2
 - Use [[Disk Encryption#Full Disk Encryption|Full Disk Encryption]] when possible
 
 # Platforms
@@ -22,7 +22,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - Uses FAT32 or NTFS
 - NTFS
-	- The default file system format for #Windows and is more secure because it supports logging, [[Disk Encryption#Full Disk Encryption|Full Disk Encryption]], larger partition sizes, and larger files than FAT32 ^ada5d0
+	- The default file system format for #Windows and is more secure because it supports [[SecBasics#^45fffd|Logging]], [[Disk Encryption#Full Disk Encryption|Full Disk Encryption]], larger partition sizes, and larger files than FAT32 ^ada5d0
 	- Is newer and <u>recommended to use</u> over FAT32
 - Can convert FAT32 to NTFS
 		- 'Convert DriveLetter:\ /FS:NTFS'
@@ -49,7 +49,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 1. Remove temporary files
 2. Conduct periodic file system checks
 	1. #Windows - chkdsk
-	2. #Linux  - fsck
+	2. #Linux - fsck
 	3. #OSX - "First Aid" in disk utility app
 3. Defrag
 	1. Defrag via cli or app

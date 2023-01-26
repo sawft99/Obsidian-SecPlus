@@ -22,13 +22,13 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # Cybersecurity Models
 ---
 - CIA ^51b6d8
-	- Confidentiality ^9c173d
+	- Confidentiality
 		- Ensuring info is not being disclosed to unauthorized people
 		- [[Disk Encryption#^501400|Encryption]] can keep data confidential
-	- Integrity ^1f11b5
+	- Integrity
 		- Confirm data has not been modified in any way by unauthorized people without permission
-		- #Hashing or Journaling showing an audit trail
-	- Availability ^3803a7
+		- #Hashing or Journaling showing an [[#^45fffd|Audit]] trail
+	- Availability
 		- Data easily and readily accessible to authorized users
 		- Stored, accessible, and protected at all times
 		- Creating redundancy, error handling, and having software free from bugs
@@ -52,10 +52,14 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 		- Indicates the level or <u>amount</u> of access you have
 	- Accounting
 		- Tracking data, computer usage, and network resources are maintained
-		- <u>Logging</u>
 		- <u>Non-Repudiation</u>
 			- Proof someone did something
+		- AKA
+			- <u>Auditing</u>
+			- <u>Monitoring</u>
+			- <u>Logging</u>
 - Objectives
+	- [[Objectives#1.7 - Summarize the techniques used in security assessments|1.7 - Summarize the techniques used in security assessments]]
 	- [[Objectives#2.4 - Summarize authentication and authorization design concepts|2.4 - Summarize authentication and authorization design concepts]]
 
 # Security threats

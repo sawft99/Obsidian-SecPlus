@@ -12,12 +12,12 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- [[#Private Cloud]]
 	- [[#Hybrid Cloud]]
 	- [[#Community Cloud]]
-- 
+-
 
 # Public Cloud
 ---
 - Makes resources available to the end users over the internet ^d9e4bb
-- Generally cheaper but can compromise [[SecBasics#^9c173d|Confidentiality]] and [[SecBasics#^3803a7|Availability]]
+- Generally cheaper but can compromise [[SecBasics#^51b6d8|Confidentiality]] and [[SecBasics#^51b6d8|Availability]]
 - Such as Google Drive
 
 # Private Cloud
@@ -40,7 +40,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Including cost
 - Similar to several [[#Private Cloud]] instances and connecting them
 - Each organization may have its own security controls
-- You can potentially inherit the security vulnerabilities and risks of another company 
+- You can potentially inherit the security vulnerabilities and risks of another company
 
 # Objectives
 ---

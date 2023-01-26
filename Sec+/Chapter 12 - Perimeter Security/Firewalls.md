@@ -27,7 +27,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - A single function on a multifunctional device
 - Such as [[Routers]] and [[Unified Threat Management]] systems also including a firewall
-- Common in SOHO networks 
+- Common in SOHO networks
 
 # Packet Filtering
 
@@ -58,7 +58,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Application Layer Gateway (ALG)
 ---
-- Conducts inspection based on application being used such as FTP or Telnet ^710136
+- Conducts inspection based on application being used such as [[Defeding the Servers#File Transfer Protocol (FTP) Servers|FTP]] or Telnet ^710136
 - Instead of blocking based on ports that are used, it inspects headers to determine the type of application it is meant for
 - Resource intensive
 - "[[The OSI Model#Application|Layer 7]] firewalls"
@@ -87,7 +87,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Firewalls will <u>usually read ACL rules in the order</u> of:
 	- Type of traffic such as over [[The OSI Model#Transport|UDP]] or [[The OSI Model#Transport|TCP]]
 	- IP source
-	- IP destination 
+	- IP destination
 	- Port
 - ACL rules are also processed in the order that is configured starting with 1 and working its way up
 	- Once an ACL rule matches the request the firewall made, <u>no additional rules are processed</u>
@@ -96,13 +96,13 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ## Rules
 ---
 - Explicit Allow
-	- Allowing traffic to enter or leave the network because there is an ACL rule that <u>specifically</u> allows it 
+	- Allowing traffic to enter or leave the network because there is an ACL rule that <u>specifically</u> allows it
 	- "allow TCP 10.0.0.2 any port 80"
 		- Host with that IP can send packets out to any IP as long as it is over port 80
 - Explicit Deny
 	- Traffic is denied the ability to enter or leave the network because there is an ACL that <u>specifically</u> denies it
 	- "deny TCP any any port 23"
-		- Stops any device on the network from sending information over the [[Network Zones#WAN|WAN]]  on port 23
+		- Stops any device on the network from sending information over the [[Network Zones#WAN|WAN]] on port 23
 - Implicit Deny
 	- Traffic denied the ability to enter or leave the network because there is <u>no specific rule</u> that <u>explicitly allows</u> it
 	- Create an ACL rule at the bottom of the list (highest number)

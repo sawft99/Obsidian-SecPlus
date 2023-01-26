@@ -306,23 +306,28 @@ collapse: close
 	- Advisories and bulletins
 	- Maneuver
 - Vulnerability scans
-	- False positives
-	- False negatives
+	- [[IDS#^70e651|False positives]]
+	- [[IDS#^212e67|False negatives]]
 	- Log reviews
+		- [[SecBasics#^45fffd|Auditing]]
 	- Credentialed vs. non-credentialed
 	- Intrusive vs. non-intrusive
 	- Application
 	- Web application
 	- Network
 	- Common Vulnerabilities and Exposures (CVE)/Common Vulnerability Scoring System (CVSS)
+		- [[Defeding the Servers#Web Servers|Web Servers]]
 	- Configuration review
+		- [[Hardening]]
 - Syslog/Security information and event management - #SIEM
 	- Review reports
+		- [[SecBasics#^45fffd|Auditing]]
 	- Packet capture
+		- [[NIDS & NIPS#Protocol Analyzer|Protocol Analyzer]]
 	- Data inputs
 	- User behavior analysis
 	- Sentiment analysis
-	- Security monitoring
+	- Security [[SecBasics#^45fffd|monitoring]]
 	- Log aggregation
 	- Log collectors
 - Security orchestration, automation, response (SOAR)

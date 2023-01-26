@@ -103,7 +103,7 @@ collapse:close
 ---
 - [[Data Loss Prevention]]
 	- [[Data Loss Prevention (DLP)]]
-- Continuous Monitoring
+- Continuous [[SecBasics#^45fffd|Monitoring]]
 - Access Control
 - Identity Management
 - Business Continuity

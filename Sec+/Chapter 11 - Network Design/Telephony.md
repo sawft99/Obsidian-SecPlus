@@ -28,7 +28,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Callback feature on modem
 	- When someone calls in the modem hangs up and if it is a recognized number the modem would call back to establish the connection
 	- Verifies who a person is
-- Authentication
+- [[SecBasics#^45fffd|Authentication]]
 	- Username and Password
 	- 2FA/MFA
 - Eliminate modems and switch to SSH
@@ -59,7 +59,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Common for companies to use [[Subnetting]] and [[VLAN]] to create separate voice and data networks
 - Many organizations try to run both on the same network
 - Relies on IP phones, software, and VOIP gateways ^0b3233
-	- IP phones use an ethernet cable versus a traditional phone cable 
+	- IP phones use an ethernet cable versus a traditional phone cable
 
 ## Prevention
 ---
@@ -70,10 +70,10 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - The use of mechanisms or technologies that work on a network to control traffic and ensure the performance of critical applications with limited network capacity [^1] ^89467f
 - Applies to [[#Voice Over Internet Protocol (VOIP)]]
-- Implement to improve [[SecBasics#^3803a7|Availability]]
+- Implement to improve [[SecBasics#^51b6d8|Availability]]
 - VOIP can use a lot of bandwidth
 - High latency can affect phone calls very easily
-- Susceptible to #DDoS 
+- Susceptible to #DDoS
 
 # Objectives
 ---

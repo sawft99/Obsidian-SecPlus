@@ -32,7 +32,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 ## Software Based
 ---
-- Mac and #OSX  have #FileVault  [[Endpoint Analysis#AntiVirus (AV)|AntiVirus]]built in
+- Mac and #OSX have #FileVault [[Endpoint Analysis#AntiVirus (AV)|AntiVirus (AV)]]built in
 	- Slower than [[#Hardware Based]]
 	- [[#Full Disk Encryption]]
 	- "System preferences > Security"
@@ -40,7 +40,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Windows has #Bitlocker built in
 	- [[#Full Disk Encryption]]
 	- "Right click a drive > turn on #Bitlocker"
-	- Supports [[#Advanced Encryption Standard (AES)]] 128 and 256
+	- Supports [[#Advanced Encryption Standard (AES)]] 128 and 256 bit
 - <u>Most companies use software based</u>
 
 # File Level Encryption
@@ -59,10 +59,10 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Trusted Platform Module (TPM)
 ---
-- Chip residing on the motherboard that contains an [[#^501400|Encryption]]  key
+- Chip residing on the motherboard that contains an [[#^501400|Encryption]] key
 - A specification for hardware based storage of digital certificates, keys, #Hashing (hashed) passwords, and other user and platform identification information ^e5cd31
 - Also used for [[Root of Trust]]
-- #Bitlocker  will use the key already inside the TPM chip for its [[#^501400|Encryption]] operation
+- #Bitlocker will use the key already inside the TPM chip for its [[#^501400|Encryption]] operation
 - If you take the hard drive out and put it into another computer you would not be able to read it because that computer has a different TPM chip with a different key on it
 - See also [[Root of Trust]] and [[Trusted Firmware]]
 

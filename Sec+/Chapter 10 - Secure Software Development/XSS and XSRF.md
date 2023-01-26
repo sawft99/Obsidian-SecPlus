@@ -56,7 +56,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Exploits focus on <u>the trust a website has in a user</u> ^09a7b3
 - Example
 	- Once logged into bank account the website "trusts" you
-	- Attacker sends a command to web server via your authenticated session
+	- Attacker sends a command to web server via your [[SecBasics#^45fffd|authenticated]] session
 	- Forges request to <u>make it look like it came from the victim</u>
 	- An attacker usually can't see the web server response but it could still could be used to do some functions on the site like change a password or transfer money
 
@@ -65,7 +65,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Require specialized tokens on web pages that have forms like CAPTCHA
 - Use good authentication and [[Disk Encryption#^501400|Encryption]] techniques
 - Scan XML files submitted by a user
-- Submit [[Web Browser Concerns#Cookies|Cookies]] twice to make sure they both match and have the proper [[SecBasics#^1f11b5|Integrity]]
+- Submit [[Web Browser Concerns#Cookies|Cookies]] twice to make sure they both match and have the proper [[SecBasics#^51b6d8|Integrity]]
 - [[Firewalls#Web Application Firewall (WAF)|Web Application Firewall (WAF)]]
 
 ```ad-tip

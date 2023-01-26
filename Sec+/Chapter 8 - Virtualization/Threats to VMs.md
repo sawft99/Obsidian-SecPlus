@@ -32,7 +32,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # Data Remnants
 ---
 - Contents of a [[Virtualization#Virtual Machine Types|Virtual Machine]] that exist as deleted files on a cloud-based server after deprovisioning a [[Virtualization#Virtual Machine Types|Virtual Machine]] ^07f11c
-- Data can be recovered by attackers which will compromise [[SecBasics#^9c173d|Confidentiality]]
+- Data can be recovered by attackers which will compromise [[SecBasics#^51b6d8|Confidentiality]]
 - <u>Cloud providers can introduce these</u> threats because the physical server is not controlled by your company
 - See also [[Cloud Security#Security Practices|Cloud Security]]
 
@@ -54,7 +54,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Occurs when a [[Virtualization#Virtual Machine Types|Virtual Machine]] is moved from one physical server to another over the network ^6413ed
 - If an attacker can place themselves between the two physical server they can perform a type of #MITM attack
 - Capturing data as it is transferred if it is not encrypted
-- This can compromise [[SecBasics#^9c173d|Confidentiality]] of data
+- This can compromise [[SecBasics#^51b6d8|Confidentiality]] of data
 
 # Compromised Containers
 ---

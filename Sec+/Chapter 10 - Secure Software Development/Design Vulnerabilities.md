@@ -25,11 +25,11 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - In Particular with an SDK or Third Party Library, if a vulnerability is found and patched you have have to update those components to ensure you are using the most secure form of code
 	- See also [[Updates and Patches]]
 
-# Insufficient Logging and Monitoring
+# Insufficient [[SecBasics#^45fffd|Logging and Monitoring]]
 ---
 - Any program that does not properly record or log detailed enough information for an analyst to perform their job ^ec410b
-- Logging and monitoring must support your use case and answer the "who, what, when, where, and how"
-- Organization determines level of logging and other details
+- [[SecBasics#^45fffd|Logging and Monitoring]] must support your use case and answer the "who, what, when, where, and how"
+- Organization determines level of [[SecBasics#^45fffd|Logging]] and other details
 
 # Weak or Default Configurations
 ---
@@ -42,7 +42,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Best Practice
 ---
-- Utilize scripted installations and [[Unnecessary Applications#Baseline Image|Baseline]]  configuration templates to secure applications during installation
+- Utilize scripted installations and [[Unnecessary Applications#Baseline Image|Baseline]] configuration templates to secure applications during installation
 
 # Objectives
 ---

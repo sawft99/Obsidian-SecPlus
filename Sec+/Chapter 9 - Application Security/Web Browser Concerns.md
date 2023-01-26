@@ -12,7 +12,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # Cookies
 ---
 - Text files placed on a clients computer to store information about the user's browsing habits, credentials, and other data ^d06d5f
-	- Website authentication, session tracking, shopping carts
+	- Website [[SecBasics#^45fffd|Authentication]], session tracking, shopping carts
 - Types
 	- Tracking
 		- Often used by [[Spyware]]

@@ -66,7 +66,7 @@ collapse:close
 ## Authentication & Integrity
 ---
 - Applications should be deployed using code signing to ensure the program is not changed inadeptly or maliciously prior to delivery to an end user
-- Digital signatures prove the software is authentic and can maintain [[SecBasics#^1f11b5|Integrity]] throughout its lifecycle
+- Digital signatures prove the software is authentic and can maintain [[SecBasics#^51b6d8|Integrity]] throughout its lifecycle
 
 ## Fail Securely
 ---

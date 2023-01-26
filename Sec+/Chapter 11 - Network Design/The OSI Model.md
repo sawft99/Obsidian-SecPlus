@@ -77,7 +77,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Examples
 	- HTTP
 	- SMTP
-	- FTP
+	- [[Defeding the Servers#File Transfer Protocol (FTP) Servers|FTP]]
 - Where user most interacts with a network
 
 ```ad-info
