@@ -86,11 +86,13 @@ collapse: close
 	- Card cloning
 	- Skimming
 - Adversarial artificial intelligence (AI)
+	- [[Cloud Based Infrastructure]]
 	- Tainted training data for machine learning (ML)
 	- Security of machine learning algorithms
 - Supply-chain attacks
 	- [[Supply Chain Assessment]]
 - Cloud-based vs. on-premises attacks
+	- [[Cloud Based Infrastructure]]
 - Cryptographic attacks
 	- Birthday
 	- Collision
@@ -244,6 +246,7 @@ collapse: close
 ## 1.6 - Explain the security concerns associated with various types of vulnerabilities
 ---
 - Cloud-based vs. on-premises vulnerabilities
+	- [[Cloud Based Infrastructure]]
 - [[Software Vulnerabilities & Exploits#Zero Day|Zero Day]]
 	- [[Unnecessary Applications]]
 	- [[Updates and Patches]]
@@ -270,10 +273,12 @@ collapse: close
 			- [[Software Development#Integration|Waterfall Model - Integration]]
 		- Lack of vendor support
 			- [[Software Development#Maintenance|Retired]]
+		- [[Cloud Based Infrastructure|Vendor Lock In]]
 	- Supply chain
 		- [[Supply Chain Assessment]]
 	- Outsourced code development
 	- Data storage
+		- [[Threats to VMs#Data Remnants|Data Remnants]]
 - Improper or weak patch management
 	- [[Updates and Patches]]
 	- [[Patch Management]]
@@ -407,7 +412,7 @@ collapse: close
 	- Fake telemetry
 	- DNS sinkhole
 
-## 2.2 - Summarize virtualizatio4n and cloud computing concepts
+## 2.2 - Summarize virtualization and cloud computing concepts
 ---
 - Cloud models
 	- [[As a Service#Infrastructure as a Service (Iaas)|Infrastructure as a Service (Iaas)]]
@@ -418,13 +423,14 @@ collapse: close
 	- [[Cloud Types#Community Cloud|Community Cloud]]
 	- [[Cloud Types#Private Cloud|Private Cloud]]
 	- [[Cloud Types#Hybrid Cloud|Hybrid Cloud]]
+	- [[Cloud Based Infrastructure#Virtual Private Cloud (VPC)|Virtual Private Cloud (VPC)]]
 - Cloud service providers
-	- [[Threats to VMs#Data Remnants|Data Remnants]]
 	- [[Cloud Computing]]
 - Managed service provider (MSP)/Managed security service provider (MSSP)
 - On-premises vs. off-premises
 	- [[Threats to VMs#Data Remnants|Data Remnants]]
 	- [[Cloud Computing]]
+	- [[Cloud Based Infrastructure#Cloud vs. On Premise|Cloud vs. On Premise]]
 - Fog computing
 - Edge computing
 - Thin client
@@ -494,10 +500,10 @@ collapse: close
 
 ## 2.4 - Summarize authentication and authorization design concepts
 ---
-- Authentication methods
+- [[SecBasics#^45fffd|Authentication]] methods
 	- Directory services
 	- Federation
-	- Attestation
+	- [[Trusted Firmware#Attestation|Attestation]]
 	- Technologies
 		- Time-based one-time password (TOTP)
 		- HMAC-based one-time password (HOTP)
@@ -537,11 +543,13 @@ collapse: close
 - Authentication, authorization, and accounting (AAA)
 	- [[SecBasics#Cybersecurity Models|Model]]
 - Cloud vs. on-premises requirements
+	- [[Cloud Based Infrastructure#Cloud vs. On Premise|Cloud vs. On Premise]]
 
 ## 2.5 - Given a scenario, implement cybersecurity resilience
 ---
 - Redundancy
 	- Geographic dispersal
+		- [[Cloud Based Infrastructure#Virtual Private Cloud (VPC)|Virtual Private Cloud (VPC)]]
 	- Disk
 		- Redundant array of inexpensive disks (RAID) levels
 		- Multipath
@@ -559,6 +567,7 @@ collapse: close
 		- [[Securing Storage#Storage Area Network (SAN)|SAN]]
 	- [[Virtualization#Virtual Machine Types|Virtual Machine]]
 - On-premises vs. cloud
+	- [[Cloud Based Infrastructure#Cloud vs. On Premise|Cloud vs. On Premise]]
 - Backup types
 	- Full
 	- Incremental
@@ -572,6 +581,7 @@ collapse: close
 	- SAN
 		- [[Securing Storage#Storage Area Network (SAN)|SAN]]
 	- Cloud
+		- [[Cloud Computing]]
 	- Image
 	- Online vs. offline
 	- Offsite storage
@@ -581,6 +591,7 @@ collapse: close
 	- Last known good configuration
 	- Live boot media
 - High availability
+	- [[SecBasics#^51b6d8|Availability]]
 	- Scalability
 		- [[Securing Storage#Network Attached Storage (NAS)|Network Attached Storage (NAS)]]
 		- [[Securing Storage#Storage Area Network (SAN)|Storage Area Network (SAN)]]
@@ -1075,6 +1086,7 @@ conditioning (HVAC)
 	- Secrets management
 	- Integration and auditing
 		- [[Cloud Security]]
+		- [[SecBasics#^45fffd|Auditing]]
 	- Storage
 		- Permissions
 		- [[Disk Encryption#^501400|Encryption]]
@@ -1083,19 +1095,24 @@ conditioning (HVAC)
 	- Network
 		- Virtual networks
 			- [[VLAN]]
+			- [[Cloud Based Infrastructure#Virtual Private Cloud (VPC)|Virtual Private Cloud (VPC)]]
 		- Public and private subnets
 			- [[Subnetting]]
 			- [[Network Address Translation]]
 			- [[Cloud Types#Private Cloud|Private Cloud]]
+			- [[Cloud Based Infrastructure#Virtual Private Cloud (VPC)|Virtual Private Cloud (VPC)]]
 		- Segmentation
 			- [[VLAN]]
+			- [[Cloud Based Infrastructure#Virtual Private Cloud (VPC)|Virtual Private Cloud (VPC)]]
 		- API inspection and integration
 	- Compute
+		- [[Cloud Computing]]
 		- Security groups
 		- Dynamic resource allocation
 			- [[Cloud Computing]]
 		- Instance awareness
 		- Virtual private cloud (VPC) endpoint
+			- [[Cloud Based Infrastructure#Virtual Private Cloud (VPC)|Virtual Private Cloud (VPC)]]
 		- Container security
 			- [[Hypervisors#Application Containerization|Application Containerization]]
 - Solutions

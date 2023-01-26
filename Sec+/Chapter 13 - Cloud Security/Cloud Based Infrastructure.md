@@ -33,37 +33,21 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 ## Cloud
 ---
-- In some ones else's data center and you don't have physical access
-- [[Virtualization]] setup
-- Can result in less capital expense
-	- Depending on [[Cloud Types]] and [[As a Service]] setups
-- Better use of AI and Machine Learning
-	- Takes a lot of resources that most people don't have
-- Depending on what compliance and regulations you are trying to meet, you may be forced to store the data on premise
-- Vendor Lock In
-	- Because of cost or another serious limitation you can be "forced" to stay with a vendor
-	- Example
-		- You have a large amount of data and attempting to move to another provider could incur large expenses because of bandwidth or storage costs that would be required to migrate
-- Many products have a cloud and on premise versions
 
 | Pros                                                                                                              | Cons                                                                                 |
 | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| Less capital expense depending on your [[Cloud Types]] and [[As a Service]] setups                                | You don't have 100% access. It is someone else's data center                         |
+| Less capital expense depending on your [[Cloud Types]] and [[As a Service]] setups                                | You don't have physical access. It is someone else's data center. You're accessing a [[Virtualization]] environment                     |
 | Use of AI and Machine Learning because these typically require a lot of resources that most businesses won't have | May not be able to use depending on compliance or regulations you are trying to meet |
-|                                                                                                                   | - Vendor Lock In:<br>- Because of cost or another serious limitation you can be "forced" to stay with a vendor<br>- For example, you have a large amount of data and attempting to move to another provider could incur large expenses because of bandwidth or storage costs that would be required to migrate                                                                                     |
-
+|                                                                                                                   | ![[Misc#^d2ea95]]                                                                    |
 
 ## On Premise
 ---
-- In your data center with physical access
-	- Ensures you maintain your [[SecBasics#^51b6d8|CIA]] and [[SecBasics#^45fffd|AAA]] security models
-- 100% your responsibility
-- More control of configuration and setup
-- More support you need to have
-- Additional capital expense
-- Many products have a cloud and on premise versions
 
-
+| Pros                                    | Cons                          |
+| --------------------------------------- | ----------------------------- |
+| ![[Misc#^851f11]]                       | 100% your responsibility      |
+| More control of configuration and setup | More support you need to have |
+|                                         | Additional capital expense                              |
 
 # Objectives
 ---
@@ -73,10 +57,3 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - [[Objectives#2.4 - Summarize authentication and authorization design concepts|2.4 - Summarize authentication and authorization design concepts]]
 - [[Objectives#2.5 - Given a scenario, implement cybersecurity resilience|2.5 - Given a scenario, implement cybersecurity resilience]]
 - [[Objectives#3.6 - Given a scenario, apply cybersecurity solutions to the cloud|3.6 - Given a scenario, apply cybersecurity solutions to the cloud]]
-
-# TODO (Delete when done)
----
-- [ ] Added vocab
-- [x] Added and linked objectives in document
-- [ ] Linked objectives back to document
-- [ ] Linked any relevant backlinks to and from document
