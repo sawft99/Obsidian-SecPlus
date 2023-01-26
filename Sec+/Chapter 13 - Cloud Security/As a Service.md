@@ -16,7 +16,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- [[#Other Cloud Services]]
 
 ```ad-info
-title: Cloud Comparison
+title: Cloud Services Comparison
 collapse:close
 ![[CloudTypeCompare1.png]]
 ```
