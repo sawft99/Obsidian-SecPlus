@@ -20,6 +20,12 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- #Microsoft - Cloud App Security
 	- Cisco - Cloudlock
 
+```ad-info
+title: CASB
+collapse:close
+![[CASB1.png]]
+```
+
 # Features
 ---
 - Single Sign On (SSO)
@@ -30,19 +36,39 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Forward Proxy
 ---
-- A security appliance or host positioned at the client network edge that forwards user traffic to the cloud network if the contents of that traffic comply with policy
+- A security appliance or host positioned at the client network edge that forwards user traffic to the cloud network if the contents of that traffic comply with policy ^55f9cf
 - Can be bypassed
+- Inside network to outside network on the internet
 - See also [[Proxy Servers]]
 
+```ad-info
+title: Forward Proxy
+collapse:close
 
+![[ForwardProxy1.png]]
+```
 
 # Reverse Proxy
 ---
--
+- An appliance positioned at the cloud network edge and directs traffic to cloud services if the contents of that traffic comply with policy ^87757c
+- Internet clients must connect and go through the reverse proxy before reaching any other resources on that network
+- Outside network on the internet to inside network
+- Only works if cloud app supports proxies
+- See also [[Proxy Servers]]
 
-# API
+```ad-info
+title: Reverse Proxy
+collapse:close
+
+![[ReverseProxy.png]]
+```
+
+# Application Programming Interface (API)
 ---
--
+- A method that uses the brokers connections between the cloud service and the cloud consumer ^0d4b60
+- Sending data between cloud ser vice and cloud consumer
+- Dependent on API supporting the functions your policy needs
+	- An API not having necessary functionality for your needs
 
 # Objectives
 ---
@@ -51,6 +77,6 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # TODO (Delete when done)
 ---
 - [ ] Added vocab
-- [ ] Added and linked objectives in document
+- [x] Added and linked objectives in document
 - [ ] Linked objectives back to document
 - [ ] Linked any relevant backlinks to and from document
