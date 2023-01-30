@@ -22,7 +22,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- [[Disk Encryption#^501400|Encryption]] for data at rest
 	- [[SecBasics#^45fffd|Monitored & Logged]]
 	- [[IDS#HIDS|HIDS]]
-	- [[Data Loss Prevention (DLP)]]
+	- [[Data Loss Prevention (DLP) - Appliance]]
 
 # Email Servers
 ---

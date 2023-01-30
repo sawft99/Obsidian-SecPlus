@@ -26,7 +26,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 		- Azure web services
 		- Google cloud
 - Isolated from other customers by [[VLAN]]
-- Typically used for provision int customer facing apps or corporate apps that need to be accessed from geographically remote sites
+- Typically used for provision in customer facing apps or corporate apps that need to be accessed from geographically remote sites
 	- Something in a [[Network Zones#DMZ|DMZ]] could be a good fit for a VPC
 
 # Cloud vs. On Premise
@@ -53,6 +53,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - [[Objectives#1.2 - Given a scenario, analyze potential indicators to determine the type of attack|1.2 - Given a scenario, analyze potential indicators to determine the type of attack]]
 - [[Objectives#1.6 - Explain the security concerns associated with various types of vulnerabilities|1.6 - Explain the security concerns associated with various types of vulnerabilities]]
+- [[Objectives#2.1 - Explain the importance of security concepts in an enterprise environment|2.1 - Explain the importance of security concepts in an enterprise environment]]
 - [[Objectives#2.2 - Summarize virtualizatio4n and cloud computing concepts|2.2 - Summarize virtualizatio4n and cloud computing concepts]]
 - [[Objectives#2.4 - Summarize authentication and authorization design concepts|2.4 - Summarize authentication and authorization design concepts]]
 - [[Objectives#2.5 - Given a scenario, implement cybersecurity resilience|2.5 - Given a scenario, implement cybersecurity resilience]]

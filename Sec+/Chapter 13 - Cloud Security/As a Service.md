@@ -101,8 +101,8 @@ collapse:close
 
 # Other Cloud Services
 ---
-- [[Data Loss Prevention]]
-	- [[Data Loss Prevention (DLP)]]
+- [[Data Loss Prevention (DLP)]]
+	- [[Data Loss Prevention (DLP) - Appliance]]
 - Continuous [[SecBasics#^45fffd|Monitoring]]
 - Access Control
 - Identity Management

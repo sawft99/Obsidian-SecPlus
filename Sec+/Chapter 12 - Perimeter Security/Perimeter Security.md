@@ -12,7 +12,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- [[Firewalls]]
 	- [[Proxy Servers]]
 	- [[Honeypots & Honeynets]]
-	- [[Data Loss Prevention (DLP)]]
+	- [[Data Loss Prevention (DLP) - Appliance]]
 	- [[IDS]] & IPS
 		- [[NIDS & NIPS]]
 	- [[Unified Threat Management]] (UTM)

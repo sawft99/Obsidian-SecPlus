@@ -11,7 +11,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Grayware/Jokeware                            | ![[Spyware#^9053a2]]                                                     |
 | Software firewall                            | ![[Software Firewalls#^357ca6]]                                          |
 | Content Filter                               | ![[Popup Blockers#^56e474]]                                              |
-| Data Loss Prevention (DLP)                   | ![[Data Loss Prevention#^b75061]] |
+| Data Loss Prevention (DLP)                   | ![[Data Loss Prevention (DLP)#^b75061]] |
 | Firmware                                     | ![[Securing the BIOS#^28d134]]                                           |
 | Botnet                                       | ![[Botnets & Zombies#^118bae]]                                           |
 | Remote Access Trojan (RAT)                   | Remote Access [[Trojans]]                                                |

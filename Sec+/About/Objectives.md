@@ -377,31 +377,35 @@ collapse: close
 	- Internet protocol (IP) schema
 - Data sovereignty
 - Data protection
-	- [[Data loss prevention (DLP)]]
+	- [[Data Loss Prevention (DLP) - Appliance]]
 	- Masking
 	- [[Disk Encryption#^501400|Encryption]]
 	- At rest
 		- [[Securing Storage]]
 		- [[File Systems & Hard Drives]]
 		- [[Secure Processing#Bus Encryption|Bus Encryption]]
-		- [[Data Loss Prevention]]
-	- In transit/motion
 		- [[Data Loss Prevention (DLP)]]
-		- [[Data Loss Prevention]]
+	- In transit/motion
+		- [[Data Loss Prevention (DLP) - Appliance]]
+		- [[Data Loss Prevention (DLP)]]
 		- [[Secure Processing#Bus Encryption|Bus Encryption]]
 	- In processing
+		- [[Data Loss Prevention (DLP) - Appliance]]
 		- [[Data Loss Prevention (DLP)]]
-		- [[Data Loss Prevention]]
 		- [[Secure Processing]]
 	- Tokenization
 	- Rights management
+		- [[Cloud Access Security Broker (CASB)]]
 - [[Disk Encryption#Hardware Based|Hardware security module (HSM) ]]
 - Geographical considerations
-- Cloud access security broker (CASB)
+	- [[Cloud Based Infrastructure]]
+- [[Cloud Access Security Broker (CASB)]]
 - Response and recovery controls
 - Secure Sockets Layer (SSL)/Transport Layer Security (TLS) inspection
 - #Hashing
 - API considerations
+	- [[Cloud Access Security Broker (CASB)#Application Programming Interface (API)|Cloud Access Security Broker (CASB)]]
+	- [[Application Programming Interface (API)]]
 - Site resiliency
 	- Hot site
 	- Cold site
@@ -423,7 +427,8 @@ collapse: close
 	- [[Cloud Types#Community Cloud|Community Cloud]]
 	- [[Cloud Types#Private Cloud|Private Cloud]]
 	- [[Cloud Types#Hybrid Cloud|Hybrid Cloud]]
-	- [[Cloud Based Infrastructure#Virtual Private Cloud (VPC)|Virtual Private Cloud (VPC)]]
+	- [[Cloud Based Infrastructure]]
+		- [[Cloud Based Infrastructure#Virtual Private Cloud (VPC)|Virtual Private Cloud (VPC)]]
 - Cloud service providers
 	- [[Cloud Computing]]
 - Managed service provider (MSP)/Managed security service provider (MSSP)
@@ -438,12 +443,15 @@ collapse: close
 	- [[Hypervisors#Application Containerization|Application Containerization]]
 	- [[Threats to VMs#Compromised Containers|Compromised Containers]]
 - Micro-services/API
+	- [[Cloud Access Security Broker (CASB)#Application Programming Interface (API)|Cloud Access Security Broker (CASB)]]
+	- [[Application Programming Interface (API)]]
 - #Infrastructure as code
 	- Software-defined networking (SDN)
 	- Software-defined visibility (SDV)
 - Serverless architecture
 - Services integration
 	- [[Cloud Computing#Hyperconvergence|Hyperconvergence]]
+	- [[Application Programming Interface (API)]]
 - Resource policies
 - Transit gateway
 - [[Virtualization]]
@@ -812,7 +820,7 @@ conditioning (HVAC)
 	- [[Endpoint Analysis#AntiVirus (AV)|AntiVirus (AV)]]
 		- Anti-[[malware]]
 	- [[Endpoint Analysis#Endpoint Detection Response (EDR)|Endpoint detection and response (EDR)]]
-	- [[Data Loss Prevention]]
+	- [[Data Loss Prevention (DLP)]]
 	- [[Unified Threat Management|Next-generation firewall]]
 	- [[Endpoint Analysis#HIDS/HIPS|Host intrusion prevention system (HIPS)]]
 	- [[IDS#HIDS|Host Intrusion Detection System (HIDS)]]
@@ -1357,7 +1365,7 @@ conditioning (HVAC)
 		- [[Firewalls#Access Control List (ACL) Config & Rules|Access Control List (ACL) Config & Rules]]
 	- MDM
 		- [[Security of Apps#Mobile Device Management (MDM)|Mobile Device Management (MDM)]]
-	- [[Data Loss Prevention]]
+	- [[Data Loss Prevention (DLP)]]
 	- [[Popup Blockers#Content Filter|Content Filter]]
 		- [[Proxy Servers#Content Filter|Proxy Server]]
 	- Update or revoke certificates

@@ -47,7 +47,7 @@ collapse:close
 
 # Web Security Gateway
 ---
-- Acts a go-between device that scans for viruses, filters unwanted content, and performs [[Data Loss Prevention]] functions  ^08d731
+- Acts a go-between device that scans for viruses, filters unwanted content, and performs [[Data Loss Prevention (DLP)]] functions  ^08d731
 - Looks both at <u>incoming and outgoing</u> traffic
 
 # Objectives

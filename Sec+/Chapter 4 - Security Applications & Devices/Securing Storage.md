@@ -8,7 +8,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # About
 ---
 - Most PCs can use removeable media
-	- [[Data Loss Prevention (DLP)#Data theft evolution|Data theft evolution]]
+	- [[Data Loss Prevention (DLP) - Appliance#Data theft evolution|Data theft evolution]]
 - Want to ensure [[SecBasics#CyberSecurity Models|Confidentiality]]
 	- Apply [[Disk Encryption]]]
 

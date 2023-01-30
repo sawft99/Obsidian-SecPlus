@@ -32,7 +32,7 @@ collapse:close
 	- Enforce [[Network Access Control]] and [[SecBasics#^45fffd|Authorization]] across your organization from the enterprise network all the way to the cloud provider ^69ea35
 - [[Malware]] Scanning
 - [[SecBasics#^45fffd|Monitor and audit]] user activity
-- Mitigate data exfil with [[Data Loss Prevention (DLP)]] type solutions
+- Mitigate data exfil with [[Data Loss Prevention (DLP) - Appliance]] type solutions
 
 # Forward Proxy
 ---
@@ -69,14 +69,9 @@ collapse:close
 - Sending data between cloud ser vice and cloud consumer
 - Dependent on API supporting the functions your policy needs
 	- An API not having necessary functionality for your needs
+- See also [[Application Programming Interface (API)]]
 
 # Objectives
 ---
 - [[Objectives#2.1 - Explain the importance of security concepts in an enterprise environment|2.1 - Explain the importance of security concepts in an enterprise environment]]
-
-# TODO (Delete when done)
----
-- [ ] Added vocab
-- [x] Added and linked objectives in document
-- [ ] Linked objectives back to document
-- [ ] Linked any relevant backlinks to and from document
+- [[Objectives#2.2 - Summarize virtualization and cloud computing concepts|2.2 - Summarize virtualization and cloud computing concepts]]

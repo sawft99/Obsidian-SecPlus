@@ -45,7 +45,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Company provides a phone from a list of several supported models ^9bf98c
 - Company may install [[Security of Apps#Mobile Device Management (MDM)|MDM]] software on device
 	- Policy can be dictated to stop certain apps from being installed on the device
-	- [[Data Loss Prevention (DLP)]] features may be available
+	- [[Data Loss Prevention (DLP) - Appliance]] features may be available
 	- Other features can be turned on and off
 		- Example
 			- Stopping devices from connecting to Wifi
