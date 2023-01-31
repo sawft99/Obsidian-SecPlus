@@ -5,11 +5,19 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 #publish:
 ---
 
-| Term                                                         | Meaning                                                        |
-| ------------------------------------------------------------ | -------------------------------------------------------------- |
-| Malware                                                      | ![[Malware#^7d0970]] ![[Malware#^27fd9a]]                      |
-| Zombies                                                      | ![[Botnets & Zombies#^3c2842]]                                 |
-| Distributed Denial of Service (DDOS)/Denial of Service (DOS) |                                                                |
-| Spam                                                         | ![[Spam#^dae881]]                                              |
-| Spam Over Instant Messaging (SPIM)                           | ![[Spam#^4a7863]]                                              |
+| Term                                            | Meaning                |
+| ----------------------------------------------- | ---------------------- |
+| TTP                                             | ![[SecBasics#^a6b869]] |
+| Threat Hunting                                  | ![[SecBasics#^2a9491]] |
+| Information Security/Information Sytem Security | ![[SecBasics#^5689a1]] |
+| Confidentiality, Integrity, Availability (CIA)  | ![[SecBasics#^51b6d8]] |
+| Authentication, Authorization, Accounting (AAA) | ![[SecBasics#^45fffd]] |
+| Tuple                                           | ![[SecBasics#^d9cef6]] |
+| Administrative Controls                         | ![[SecBasics#^50e62d]] |
+| Open Source Intelligence (OSINT)                | ![[SecBasics#^36c7e3]] |
+| Explicit Knowledge                              | ![[SecBasics#^c4a1c4]] |
+| Implicit Knowledge                              | ![[SecBasics#^b8800d]] |
+| Bidirectional Threat Feed                                    |                                                                |     |
+| Automatic Indicator Service                                  |                                                                |     |
 
+-

@@ -5,34 +5,31 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 #publish:
 ---
 
-| Term                                | Meaning                                  |
-| ----------------------------------- | ---------------------------------------- |
-| OSI Model                           | ![[The OSI Model#^2ed6f4]]               |
-| Hubs                                | ![[Switches#^a8e9c4]]                    |
-| Bridges                             | ![[Switches#^841797]]                    |
-| Switches                            | ![[Switches#^b00706]]                    |
-| Mac Flooding                        | ![[Switches#^334c18]]                    |
-| Mac Spoofing                        | ![[Switches#^0b472f]]                    |
-| Physical Tampering                  | ![[Switches#^56ec11]]                    |
-| Router                              | ![[Routers#^42ecfb]]                     |
-| Access Control List (ACL)           | ![[Routers#^0d9649]]                     |
-| IP Spoofing                         | ![[Routers#^e29634]]                     |
-| De-Militarized Zone                 | ![[Network Zones#^741e54]]               |
-| Extranet                            | ![[Network Zones#^eebd81]]               |
-| Intranet                            | ![[Network Zones#^1b848e]]               |
-| Internet Facing Host                | ![[Jumpbox#^195140]]                     |
-| Bastion Host                        | ![[Jumpbox#^045841]]                     |
-| Jumpbox                             | ![[Jumpbox#^6b6444]]                     |
-| Network Access Control (NAC)        | ![[Network Access Control#^5b18fa]]      |
-| Persistent Agent                    | ![[Network Access Control#^98d45f]]      |
-| Non-persistent agent                | ![[Network Access Control#^e7fbee]]      |
-| Virtual Local Area Network (VLAN)   | ![[VLAN#^9287c0]]                        |
-| Switch Spoofing                     | ![[VLAN#^c1929b]]                        |
-| Double Tagging                      | ![[VLAN#^cd1391]]                        |
-| Subnetting                          | ![[Subnetting#^c99c40]]                  |
-| Network Address Translation (NAT)   | ![[Network Address Translation#^e4650a]] |
-| Telephony                           | ![[Telephony#^9ad8ff]]                   |
-| Modems                              | ![[Telephony#^6e0cc5]]                   |
-| Public Branch Exchange (PBX)        | ![[Telephony#^7d5fa4]]                   |
-| Voice Over Internet Protocol (VOIP) | ![[Telephony#^0b3233]]                                         |
-| Quality of Service (QOS)            |                       ![[Telephony#^89467f]]                   |
+| Term                                      | Meaning                                                                                           |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| Directory Traversal                       | ![[Software Vulnerabilities & Exploits#^82f4b4]] ![[Software Vulnerabilities & Exploits#^1d64fb]] |
+| Arbitrary Code Execution                  | ![[Software Vulnerabilities & Exploits#^5eb74f]]                                                  |
+| Remote Code Execution (RCE)               | ![[Software Vulnerabilities & Exploits#^861a4f]]                                                  |
+| Zero Days                                 | ![[Software Vulnerabilities & Exploits#^cce8ca]]                                                  |
+| Buffer                                    | ![[Buffer Overflow#^80b29e]]                                                                      |
+| Buffer Overflow                           | ![[Buffer Overflow#^7e4396]]                                                                      |
+| Stack                                     | ![[Buffer Overflow#^f4b832]]                                                                      |
+| Non Operational Procedure (NOP)           | ![[Buffer Overflow#^fe8100]]                                                                      |
+| Smashing the Stack                        | ![[Buffer Overflow#^3d13e7]]                                                                      |
+| NOP Slide                                 | ![[Buffer Overflow#^c9fb54]]                                                                      |
+| Address Space Layout Randomization (ASLR) | ![[Buffer Overflow#^15aa75]]                                                                      |
+| Cross-Site Scripting (XSS)                | ![[XSS and XSRF#^18a429]] ![[XSS and XSRF#^2512a1]]                                               |
+| Cross-Site Request Forgery (XSRF/CSRF)    | ![[XSS and XSRF#^eea3e5]] ![[XSS and XSRF#^09a7b3]]                                               |
+| Structured Query Language (SQL)           | ![[SQL Injection#^c4ac0f]]                                                                        |
+| Injection Attack                          | ![[SQL Injection#^de8163]]                                                                        |
+| SQL Injection                             | ![[SQL Injection#^7df86f]]                                                                        |
+| Extensible Markup Language (XML)          | ![[XML Vulnerabilities#^5a1e86]]                                                                  |
+| XML Bomb (Billion Laughs Attack)          | ![[XML Vulnerabilities#^fd20be]]                                                                  |
+| XML External Entity (XXE)                 | ![[XML Vulnerabilities#^a3ddab]]                                                                  |
+| Race Condition                            | ![[Race Conditions#^d9302d]]                                                                      |
+| Dereferencing                             | ![[Race Conditions#^6aa111]]                                                                      |
+| Time of Check to Time of Use (TOCTTOU)    | ![[Race Conditions#^6362a5]]                                                                      |
+| Insecure Components                       | ![[Design Vulnerabilities#^a1d24f]]                                                               |
+| Insufficient Logging and Monitoring       | ![[Design Vulnerabilities#^ec410b]]                                                               |
+| Weak or Default Configurations            | ![[Design Vulnerabilities#^4eadc3]]                                                               |
+-

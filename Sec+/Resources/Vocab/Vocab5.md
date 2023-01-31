@@ -5,29 +5,34 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 #publish:
 ---
 
-| Term                                  | Meaning                                        |
-| ------------------------------------- | ---------------------------------------------- |
-| Hardware Root of Trust (ROT)          | ![[Root of Trust#^f30681]]                     |
-| Anti-Tamper                           | ![[Root of Trust#^e22ab4]]                     |
-| Field Programable Gate Array (FPGA)   |                                                |
-| Physically Unencodable Function (PUF) |                                                |
-| Measured Boot                         | ![[Trusted Firmware#^c83f3c]]                  |
-| Attestation                           | ![[Trusted Firmware#^f55108]]                  |
-| eFUSE                                 | ![[Trusted Firmware#eFUSE]]                    |
-| Trusted Firmware Updates              | ![[Trusted Firmware#Trusted Firmware Updates]] |
-| Processor Security Extensions (PSE)   | ![[Secure Processing#^e3b86c]]                 |
-| Trusted Execution                     | ![[Secure Processing#^cb8327]]                 |
-| Secure Enclave                        | ![[Secure Processing#^3a07c7]]]                |
-| Atomic Execution                      | ![[Secure Processing#^28e559]]                 |
-| Bus Encryption                        | ![[Secure Processing#^010ce7]]                 |
-| [[Virtualization]]                    | ![[Virtualization#^24a69d]]                    |
-| Virtual Machine                       | ![[Virtualization#^a150cf]]                    |
-| Virtual Machine - System              | ![[Virtualization#^5235a8]]                    |
-| Virtual Machine - Processor           | ![[Virtualization#^84d522]]                    |
-| Hypervisor                            | ![[Hypervisors#^4158e0]]                       |
-| Application Containerization          | ![[Hypervisors#^9c31f9]]                       |
-| Elastic/Elasticity                    | ![[Virtualization#^a6ee8d]]                    |
-| VM Escape                             | ![[Threats to VMs#^a2ffe1]]                    |
-| Data Remnants                         | ![[Threats to VMs#^07f11c]]                    |
-| Privilege Elevation                   | ![[Threats to VMs#^32adea]]                    |
-| Live Migration                        | ![[Threats to VMs#^6413ed]]                    |
+| Term                                                | Meaning                                 |
+| --------------------------------------------------- | --------------------------------------- |
+| [[Hardening]]                                       | ![[Hardening#^029877]]                  |
+| Least Functionality                                 | ![[Unnecessary Applications#^9df915]]   |
+| System Center Configuration Management (SCCM)       | ![[Unnecessary Applications#^0c7124]]   |
+| Baseline Image                                      | ![[Unnecessary Applications#^65c355]]   |
+| Whitelisting                                        | ![[Restricting Applications#^80ea87]]   |
+| Blacklisting                                        | ![[Restricting Applications#^74bc0c]]   |
+| Services                                            | ![[Restricting Applications#^b13d85]]   |
+| Process ID (PID)                                    | ![[Restricting Applications#^206b5d]]   |
+| Trusted Operating System (TOS)                      | ![[Trusted Operating System#^a0d6b8]]   |
+| Patches                                             | ![[Updates and Patches#^a1cffe]]        |
+| Patch/Hotfix                                        | ![[Updates and Patches#^a1cffe]]        |
+| Service Pack                                        | ![[Updates and Patches#^dacc50]]        |
+| Patch Management                                    | ![[Patch Management#^f08696]]           |
+| System Center Security Configuration Manager (SCCM) | ![[Patch Management#^d1d9c8]]           |
+| Baseline Security Analyzer (MBSA)                   | ![[Patch Management#^974484]]           |
+| Group Policy                                        | ![[Group Policies#^7935c4]]             |
+| Baselining                                          | ![[Group Policies#^331295]]             |
+| Security Template                                   | ![[Group Policies#^7935c4]]             |
+| New Table File System (NTFS)                        | ![[File Systems & Hard Drives#^ada5d0]] |
+| Extended File System (ext4)                         | ![[File Systems & Hard Drives#^8e18e9]] |
+| Apple File System (APFS)                            | ![[File Systems & Hard Drives#^5736b2]] |
+| Hierarchical File System+ (HFS+)                    | ![[File Systems & Hard Drives#^729b3d]] |
+| Supply Chain                                        | ![[Supply Chain Assessment#^69419f]]    |
+| Due Diligence                                       | ![[Supply Chain Assessment#^cae203]]    |
+| Trusted Computing Environment                       | ![[Supply Chain Assessment#^8320bc]]    |
+| End of Life (EOL)                                   | ![[Supply Chain Assessment#^01cc85]]    |
+| Risk of Appetite                                    | ![[Supply Chain Assessment#^251acb]]    |
+| Trusted Foundry                                     | ![[Supply Chain Assessment#^3779ea]]    |
+| Hardware Source Authenticity                        | ![[Supply Chain Assessment#^c74a15]]    |

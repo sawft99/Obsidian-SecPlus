@@ -5,33 +5,34 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 #publish:
 ---
 
-| Term                                       | Meaning                                                              |
-| ------------------------------------------ | -------------------------------------------------------------------- |
-| Perimeter Security                         | ![[Perimeter Security#^7713ce]]                                      |
-| Firewall                                   | ![[Firewalls#^3a1f24]]                                               |
-| Stateless Packet Filtering                 | ![[Firewalls#^efd3f0]]                                               |
-| Stateful Packet Filtering                  | ![[Firewalls#^75eecb]]                                               |
-| [[Network Address Translation]] Filtering  | ![[Firewalls#^50150a]]                                               |
-| Application Layer Gateway                  | ![[Firewalls#^710136]]                                               |
-| Circuit Level Gateway                      | ![[Firewalls#^5ecc78]]                                               |
-| Web Application Firewall (WAF)             | ![[Firewalls#^f3e13f]]                                               |
-| MAC Filtering                              | ![[Firewalls#^d377c8]]                                               |
-| Web Security Gateway                       | ![[Proxy Servers#^08d731]]                                           |
-| Honeypot                                   | ![[Honeypots & Honeynets#^c14603]]![[Honeypots & Honeynets#^3aa452]] |
-| Honeynet                                   | ![[Honeypots & Honeynets#^c14603]]![[Honeypots & Honeynets#^6b0653]] |
-| Network Intrusion Detection System (NIDS)  | ![[NIDS & NIPS#^675d49]]                                             |
-| Network Intrusion Prevention System (NIPS) | ![[NIDS & NIPS#^7ad297]]                                             |
-| Unified Threat Management (UTM)            | ![[Unified Threat Management#^f0c75b]]                               |
-| Next Generation Firewall (NGFW)            | ![[Unified Threat Management#^5c6a65]]                               |
-| Cloud Computing                            | ![[Cloud Computing#^3cf5c0]]                                         |
-| Hyperconvergence                           | ![[Cloud Computing#^eb058d]]                                         |
-| Virtual Desktop Infrastructure (VDI)       | ![[Cloud Computing#^a1b451]]                                         |
-| Secure Enclave                             | ![[Cloud Computing#^82b260]]                                         |
-| Secure Volume                              | ![[Cloud Computing#Secure Volumes]]                                  |
-| Public Cloud                               | ![[Cloud Types#^d9e4bb]]                                             |
-| Private Cloud                              | ![[Cloud Types#^566e78]]                                             |
-| Hybrid Cloud                               | ![[Cloud Types#^3fb568]]                                             |
-| Community Cloud                            | ![[Cloud Types#^b141a0]]                                                                     |
-
-
--
+| Term                                | Meaning                                  |
+| ----------------------------------- | ---------------------------------------- |
+| OSI Model                           | ![[The OSI Model#^2ed6f4]]               |
+| Hubs                                | ![[Switches#^a8e9c4]]                    |
+| Bridges                             | ![[Switches#^841797]]                    |
+| Switches                            | ![[Switches#^b00706]]                    |
+| Mac Flooding                        | ![[Switches#^334c18]]                    |
+| Mac Spoofing                        | ![[Switches#^0b472f]]                    |
+| Physical Tampering                  | ![[Switches#^56ec11]]                    |
+| Router                              | ![[Routers#^42ecfb]]                     |
+| Access Control List (ACL)           | ![[Routers#^0d9649]]                     |
+| IP Spoofing                         | ![[Routers#^e29634]]                     |
+| De-Militarized Zone                 | ![[Network Zones#^741e54]]               |
+| Extranet                            | ![[Network Zones#^eebd81]]               |
+| Intranet                            | ![[Network Zones#^1b848e]]               |
+| Internet Facing Host                | ![[Jumpbox#^195140]]                     |
+| Bastion Host                        | ![[Jumpbox#^045841]]                     |
+| Jumpbox                             | ![[Jumpbox#^6b6444]]                     |
+| Network Access Control (NAC)        | ![[Network Access Control#^5b18fa]]      |
+| Persistent Agent                    | ![[Network Access Control#^98d45f]]      |
+| Non-persistent agent                | ![[Network Access Control#^e7fbee]]      |
+| Virtual Local Area Network (VLAN)   | ![[VLAN#^9287c0]]                        |
+| Switch Spoofing                     | ![[VLAN#^c1929b]]                        |
+| Double Tagging                      | ![[VLAN#^cd1391]]                        |
+| Subnetting                          | ![[Subnetting#^c99c40]]                  |
+| Network Address Translation (NAT)   | ![[Network Address Translation#^e4650a]] |
+| Telephony                           | ![[Telephony#^9ad8ff]]                   |
+| Modems                              | ![[Telephony#^6e0cc5]]                   |
+| Public Branch Exchange (PBX)        | ![[Telephony#^7d5fa4]]                   |
+| Voice Over Internet Protocol (VOIP) | ![[Telephony#^0b3233]]                                         |
+| Quality of Service (QOS)            |                       ![[Telephony#^89467f]]                   |

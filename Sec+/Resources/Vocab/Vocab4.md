@@ -5,34 +5,30 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 #publish:
 ---
 
-| Term                                                | Meaning                                 |
-| --------------------------------------------------- | --------------------------------------- |
-| [[Hardening]]                                       | ![[Hardening#^029877]]                  |
-| Least Functionality                                 | ![[Unnecessary Applications#^9df915]]   |
-| System Center Configuration Management (SCCM)       | ![[Unnecessary Applications#^0c7124]]   |
-| Baseline Image                                      | ![[Unnecessary Applications#^65c355]]   |
-| Whitelisting                                        | ![[Restricting Applications#^80ea87]]   |
-| Blacklisting                                        | ![[Restricting Applications#^74bc0c]]   |
-| Services                                            | ![[Restricting Applications#^b13d85]]   |
-| Process ID (PID)                                    | ![[Restricting Applications#^206b5d]]   |
-| Trusted Operating System (TOS)                      | ![[Trusted Operating System#^a0d6b8]]   |
-| Patches                                             | ![[Updates and Patches#^a1cffe]]        |
-| Patch/Hotfix                                        | ![[Updates and Patches#^a1cffe]]        |
-| Service Pack                                        | ![[Updates and Patches#^dacc50]]        |
-| Patch Management                                    | ![[Patch Management#^f08696]]           |
-| System Center Security Configuration Manager (SCCM) | ![[Patch Management#^d1d9c8]]           |
-| Baseline Security Analyzer (MBSA)                   | ![[Patch Management#^974484]]           |
-| Group Policy                                        | ![[Group Policies#^7935c4]]             |
-| Baselining                                          | ![[Group Policies#^331295]]             |
-| Security Template                                   | ![[Group Policies#^7935c4]]             |
-| New Table File System (NTFS)                        | ![[File Systems & Hard Drives#^ada5d0]] |
-| Extended File System (ext4)                         | ![[File Systems & Hard Drives#^8e18e9]] |
-| Apple File System (APFS)                            | ![[File Systems & Hard Drives#^5736b2]] |
-| Hierarchical File System+ (HFS+)                    | ![[File Systems & Hard Drives#^729b3d]] |
-| Supply Chain                                        | ![[Supply Chain Assessment#^69419f]]    |
-| Due Diligence                                       | ![[Supply Chain Assessment#^cae203]]    |
-| Trusted Computing Environment                       | ![[Supply Chain Assessment#^8320bc]]    |
-| End of Life (EOL)                                   | ![[Supply Chain Assessment#^01cc85]]    |
-| Risk of Appetite                                    | ![[Supply Chain Assessment#^251acb]]    |
-| Trusted Foundry                                     | ![[Supply Chain Assessment#^3779ea]]    |
-| Hardware Source Authenticity                        | ![[Supply Chain Assessment#^c74a15]]    |
+| Term                                            | Meaning                                                                                       |
+| ----------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| Endpoint Protection Platforms (EPP)             | ![[Endpoint Analysis#^fc7325]]                                                                |
+| Endpoint Detection Response (EDR)               | ![[Endpoint Analysis#^46bc3d]]                                                                |
+| User and Entity Behavioral Analytics (UEBA)     | ![[Endpoint Analysis#^2a3fce]]                                                                |
+| Advanced Threat Protection (ATP)                | ![[Endpoint Analysis#^befc27]]                                                                |
+| Wifi Protected Access (WPA)                     | ![[Securing Wireless Devices#^fa413c]]                                                        |
+| SMS Phishing (Smishing)                         | ![[Mobile Malware#^6aa682]]                                                                   |
+| Subscriber Identity Module (SIM)                | ![[SIM Cloning & ID Theft#^f19809]]                                                           |
+| International Mobile Subscriber Identity (IMSI) | International Mobile Subscriber Identity                                                      |
+| SIM Cloning                                     | ![[SIM Cloning & ID Theft#^e94d65]]                                                           |
+| Bluejacking                                     | ![[Bluetooth Attacks#^79dbd5]]                                                                |
+| Bluesnarfing                                    | ![[Bluetooth Attacks#^024d42]]                                                                |
+| Jailbreaking                                    | ![[Security of Apps#^b2238c]]                                                                 |
+| Rooting                                         | ![[Security of Apps#^6f9cfd]]                                                                 |
+| Remote Lock                                     | ![[Mobile Device Theft#^e74e43]]                                                              |
+| Remote Wipe                                     | ![[Mobile Device Theft#^0f617e]]                                                              |
+| Transport Layer Security (TLS)                  | ![[Security of Apps#^9255c3]]                                                                 |
+| Mobile Device Management (MDM)                  | ![[Security of Apps#^c3e684]]                                                                 |
+| Geotagging                                      | ![[Security of Apps#^463b9f]]                                                                 |
+| Location services                               | Combination of services on a mobile device that allow the location to be used. Primarily GPS. |
+| Bring Your Own device (BYOD)                    | [[Bring Your Own Device (BYOD)]]                                                              |
+| Storage Segmentation                            | ![[Bring Your Own Device (BYOD)#^9579c9]]                                                     |
+| Choose Your Own Device (CYOD)                   | ![[Bring Your Own Device (BYOD)#^9bf98c]]                                                     |
+| Near Field Communication (NFC)                  | ![[Hardening Mobile Devices#^b9fdff]]                                                         |
+| Tethering                                       | ![[Hardening Mobile Devices#^092f4f]]                                                         |
+| Hotspot                                         | ![[Hardening Mobile Devices#^16a462]]                                                         |
