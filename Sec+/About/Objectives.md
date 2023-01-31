@@ -62,7 +62,7 @@ collapse: close
 	- [[Worms]]
 	- Potentially unwanted programs (PUPs)
 	- [[Malware Exploitation|Fileless virus]]
-	- [[SecBasics#^5ba0e4|Command & Control]]
+	- [[SecBasics#^5ba0e9|Command & Control]]
 	- [[Botnets & Zombies]]
 	- [[Ransomware]]
 	- [[Backdoors & Logic Bombs#Logic Bombs|Logic Bombs]]
