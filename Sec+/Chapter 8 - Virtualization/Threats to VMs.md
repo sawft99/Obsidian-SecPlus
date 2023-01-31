@@ -60,6 +60,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - All containers are sharing the same single OS
 - If the OS on the host computer is compromised then all of the [[Hypervisors#Application Containerization|Containers]] can also be compromised
+- See also [[Hypervisors#Application Containerization|Application Containerization]]
 
 ```ad-info
 title: Containers
