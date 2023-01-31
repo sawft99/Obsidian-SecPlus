@@ -430,6 +430,7 @@ collapse: close
 		- [[Cloud Based Infrastructure#Virtual Private Cloud (VPC)|Virtual Private Cloud (VPC)]]
 - Cloud service providers
 	- [[Cloud Computing]]
+	- [[Function as a Service (FaaS) & Serverless]]
 - Managed service provider (MSP)/Managed security service provider (MSSP)
 - On-premises vs. off-premises
 	- [[Threats to VMs#Data Remnants|Data Remnants]]
@@ -441,13 +442,16 @@ collapse: close
 - Containers
 	- [[Hypervisors#Application Containerization|Application Containerization]]
 	- [[Threats to VMs#Compromised Containers|Compromised Containers]]
+	- [[Function as a Service (FaaS) & Serverless]]
 - Micro-services/API
 	- [[Cloud Access Security Broker (CASB)#Application Programming Interface (API)|Cloud Access Security Broker (CASB)]]
 	- [[Application Programming Interface (API)]]
+	- [[Function as a Service (FaaS) & Serverless]]
 - #Infrastructure as code
 	- Software-defined networking (SDN)
 	- Software-defined visibility (SDV)
 - Serverless architecture
+	- [[Function as a Service (FaaS) & Serverless#Serverless|Serverless]]
 - Services integration
 	- [[Cloud Computing#Hyperconvergence|Hyperconvergence]]
 	- [[Application Programming Interface (API)]]

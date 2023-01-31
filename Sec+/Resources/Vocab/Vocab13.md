@@ -28,7 +28,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 | Reverse Proxy                           | ![[Cloud Access Security Broker (CASB)#^87757c]]                                                     |
 | Application Programming Interface (API) | ![[Application Programming Interface (API)#^5d895c]]![[Cloud Access Security Broker (CASB)#^0d4b60]] |
 | CURL                                    | ![[Application Programming Interface (API)#^dfe452]]                                                 |
-| Function as a Service (FaaS)            |                                                                                                      |
-| Microservice                            |                                                                                                      |
-| Orchestration                                        |                                                                                                      |
+| Function as a Service (FaaS)            | ![[Function as a Service (FaaS) & Serverless#^565a28]]                                               |
+| Microservice                            | ![[Function as a Service (FaaS) & Serverless#^2e5a22]]                                                                                                     |
+| Orchestration                           |       ![[Function as a Service (FaaS) & Serverless#^4c8019]]                                                                                               |
 
