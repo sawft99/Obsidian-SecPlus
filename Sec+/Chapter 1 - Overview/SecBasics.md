@@ -238,7 +238,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Threat intelligence from Commercial, Proprietary, and Open Sources
 	- Derived from both Explicit Knowledge and Implicit Knowledge
 - <u>Explicit knowledge</u>
-	- Knowledge you can write down, see, or touch ^c4a1c4
+	- Knowledge you can write down, see, or touch
 - <u>Implicit knowledge</u>
 	- Experienced practitioners analysis ^b8800d
 	- "Sense" what is wrong
@@ -323,7 +323,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Installation
 		- During #Exploit it will install additional code to maintain remote access and achieve persistence
 		- "Phase 2"
-	- Command and Control ^5ba0e9
+	- Command and Control
 		- Where weaponized code talks to an outside server to use additional functions ^002bc8
 		- Able to remotely use host at this point
 		- Establish 2 way communication
