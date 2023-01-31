@@ -5,8 +5,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 #publish:
 ---
 
-| Term                                                | Meaning                                 |
-| --------------------------------------------------- | --------------------------------------- |
+| Term                                            | Meaning                                                                                       |
+| ----------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | Wifi Protected Access (WPA)                     | ![[Securing Wireless Devices#^fa413c]]                                                        |
 | SMS Phishing (Smishing)                         | ![[Mobile Malware#^6aa682]]                                                                   |
 | Subscriber Identity Module (SIM)                | ![[SIM Cloning & ID Theft#^f19809]]                                                           |

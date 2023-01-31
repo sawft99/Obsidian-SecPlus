@@ -24,7 +24,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Open Source Intelligence (OSINT)                 | ![[SecBasics#^eb8c2e]]![[SecBasics#^22bb02]]                                                                                         |
 | Unidirectional Threat Feed                       | ![[SecBasics#^7137a9]]                                                                                                               |
 | Bidirectional Threat Feed                        | ![[SecBasics#^15c875]]                                                                                                               |
-| Automatic Indicator Service                      | ![[SecBasics#^b5a85f]]                                                                                                                                     |
+| Automatic Indicator Service                      | ![[SecBasics#^b5a85f]]                                                                                                               |
 | Command and Control Server (C2)                  | ![[SecBasics#^002bc8]]                                                                                                               |
 | TTP                                              | ![[SecBasics#^a6b869]]                                                                                                               |
 | Threat Hunting                                   | ![[SecBasics#^2a9491]]                                                                                                               |
