@@ -15,7 +15,6 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Exploit Technique                 | ![[Malware Exploitation#^0e3f43]]                              |
 | Kernel                            | ![[Rootkits#^81adf2]]                                          |
 | Dropper                           | ![[Malware Exploitation#^920747]]                              |
-| Advanced Persistent Threat (APT)  | ![[SecBasics#^f3f779]]                                         |
 | Shell Code                        | ![[Malware Exploitation#^1bb4ad]]                              |
 | Code Injection                    | ![[Malware Exploitation#^eab82e]]                              |
 | DLL Sideloading                   | ![[Malware Exploitation#^53d7c6]]                              |

@@ -58,9 +58,10 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 			- <u>Auditing</u>
 			- <u>Monitoring</u>
 			- <u>Logging</u>
-- Objectives
-	- [[Objectives#1.7 - Summarize the techniques used in security assessments|1.7 - Summarize the techniques used in security assessments]]
-	- [[Objectives#2.4 - Summarize authentication and authorization design concepts|2.4 - Summarize authentication and authorization design concepts]]
+## Objectives
+---
+- [[Objectives#1.7 - Summarize the techniques used in security assessments|1.7 - Summarize the techniques used in security assessments]]
+- [[Objectives#2.4 - Summarize authentication and authorization design concepts|2.4 - Summarize authentication and authorization design concepts]]
 
 # Security threats
 ---
@@ -86,87 +87,96 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - #SocialEngineering
 	- <u>Manipulating user to reveal</u> confidential information or perform action detrimental to user or company ^8a69e4
 	- [[Mobile Malware#Phishing|Phishing]]
-- Objectives
-	- [[Objectives#1.2 - Given a scenario, analyze potential indicators to determine the type of attack|1.2 - Given a scenario, analyze potential indicators to determine the type of attack]]
-	- [[Objectives#1.3 - Given a scenario, analyze potential indicators associated with application attacks|1.3 - Given a scenario, analyze potential indicators associated with application attacks]]
+
+## Objectives
+---
+- [[Objectives#1.2 - Given a scenario, analyze potential indicators to determine the type of attack|1.2 - Given a scenario, analyze potential indicators to determine the type of attack]]
+- [[Objectives#1.3 - Given a scenario, analyze potential indicators associated with application attacks|1.3 - Given a scenario, analyze potential indicators associated with application attacks]]
 
 # Mitigating Threats
 ---
 - Physical controls
-	- Alarms, locks, cameras, ID cards, guards
+	- Alarms, locks, cameras, ID cards, guards ^33cf1c
 - Technical Controls ^c5223f
-	- Smart cards, ACL, [[IDS]]/IPS, network authentication
+	- Smart cards, ACL, [[IDS]], [[NIDS & NIPS]], [[Endpoint Analysis#HIDS/HIPS|HIDS/HIPS]] network authentication ^5453f0
 - Administrative Controls ^50e62d
 	- AKA "Managerial Controls"
 	- Policy, procedures, awareness, training, disaster recovery
-		- User training one of the most cost effective methods
+		- <u>User training one of the most cost effective methods</u>
 	- Sub categories
 		- Procedural
 			- Company policy
 		- Legal/Regulatory
 			- Adhering to standards and laws
 			- PCI, HIPPA,etc…
-- Objectives
-	- [[Objectives#5.1 - Compare and contrast various types of controls|5.1 - Compare and contrast various types of controls]]
+## Objectives
+---
+- [[Objectives#5.1 - Compare and contrast various types of controls|5.1 - Compare and contrast various types of controls]]
 
 # Hackers
 ---
-- White Hats
+- White Hats ^96bfed
 	- Not malicious
 	- <u>Work for company</u>
 	- "Ethical hackers or Pen Testers"
-- Black Hats
+- Black Hats ^073dd1
 	- Bad actors
 	- Try to get in without permission or authorization
 	- Bad guys
-- Grey Hats
+- Grey Hats ^e79201
 	- White/Black
 	- <u>No affiliation</u>
 	- Risk breaking law
 	- <u>May not have malicious intent</u>
 	- Hacking for the sake of hacking not to cause damage
 	- Still breaking the law in general but may responsibly disclose
-- Blue Hats
+- Blue Hats ^c8e022
 	- Attempting to hack into company at their request
 	- <u>Freelancer or contractor</u>
 	- Bug bounty
-- Elite Hats
+- Elite Hats ^380c86
 	- <u>The "best"</u>
 	- Find 0 days
 	- Create own tools
 	- White. Black, Grey hats
 	- '1/10,000 considered'
-- #Script Kiddies
-	- <u>Low level of skill</u>
+- #Script Kiddies ^5861aa
+	- <u>Low level of skill</u> ^87294b
 	- Use tools without understanding
-- Objectives
-	- [[Objectives#1.5 - Explain different threat actors, vectors, and intelligence sources|1.5 - Explain different threat actors, vectors, and intelligence sources]]
+
+## Objectives
+---
+- [[Objectives#1.5 - Explain different threat actors, vectors, and intelligence sources|1.5 - Explain different threat actors, vectors, and intelligence sources]]
 
 # Threat Actors
 ---
 - #Script Kiddies
-	- <u>No/Little skill or ability</u>
+	- [[#Hackers]] with <u>no/ittle skill or ability</u>
+	- "Baby Hackers"
 	- Blindly use tool
 - Hacktivists
-	- <u>Driven by cause</u> terrorism, social justice, etc
+	- [[#Hackers]] <u>driven by cause</u> terrorism, social justice, etc
 - Organized crime
 	- Group of <u>hackers well-funded</u> and sophisticated
 - Advanced Persistent Threats ^f3f779
-	- <u>Nation state</u>, covert, #OSINT
-	- Gain more #Intelligence and info
-	- Often maintain a <u>low profile</u>
+	- <u>Nation state</u>, covert, uses #OSINT
+	- Gain more #Intelligence and info before attacking
+	- Often maintain a <u>low profile</u> and <u>persistent access</u>
 	- Can take place over longer periods off time
-- Objectives
-	- [[Objectives#1.5 - Explain different threat actors, vectors, and intelligence sources|1.5 - Explain different threat actors, vectors, and intelligence sources]]
+	- Difficult to detect
 
-# Threat #Intelligence
+## Objectives
+---
+- [[Objectives#1.5 - Explain different threat actors, vectors, and intelligence sources|1.5 - Explain different threat actors, vectors, and intelligence sources]]
+
+# Threat #Intelligence and Sources
 
 ## Assessing #Intelligence
 ---
 - Weighing value of #Intelligence
 	- Timeliness
 		- Is it up to date?
-		- Less valuable over time
+		- #Intelligence Less valuable over time
 	- Relevancy
 		- Information is relevant to your use case
 		- Does it affect your organization?
@@ -185,8 +195,6 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 			- <u>Information content</u>
 				- Number 1 - 6
 				- Confirmed, Probably true, Possibly True, Doubtfully True, Improbable, Can't be judged
-- Objectives
-	- [[Objectives#1.5 - Explain different threat actors, vectors, and intelligence sources|1.5 - Explain different threat actors, vectors, and intelligence sources]]
 
 ## Sources
 ---
@@ -196,14 +204,13 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Closed
 	- Data <u>derived from their own research</u> from analysis and reports
 	- FireEye - Proprietary with closed data
-- [[#^36c7e3|Open]] #OSINT
-	- Data <u>openly available</u> without subscription
+- Open source
+	- Data <u>openly available</u> without subscription ^eb8c2e
+	- Methods of obtaining Information about a person or organization through public records, websites, and social media ^22bb02
 	- Reputation lists and [[Malware]] signature databases
 	- US-CERT
 		- Computer emergency readiness team
 		- Regular reports, analysis, bulletins
-		- Bidirectional threat feed ^15c875
-			- Automatic Indicator Service
 	- NCSC
 		- UK style US-CERT
 	- AT&T Security (OTX)
@@ -217,27 +224,38 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 		- [[Spam]] #Email
 	- SANS ISC
 		- ISC Suspicious domain
-- Threat feeds
-	- <u>Explicit knowledge</u>
-		- Knowledge you can write down, see, or touch ^c4a1c4
-	- <u>Implicit knowledge</u>
-		- Experienced practitioners analysis ^b8800d
-		- "Sense" what is wrong
-		- Ability to have attitude and instinct
-		- Can't write down. Purely Experience
-- #OSINT
-	- Open Source #Intelligence
-	- Obtain info about person/company via public records websites, social media ^36c7e3
-	- Enumeration scans
-- Objectives
-	- [[Objectives#1.5 - Explain different threat actors, vectors, and intelligence sources|1.5 - Explain different threat actors, vectors, and intelligence sources]]
+- Unidirectional Threat Feed
+	- One entity produces and shares threat intelligence that others consume, and those consuming the #Intelligence do not contribute in return[^1] ^7137a9
+- Bidirectional Threat Feed
+	- #Intelligence is sent down to be consumed but can also be ingested from member organizations. Although sharing is allowed and encouraged in these programs, there is no guarantee that every organization will share anything[^1] ^15c875
+- Automatic Indicator Sharing
+	- An automated way to share indicators of compromise (IOCs) and threat intelligence information
+	- Enables the <u>real-time exchange of machine-readable cyber threat indicators and defensive measures</u> to help protect participants of the AIS community and ultimately reduce the prevalence of cyberattacks[^2]
+	- The AIS community includes private sector entities; federal departments and agencies; state, local, tribal, and territorial (SLTT) governments; information sharing and analysis centers (ISACs) and information sharing and analysis organizations (ISAOs); and foreign partners and companies
+
+## Threat feeds
+---
+- Threat intelligence from Commercial, Proprietary, and Open Sources
+	- Derived from both Explicit Knowledge and Implicit Knowledge
+- <u>Explicit knowledge</u>
+	- Knowledge you can write down, see, or touch ^c4a1c4
+- <u>Implicit knowledge</u>
+	- Experienced practitioners analysis ^b8800d
+	- "Sense" what is wrong
+	- Ability to have attitude and instinct
+	- Can't write down.
+		- Purely Experience
+
+## Objectives
+---
+- [[Objectives#1.5 - Explain different threat actors, vectors, and intelligence sources|1.5 - Explain different threat actors, vectors, and intelligence sources]]
 
 # Threat Hunting
 ---
 - Cyber security technique designed to <u>detect presence of threats not discovered by normal security monitoring</u> ^2a9491
 - Is a <u>proactive method vs reactive</u> such as in Incident Response
 - Potentially less disrupting than pen test
-	- Analyze data within systems you already have
+	- Analyze data within systems you already have access to
 - Process
 	- Hypothesis
 		- Based from threat model and based on <u>potential events with higher likelihood and impact</u>
@@ -248,30 +266,32 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 			- Tactics, Techniques, Procedures ^a6b869
 		- Who wants to cause harm?
 		- What systems?
-	- Hunting
-		- Using tools for regular security and IR
+	- Threat Hunting
+		- Using tools for regular security and Incident Response
 			- Logs, file, registry changes
 			- A #SIEM
-		- Assume regular security systems have failed
-		- Examples
+		- <u>Assume regular security systems have failed</u>
+		- Examine information such as:
 			- Network traffic analysis
 				- List of suspicious hosts
 			- Check executables on hosts
 				- Confirm validity of processes
 			- Check other hosts
 				- Compare similarities
-			- Identify how the [[Malware]] came about
+			- Identify how the [[Malware]] or malicious process was executed
 - Can consume a lot of resources but can yield some benefits
 	- Improve detection capabilities
 	- Integrate new info into #Intelligence
 		- Corelating external info with internal logs
 		- Actionable #Intelligence
 	- Reduce attack surface
-	- Block attack vectors
+	- Block [[Malware Infections#Attack Vector|Attack Vector]]
 	- Identify critical assets
 		- Improve monitoring around those systems
-- Objectives
-	- [[Objectives#1.7 - Summarize the techniques used in security assessments|1.7 - Summarize the techniques used in security assessments]]
+
+## Objectives
+---
+- [[Objectives#1.7 - Summarize the techniques used in security assessments|1.7 - Summarize the techniques used in security assessments]]
 
 # Attack Frameworks
 
@@ -303,7 +323,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Installation
 		- During #Exploit it will install additional code to maintain remote access and achieve persistence
 		- "Phase 2"
-	- Command and Control #C2 ^5ba0e4
+	- Command and Control ^5ba0e4
 		- Where weaponized code talks to an outside server to use additional functions ^002bc8
 		- Able to remotely use host at this point
 		- Establish 2 way communication
@@ -382,3 +402,6 @@ collapse:close
 - [[Objectives#2.4 - Summarize authentication and authorization design concepts|2.4 - Summarize authentication and authorization design concepts]]
 - [[Objectives#4.2 - Summarize the importance of policies, processes, and procedures for incident response|4.2 - Summarize the importance of policies, processes, and procedures for incident response]]
 - [[Objectives#5.1 - Compare and contrast various types of controls|5.1 - Compare and contrast various types of controls]]
+
+[^1]: https://www.anomali.com/resources/sharing-threat-intelligence
+[^2]: https://www.cisa.gov/ais
