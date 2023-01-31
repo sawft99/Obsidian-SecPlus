@@ -7,32 +7,11 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 
 | Term                                | Meaning                                  |
 | ----------------------------------- | ---------------------------------------- |
-| OSI Model                           | ![[The OSI Model#^2ed6f4]]               |
-| Hubs                                | ![[Switches#^a8e9c4]]                    |
-| Bridges                             | ![[Switches#^841797]]                    |
-| Switches                            | ![[Switches#^b00706]]                    |
-| Mac Flooding                        | ![[Switches#^334c18]]                    |
-| Mac Spoofing                        | ![[Switches#^0b472f]]                    |
-| Physical Tampering                  | ![[Switches#^56ec11]]                    |
-| Router                              | ![[Routers#^42ecfb]]                     |
-| Access Control List (ACL)           | ![[Routers#^0d9649]]                     |
-| IP Spoofing                         | ![[Routers#^e29634]]                     |
-| De-Militarized Zone                 | ![[Network Zones#^741e54]]               |
-| Extranet                            | ![[Network Zones#^eebd81]]               |
-| Intranet                            | ![[Network Zones#^1b848e]]               |
-| Internet Facing Host                | ![[Jumpbox#^195140]]                     |
-| Bastion Host                        | ![[Jumpbox#^045841]]                     |
-| Jumpbox                             | ![[Jumpbox#^6b6444]]                     |
-| Network Access Control (NAC)        | ![[Network Access Control#^5b18fa]]      |
-| Persistent Agent                    | ![[Network Access Control#^98d45f]]      |
-| Non-persistent agent                | ![[Network Access Control#^e7fbee]]      |
-| Virtual Local Area Network (VLAN)   | ![[VLAN#^9287c0]]                        |
-| Switch Spoofing                     | ![[VLAN#^c1929b]]                        |
-| Double Tagging                      | ![[VLAN#^cd1391]]                        |
-| Subnetting                          | ![[Subnetting#^c99c40]]                  |
-| Network Address Translation (NAT)   | ![[Network Address Translation#^e4650a]] |
-| Telephony                           | ![[Telephony#^9ad8ff]]                   |
-| Modems                              | ![[Telephony#^6e0cc5]]                   |
-| Public Branch Exchange (PBX)        | ![[Telephony#^7d5fa4]]                   |
-| Voice Over Internet Protocol (VOIP) | ![[Telephony#^0b3233]]                                         |
-| Quality of Service (QOS)            |                       ![[Telephony#^89467f]]                   |
+| Host Operating System (Host OS)           | The OS of the physical machine hosting the virtual machine(s). Can be [[Hypervisors]] or a normal computer running [[Virtualization]] software | 
+| Guest Operating System (Guest OS)         | The OS of/in the VM system that is running on the Host OS                                                                                      |
+| Proxy Server                              | ![[Proxy Servers#^58c4cc]] ![[Web Browser Security#^0799dc]]                                                                                   |
+| Cookie(s)                                 | ![[Web Browser Concerns#^d06d5f]]                                                                                                              |
+| Locally Shared Object (LSO)               | ![[Web Browser Concerns#^30b780]]                                                                                                              |
+| Add-Ons                                   | ![[Web Browser Concerns#^4017f6]]                                                                                                              |
+| Advanced Security Options                 | ![[Web Browser Concerns#^3759d6]]                                                                                                              |
+-

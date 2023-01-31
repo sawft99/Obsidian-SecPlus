@@ -21,7 +21,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # Endpoint Security Capabilities
 ---
 1. [[#AntiVirus (AV)]]
-2. [[IDS#HIDS|HIDS]]/[[HIPS]]
+2. [[#HIDS/HIPS]]
 3. [[#Endpoint Protection Platforms (EPP)]]
 4. [[#Endpoint Detection Response (EDR)]]
 5. [[#User and Entity Behavioral Analytics (UEBA)]]

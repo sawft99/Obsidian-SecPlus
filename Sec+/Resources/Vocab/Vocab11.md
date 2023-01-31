@@ -5,19 +5,36 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 #publish:
 ---
 
-| Term                                    | Meaning                                                                                              |
-| --------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| File Server                             | ![[Defeding the Servers#^320f57]]                                                                    |
-| File Transfer Protocol (FTP) Server     | ![[Defeding the Servers#^6b4e30]]                                                                    |
-| Domain Controller                       | ![[Defeding the Servers#^d87424]]                                                                    |
-| Kerberos                                | ![[Defeding the Servers#^1b60d6]]                                                                    |
-| Virtual Private Cloud (VPC)             | ![[Cloud Based Infrastructure#^266cc0]]                                                              |
-| Vendor Lock In                          | ![[Misc#^2f2cac]]                                                                                    |
-| Cloud Access Security Broker (CASB)     | ![[Cloud Access Security Broker (CASB)#^d99896]]                                                     |
-| Single Sign On (SSO)                    | ![[Cloud Access Security Broker (CASB)#^69ea35]]                                                     |
-| Forward Proxy                           | ![[Cloud Access Security Broker (CASB)#^55f9cf]]                                                     |
-| Reverse Proxy                           | ![[Cloud Access Security Broker (CASB)#^87757c]]                                                     |
-| Application Programming Interface (API) | ![[Application Programming Interface (API)#^5d895c]]![[Cloud Access Security Broker (CASB)#^0d4b60]] |
-| CURL                                    | ![[Application Programming Interface (API)#^dfe452]]                                                                                                     |
+| Term                                       | Meaning                                                                                              |
+| ------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
+| OSI Model                                  | ![[The OSI Model#^2ed6f4]]                                                                           |
+| Hubs                                       | ![[Switches#^a8e9c4]]                                                                                |
+| Bridges                                    | ![[Switches#^841797]]                                                                                |
+| Switches                                   | ![[Switches#^b00706]]                                                                                |
+| Mac Flooding                               | ![[Switches#^334c18]]                                                                                |
+| Mac Spoofing                               | ![[Switches#^0b472f]]                                                                                |
+| Physical Tampering                         | ![[Switches#^56ec11]]                                                                                |
+| Router                                     | ![[Routers#^42ecfb]]                                                                                 |
+| Access Control List (ACL)                  | ![[Routers#^0d9649]]                                                                                 |
+| IP Spoofing                                | ![[Routers#^e29634]]                                                                                 |
+| De-Militarized Zone                        | ![[Network Zones#^741e54]]                                                                           |
+| Extranet                                   | ![[Network Zones#^eebd81]]                                                                           |
+| Intranet                                   | ![[Network Zones#^1b848e]]                                                                           |
+| Internet Facing Host                       | ![[Jumpbox#^195140]]                                                                                 |
+| Bastion Host                               | ![[Jumpbox#^045841]]                                                                                 |
+| Jumpbox                                    | ![[Jumpbox#^6b6444]]                                                                                 |
+| Network Access Control (NAC)               | ![[Network Access Control#^5b18fa]]                                                                  |
+| Persistent Agent                           | ![[Network Access Control#^98d45f]]                                                                  |
+| Non-persistent agent                       | ![[Network Access Control#^e7fbee]]                                                                  |
+| Virtual Local Area Network (VLAN)          | ![[VLAN#^9287c0]]                                                                                    |
+| Switch Spoofing                            | ![[VLAN#^c1929b]]                                                                                    |
+| Double Tagging                             | ![[VLAN#^cd1391]]                                                                                    |
+| Subnetting                                 | ![[Subnetting#^c99c40]]                                                                              |
+| Network Address Translation (NAT)          | ![[Network Address Translation#^e4650a]]                                                             |
+| Telephony                                  | ![[Telephony#^9ad8ff]]                                                                               |
+| Modems                                     | ![[Telephony#^6e0cc5]]                                                                               |
+| Public Branch Exchange (PBX)               | ![[Telephony#^7d5fa4]]                                                                               |
+| Voice Over Internet Protocol (VOIP)        | ![[Telephony#^0b3233]]                                                                               |
+| Quality of Service (QOS)                   | ![[Telephony#^89467f]]                                                                               |
 
 -

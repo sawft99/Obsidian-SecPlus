@@ -81,7 +81,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Computer crashes or an application fails ^1efae6
 		- [[Symptoms of Infection]]
 	- BSOD
-		- Occurs when there is a crash on the PC. Indicates a serious issue in #Windows ^e2abc0
+		- Occurs when there is a crash on the PC, indicating a serious issue in #Windows ^e2abc0
 		- [[Symptoms of Infection]]
 	- Affecting <u>availability</u>
 - #SocialEngineering
@@ -229,9 +229,9 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Bidirectional Threat Feed
 	- #Intelligence is sent down to be consumed but can also be ingested from member organizations. Although sharing is allowed and encouraged in these programs, there is no guarantee that every organization will share anything[^1] ^15c875
 - Automatic Indicator Sharing
-	- An automated way to share indicators of compromise (IOCs) and threat intelligence information
+	- An automated way to share indicators of compromise (IOCs) and threat intelligence information ^b5a85f
 	- Enables the <u>real-time exchange of machine-readable cyber threat indicators and defensive measures</u> to help protect participants of the AIS community and ultimately reduce the prevalence of cyberattacks[^2]
-	- The AIS community includes private sector entities; federal departments and agencies; state, local, tribal, and territorial (SLTT) governments; information sharing and analysis centers (ISACs) and information sharing and analysis organizations (ISAOs); and foreign partners and companies
+	- The AIS community includes private sector entities; federal departments and agencies; state, local, tribal, and territorial (SLTT) governments; information sharing and analysis centers (ISACs) and information sharing and analysis organizations (ISAOs); and foreign partners and companies[^2]
 
 ## Threat feeds
 ---
@@ -326,7 +326,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Command and Control
 		- Where weaponized code talks to an outside server to use additional functions ^002bc8
 		- Able to remotely use host at this point
-		- Establish 2 way communication
+		- Establishes 2 way communication
 	- Actions on objectives
 		- Whatever the goal is
 			- Data extraction, Damage, etc
