@@ -25,7 +25,7 @@ collapse:close
 # Software as a Service (SaaS)
 ---
 - Provides functions needed for a <u>complete service</u> to be delivered
-- Functions
+- Functions provided
 	- Hardware
 	- Operating system
 	- Backend Software
@@ -34,7 +34,7 @@ collapse:close
 	- Office 365
 		- Email, Word Docs, Power Point
 
-# Infrastructure as a Service (Iaas)
+# Infrastructure as a Service (IaaS)
 ---
 - Provides functions needed in order to develop <u>your own software or service</u>
 - Functions
@@ -61,7 +61,7 @@ collapse:close
 ## About
 ---
 - Provides organization with various types of security services without the need to maintain their own cyber security staff
-- Good for small companies, trying to lower costs, and those without the skill
+- Good for small companies, trying to lower costs and those without the skill
 - Outsourcing
 	- Simple interface for your own internal IT to use
 

@@ -33,11 +33,16 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- SAML
 	- OAuth
 	- OIDC
-- Do not hardcode or embed keys in code 
+- <u>Do not hardcode or embed keys in code </u>
+- If keys are no longer needed delete them
+- When moving code from development to production regenerate new keys for use
+	- Code is exposed to a lot of people in the development process and those people may have been compromised
+- Ensure all systems have had [[Hardening]] practices applied and are only running [[Restricting Applications#Whitelisting|Whitelisted]] apps
 
 # Logging and Monitoring
 ---
--
+- Ensure sufficient logging
+- [[As a Service#Software as a Service (SaaS)|Software as a Service (SaaS)]] may not supply access to log files or monitoring tools
 
 # Unprotected Storage
 ---
