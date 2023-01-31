@@ -13,6 +13,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- [[#Infrastructure as a Service (Iaas)]]
 	- [[#Platform as a Service (PaaS)]]
 	- [[#Security as a Service (SECaaS)]]
+	- [[Function as a Service (FaaS) & Serverless]]
 	- [[#Other Cloud Services]]
 
 ```ad-info
