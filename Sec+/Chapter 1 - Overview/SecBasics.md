@@ -13,29 +13,29 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Balance needed
 - Types of security ^5689a1
 	- Information Security
-		- Act of protecting <u>data and information</u> from unauthorized access, unlawful modification, disruption, disclosure, corruption, and destruction
+		- Act of protecting <u>data and information</u> from unauthorized access, unlawful modification, disruption, disclosure, corruption, and destruction ^276bff
 		- Data that system is holding <u>NOT</u> the system itself
 	- Information System Security
-		- Securing the <u>systems</u> that hold and process critical data
+		- Securing the <u>systems</u> that hold and process critical data ^71e062
 		- System holding data but <u>NOT</u> the actual data
 
 # Cybersecurity Models
 ---
 - CIA ^51b6d8
 	- Confidentiality
-		- Ensuring info is not being disclosed to unauthorized people
+		- Ensuring info is not being disclosed to unauthorized people ^b8c85d
 		- [[Disk Encryption#^501400|Encryption]] can keep data confidential
 	- Integrity
-		- Confirm data has not been modified in any way by unauthorized people without permission
+		- Confirm data has not been modified in any way by unauthorized people without permission ^00e120
 		- #Hashing or Journaling showing an [[#^45fffd|Audit]] trail
 	- Availability
-		- Data easily and readily accessible to authorized users
+		- Data easily and readily accessible to authorized users ^59133d
 		- Stored, accessible, and protected at all times
 		- Creating redundancy, error handling, and having software free from bugs
 		- #Uptime
 - AAA ^45fffd
 	- Authentication
-		- <u>Proof of identity</u> and systems confirms
+		- When a persons identity is established with proof and confirmed by a system ^80ee75
 		- Methods:
 			- Something you know
 				- User/Pass
@@ -48,12 +48,12 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 			- Somewhere you
 				- Geolocation/Subnet
 	- Authorization
-		- Occurs when <u>user is given access to certain data</u> or area
+		- Occurs when <u>user is given access to certain data</u> or area ^bca181
 		- Indicates the level or <u>amount</u> of access you have
 	- Accounting
 		- Tracking data, computer usage, and network resources are maintained
 		- <u>Non-Repudiation</u>
-			- Proof someone did something
+			- Proof someone did something ^4e6600
 		- AKA
 			- <u>Auditing</u>
 			- <u>Monitoring</u>
@@ -74,18 +74,18 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 		- [[Rootkits]]
 		- [[Ransomware]]
 - Unauthorized access
-	- Occurs when access to computer resources and data <u>happens without consent</u> of the owner
+	- Occurs when access to computer resources and data <u>happens without consent</u> of the owner ^4eee63
 	- Breaking through <u>authorization</u>
 - System Failure
-	- Computer crashes or an application fails
+	- Computer crashes or an application fails ^1efae6
 		- [[Symptoms of Infection]]
 	- BSOD
 		- Occurs when there is a crash on the PC. Indicates a serious issue in #Windows ^e2abc0
 		- [[Symptoms of Infection]]
 	- Affecting <u>availability</u>
 - #SocialEngineering
-	- <u>Manipulating user to reveal</u> confidential information or perform action detrimental to user or company
-	- Phishing
+	- <u>Manipulating user to reveal</u> confidential information or perform action detrimental to user or company ^8a69e4
+	- [[Mobile Malware#Phishing|Phishing]]
 - Objectives
 	- [[Objectives#1.2 - Given a scenario, analyze potential indicators to determine the type of attack|1.2 - Given a scenario, analyze potential indicators to determine the type of attack]]
 	- [[Objectives#1.3 - Given a scenario, analyze potential indicators associated with application attacks|1.3 - Given a scenario, analyze potential indicators associated with application attacks]]
@@ -304,7 +304,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 		- During #Exploit it will install additional code to maintain remote access and achieve persistence
 		- "Phase 2"
 	- Command and Control #C2 ^5ba0e4
-		- Where weaponized code talks to an outside server to use additional functions
+		- Where weaponized code talks to an outside server to use additional functions ^002bc8
 		- Able to remotely use host at this point
 		- Establish 2 way communication
 	- Actions on objectives
