@@ -41,11 +41,6 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Objectives
 ---
+- [[Objectives#1.7 - Summarize the techniques used in security assessments|1.7 - Summarize the techniques used in security assessments]]
 - [[Objectives#2.3 - Summarize secure application development, deployment, and automation concepts]|2.3 - Summarize secure application development, deployment, and automation concepts]]
-
-# TODO (Delete when done)
----
-- [x] Added vocab
-- [x] Added and linked objectives in document
-- [ ] Linked objectives back to document
-- [ ] Linked any relevant backlinks to and from document
+- [[Objectives#4.4 - Given an incident, apply mitigation techniques or controls to secure an environment|4.4 - Given an incident, apply mitigation techniques or controls to secure an environment]]

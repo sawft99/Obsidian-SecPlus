@@ -228,7 +228,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- One entity produces and shares threat intelligence that others consume, and those consuming the #Intelligence do not contribute in return[^1] ^7137a9
 - Bidirectional Threat Feed
 	- #Intelligence is sent down to be consumed but can also be ingested from member organizations. Although sharing is allowed and encouraged in these programs, there is no guarantee that every organization will share anything[^1] ^15c875
-- Automatic Indicator Sharing
+- Automatic Indicator Sharing ^dd013e
 	- An automated way to share indicators of compromise (IOCs) and threat intelligence information ^b5a85f
 	- Enables the <u>real-time exchange of machine-readable cyber threat indicators and defensive measures</u> to help protect participants of the AIS community and ultimately reduce the prevalence of cyberattacks[^2]
 	- The AIS community includes private sector entities; federal departments and agencies; state, local, tribal, and territorial (SLTT) governments; information sharing and analysis centers (ISACs) and information sharing and analysis organizations (ISAOs); and foreign partners and companies[^2]

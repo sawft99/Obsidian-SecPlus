@@ -226,7 +226,7 @@ collapse: close
 	- Dark web
 	- Indicators of compromise
 		- [[Symptoms of Infection]]
-	- Automated indicator sharing (AIS)
+	- [[SecBasics#^dd013e|Automated indicator sharing (AIS)]]
 	- Structured threat information exchange (STIX))
 	- Trusted automated exchange of indicator information (TAXII)
 	- Predictive analysis
@@ -1399,6 +1399,7 @@ conditioning (HVAC)
 - Segmentation
 	- [[Bring Your Own Device (BYOD)#Storage Segmentation|Storage Segmentation]]
 - Secure Orchestration, Automation, and Response (SOAR)
+	- [[Workflow Orchestration]]
 	- Runbooks
 	- Playbooks
 

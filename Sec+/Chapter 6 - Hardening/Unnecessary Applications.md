@@ -15,6 +15,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # Least Functionality
 ---
 - Process of configuring a workstation or server to <u>only provide essential applications and services</u> required by the user ^9df915
+	- Don't confuse with [[SDLC Principles#Least Privilege|Least Privilege]]
 - <u>Restrict unneeded applications, service, ports, and protocols</u>
 - Uninstall any unneeded apps
 	- Every app needs to be managed and updated
