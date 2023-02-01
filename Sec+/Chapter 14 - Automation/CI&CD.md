@@ -65,14 +65,15 @@ collapse:close
 
 # Continuous Delivery
 ---
-- Software development method where the application and platform requirements are frequently tested and validated for immediate availability ^5e859b
+- Sites on top of [[#Continuous Integration]] and frequently tests the application and platform requirements for immediate availability ^5e859b
 - Main purpose is to <u>perform automated testing of code in order to get it READY for release</u>
 - This makes it ready for potential staging and production
 - In order to do [[#Continuous Delivery]] you have to be doing [[#Continuous Integration]] but not vice versa necessarily
 
 # Continuous Deployment
 ---
-- A software development method where application and platform update are committed to production and rapidly ^064afd
+- Handles automation of the application deployment, provisioning, and underlying network components and infrastructure ^064afd
+	- Committed to production and rapidly
 - Place in staging and then move to production at regular intervals
 - Main purpose is to <u>perform automated testing and release of code in order to get it INTO the production environment</u> more quickly 
 
