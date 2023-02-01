@@ -42,7 +42,7 @@ collapse:close
 	- Operating System
 	- Backend Software
 - Still benefit from dynamic allocation
-	- Elasticity
+	- [[Virtualization#^a6ee8d|Elasticity]]
 - Don't need to worry about hardware or support contracts
 - Example
 	- A #Linux box provided with Apache

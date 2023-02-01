@@ -102,6 +102,7 @@ collapse: close
 - [[Active Intercept & Privilege Escalation|Privilege Escalation]]
 - [[XSS and XSRF#Cross Site Scripting (XSS)|Cross Site Scripting (XSS)]]
 	- [[SDLC Principles#Never Trust User Input|Input Validation]]
+	- [[Cloud Threats#Unprotected Storage|Unprotected Storage]]
 - [[SQL Injection#Injection Attack|Injection Attacks]]
 	- [[SQL Injection]]
 	- [[Rootkits#DLL Injection|DLL Injection]]
@@ -138,6 +139,8 @@ collapse: close
 		- [[SDLC Principles#Never Trust User Input|Input Validation]]
 - Application programming
 	- Interface (API) attacks
+		- [[Application Programming Interface (API)]]
+		- [[Cloud Threats#Insecure API|Insecure API]]
 - Resource exhaustion
 - Memory leak
 - Secure sockets layer (SSL) stripping
@@ -246,6 +249,7 @@ collapse: close
 ---
 - Cloud-based vs. on-premises vulnerabilities
 	- [[Cloud Based Infrastructure]]
+	- [[Cloud Threats]]
 - [[Software Vulnerabilities & Exploits#Zero Day|Zero Day]]
 	- [[Unnecessary Applications]]
 	- [[Updates and Patches]]
@@ -253,6 +257,7 @@ collapse: close
 - [[Design Vulnerabilities#Weak or Default Configurations|Weak or Default Configurations]]
 	- Open permissions
 		- [[SDLC Principles#Least Privilege|Least Privilege]]
+		- [[Cloud Threats]]
 	- Unsecured root accounts
 	- [[Testing Methods#Errors|Errors]]
 		- [[Patch Management#Stages|Patch Management - Auditing]]
@@ -264,6 +269,7 @@ collapse: close
 		- [[Unnecessary Applications#Baseline Image|Baseline Image]]
 		- [[SDLC Principles#Create Secure Defaults|Create Secure Defaults]]
 		- [[Design Vulnerabilities#Weak or Default Configurations|Weak or Default Configurations]]
+		- [[Cloud Threats#Unprotected Storage|Unprotected Storage]]
 	- Open ports and services
 		- [[Unnecessary Applications]]
 - Third-party risks
@@ -278,6 +284,7 @@ collapse: close
 	- Outsourced code development
 	- Data storage
 		- [[Threats to VMs#Data Remnants|Data Remnants]]
+		- [[Cloud Threats#Unprotected Storage|Unprotected Storage]]
 - Improper or weak patch management
 	- [[Updates and Patches]]
 	- [[Patch Management]]
@@ -384,20 +391,25 @@ collapse: close
 		- [[File Systems & Hard Drives]]
 		- [[Secure Processing#Bus Encryption|Bus Encryption]]
 		- [[Data Loss Prevention (DLP)]]
+		- [[Cloud Threats#Unprotected Storage|Unprotected Storage]]
 	- In transit/motion
 		- [[Data Loss Prevention (DLP) - Appliance]]
 		- [[Data Loss Prevention (DLP)]]
 		- [[Secure Processing#Bus Encryption|Bus Encryption]]
+		- [[Cloud Threats#Insecure API|Insecure API]]
 	- In processing
 		- [[Data Loss Prevention (DLP) - Appliance]]
 		- [[Data Loss Prevention (DLP)]]
 		- [[Secure Processing]]
+		- [[Cloud Threats#Improper Key Management|Improper Key Management]]
 	- Tokenization
 	- Rights management
 		- [[Cloud Access Security Broker (CASB)]]
+		- [[Cloud Threats#Unprotected Storage|Unprotected Storage]]
 - [[Disk Encryption#Hardware Based|Hardware security module (HSM) ]]
 - Geographical considerations
 	- [[Cloud Based Infrastructure]]
+	- [[Cloud Threats#^4b8e9c|Content Delivery Networks (CDN)]]
 - [[Cloud Access Security Broker (CASB)]]
 - Response and recovery controls
 - Secure Sockets Layer (SSL)/Transport Layer Security (TLS) inspection
@@ -405,6 +417,7 @@ collapse: close
 - API considerations
 	- [[Cloud Access Security Broker (CASB)#Application Programming Interface (API)|Cloud Access Security Broker (CASB)]]
 	- [[Application Programming Interface (API)]]
+	- [[Cloud Threats#Insecure API|Insecure API]]
 - Site resiliency
 	- Hot site
 	- Cold site
@@ -436,6 +449,7 @@ collapse: close
 	- [[Threats to VMs#Data Remnants|Data Remnants]]
 	- [[Cloud Computing]]
 	- [[Cloud Based Infrastructure#Cloud vs. On Premise|Cloud vs. On Premise]]
+	- [[Cloud Threats]]
 - Fog computing
 - Edge computing
 - Thin client
@@ -443,6 +457,7 @@ collapse: close
 	- [[Hypervisors#Application Containerization|Application Containerization]]
 	- [[Threats to VMs#Compromised Containers|Compromised Containers]]
 	- [[Function as a Service (FaaS) & Serverless]]
+	- [[Cloud Threats#Unprotected Storage|Unprotected Storage]]
 - Micro-services/API
 	- [[Cloud Access Security Broker (CASB)#Application Programming Interface (API)|Cloud Access Security Broker (CASB)]]
 	- [[Application Programming Interface (API)]]

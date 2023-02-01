@@ -48,6 +48,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Use [[SDLC Principles#Never Trust User Input|Input Validation]] to stop HTML tags from being entered by users when entering information on a web form
 - A user can increase security setting for [[Web Browser Concerns#Cookies|Cookies]] and [[Web Browser Concerns#Configuring the Browser - Examples|disabling scripting]] for websites
 - [[Firewalls#Web Application Firewall (WAF)|Web Application Firewall (WAF)]]
+- [[Cloud Threats#^34f55a|Cross Origin Sharing Policy (CORS)]] Policy
 
 # Cross Site Request Forgery (XSRF/CSRF)
 
@@ -67,6 +68,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Scan XML files submitted by a user
 - Submit [[Web Browser Concerns#Cookies|Cookies]] twice to make sure they both match and have the proper [[SecBasics#^51b6d8|Integrity]]
 - [[Firewalls#Web Application Firewall (WAF)|Web Application Firewall (WAF)]]
+- [[Cloud Threats#^34f55a|Cross Origin Sharing Policy (CORS)]] Policy
 
 ```ad-tip
 title: Exam Tip - XSS vs XSRF/CSRF

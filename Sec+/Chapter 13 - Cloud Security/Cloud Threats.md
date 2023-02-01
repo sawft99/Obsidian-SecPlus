@@ -43,19 +43,42 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - Ensure sufficient logging
 - [[As a Service#Software as a Service (SaaS)|Software as a Service (SaaS)]] may not supply access to log files or monitoring tools
+- Logs must be copied from  [[Virtualization#^a6ee8d|Elastic]]clients to long term storage
+	- Example
+		- Storing logs solely on a temporary VM that is then deprovisioned after some time
+		- You no longer have access to logs
 
 # Unprotected Storage
 ---
--
+- Most storage containers refereed to as:
+	- Buckets
+		- Typically AWS
+	- Blobs
+		- Typically Azure
+- DO NOT nest [[Hypervisors#Application Containerization|Containers]]
+- Access control to storage is administered through
+	- Container policies
+	- Identity Access Management (IAM) authorizations
+	- Object [[Routers#Access Control List (ACL)|Access Control List (ACL)]]
+- Check for incorrect permissions
+	- Buckets and blobs create default permissions
+- Incorrect origin settings may occur with [[#^4b8e9c|Content Delivery Networks (CDN)]]
+	- You need to configure a Cross Origin Sharing (CORS) policy
+		- A CDN policy that instructs the browser to treat requests from domains it specifies as safe ^34f55a
+		- A weak CORS policy can expose you to some vulnerabilities such as [[XSS and XSRF]]
+- See also [[Hypervisors#Application Containerization|Application Containerization]]
 
+# Vocab
+---
+- Content Delivery Network (CDN)[^1]
+	- A distributed network of servers that can efficiently deliver web content to users ^4b8e9c
+	- CDNs store cached content on edge servers in point-of-presence (POP) locations that are close to end users, to minimize latency
 
 # Objectives
 ---
-- Obj
+- [[Objectives#1.3 - Given a scenario, analyze potential indicators associated with application attacks|1.3 - Given a scenario, analyze potential indicators associated with application attacks]]
+- [[Objectives#1.6 - Explain the security concerns associated with various types of vulnerabilities|1.6 - Explain the security concerns associated with various types of vulnerabilities]]
+- [[Objectives#2.1 - Explain the importance of security concepts in an enterprise environment|2.1 - Explain the importance of security concepts in an enterprise environment]]
+- [[Objectives#2.2 - Summarize virtualization and cloud computing concepts|2.2 - Summarize virtualization and cloud computing concepts]]
 
-# TODO (Delete when done)
----
-- [ ] Added vocab
-- [ ] Added and linked objectives in document
-- [ ] Linked objectives back to document
-- [ ] Linked any relevant backlinks to and from document
+[^1]: https://learn.microsoft.com/en-us/azure/cdn/cdn-overview

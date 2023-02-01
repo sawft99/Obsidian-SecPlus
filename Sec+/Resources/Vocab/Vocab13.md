@@ -29,6 +29,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 | Application Programming Interface (API) | ![[Application Programming Interface (API)#^5d895c]]![[Cloud Access Security Broker (CASB)#^0d4b60]] |
 | CURL                                    | ![[Application Programming Interface (API)#^dfe452]]                                                 |
 | Function as a Service (FaaS)            | ![[Function as a Service (FaaS) & Serverless#^565a28]]                                               |
-| Microservice                            | ![[Function as a Service (FaaS) & Serverless#^2e5a22]]                                                                                                     |
-| Orchestration                           |       ![[Function as a Service (FaaS) & Serverless#^4c8019]]                                                                                               |
+| Microservice                            | ![[Function as a Service (FaaS) & Serverless#^2e5a22]]                                               |
+| Orchestration                           | ![[Function as a Service (FaaS) & Serverless#^4c8019]]                                               |
+| Content Delivery Network (CDN) | ![[Cloud Threats#^4b8e9c]] | 
+| Cross Origin Sharing Policy (CORS)      | ![[Cloud Threats#^34f55a]]                                                                                                     |
 
