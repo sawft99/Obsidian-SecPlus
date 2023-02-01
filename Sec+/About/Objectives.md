@@ -495,6 +495,8 @@ collapse: close
 		- [[Software Development#Testing|Software Development Testing]]
 		- [[Software Development#Maintenance|Software Development Maintenance]]
 - Provisioning and deprovisioning
+	- [[Virtualization#^a6ee8d|Elasticity]]
+	- [[Workflow Orchestration]]
 - Integrity measurement
 - Secure coding techniques
 	- [[Software Development#Waterfall Model|Waterfall Model]]
@@ -502,6 +504,7 @@ collapse: close
 	- Stored procedures
 	- Obfuscation/camouflage
 	- Code reuse/dead code
+		- [[Design Vulnerabilities]]
 	- Server-side vs. client-side execution and validation
 		- [[SDLC Principles#Never Trust User Input|Never Trust User Input]]
 	- Memory management
@@ -513,6 +516,7 @@ collapse: close
 	- Compiler
 	- Binary
 - Automation & #Script
+	- [[Workflow Orchestration]]
 	- Automated courses of action
 	- Continuous monitoring
 	- Continuous validation
@@ -520,14 +524,17 @@ collapse: close
 	- Continuous delivery
 	- Continuous deployment
 	- [[Testing Methods#Fuzzing|Fuzzing]]
-- Elasticity
+- [[Virtualization#^a6ee8d|Elasticity]]
 - Scalability
+	- [[Securing Storage#Network Attached Storage (NAS)|Network Attached Storage (NAS)]]
+	- [[Securing Storage#Storage Area Network (SAN)|Storage Area Network (SAN)]]
 - [[Software Development#^f7f5aa|Version Control]]
 
 ## 2.4 - Summarize authentication and authorization design concepts
 ---
 - [[SecBasics#^45fffd|Authentication]] methods
 	- Directory services
+		- [[Group Policies#Active Directory|Active Directory]]
 	- Federation
 	- [[Trusted Firmware#Attestation|Attestation]]
 	- Technologies
@@ -621,12 +628,12 @@ collapse: close
 	- Scalability
 		- [[Securing Storage#Network Attached Storage (NAS)|Network Attached Storage (NAS)]]
 		- [[Securing Storage#Storage Area Network (SAN)|Storage Area Network (SAN)]]
-		- [[Cloud Security]]
 	- [[Securing Storage]]
 - Restoration order
 - Diversity
 	- Technologies
 	- Vendors
+		- [[Misc#^d2ea95|Vendor Lockin]]
 	- Crypto
 	- Controls
 
