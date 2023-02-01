@@ -5,6 +5,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 #publish:
 ---
 
-| Term     | Meaning  |
-| -------- | -------- |
-| WordDemo | TestHere |
+| Term          | Meaning                             |
+| ------------- | ----------------------------------- |
+| Orchestration | ![[Workflow Orchestration#^4c8019]] |
+|               |                                     |
+

@@ -28,9 +28,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Only pay for when program is executed and running
 - Underlying architecture is handled by a cloud provider
 	- [[Misc#^d2ea95|Vendor lockin]]
-- [[#Serverless]] relies on orchestration
-	- Orchestration is the automated configuration, management, and coordination of computer systems, applications, and services[^1] ^4c8019
-	- Orchestration helps IT to more easily manage complex tasks and workflows.
+- [[#Serverless]] relies on [[Workflow Orchestration]]
 
 ## Securing
 ---
@@ -41,5 +39,3 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # Objectives
 ---
 - [[Objectives#2.2 - Summarize virtualization and cloud computing concepts|2.2 - Summarize virtualization and cloud computing concepts]]
-
-[^1]: https://www.redhat.com/en/topics/automation/what-is-orchestration
