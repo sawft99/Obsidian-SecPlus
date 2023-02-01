@@ -16,6 +16,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 | Private Cloud                           | ![[Cloud Types#^566e78]]                                                                             |
 | Hybrid Cloud                            | ![[Cloud Types#^3fb568]]                                                                             |
 | Community Cloud                         | ![[Cloud Types#^b141a0]]                                                                             |
+| MultiCloud | ![[Cloud Types#^41a673]] |
 | File Server                             | ![[Defeding the Servers#^320f57]]                                                                    |
 | File Transfer Protocol (FTP) Server     | ![[Defeding the Servers#^6b4e30]]                                                                    |
 | Domain Controller                       | ![[Defeding the Servers#^d87424]]                                                                    |

@@ -12,7 +12,6 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- [[#Private Cloud]]
 	- [[#Hybrid Cloud]]
 	- [[#Community Cloud]]
--
 
 # Public Cloud
 ---
@@ -41,6 +40,11 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Similar to several [[#Private Cloud]] instances and connecting them
 - Each organization may have its own security controls
 - You can potentially inherit the security vulnerabilities and risks of another company
+
+# MultiCloud
+---
+- An enterprise uses more than one cloud platform (with at least two or more public clouds), and each delivers a specific application or service ^41a673
+- Can be composed of [[#Public Cloud]], [[#Private Cloud]], and edge clouds to achieve the enterprise’s end goals
 
 # Objectives
 ---
