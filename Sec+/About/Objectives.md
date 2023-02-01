@@ -484,15 +484,20 @@ collapse: close
 - Environment
 	- Development
 		- [[Software Development#About|Software Development]]
+		- [[CI&CD]]
 	- Test
 		- [[Software Development#Testing|Software Development]]
 		- [[Testing Methods]]
+		- [[CI&CD]]
 	- Staging
 		- [[Software Development#Integration|Software Development]]
+		- [[CI&CD]]
 	- Production
 		- [[Software Development#Integration|Software Development]]
+		- [[CI&CD]]
 	- Quality assurance (QA)
 		- [[Software Development#Testing|Software Development Testing]]
+		- [[CI&CD]]
 		- [[Software Development#Maintenance|Software Development Maintenance]]
 - Provisioning and deprovisioning
 	- [[Virtualization#^a6ee8d|Elasticity]]
@@ -1066,6 +1071,7 @@ conditioning (HVAC)
 	- Context-aware authentication
 	- Containerization
 		- [[Hypervisors#Application Containerization|Application Containerization]]
+		- [[Threats to VMs#Compromised Containers|Compromised Containers]]
 	- [[Bring Your Own Device (BYOD)#Storage Segmentation|Storage segmentation]]
 	- Full device [[Disk Encryption#Full Disk Encryption|Encryption]]
 - Mobile devices
@@ -1081,6 +1087,7 @@ conditioning (HVAC)
 	- Rooting/Jailbreaking
 		- [[Mobile Malware]]
 	- Sideloading
+		- [[Malware Exploitation]]
 	- Custom firmware
 		- [[Mobile Malware]]
 		- [[Security of Apps#Jailbreaking & Rooting|Jailbreaking & Rooting]]
