@@ -77,6 +77,12 @@ collapse:close
 - Place in staging and then move to production at regular intervals
 - Main purpose is to <u>perform automated testing and release of code in order to get it INTO the production environment</u> more quickly 
 
+# Videos
+---
+![](https://www.youtube.com/watch?v=N9KbmHhesmE)
+
+
+
 # Objectives
 ---
 - [[Objectives#2.3 - Summarize secure application development, deployment, and automation concepts|2.3 - Summarize secure application development, deployment, and automation concepts]]
