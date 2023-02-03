@@ -32,7 +32,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Deep Learning
 ---
--
+- A refinement of [[#Machine Learning (ML)]] that enables a machine to develop strategies for solving a task given labeled dataset and without further explicit instructions
 
 # Videos
 
