@@ -42,7 +42,6 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 ## IBM [[#Artificial Intelligence (AI)]] Essentials
 ---
-
 ![](https://www.youtube.com/watch?v=9gGnTQTYNaE&list=PLOspHqNVtKADfxkuDuHduUkDExBpEt3DF)
 
 # Objectives
