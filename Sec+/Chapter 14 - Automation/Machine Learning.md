@@ -10,6 +10,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Types and derivates:
 	- [[#Artificial Intelligence (AI)]]
 	- [[#Machine Learning (ML)]]
+	- 
 	- [[#Deep Learning]]
 
 # Artificial Intelligence (AI)
@@ -21,7 +22,15 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - A component of [[#Artificial Intelligence (AI)]] that enables a machine to develop strategies for solving a task given a labeled data set where features have been manually identified but <u>without further explicit instructions</u>
 
+# Artificial Neural Network (ANN)
+---
+-
+
 # Deep Learning
+---
+-
+
+# Videos
 ---
 -
 
