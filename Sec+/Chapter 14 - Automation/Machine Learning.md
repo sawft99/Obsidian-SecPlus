@@ -40,6 +40,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 ![](https://www.youtube.com/watch?v=q6kJ71tEYqM)
 
+![](https://www.youtube.com/watch?v=9gGnTQTYNaE&list=PLOspHqNVtKADfxkuDuHduUkDExBpEt3DF)
+
 # Objectives
 ---
 - [[Objectives#1.2 - Given a scenario, analyze potential indicators to determine the type of attack|1.2 - Given a scenario, analyze potential indicators to determine the type of attack]]
