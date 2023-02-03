@@ -31,8 +31,10 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 -
 
 # Videos
+
+## ML vs 
 ---
--
+![](https://www.youtube.com/watch?v=q6kJ71tEYqM)
 
 # Objectives
 ---
