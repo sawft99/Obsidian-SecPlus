@@ -27,12 +27,14 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # Artificial Neural Network (ANN)
 ---
 - A component of [[#Machine Learning (ML)]] where an architecture input, hidden, and output layers that can perform algorithmic analysis of a dataset to achieve outcome objectives
-- The pathways and feedback loop to create IF/HEN style statements
+- The pathways and feedback loop to create IF/THEN style statements
 - [[#Machine Learning (ML)]] systems will adjust the ANN to reduce errors and optimizer objectives
 
 # Deep Learning (DL)
 ---
-- A refinement of [[#Machine Learning (ML)]] that enables a machine to develop strategies for solving a task given labeled dataset and without further explicit instructions
+- A refinement of [[#Machine Learning (ML)]] that enables a machine to develop strategies for solving a task given labeled dataset and <u>without further explicit instructions</u>
+- You only have to give it the data set and the machine does the rest of the "Figuring out"
+- Uses complex classes of knowledge defined in relation to simpler classes of knowledge to make more informed determinations about the environment
 
 # Videos
 
