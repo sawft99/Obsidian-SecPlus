@@ -30,15 +30,18 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - The pathways and feedback loop to create IF/HEN style statements
 - [[#Machine Learning (ML)]] systems will adjust the ANN to reduce errors and optimizer objectives
 
-# Deep Learning
+# Deep Learning (DL)
 ---
 - A refinement of [[#Machine Learning (ML)]] that enables a machine to develop strategies for solving a task given labeled dataset and without further explicit instructions
 
 # Videos
 
-## ML vs 
+## [[#Machine Learning (ML)]] vs [[#Deep Learning (DL)]]
 ---
 ![](https://www.youtube.com/watch?v=q6kJ71tEYqM)
+
+## IBM [[#Artificial Intelligence (AI)]] Essentials
+---
 
 ![](https://www.youtube.com/watch?v=9gGnTQTYNaE&list=PLOspHqNVtKADfxkuDuHduUkDExBpEt3DF)
 
