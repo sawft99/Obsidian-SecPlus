@@ -10,7 +10,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Types and derivates:
 	- [[#Artificial Intelligence (AI)]]
 	- [[#Machine Learning (ML)]]
-	- 
+	- [[#Artificial Neural Network (ANN)]]
 	- [[#Deep Learning]]
 
 # Artificial Intelligence (AI)
@@ -32,11 +32,15 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Deep Learning (DL)
 ---
-- A refinement of [[#Machine Learning (ML)]] that enables a machine to develop strategies for solving a task given labeled dataset and <u>without further explicit instructions</u>
+- A refinement of [[#Machine Learning (ML)]] that enables a machine to develop strategies for solving a task given a labeled dataset and <u>without further explicit instructions</u>
 - You only have to give it the data set and the machine does the rest of the "Figuring out"
 - Uses complex classes of knowledge defined in relation to simpler classes of knowledge to make more informed determinations about the environment
 
 # Videos
+
+## [[#Artificial Intelligence (AI)]] vs [[#Machine Learning (ML)]] vs [[#Deep Learning (DL)]]
+---
+![](https://www.youtube.com/watch?v=vNc2z2u_nh0)
 
 ## [[#Machine Learning (ML)]] vs [[#Deep Learning (DL)]]
 ---
