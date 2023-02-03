@@ -20,7 +20,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Machine Learning (ML)
 ---
-- A component of [[#Artificial Intelligence (AI)]] that enables a machine to develop strategies for solving a task given a labeled dataset where features have been manually identified but <u>without further explicit instructions</u>
+- A component of [[#Artificial Intelligence (AI)]] that enables a machine to develop strategies for solving a task given a labeled dataset where features have been manually identified but <u>with explicit instructions</u>
 - Machine learning is only as good as the dataset used to train it
 - ML controls an [[#Artificial Neural Network (ANN)]]
 
@@ -44,7 +44,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 ## [[#Machine Learning (ML)]] vs [[#Deep Learning (DL)]]
 ---
-![](https://www.youtube.com/watch?v=q6kJ71tEYqM)
+![](https://www.youtube.com/watch?v=-SgkLEuhfbg)
 
 
 # Objectives
