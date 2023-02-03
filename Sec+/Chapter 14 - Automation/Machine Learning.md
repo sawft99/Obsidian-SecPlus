@@ -20,11 +20,15 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Machine Learning (ML)
 ---
-- A component of [[#Artificial Intelligence (AI)]] that enables a machine to develop strategies for solving a task given a labeled data set where features have been manually identified but <u>without further explicit instructions</u>
+- A component of [[#Artificial Intelligence (AI)]] that enables a machine to develop strategies for solving a task given a labeled dataset where features have been manually identified but <u>without further explicit instructions</u>
+- Machine learning is only as good as the dataset used to train it
+- ML controls an [[#Artificial Neural Network (ANN)]]
 
 # Artificial Neural Network (ANN)
 ---
--
+- A component of [[#Machine Learning (ML)]] where an architecture input, hidden, and output layers that can perform algorithmic analysis of a dataset to achieve outcome objectives
+- The pathways and feedback loop to create IF/HEN style statements
+- [[#Machine Learning (ML)]] systems will adjust the ANN to reduce errors and optimizer objectives
 
 # Deep Learning
 ---
