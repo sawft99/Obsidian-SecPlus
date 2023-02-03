@@ -55,7 +55,7 @@ collapse:close
 ![[SQLInjection1.png]]
 ```
 
-# SQL Injection - Demos
+# Videos
 
 ## Long Explanation/Demo
 ---

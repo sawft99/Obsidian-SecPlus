@@ -14,13 +14,16 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- What do you need to get to end goal
 	- The IF, THEN, ELSE statements
 	- The actions
-- A benefit of [[Cloud Computing]] is rapid elasticity which would not be possible without orchestration
+- Benefits of [[Cloud Computing]]
+	- Rapid elasticity which would not be possible without orchestration
+	- Can avoid [[Misc#^d2ea95|Vendor Lockin]] with a third party orchestration service
+		- They allow you to work on your product across multiple vendors
+![[Infrastructure As Code (IAC)#^b35aaa]]
 - Three types of orchestration
 	- [[#Resource Orchestration]]
 	- [[#Workload Orchestration]]
 	- [[#Service Orchestration]]
-- Can avoid [[Misc#^d2ea95|Vendor Lockin]] with a third party orchestration service
-	- They allow you to work on your product across multiple vendors
+- See also [[DevSecOps]] and [[Infrastructure As Code (IAC)]]
 
 # Resource Orchestration
 ---

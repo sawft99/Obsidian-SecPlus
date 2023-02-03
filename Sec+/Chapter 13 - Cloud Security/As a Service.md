@@ -14,6 +14,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- [[#Platform as a Service (PaaS)]]
 	- [[#Security as a Service (SECaaS)]]
 	- [[Function as a Service (FaaS) & Serverless]]
+	- [[Infrastructure As Code (IAC)]]
 	- [[#Other Cloud Services]]
 
 ```ad-info
@@ -109,8 +110,11 @@ collapse:close
 - Identity Management
 - Business Continuity
 - Disaster Recovery
+- [[Infrastructure As Code (IAC)]]
+- [[Function as a Service (FaaS) & Serverless]]
 - More...
 
 # Objectives
 ---
 - [[Objectives#2.2 - Summarize virtualization and cloud computing concepts|2.2 - Summarize virtualization and cloud computing concepts]]
+- [[Objectives#2.3 - Summarize secure application development, deployment, and automation concepts|2.3 - Summarize secure application development, deployment, and automation concepts]]

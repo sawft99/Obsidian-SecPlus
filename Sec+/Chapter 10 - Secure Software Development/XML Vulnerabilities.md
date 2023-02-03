@@ -76,7 +76,7 @@ collapse: close
 ---
 - An XML attack that embeds a request for a local resource ^a3ddab
 - Similar to File Inclusion
-- Attempts to access "file:///etc/shadow" are a giveaway to this type of attack
+- Attempts to access `file:///etc/shadow` are a giveaway to this type of attack
 - To prevent have proper [[SDLC Principles#Never Trust User Input|Input Validation]]
 
 ### Example Code
@@ -114,7 +114,9 @@ https://mysite.com/add_to_cart.php?itemId=5"+perItemPrice="0.00"+quantity="100"+
 - Some XML injection attacks done on a website will send an altered URL
 - As seen in the URL above, the attacker is attempting add 100 of "Item 5" for a price of $0 by manipulating user input for an XML field
 
-## Example Video
+# Videos
+
+## [[#XPath Injection]]
 ---
 
 ![](https://www.youtube.com/watch?v=xFDI_2nQcz8)

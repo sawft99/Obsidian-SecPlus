@@ -36,7 +36,7 @@ collapse:close
 ![[Virtual_Type1vsType2.png]]
 ```
 
-# Additional Info
+# Videos
 ---
 
 ![](https://www.youtube.com/watch?v=dhQtoYEODlk)
@@ -44,3 +44,4 @@ collapse:close
 # Objectives
 ---
 - [[Objectives#2.2 - Summarize virtualization and cloud computing concepts|2.2 - Summarize virtualization and cloud computing concepts]]
+- [[Objectives#2.3 - Summarize secure application development, deployment, and automation concepts|2.3 - Summarize secure application development, deployment, and automation concepts]]

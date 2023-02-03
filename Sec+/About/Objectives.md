@@ -61,6 +61,8 @@ collapse: close
 		- [[Software Vulnerabilities & Exploits#Remote Code Execution (RCE)|Remote Code Execution (RCE)]]
 	- [[Worms]]
 	- Potentially unwanted programs (PUPs)
+		- [[Spyware#Adware|Adware]]
+		- [[Spyware#Grayware|Grayware]]
 	- [[Malware Exploitation|Fileless virus]]
 	- [[Botnets & Zombies]]
 	- [[Ransomware]]
@@ -87,6 +89,7 @@ collapse: close
 - Adversarial artificial intelligence (AI)
 	- [[Cloud Based Infrastructure]]
 	- Tainted training data for machine learning (ML)
+		- [[Machine Learning]]
 	- Security of machine learning algorithms
 - Supply-chain attacks
 	- [[Supply Chain Assessment]]
@@ -441,6 +444,7 @@ collapse: close
 	- [[Cloud Types#Hybrid Cloud|Hybrid Cloud]]
 	- [[Cloud Based Infrastructure]]
 		- [[Cloud Based Infrastructure#Virtual Private Cloud (VPC)|Virtual Private Cloud (VPC)]]
+	- [[Infrastructure As Code (IAC)]]
 - Cloud service providers
 	- [[Cloud Computing]]
 	- [[Function as a Service (FaaS) & Serverless]]
@@ -462,7 +466,7 @@ collapse: close
 	- [[Cloud Access Security Broker (CASB)#Application Programming Interface (API)|Cloud Access Security Broker (CASB)]]
 	- [[Application Programming Interface (API)]]
 	- [[Function as a Service (FaaS) & Serverless]]
-- #Infrastructure as code
+- [[Infrastructure As Code (IAC)]]
 	- Software-defined networking (SDN)
 	- Software-defined visibility (SDV)
 - Serverless architecture
@@ -485,20 +489,25 @@ collapse: close
 	- Development
 		- [[Software Development#About|Software Development]]
 		- [[CI&CD]]
+		- [[DevSecOps]]
 	- Test
 		- [[Software Development#Testing|Software Development]]
 		- [[Testing Methods]]
 		- [[CI&CD]]
+		- [[DevSecOps]]
 	- Staging
 		- [[Software Development#Integration|Software Development]]
 		- [[CI&CD]]
+		- [[DevSecOps]]
 	- Production
 		- [[Software Development#Integration|Software Development]]
 		- [[CI&CD]]
+		- [[DevSecOps]]
 	- Quality assurance (QA)
 		- [[Software Development#Testing|Software Development Testing]]
+		- [[Software Development#Maintenance|Software Development Maintenance]]		
 		- [[CI&CD]]
-		- [[Software Development#Maintenance|Software Development Maintenance]]
+		- [[DevSecOps]]
 - Provisioning and deprovisioning
 	- [[Virtualization#^a6ee8d|Elasticity]]
 	- [[Workflow Orchestration]]
@@ -506,6 +515,7 @@ collapse: close
 - Secure coding techniques
 	- [[Software Development#Waterfall Model|Waterfall Model]]
 	- Normalization
+		- [[Infrastructure As Code (IAC)]]
 	- Stored procedures
 	- Obfuscation/camouflage
 	- Code reuse/dead code
@@ -513,6 +523,7 @@ collapse: close
 	- Server-side vs. client-side execution and validation
 		- [[SDLC Principles#Never Trust User Input|Never Trust User Input]]
 	- Memory management
+		- [[Buffer Overflow]]
 	- Use of third-party libraries and software development kits (SDKs)
 		- [[SDLC Principles#Rely on Trusted SDKs|Rely on Trusted SDKs]]
 	- Data exposure
@@ -524,15 +535,17 @@ collapse: close
 	- [[Workflow Orchestration]]
 	- Automated courses of action
 	- Continuous monitoring
+		- [[As a Service]]
 	- Continuous validation
-	- Continuous integration
-	- Continuous delivery
-	- Continuous deployment
+	- [[CI&CD#Continuous Integration|Continuous integration]]
+	- [[CI&CD#Continuous Delivery|Continuous delivery]]
+	- [[CI&CD#Continuous Deployment|Continuous deployment]]
 	- [[Testing Methods#Fuzzing|Fuzzing]]
 - [[Virtualization#^a6ee8d|Elasticity]]
 - Scalability
 	- [[Securing Storage#Network Attached Storage (NAS)|Network Attached Storage (NAS)]]
 	- [[Securing Storage#Storage Area Network (SAN)|Storage Area Network (SAN)]]
+	- [[Virtualization]]
 - [[Software Development#^f7f5aa|Version Control]]
 
 ## 2.4 - Summarize authentication and authorization design concepts

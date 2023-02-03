@@ -73,7 +73,7 @@ collapse:close
 - Primarily made for common apps or OS's
 - Introduced in #Windows Vista
 
-# Examples & Explanations
+# Videos
 ---
 ## Short Version - <u>At the 1:22 mark</u>
 
@@ -86,3 +86,4 @@ collapse:close
 # Objectives
 ---
 - [[Objectives#1.3 - Given a scenario, analyze potential indicators associated with application attacks|1.3 - Given a scenario, analyze potential indicators associated with application attacks]]
+- [[Objectives#2.3 - Summarize secure application development, deployment, and automation concepts|2.3 - Summarize secure application development, deployment, and automation concepts]]

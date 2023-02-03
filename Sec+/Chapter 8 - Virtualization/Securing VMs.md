@@ -34,7 +34,7 @@ collapse:close
 ![[VM_Folder1.png]]
 ```
 
-# Examples
+# Videos
 
 ## VM Encryption
 ---
