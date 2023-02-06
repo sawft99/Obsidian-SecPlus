@@ -85,7 +85,7 @@ collapse: close
 	- Malicious universal serial bus (USB) cable
 	- Malicious flash drive
 	- Card cloning
-	- Skimming
+	- Skimming]]
 - Adversarial artificial intelligence (AI)
 	- [[Cloud Based Infrastructure]]
 	- Tainted training data for machine learning (ML)

@@ -18,9 +18,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Snowflake Systems             | ![[Infrastructure As Code (IAC)#^6fdc48]] |
 | Idempotence                   | ![[Infrastructure As Code (IAC)#^eeddf2]] |
 | Runbooks                      | ![[Infrastructure As Code (IAC)#^35a93c]] |
-| Artificial Intelligence (AI)  |                                           |
-| Machine Learning (ML)         |                                           |
-| Deep Learning                 |                                           |
-
-
+| Artificial Intelligence (AI)  | ![[Machine Learning#^1cd0d8]]             |
+| Machine Learning (ML)         | ![[Machine Learning#^8066c3]]             |
+| Artificial Neural Network     | ![[Machine Learning#^63707c]]                                          |
+| Deep Learning (DL)            | ![[Machine Learning#^91e878]]             |
 
