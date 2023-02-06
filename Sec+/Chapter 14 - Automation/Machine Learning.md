@@ -65,7 +65,7 @@ collapse:close
 
 # Videos
 
-## [[#Artificial Intelligence (AI)]] vs [[#Machine Learning (ML)]] vs [[#Deep Learning (DL)]]
+## [[#Artificial Intelligence (AI)|Artificial Intelligence]] vs [[#Machine Learning (ML)|Machine Learning]] vs [[#Deep Learning (DL)|Deep Learning]]
 ---
 ![](https://www.youtube.com/watch?v=vNc2z2u_nh0)
 
