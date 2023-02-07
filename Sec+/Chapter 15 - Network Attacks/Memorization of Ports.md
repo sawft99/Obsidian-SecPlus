@@ -33,28 +33,23 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 | Simple Mail Transfer Protocol with SSL/TLS (SMTP with SSL/TLS)              | SMTP with an SSL/TLS secure/encrypted connection                                                         | 465/587   | TCP      |
 | Syslog                                                                      | Conduct computer logging especially for routers and firewalls                                            | 514       | UDP      |
 | Lightweight Directory Access Protocol with SSL/TLS (LDAPS)                  | LDAP over secured/encrypted SSL/TLS                                                                      | 636       | TCP*/UDP |
-| iSCSI                                                                       | Link data storage over IP such as in a [[Securing Storage#Storage Area Network (SAN)]]                   | 860       | TCP      |
-| File Transfer Protocol Secure (FTPS)                                        | Secure/Encrypted FTP over TLS                                                                            | 989/990   | TCP      |
+| iSCSI                                                                       | Link data storage over IP such as in a Storage Area Network (SAN)                                        | 860       | TCP      |
+| File Transfer Protocol Secure (FTPS)                                        | Secure/Encrypted FTP over TLS (SSL now deprecated)                                                       | 989/990   | TCP      |
 | Internet Message Access Protocol with SSL/TLS (IMAP4*/IMAPS)                | Secure/Encrypted IMAP over SSL/TLS                                                                       | 993       | TCP      |
 | Post Office Protocol Version 3 with SSL/TLS (POP3S)                         | Secure/Encrypted POP3 over SSL/TLS                                                                       | 995       | TCP      |
 | Microsoft Server Structured Query Language (MS-SQL)                         | Microsoft SQL receives SQL database queries from clients                                                 | 1433      | TCP      |
 | Remote Authentication Dial-in User Service Alternative (RADIUS Alternative) | Alternative ports for RADIUS                                                                             | 1645/1646 | UDP      |
 | Layer 2 Tunnel Protocol (L2TP)                                              | Underlying VPN protocol that is unencrypted with no security. Should run IPSEC on top of                 | 1701      | UDP      |
-| Point-to-Point Tunneling Protocol (PPTP)                                    | Underlying VPN protocol that is encrypted                                                                | 1723      | TCP/UDP         |
+| Point-to-Point Tunneling Protocol (PPTP)                                    | Underlying VPN protocol that is encrypted                                                                | 1723      | TCP/UDP  |
+| Remote Authentication Dial-In User service (RADIUS)                         | Authentication, Authorization, and Accounting                                                            | 1812/1813 | UDP      |
+| Fiber Channel Internet Protocol (FCIP)                                      | Encapsulates Fiber Channel Frames within TCP/IP packets                                                  | 3225      | TCP/UDP  |
+| iSCSI Target                                                                | Listening port for an iSCSI targeted device when linking data storage facilities over IP                 | 3260      | TCP      |
+| Remote Desktop Protocol (RDP)                                               | Remotely view and control other Windows systems via a GUI                                                | 3389      | TCP/UDP  |
+| Diameter                                                                    | A more advanced AAA that acts as a replacement for RADIUS                                                | 3868      | TCP      |
+| Syslog over TLS (Syslog over TLS)                                           | Secure/Encrypted Syslog over SSL/TLS                                                                     | 6514      | TLS         |
   
 - See also [[Ports and Protocols]]
-
-# Topic
----
-- Item
 
 # Objectives
 ---
 - [[Objectives#3.1 - Given a scenario, implement secure protocols|3.1 - Given a scenario, implement secure protocols]]
-
-# TODO (Delete when done)
----
-- [ ] Added vocab
-- [ ] Added and linked objectives in document
-- [ ] Linked objectives back to document
-- [ ] Linked any relevant backlinks to and from document

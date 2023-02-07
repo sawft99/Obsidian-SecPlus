@@ -824,6 +824,7 @@ conditioning (HVAC)
 ## 3.1 - Given a scenario, implement secure protocols
 ---
 - [[Ports and Protocols]]
+	- [[Memorization of Ports]]
 	- Domain Name System	Security Extension (DNSSEC)
 	- SSH
 	- Secure/multipurpose Internet mail exchanger (S/MIME)
