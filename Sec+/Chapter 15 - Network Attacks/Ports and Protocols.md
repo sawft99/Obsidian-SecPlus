@@ -18,6 +18,13 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Example
 		- Trying to access a website on port 80, your computer picks a random high number port like 58254 to send traffic from
 
+```ad-example
+title: Inbound & Outbound Ports Example
+collapse:close
+
+![[PortEx1.png]]
+```
+
 # Topic
 ---
 - Item
