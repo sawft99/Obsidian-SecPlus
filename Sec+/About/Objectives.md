@@ -275,6 +275,7 @@ collapse: close
 		- [[Cloud Threats#Unprotected Storage|Unprotected Storage]]
 	- Open ports and services
 		- [[Unnecessary Applications]]
+		- [[Ports and Protocols]]
 - Third-party risks
 	- Vendor management
 		- System integration
@@ -822,7 +823,7 @@ conditioning (HVAC)
 
 ## 3.1 - Given a scenario, implement secure protocols
 ---
-- Protocols
+- [[Ports and Protocols]]
 	- Domain Name System	Security Extension (DNSSEC)
 	- SSH
 	- Secure/multipurpose Internet mail exchanger (S/MIME)
@@ -903,6 +904,7 @@ conditioning (HVAC)
 - [[Hardening]]
 	- [[Jumpbox]]
 	- Open ports and services
+		- [[Ports and Protocols]]
 	- Registry
 	- [[Disk Encryption]]
 	- OS
