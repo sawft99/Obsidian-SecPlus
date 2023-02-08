@@ -34,7 +34,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Contents of a [[Virtualization#Virtual Machine Types|Virtual Machine]] that exist as deleted files on a cloud-based server after deprovisioning a [[Virtualization#Virtual Machine Types|Virtual Machine]] ^07f11c
 - Data can be recovered by attackers which will compromise [[SecBasics#^51b6d8|Confidentiality]]
 - <u>Cloud providers can introduce these</u> threats because the physical server is not controlled by your company
-- See also [[Cloud Security#Security Practices|Cloud Security]]
+- See also 
+	- [[Cloud Security#Security Practices]]
 
 # Privilege Elevation
 
@@ -43,7 +44,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - When a user is able to grant themselves the ability to run functions as a higher level user ^32adea
 	- Such as root or admin
 - Bad on a [[Virtualization#Virtual Machine Types|Virtual Machine]] but it can be worse on a physical server or [[Hypervisors]] due to access to multiple [[Virtualization#Virtual Machine Types|Virtual Machines]]
-- See also [[Active Intercept & Privilege Escalation]]
+- See also
+	- [[Active Intercept & Privilege Escalation]]
 
 ## Mitigating
 ---
@@ -60,7 +62,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - All containers are sharing the same single OS
 - If the OS on the host computer is compromised then all of the [[Hypervisors#Application Containerization|Containers]] can also be compromised
-- See also [[Hypervisors#Application Containerization|Application Containerization]]
+- See also 
+	- [[Hypervisors#Application Containerization]]
 
 ```ad-info
 title: Containers

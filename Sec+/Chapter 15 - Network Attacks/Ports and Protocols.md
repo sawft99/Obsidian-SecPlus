@@ -9,7 +9,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - A logical communication endpoint that exists on a computer or server ^c22133
 - Many common network attack occur because of open or unsecured ports
-- See also [[Memorization of Ports]]
+- See also 
+	- [[Memorization of Ports]]
 
 ```ad-example
 title: Inbound & Outbound Ports Example

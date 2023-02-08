@@ -39,7 +39,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Often use <u>"File system Integrity Monitoring"</u>
 	- Checks that OS, driver, and application files have not been changed
 - Is usually able to address the problem better than a network based [[IDS]]/[[IDS#^f81e57|IPS]] since it is directly on the machine
-- See also [[IDS#HIDS|IDS]]
+- See also
+	- [[IDS#HIDS]]
 
 # Endpoint Protection Platforms (EPP)
 ---

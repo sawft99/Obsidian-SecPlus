@@ -268,6 +268,7 @@ collapse: close
 		- [[Testing Methods#Forms Of Code Analysis|Forms Of Code Analysis]]
 	- Weak [[Disk Encryption#^501400|Encryption]]
 	- Unsecure protocols
+		- [[Unnecessary Ports]]
 	- Default settings
 		- [[Unnecessary Applications#Baseline Image|Baseline Image]]
 		- [[SDLC Principles#Create Secure Defaults|Create Secure Defaults]]
@@ -276,6 +277,7 @@ collapse: close
 	- Open ports and services
 		- [[Unnecessary Applications]]
 		- [[Ports and Protocols]]
+		- [[Unnecessary Ports]]
 - Third-party risks
 	- Vendor management
 		- System integration
@@ -906,6 +908,7 @@ conditioning (HVAC)
 	- [[Jumpbox]]
 	- Open ports and services
 		- [[Ports and Protocols]]
+		- [[Unnecessary Ports]]
 	- Registry
 	- [[Disk Encryption]]
 	- OS
@@ -969,6 +972,7 @@ conditioning (HVAC)
 	- [[Network Access Control#Agents|Agent and agentless]]
 - Out-of-band management
 - Port security
+	- [[Unnecessary Ports]]
 	- Broadcast storm prevention
 		- [[Subnetting]]
 		- [[VLAN]]

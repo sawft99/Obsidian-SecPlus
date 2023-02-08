@@ -13,7 +13,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Host based ([[#HIDS]]) or network based ([[#NIDS]])
 - Intrusion Prevention System (IPS)
 	- An [[IDS]] with capabilities to also prevent [[Malware]] ^f81e57
-- See also [[NIDS & NIPS]]
+- See also
+	- [[NIDS & NIPS]]
 
 # HIDS
 ---
@@ -32,7 +33,8 @@ collapse: close
 - <u>Network</u> Intrusion Detection System
 - Hardware on network
 - Traffic that goes through a [[Switches|switch]] that is mirrored to a NIDS
-- See also [[NIDS & NIPS]]
+- See also
+	- [[NIDS & NIPS]]
 
 ```ad-info
 title: NIDS

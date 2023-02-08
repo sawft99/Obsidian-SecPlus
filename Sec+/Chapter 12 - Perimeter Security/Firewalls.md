@@ -11,6 +11,10 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Most firewalls operate at either [[The OSI Model#Network|Layer 3]] or [[The OSI Model#Transport|Layer 4]]
 	- [[#Application Layer Gateway (ALG)]] becoming more popular
 	- Other types include [[#Network Address Translation (NAT) Filtering]], [[#Circuit Level Gateway]], and [[#Web Application Firewall (WAF)]]
+- See also 
+	- [[Unnecessary Ports]]
+	- [[Routers#Access Control List (ACL)]]
+	- [[#Access Control List (ACL) Config & Rules]]
 
 # Types
 
@@ -20,8 +24,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 ## Software Firewalls
 ---
-- Software running on a server or computer
-- See also [[Software Firewalls]]
+![[Software Firewalls]]
 
 ## Embedded Firewalls
 ---
@@ -91,7 +94,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Port
 - ACL rules are also processed in the order that is configured starting with 1 and working its way up
 	- Once an ACL rule matches the request the firewall made, <u>no additional rules are processed</u>
-- See also [[Routers#Access Control List (ACL)|Access Control List (ACL)]]
+- See also 
+	- [[Routers#Access Control List (ACL)]]
 
 ## Rules
 ---

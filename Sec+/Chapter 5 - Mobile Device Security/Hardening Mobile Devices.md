@@ -9,7 +9,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - [[Hardening]]
 	- Increasing overall device security
-	- See also [[Hardening]]
+	- See also 
+		- [[Hardening]]
 
 # Methods
 ---

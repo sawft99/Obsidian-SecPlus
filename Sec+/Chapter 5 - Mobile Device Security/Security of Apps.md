@@ -16,12 +16,13 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Jailbreaking ^b2238c
 	- Used on #IPhone
 	- Remove security protection Apple put in place in order to take it to other carriers or install 3rd party apps
-	- See also [[Mobile Malware]]
 - Rooting ^6f9cfd
 	- Used on #Android
 		- Is #Linux at heart
 	- Can install apps you want and make phone do things it's not designed to do
-	- See also [[Mobile Malware]]
+	- See also
+- See also 
+	- [[Mobile Malware]]
 
 # Browser
 ---

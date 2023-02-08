@@ -11,7 +11,9 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - A cloud service model that supports [[#Serverless]] software architecture by provisioning runtime [[Hypervisors#Application Containerization|Containers]] in which code is executed in a particular programming language ^565a28
 	- Running apps without having your own dedicated servers
 - Don't have to worry about [[Updates and Patches]] and other management
-- See also [[Hypervisors#Application Containerizatio|Application Containerization]] and [[Threats to VMs#Compromised Containers|Compromised Containers]]
+- See also 
+	- [[Hypervisors#Application Containerizatio]]
+	- [[Threats to VMs#Compromised Containers]]
 
 # Serverless
 
@@ -34,7 +36,10 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - Ensure developers clients and machines have not been compromised
 - Secure coding, secure workstation, secure storage of credentials
-- See also [[Testing Methods#Forms Of Code Analysis|Code Analysis]], [[Hardening]], and [[Securing Storage]]
+- See also
+	- [[Testing Methods#Forms Of Code Analysis]]
+	- [[Hardening]]
+	- [[Securing Storage]]
 
 # Objectives
 ---

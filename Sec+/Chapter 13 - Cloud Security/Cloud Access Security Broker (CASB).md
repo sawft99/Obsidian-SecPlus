@@ -39,7 +39,8 @@ collapse:close
 - A security appliance or host positioned at the client network edge that forwards user traffic to the cloud network if the contents of that traffic comply with policy ^55f9cf
 - Can be bypassed
 - Inside network to outside network on the internet
-- See also [[Proxy Servers]]
+- See also
+	- [[Proxy Servers]]
 
 ```ad-info
 title: Forward Proxy
@@ -54,7 +55,8 @@ collapse:close
 - Internet clients must connect and go through the reverse proxy before reaching any other resources on that network
 - Outside network on the internet to inside network
 - Only works if cloud app supports proxies
-- See also [[Proxy Servers]]
+- See also
+	- [[Proxy Servers]]
 
 ```ad-info
 title: Reverse Proxy
@@ -69,7 +71,8 @@ collapse:close
 - Sending data between cloud ser vice and cloud consumer
 - Dependent on API supporting the functions your policy needs
 	- An API not having necessary functionality for your needs
-- See also [[Application Programming Interface (API)]]
+- See also
+	- [[Application Programming Interface (API)]]
 
 # Objectives
 ---

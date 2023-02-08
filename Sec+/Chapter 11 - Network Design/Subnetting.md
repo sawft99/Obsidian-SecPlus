@@ -18,7 +18,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Use different policies for each subnet
 	- Printers, servers, desktops, etc
 - [[SecBasics#^45fffd|Monitor]] all subnets and the traffic that goes in and out of them
-- See also [[Network Address Translation#IP Ranges|IP Ranges]]
+- See also
+	- [[Network Address Translation#IP Ranges]]
 
 # Objectives
 ---

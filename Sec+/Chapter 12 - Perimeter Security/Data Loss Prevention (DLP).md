@@ -13,7 +13,9 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Extrusion Prevention Systems (EPS)
 - Usually network or cloud based
 - Ensures your data remains secure and private
-- See also [[Data Loss Prevention (DLP) - Appliance]] and [[Cloud Computing]]
+- See also
+	- [[Data Loss Prevention (DLP) - Appliance]]
+	- [[Cloud Computing]]
 
 # Objectives
 ---

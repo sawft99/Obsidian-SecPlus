@@ -28,7 +28,9 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Typically an adapter card over USB or a networked device
 	- Usually tamper proof with high levels of security
 	- Also very expensive and less common vs [[#Software Based]]
-- See also [[Root of Trust#Hardware Security Module (HSM)|Root of Trust]]and [[Trusted Firmware#Self-Encrypting Drives|Self-Encrypting Drives]]
+- See also
+	- [[Root of Trust#Hardware Security Module (HSM]]
+	- [[Trusted Firmware#Self-Encrypting Drives]]
 
 ## Software Based
 ---
@@ -64,7 +66,9 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Also used for [[Root of Trust]]
 - #Bitlocker will use the key already inside the TPM chip for its [[#^501400|Encryption]] operation
 - If you take the hard drive out and put it into another computer you would not be able to read it because that computer has a different TPM chip with a different key on it
-- See also [[Root of Trust]] and [[Trusted Firmware]]
+- See also
+- [[Root of Trust]]
+- [[Trusted Firmware]]
 
 # Advanced Encryption Standard (AES)
 ---

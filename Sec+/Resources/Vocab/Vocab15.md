@@ -5,10 +5,11 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 #publish:
 ---
 
-| Term           | Meaning                          |
-| -------------- | -------------------------------- |
-| Ports          | ![[Ports and Protocols#^c22133]] See also [[Memorization of Ports]]                                 |
-| Inbound Ports  | ![[Ports and Protocols#^7edb83]] |
-| Outbound Ports | ![[Ports and Protocols#^d8a5f2]] |
+| Term              | Meaning                          |
+| ----------------- | -------------------------------- |
+| Ports             | ![[Ports and Protocols#^c22133]] | 
+| Inbound Ports     | ![[Ports and Protocols#^7edb83]] |
+| Outbound Ports    | ![[Ports and Protocols#^d8a5f2]] |
+| Unnecessary Ports | ![[Unnecessary Ports#^dc0629]]   |
 
 -

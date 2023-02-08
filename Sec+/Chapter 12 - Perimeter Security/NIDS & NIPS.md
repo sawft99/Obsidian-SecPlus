@@ -10,7 +10,10 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - [[#Network Intrusion Detection System (NIDS)]] used to detect only ^763e90
 - [[#Network Intrusion Prevention System (NIPS)]] used to prevent
 	- In addition to functions on [[#Network Intrusion Detection System (NIDS)]]
-- See also [[IDS]] and [[IDS#HIDS|HIDS]], and [[Endpoint Analysis#HIDS/HIPS|HIDS/HIPS]]
+- See also 
+	- [[IDS]]
+	- [[IDS#HIDS]]
+	- [[Endpoint Analysis#HIDS/HIPS]]
 
 ```ad-info
 title: IDS/IPS Inline

@@ -44,7 +44,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Not necessarily bad but it can introduce additional code which can bring vulnerabilities
 - Could also download add-ons from outside the normal stores where they can more likely to contain [[Malware]]
 - Organizations will often block additional [[#Add-Ons]] to keep the browser "slim"
-	- See also [[Unnecessary Applications]]
+- See also
+	- [[Unnecessary Applications]]
 
 # Advanced Security Options
 ---

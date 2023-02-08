@@ -11,6 +11,9 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Conserve public IP address
 - Hide internal network
 - Private IP addresses can't go across internet
+- Used in combination with ACL rules
+	- [[Routers#Access Control List (ACL)]]
+	- [[Firewalls#Access Control List (ACL) Config & Rules]]
 
 # Types
 

@@ -23,7 +23,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 		- Helpful because there are prebuilt functions
 		- However the code from the SDK may be insecure and importing it into your program can invite risk
 - In Particular with an SDK or Third Party Library, if a vulnerability is found and patched you have have to update those components to ensure you are using the most secure form of code
-	- See also [[Updates and Patches]]
+	- See also 
+		- [[Updates and Patches]]
 
 # Insufficient [[SecBasics#^45fffd|Logging and Monitoring]]
 ---

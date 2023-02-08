@@ -7,7 +7,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # About
 ---
-- Software app that protect one computer or server ^357ca6
+- Software app that protects one computer or server ^357ca6
 	- Also called "<u>Host based</u>" firewall
 - Set rules and polices for in and out traffic
 	- Example
@@ -16,7 +16,9 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- #Windows  - #Windows Firewall
 	-  #OSX - PF and IPFW
 	- #Linux - Iptables
-- See also [[Firewalls]]
+- See also
+	- [[Firewalls]]
+	- [[Unnecessary Ports]]
 
 # #Windows Firewall
 ---

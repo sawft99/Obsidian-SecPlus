@@ -22,7 +22,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Exploit]
 - A type of systems firmware providing support for 64-bit CPU operation at boot, full GUI and mouse operation at boot, and better boot security ^8422a7
 - Supports various operations related to
 - [[Securing the BIOS#^e94ab9|BIOS]] is legacy at this point
-- See also [[Securing the BIOS#UEFI|Securing the BIOS]]
+- See also 
+	- [[Securing the BIOS#UEFI]]
 
 ## Secure Boot
 ---
@@ -36,13 +37,15 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Exploit]
 - A [[#UEFI]] feature that gathers secure metrics to validate the boot process in an [[#Attestation]] report ^c83f3c
 	- How long does it take to do X
 	- How much CPU to do X
-- See also [[Root of Trust]]
+- See also
+	- [[Root of Trust]]
 
 ## Attestation
 ---
 - Claim that the data presented in the report is valid by digitally signing it using the [[Root of Trust#TPM Expanded|TPM]] chips private key ^f55108
 - [[#UEFI]] takes report and digitally signs it sending it off to the OS and CPU
-- See also [[Disk Encryption#Trusted Platform Module (TPM)|Trusted Platform Module (TPM)]]
+- See also 
+	- [[Disk Encryption#Trusted Platform Module (TPM)]]
 
 ## eFUSE
 ---
@@ -61,7 +64,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Exploit]
 - A disk drive where the controller can automatically [[Disk Encryption#^501400|Encrypt]] data that is written to it ^93fa17
 - Hard drives contain [[Securing the BIOS#^9479f4|Firmware]] to run [[Disk Encryption]] when data is being written and read
 	- Done at hardware level to take load off of CPU and OS
-- See also [[Disk Encryption#Hardware Based|Self-Encrypting Drives]]
+- See also
+	- [[Disk Encryption#Hardware Based]]
 
 # Objectives
 ---

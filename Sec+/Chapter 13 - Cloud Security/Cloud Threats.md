@@ -24,7 +24,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Not subject to #DDoS
 	- Throttling and Rate limiting
 		- Limiting certain amount of input and request from users
-- See also [[Application Programming Interface (API)]]
+- See also
+- [[Application Programming Interface (API)]]
 
 # Improper Key Management
 ---
@@ -66,7 +67,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- You need to configure a Cross Origin Sharing (CORS) policy
 		- A CDN policy that instructs the browser to treat requests from domains it specifies as safe ^34f55a
 		- A weak CORS policy can expose you to some vulnerabilities such as [[XSS and XSRF]]
-- See also [[Hypervisors#Application Containerization|Application Containerization]]
+- See also
+	- [[Hypervisors#Application Containerization]]
 
 # Vocab
 ---

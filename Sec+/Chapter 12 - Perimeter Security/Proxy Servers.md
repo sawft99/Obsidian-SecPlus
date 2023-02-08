@@ -43,7 +43,8 @@ collapse:close
 ---
 - Used in organizations to prevent users from accessing prohibited websites and other content
 	- Websites, email, IM
-- See also [[Popup Blockers#Content Filter|Popup Blockers]]
+- See also 
+	- [[Popup Blockers#Content Filter|Popup Blockers]]
 
 # Web Security Gateway
 ---

@@ -15,7 +15,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Two types
 	- [[REST]]
 	- [[SOAP]]
-- See also [[Cloud Access Security Broker (CASB)#Application Programming Interface (API)]]
+- See also
+	- [[Cloud Access Security Broker (CASB)#Application Programming Interface (API)]]
 
 # CURL
 ---

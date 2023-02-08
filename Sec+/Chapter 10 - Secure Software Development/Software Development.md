@@ -10,7 +10,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Bugs are common place today because of the size and complexity of applications
 	- Windows 10 has 50+ million lines of code and hundreds of developers that have worked on it
 - Various [[#Models]] can assist in helping to eliminate or catch bugs
-- See also [[CI&CD]]
+- See also
+	- [[CI&CD]]
 
 # Software Development Life Cycle (SDLC)
 ---

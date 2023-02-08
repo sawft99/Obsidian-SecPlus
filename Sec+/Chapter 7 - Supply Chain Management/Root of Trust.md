@@ -30,7 +30,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 		- Attestation Identity Keys (AIK)
 		- Storage Keys
 	- #Bitlocker and other [[Disk Encryption#Full Disk Encryption|Full Disk Encryption]] technology can utilize [[Disk Encryption#Trusted Platform Module (TPM)|Trusted Platform Module (TPM)]]
-- See also [[Disk Encryption#Trusted Platform Module (TPM)|Trusted Platform Module (TPM)]]
+- See also 
+	- [[Disk Encryption#Trusted Platform Module (TPM)]]
 
 ```ad-info
 title: TPM Design
@@ -60,7 +61,8 @@ Understand that [[Disk Encryption#Trusted Platform Module (TPM)|Trusted Platform
 	- #IOT
 - All can be automated
 	- Remove human element so it can not be compromised by a person
-- See also [[Disk Encryption#Hardware Based|Disk Encryption]]
+- See also 
+	- [[Disk Encryption#Hardware Based]]
 
 # Tampering
 ---

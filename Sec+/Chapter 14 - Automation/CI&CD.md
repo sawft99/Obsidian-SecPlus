@@ -13,7 +13,9 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- [[#Continuous Deployment]]
 - Each change in code should trigger an automated build-and-test sequence
 - As automated as possible
-- See also [[Software Development#Phases|Software Development Phases]] and [[SDLC Principles]]
+- See also
+	- [[Software Development#Phases]]
+	- [[SDLC Principles]]
 
 ```ad-example
 title: Traditional Development Process

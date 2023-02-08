@@ -55,7 +55,9 @@ collapse:close
 	- Docker
 	- Parallels Virtuozzo
 	- OpenVZ
-- See also [[Threats to VMs#Compromised Containers|Compromised Containers]] and [[Function as a Service (FaaS) & Serverless]]
+- See also
+	- [[Threats to VMs#Compromised Containers]]
+	- [[Function as a Service (FaaS) & Serverless]]
 
 ```ad-info
 title: Application Container vs [[Hypervisors]]

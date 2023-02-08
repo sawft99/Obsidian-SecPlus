@@ -23,7 +23,9 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- [[#Resource Orchestration]]
 	- [[#Workload Orchestration]]
 	- [[#Service Orchestration]]
-- See also [[DevSecOps]] and [[Infrastructure As Code (IAC)]]
+- See also
+	- [[DevSecOps]]
+	- [[Infrastructure As Code (IAC)]]
 
 # Resource Orchestration
 ---
