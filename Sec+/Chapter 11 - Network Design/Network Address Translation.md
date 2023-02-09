@@ -20,8 +20,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ## Port Address Translation (PAT)
 ---
 - [[Routers]] keeps track of requests from internal host by assigning them random high number ports for each request
-- Single public IP
-- Most common
+- Single public IP is most common
 - Outside attackers can't gain information about devices, how many there are, etc
 
 # IP Ranges
