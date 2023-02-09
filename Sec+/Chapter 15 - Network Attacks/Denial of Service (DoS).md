@@ -7,15 +7,48 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # About
 ---
-- Item
+- Describes any type of attack which attempts to make a computer, server resource, or other network equipment unavailable
+- Types/Methods
+	- [[#Flood Attacks]]
+	- [[#Ping of Death]]
+	- [[#Teardrop Attack]]
+	- [[#Permanent DoS]]
+	- [[#Fork Bomb]]
 
-# Topic
+# Flood Attacks
+
+## About
 ---
-- Item
+- A type of DOS which attempts to send more packets to a single server or resource than they can handle
+- Hundreds or thousands of packets
 
+## Ping Flood
+---
+- An attacker attempts to flood the server by sending too many ICMP echo request packets
+- Common for organizations today to drop the packets so the attacker gets a timeout rather a rejection 
+
+## Smurf Attack
+---
+- Attacker send a ping to a broadcast address
+
+# Ping of Death
+---
+-
+
+# Teardrop Attack
+---
+-
+
+# Permanent DoS
+---
+-
+
+# Fork Bomb
+---
+-
 # Objectives
 ---
-- Obj
+- [[Objectives#1.3 - Given a scenario, analyze potential indicators associated with application attacks|1.3 - Given a scenario, analyze potential indicators associated with application attacks]]
 
 # TODO (Delete when done)
 ---
