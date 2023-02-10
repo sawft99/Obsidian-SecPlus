@@ -29,7 +29,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 ## Smurf Attack
 ---
-- Attacker send a ping to a broadcast address
+- Attacker send a ping to a broadcast address 
 
 # Ping of Death
 ---
