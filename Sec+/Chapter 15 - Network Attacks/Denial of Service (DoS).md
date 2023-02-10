@@ -29,7 +29,15 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 ## Smurf Attack
 ---
-- Attacker send a ping to a broadcast address 
+- Attacker send a ping to a broadcast address with a forged source address matching the targeted server forcing other machines to reply to the broadcast and use up server resources
+- Attack can be amplified because of this
+- The larger the subnet the more intense
+
+```ad-example
+title: Smurf Attack
+collapse:close
+![[SmurfAttack1.png]]
+```
 
 # Ping of Death
 ---
