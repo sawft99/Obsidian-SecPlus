@@ -25,4 +25,8 @@ Most of these are not essential but it is what I am using for myself in this vau
 If nothing else Influx and Strange New Worlds do a great job of linking information. Obsidian Sortable is convenient and simply allows you to sort a table however you like. I use the [KanBan board](Sec+/Resources/Sec+Board.md) to keep a "To do" list.
 
 # Additional info
-Use 'reading view' where possible. It looks better and embedded videos will show up properly.
+Use 'reading view' where possible. It looks better and embedded videos will show up properly
+
+# TOC
+---
+%% Error: Cannot create a waypoint in the root folder of your vault. For more information, check the instructions [here](https://github.com/IdreesInc/Waypoint) %%

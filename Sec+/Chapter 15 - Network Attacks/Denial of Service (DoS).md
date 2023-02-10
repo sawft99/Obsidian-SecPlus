@@ -43,6 +43,7 @@ collapse:close
 ---
 - Attacker sends a UDP echo packet to a broadcast IP on port 7 (ECHO) and port 19 (CHARGEN) to flood a server with UDP packets
 - Like [[#Smurf Attack]] but instead of an ICMP echo reply it uses a UDP echo
+- Don't confuse with ICMP echo, this is the echo <u>protocol</u>
 
 ```ad-example
 title: Fraggle Attack
