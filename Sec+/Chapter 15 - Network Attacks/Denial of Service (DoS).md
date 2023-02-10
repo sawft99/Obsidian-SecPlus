@@ -29,8 +29,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 ## Smurf Attack
 ---
-- Attacker send a ping to a broadcast address with a forged source address matching the targeted server forcing other machines to reply to the broadcast and use up server resources
-- Attack can be amplified because of this
+- Attacker send a ping (ICMP) to a broadcast address with a forged source address matching the targeted server forcing other machines to reply to the broadcast and use up server resources
+- Attack can be amplified because of this and a server can receive up to 3x as much traffic than the attacker sent out
 - The larger the subnet the more intense
 
 ```ad-example
@@ -38,6 +38,12 @@ title: Smurf Attack
 collapse:close
 ![[SmurfAttack1.png]]
 ```
+
+## Fraggle Attack
+---
+- Attacker sends a UDP echo packet to a broadcast IP on port 7 (ECHO) and port 19 (CHARGEN) to flood a server with UDP packets
+- Like [[#Smurf Attack]] but instead of an ICMP echo reply it uses a UDP echo
+
 
 # Ping of Death
 ---
