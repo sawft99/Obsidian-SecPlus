@@ -28,6 +28,7 @@ If nothing else Influx and Strange New Worlds do a great job of linking informat
 Use 'reading view' where possible. It looks better and embedded videos will show up properly
 
 ```dataview
-Table from "Sec+"
-flatten file.folder
+Table file.folder as "Folder"
+from "Sec+"
+Sor
 ```
