@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"49925816edd0bb08","x":-618,"y":-291,"width":400,"height":400,"type":"file","file":"Sec+/Files/OSI Model Flow.md"},
-		{"id":"ddbc92df7f4239e2","x":43,"y":-114,"width":400,"height":400,"type":"file","file":"Sec+/Resources/Vocab/Vocab2.md"}
+		{"id":"ddbc92df7f4239e2","x":43,"y":-114,"width":400,"height":400,"type":"file","file":"Sec+/Resources/Vocab/Vocab 2.md"}
 	],
 	"edges":[
 		{"id":"82bc30c536b36b03","fromNode":"49925816edd0bb08","fromSide":"right","toNode":"ddbc92df7f4239e2","toSide":"top"}

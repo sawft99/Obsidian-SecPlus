@@ -7,5 +7,6 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 ```dataview
 TABLE file.folder AS "Folder"
-From "Sec+"
+From "Sec+" Where file.path = "Chapter*"
+Sort file.path
 ```
