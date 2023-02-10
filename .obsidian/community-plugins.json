@@ -3,7 +3,6 @@
   "find-unlinked-files",
   "obsidian-admonition",
   "obsidian-underline",
-  "hotkey-helper",
   "templater-obsidian",
   "table-editor-obsidian",
   "obsidian-sortable",
@@ -13,5 +12,8 @@
   "obsidian42-strange-new-worlds",
   "obsidian-markmind",
   "influx",
-  "media-extended"
+  "media-extended",
+  "obsidian-outliner",
+  "obsidian-graphviz",
+  "dataview"
 ]

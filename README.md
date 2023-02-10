@@ -27,6 +27,7 @@ If nothing else Influx and Strange New Worlds do a great job of linking informat
 # Additional info
 Use 'reading view' where possible. It looks better and embedded videos will show up properly
 
-# TOC
----
-%% Error: Cannot create a waypoint in the root folder of your vault. For more information, check the instructions [here](https://github.com/IdreesInc/Waypoint) %%
+```dataview
+Table from "Sec+"
+flatten file.folder
+```

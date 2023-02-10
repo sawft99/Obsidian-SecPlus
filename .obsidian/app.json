@@ -8,5 +8,6 @@
   "attachmentFolderPath": "Sec+/Files",
   "userIgnoreFilters": [
     "OBSResources/"
-  ]
+  ],
+  "autoPairBrackets": false
 }
