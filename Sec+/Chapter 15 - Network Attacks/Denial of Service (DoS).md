@@ -20,7 +20,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ## About
 ---
 - A type of DOS which attempts to send more packets to a single server or resource than they can handle
-- Hundreds or thousands of packets
+- Thousands of packets or more at once
 
 ## Ping Flood
 ---
