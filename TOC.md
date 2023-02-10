@@ -6,7 +6,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 
 ```dataview
-TABLE file.folder AS "Folder"
-From "Sec+" Where file.path = "Chapter*"
-Sort file.path
+TABLE file.path as "Folder"
+From "Sec+" Where contains(file.path, "Chapter")
+SORT file.path asc
 ```

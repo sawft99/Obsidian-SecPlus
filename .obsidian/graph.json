@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "smurf",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -32,6 +32,6 @@
   "repelStrength": 7.95692790415746,
   "linkStrength": 0.49368893959923,
   "linkDistance": 333,
-  "scale": 0.4045494011547264,
-  "close": false
+  "scale": 0.32631455520008745,
+  "close": true
 }

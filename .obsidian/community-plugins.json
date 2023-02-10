@@ -15,5 +15,6 @@
   "media-extended",
   "obsidian-outliner",
   "obsidian-graphviz",
-  "dataview"
+  "dataview",
+  "persistent-graph"
 ]
