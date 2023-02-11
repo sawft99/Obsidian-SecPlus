@@ -7,14 +7,14 @@
   "table-editor-obsidian",
   "obsidian-sortable",
   "obsidian-git",
-  "obsidian-html-plugin",
   "tag-wrangler",
   "obsidian42-strange-new-worlds",
   "obsidian-markmind",
   "influx",
   "media-extended",
-  "obsidian-outliner",
   "obsidian-graphviz",
   "dataview",
-  "persistent-graph"
+  "persistent-graph",
+  "obsidian-outliner",
+  "obsidian-paste-image-rename"
 ]

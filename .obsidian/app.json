@@ -9,5 +9,6 @@
   "userIgnoreFilters": [
     "OBSResources/"
   ],
-  "autoPairBrackets": false
+  "autoPairBrackets": false,
+  "showIndentGuide": true
 }
