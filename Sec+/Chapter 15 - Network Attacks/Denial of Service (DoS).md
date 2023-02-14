@@ -136,14 +136,22 @@ collapse:close
 
 # Permanent DoS
 ---
-- Attack which exploits a security flaw to germanely break a networking device by reflashing its firmware
+- Attack which exploits a security flaw to permanently break a networking device by reflashing its [[Securing the BIOS#^9479f4|Firmware]]
+- Device can't reboot because OS has been overwritten
+- Fixing the issue would involve reflashing the [[Securing the BIOS#^9479f4|Firmware]] and then reloading the OS
 
 # Fork Bomb
 ---
--
+- Attacker create a large number of processes, that continually replicate themselves, to use up the available processing power of a computer 
+- "Fork" is a nickname for a process
+- The process continually "forks" over and over
+- Some incorrectly refer to it as a form of [[Worms]] but it does not infect other computers over the network or its programs
+	- It only spreads through a processors CPU cache on one machine that is being attacked
+
 # Objectives
 ---
 - [[Objectives#1.3 - Given a scenario, analyze potential indicators associated with application attacks|1.3 - Given a scenario, analyze potential indicators associated with application attacks]]
+- [[Objectives#1.4 - Given a scenario, analyze potential indicators associated with network attacks|1.4 - Given a scenario, analyze potential indicators associated with network attacks]]
 
 # TODO (Delete when done)
 ---
