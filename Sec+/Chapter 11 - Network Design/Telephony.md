@@ -73,7 +73,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Implement to improve [[SecBasics#^51b6d8|Availability]]
 - VOIP can use a lot of bandwidth
 - High latency can affect phone calls very easily
-- Susceptible to #DDoS
+- Susceptible to [[Denial of Service (DoS)]]
 
 # Objectives
 ---

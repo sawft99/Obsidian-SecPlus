@@ -13,7 +13,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - [[#Logging and Monitoring]]
 - [[#Unprotected Storage]]
 
-# Insecure API
+# Insecure [[Application Programming Interface (API)|API]]
 ---
 - ALWAYS use over TLS or HTTPS
 	- HTTP transmits unencrypted
@@ -21,11 +21,11 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - How you will perform [[Testing Methods#Errors|Error Handling]], error messages, and [[SDLC Principles#Fail Securely|Failing Securely]]
 	- Errors may give attackers hints into how to exploit the system
 	- Sanitize errors as well
-- Not subject to #DDoS
+- Not subject to [[Denial of Service (DoS)]]
 	- Throttling and Rate limiting
 		- Limiting certain amount of input and request from users
 - See also
-- [[Application Programming Interface (API)]]
+	- [[Application Programming Interface (API)]]
 
 # Improper Key Management
 ---

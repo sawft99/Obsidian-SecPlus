@@ -26,7 +26,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Source/Dest Port
 	- Application or Service
 
-# IP Spoofing
+# IP [[Spoofing]]
 ---
 - Similar to [[Switches#MAC Spoofing|MAC Spoofing]] but with an IP address ^e29634
 - Attacker assigns themselves a valid IP on the network

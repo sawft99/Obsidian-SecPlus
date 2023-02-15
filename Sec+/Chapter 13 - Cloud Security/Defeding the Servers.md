@@ -26,8 +26,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Email Servers
 ---
-- #Window uses Exchange
-- #Linux , #OSX , and #Window can all use
+- #Windows uses Exchange
+- #Linux , #OSX , and #Windows can all use
 	- POP3
 	- IMAP
 	- SMTP

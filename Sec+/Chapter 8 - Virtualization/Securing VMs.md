@@ -22,7 +22,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Virtual NIC and Virtual shares
 	- Creates more data being transferred and can reduce your ability to isolate
 - Remove unnecessary virtual hardware, shared folders, and features
-- Spread [[Virtualization#Virtual Machine Types|Virtual Machines]] across several physical computers to minimize potential exhausting of resources and creating a #DDoS scenario
+- Spread [[Virtualization#Virtual Machine Types|Virtual Machines]] across several physical computers to minimize potential exhausting of resources and creating a [[Denial of Service (DoS)]] scenario
 - Proper [[Patch Management]]
 - Keeping track of all [[Virtualization#Virtual Machine Types|Virtual Machines]] and where they are deployed or else "Virtualization Sprawl" can occur ^bfbd7c
 	- When [[Virtualization#Virtual Machine Types|Virtual Machines]] are created, used, and deployed, without proper management or oversight by system admins ^089aa0

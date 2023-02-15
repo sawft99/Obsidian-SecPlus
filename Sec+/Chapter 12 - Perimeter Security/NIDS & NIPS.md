@@ -24,7 +24,7 @@ collapse:close
 # Network Intrusion Detection System (NIDS)
 ---
 - Attempts to detect, log, and alert of malicious network activities ^675d49
-- Such as port scans or #DDoS
+- Such as port scans or [[Denial of Service (DoS)]]
 	- Behind [[Firewalls]] gives it less incoming traffic to analyze
 - Runs in promiscuous mode
 	- Sees all traffic crossing the network versus only the traffic meant for the device MAC address
@@ -39,13 +39,13 @@ collapse:close
 - Attempts to remove, detain, or redirect malicious traffic ^7ad297
 - In addition to functions of NIDS
 - Install "in-line" in network
-- Tune correctly to avoid false positives and #DDoS
+- Tune correctly to avoid false positives and [[Denial of Service (DoS)]]
 - <u>Active</u>
 
 ## Fail Open Or Shut?
 ---
 - If a [[#Network Intrusion Prevention System (NIPS)]] device fails should it let all the traffic through or block all traffic?
-- Shutting can lead to a #DDoS problem
+- Shutting can lead to a [[Denial of Service (DoS)]] problem
 - Most organizations choose to fail open and let other defensive measures take over
 
 ## Protocol Analyzer

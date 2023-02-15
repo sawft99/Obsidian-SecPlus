@@ -24,7 +24,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # Maintaining Availability
 ---
 - You want to ensure/preserve Failover, Redundancy, [[Virtualization#^a6ee8d|Elasticity]]
-	- Avoid #DDoS
+	- Avoid [[Denial of Service (DoS)]]
 - Balance resources across all servers
 - A main feature of [[Cloud Computing]] is [[Virtualization#^a6ee8d|Elasticity]]
 

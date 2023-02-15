@@ -145,6 +145,7 @@ collapse: close
 		- [[Application Programming Interface (API)]]
 		- [[Cloud Threats#Insecure API|Insecure API]]
 - Resource exhaustion
+	- [[Denial of Service (DoS)]]
 - Memory leak
 - Secure sockets layer (SSL) stripping
 - #Drivers manipulation
@@ -169,16 +170,19 @@ collapse: close
 - Layer 2 attacks
 	- Address resolution protocol (ARP) poisoning
 		- [[Switches#MAC Spoofing|MAC Spoofing]]
+		- [[Spoofing]]
 	- Media access control (MAC) flooding
 		- [[Switches#MAC Flooding|MAC Flooding]]
 	- MAC cloning
 		- [[Switches#MAC Spoofing|MAC Spoofing]]
+		- [[Spoofing]]
 - Domain name system (DNS)
 	- Domain hijacking
 	- DNS poisoning
 	- Universal resource locator (URL) redirection
 	- Domain reputation
-- Distributed denial of service - #DDoS
+- [[Distributed Denial of Service (DDOS)]]
+	- [[Denial of Service (DoS)]]
 	- Network
 	- Application
 	- Operational technology (OT)
@@ -432,7 +436,7 @@ collapse: close
 	- [[Honeypots & Honeynets]]
 		- Honeyfiles
 	- Fake telemetry
-	- DNS sinkhole
+	- [[Stopping a Distributed Denial of Service (DDoS)#Blackholing or Sinkholing|DNS sinkhole]]
 
 ## 2.2 - Summarize virtualization and cloud computing concepts
 ---
@@ -545,6 +549,7 @@ collapse: close
 	- [[CI&CD#Continuous Deployment|Continuous deployment]]
 	- [[Testing Methods#Fuzzing|Fuzzing]]
 - [[Virtualization#^a6ee8d|Elasticity]]
+	- [[Stopping a Distributed Denial of Service (DDoS)#Elastic Cloud Infrastructure|Elastic Cloud Infrastructure]]
 - Scalability
 	- [[Securing Storage#Network Attached Storage (NAS)|Network Attached Storage (NAS)]]
 	- [[Securing Storage#Storage Area Network (SAN)|Storage Area Network (SAN)]]

@@ -49,7 +49,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - Tracks request that <u>LEAVE</u> through the firewall ^75eecb
 - Temporarily open a high number port
-- Can almost eliminate IP spoofing because each header received is being inspected
+- Can almost eliminate IP [[Spoofing]] because each header received is being inspected
 - Compares against what it was expecting based on the request that went out
 - It then makes an 'accept' or 'deny' decision based on its [[Routers#Access Control List (ACL)|Access Control List (ACL)]]rules
 - This makes it more in depth compared to [[#Stateless]]

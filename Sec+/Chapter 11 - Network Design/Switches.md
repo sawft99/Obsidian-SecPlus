@@ -39,6 +39,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Often combined with Address Resolution Protocol (ARP) Spoofing
 	- Relies on MAC addresses as a way to associate IP's to MAC and vice versa
 - Appear as the destination the traffic is attempting to go to in order to trick other network devices
+- See also
+	- [[Spoofing]]
 
 ### Prevention
 ---
@@ -54,7 +56,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Occurs when an attacker attempts to gain physical access to a device ^56ec11
 - <u>Often if you can physically access something you can control it</u>
 - Switches may have a configured management port which would allow someone to plug in and begin configuring the switch
-- Attackers could unplug Ethernet or power cables causing a #DDoS
+- Attackers could unplug Ethernet or power cables causing a [[Denial of Service (DoS)]]
 
 ### Prevention
 ---
