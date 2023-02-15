@@ -7,7 +7,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # About
 ---
-- Item
+- Exploit of a computer session in an attempt to gain unauthorized access to data, services, or other resources on a computer or server
 
 # Topic
 ---
