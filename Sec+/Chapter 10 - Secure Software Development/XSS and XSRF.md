@@ -25,6 +25,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- This code (often JavaScript) is usually injected from a separate “attack site”
 	- Can also manifest itself as an embedded JavaScript image tag, header manipulation (as in manipulated HTTP response headers), or other HTML-embedded image object within emails
 - Multiple types: [[#Stored/Persistent]], [[#Reflected]], [[#DOM-Based]]
+- Can be used for [[Hijacking#Session Theft/Session Hijacking|Session Theft/Session Hijacking]]
 
 ## Stored/Persistent
 ---
@@ -38,10 +39,13 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 ## DOM-Based
 ---
-- 
-- Attempts to exploit the [[Security of Apps#Browser|Browser]] itself
+- The victim performs a #UserAction on a site such as clicking a link, it may load a malicious website that has a vulnerable DOM route handler
+- After the vulnerable site is rendered by the browser, the payload executes the attack in the user’s context on that site
 - Comes from the Document Object Model (DOM) being vulnerable to attack
+	- Cross-platform and language-independent application programming interface that treats an HTML, XHTML, or XML document as a tree structure ^53ee20
 	- DOM is part of a users [[Security of Apps#Browser|Browser]]
+- Usually part of a [[#Reflected]] attack
+- Attempts to exploit the [[Security of Apps#Browser|Browser]] itself
 - AKA "Client Side Cross Site Scripting" attack
 
 ## Prevention

@@ -129,7 +129,7 @@ collapse: close
 	- [[SDLC Principles#Never Trust User Input|Input Validation]]
 	- [[SQL Injection]]
 	- [[XML Vulnerabilities]]
-- Replay attack
+- [[Replay Attack]]
 	- Session replays
 - Integer overflow
 - Request forgeries

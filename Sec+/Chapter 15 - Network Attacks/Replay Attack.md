@@ -7,7 +7,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # About
 ---
-- Item
+- [[The OSI Model#Network|Network]] layer attack where a valid data transmission is fraudulently or maliciously rebroadcasted, repeated, or delayed
 
 # Topic
 ---
@@ -15,7 +15,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Objectives
 ---
-- Obj
+- [[Objectives#1.3 - Given a scenario, analyze potential indicators associated with application attacks|1.3 - Given a scenario, analyze potential indicators associated with application attacks]]
 
 # TODO (Delete when done)
 ---

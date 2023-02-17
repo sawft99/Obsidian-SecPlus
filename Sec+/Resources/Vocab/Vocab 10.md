@@ -38,6 +38,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | NOP Slide                                 | ![[Buffer Overflow#^c9fb54]]                                                                      |
 | Address Space Layout Randomization (ASLR) | ![[Buffer Overflow#^15aa75]]                                                                      |
 | Cross-Site Scripting (XSS)                | ![[XSS and XSRF#^18a429]] ![[XSS and XSRF#^2512a1]]                                               |
+| Document Object Model (DOM) | ![[XSS and XSRF#^53ee20]] |
 | Cross-Site Request Forgery (XSRF/CSRF)    | ![[XSS and XSRF#^eea3e5]] ![[XSS and XSRF#^09a7b3]]                                               |
 | Structured Query Language (SQL)           | ![[SQL Injection#^c4ac0f]]                                                                        |
 | Injection Attack                          | ![[SQL Injection#^de8163]]                                                                        |
