@@ -28,6 +28,12 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Distribute Denial of Service (DDOS) | ![[Distributed Denial of Service (DDOS)#^319c1b]]                        |
 | DNS Amplification Attack            | ![[Distributed Denial of Service (DDOS)#^42747f]]                        |
 | Blackholing/Sinkholing              | ![[Stopping a Distributed Denial of Service (DDoS)#^b44ba7]]             |
-| [[Spoofing]]                        | ![[Spoofing#^cdc0fc]]                                                                         |
+| [[Spoofing]]                        | ![[Spoofing#^cdc0fc]]                                                    |
+| Session Theft/Session Hijacking     | ![[Hijacking#^de26fb]]                                                   |
+| TCP/IP Hijacking                    | ![[Hijacking#^440dd1]]                                                   |
+| Blind Jacking                       | ![[Hijacking#^cabfa5]]                                                   |
+| Click Jacking                       | ![[Hijacking#^32a417]]                                                   |
+| Man-in-the-Middle (MITM)            | ![[Hijacking#^29aba5]]                                                   |
+| Man-in-the-Browser (MITB)           | ![[Hijacking#^72701b]]                                                                         |
 
 -

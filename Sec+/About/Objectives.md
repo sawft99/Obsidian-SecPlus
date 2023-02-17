@@ -59,6 +59,7 @@ collapse: close
 	- [[Ransomware]]
 	- [[Trojans]]
 		- [[Software Vulnerabilities & Exploits#Remote Code Execution (RCE)|Remote Code Execution (RCE)]]
+		- [[Hijacking#Man-in-the-Browser|Man-in-the-Browser (MITB)]]
 	- [[Worms]]
 	- Potentially unwanted programs (PUPs)
 		- [[Spyware#Adware|Adware]]
@@ -112,6 +113,7 @@ collapse: close
 	- Lightweight directory	access protocol (LDAP)
 	- Extensible markup language (XML)
 		- [[XSS and XSRF#Cross Site Scripting (XSS)|Cross Site Scripting (XSS)]]
+		- [[Hijacking#Cross-site scripting (XSS)|Hijacking]]
 		- [[XML Vulnerabilities]]
 - Pointer/object dereference
 	- [[Race Conditions#Dereferencing/Null Pointer Dereferencing|Dereferencing/Null Pointer Dereferencing]]
@@ -133,12 +135,15 @@ collapse: close
 - Request forgeries
 	- Server-side
 		- [[XSS and XSRF]]
+		- [[Hijacking#Cross-site scripting (XSS)|Hijacking]]
 	- Client-side
 		- [[XSS and XSRF]]
+		- [[Hijacking#Cross-site scripting (XSS)|Hijacking]]
 		- [[XSS and XSRF#DOM-Based|DOM-Based XSS]]
 	- Cross-site
 		- [[XSS and XSRF#Cross Site Scripting (XSS)|Cross Site Scripting (XSS)]]
 		- [[XSS and XSRF#Cross Site Request Forgery (XSRF/CSRF)|Cross Site Request Forgery (XSRF/CSRF)]]
+		- [[Hijacking#Cross-site scripting (XSS)|Hijacking]]
 		- [[SDLC Principles#Never Trust User Input|Input Validation]]
 - Application programming
 	- Interface (API) attacks

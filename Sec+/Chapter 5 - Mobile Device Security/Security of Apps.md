@@ -29,6 +29,9 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Mainstream browsers such as Chrome are well known and trusted
 - Can't be sure what is in the application for 3rd party apps
 - <u>Always go to Https version of a site when possible</u> so you are using [[#^9255c3|TLS]]
+- See also 
+	- [[Web Browser Security]]
+	- [[Web Browser Concerns]]
 
 # Enterprise Mobility
 

@@ -28,15 +28,17 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 ## Stored/Persistent
 ---
-- Attempts to get data provided by the attacker to be saved on the web server by the victim
+- Malicious code or script is permanently stored on a vulnerable or malicious server, using a database
 - Activated by #UserAction on the web site
 
 ## Reflected
 ---
+- When malicious code or scripts are injected by a vulnerable web application using any method that yields a response as part of a valid HTTP request
 - Attempts to have a <u>non-persistent</u> effect activated by a victims #UserAction by clicking a link on the website
 
 ## DOM-Based
 ---
+- 
 - Attempts to exploit the [[Security of Apps#Browser|Browser]] itself
 - Comes from the Document Object Model (DOM) being vulnerable to attack
 	- DOM is part of a users [[Security of Apps#Browser|Browser]]
@@ -54,7 +56,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 ## About
 ---
-- Exploits focus on <u>the trust a website has in a user</u> ^09a7b3
+- Vulnerability in which an attacker lures the targeted user to execute unwanted actions on a web application ^09a7b3
+- Exploits focus on <u>the trust a website has in a user</u>
 - Example
 	- Once logged into bank account the website "trusts" you
 	- Attacker sends a command to web server via your [[SecBasics#^45fffd|authenticated]] session
@@ -76,6 +79,14 @@ collapse: close
 - XSS ![[XSS and XSRF#^18a429]] ![[XSS and XSRF#^2512a1]]
 - XSRF/CSRF ![[XSS and XSRF#^eea3e5]] ![[XSS and XSRF#^09a7b3]]
 ```
+
+^81f3ff
+
+# Server Side Request Forgery (SSRF)
+---
+- Unlike [[#Cross Site Request Forgery (XSRF/CSRF)]], SSRF is initiated from a web server through a vulnerable web application
+- User is tricked into doing something that benefits the attacker.
+- SSRF attack is done for the purpose of compromising information from the web server or enabling other attacks, such as bypassing [[SDLC Principles#Never Trust User Input|input validation]] controls or enabling the attacker to execute further commands
 
 # Objectives
 ---
