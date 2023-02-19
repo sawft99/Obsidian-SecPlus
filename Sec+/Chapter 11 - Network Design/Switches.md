@@ -36,11 +36,12 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Example
 	- WIFI may use MAC filtering to prevent unknown device from connecting
 	- Switch your MAC address to an allowed address and you could bypass an [[Routers#Access Control List (ACL)|Access Control List (ACL)]] like this
-- Often combined with Address Resolution Protocol (ARP) Spoofing
+- Often combined with Address Resolution Protocol (ARP) Spoofing or [[ARP Poisoning]]
 	- Relies on MAC addresses as a way to associate IP's to MAC and vice versa
 - Appear as the destination the traffic is attempting to go to in order to trick other network devices
 - See also
 	- [[Spoofing]]
+	- [[ARP Poisoning]]
 
 ### Prevention
 ---

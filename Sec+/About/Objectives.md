@@ -26,7 +26,7 @@ collapse: close
 - Spear phishing
 - Dumpster diving
 - Shoulder surfing
-- Pharming
+- [[DNS Attacks#Pharming|Pharming]]
 - Tailgating
 - Eliciting information
 - Whaling
@@ -183,7 +183,7 @@ collapse: close
 		- [[Spoofing]]
 - Domain name system (DNS)
 	- Domain hijacking
-	- DNS poisoning
+	- [[DNS Attacks#DNS Poisoning|DNS poisoning]]
 	- Universal resource locator (URL) redirection
 	- Domain reputation
 - [[Distributed Denial of Service (DDOS)]]
@@ -278,15 +278,18 @@ collapse: close
 	- Weak [[Disk Encryption#^501400|Encryption]]
 	- Unsecure protocols
 		- [[Unnecessary Ports]]
+		- [[Null Session]]
 	- Default settings
 		- [[Unnecessary Applications#Baseline Image|Baseline Image]]
 		- [[SDLC Principles#Create Secure Defaults|Create Secure Defaults]]
 		- [[Design Vulnerabilities#Weak or Default Configurations|Weak or Default Configurations]]
 		- [[Cloud Threats#Unprotected Storage|Unprotected Storage]]
+		- [[Null Session]]
 	- Open ports and services
 		- [[Unnecessary Applications]]
 		- [[Ports and Protocols]]
 		- [[Unnecessary Ports]]
+		- [[Null Session]]
 - Third-party risks
 	- Vendor management
 		- System integration
@@ -566,6 +569,7 @@ collapse: close
 - [[SecBasics#^45fffd|Authentication]] methods
 	- Directory services
 		- [[Group Policies#Active Directory|Active Directory]]
+		- [[Transitive Attacks]]
 	- Federation
 	- [[Trusted Firmware#Attestation|Attestation]]
 	- Technologies
@@ -837,7 +841,7 @@ conditioning (HVAC)
 ---
 - [[Ports and Protocols]]
 	- [[Memorization of Ports]]
-	- Domain Name System	Security Extension (DNSSEC)
+	- [[DNS Attacks#^af0156|Domain Name System Security Extension (DNSSEC)]]
 	- SSH
 	- Secure/multipurpose Internet mail exchanger (S/MIME)
 	- Secure real-time protocol (SRTP)
@@ -861,8 +865,10 @@ conditioning (HVAC)
 		- [[Group Policies]]
 		- [[Software Vulnerabilities & Exploits#Directory Traversal|Directory Traversal]]
 		- [[Group Policies#Active Directory|Active Directory]]
+		- [[Transitive Attacks]]
 	- Remote access
 	- Domain name resolution
+		- [[DNS Attacks]]
 	- Routing and switching
 		- [[Routers]]
 		- [[Switches]]
@@ -875,7 +881,7 @@ conditioning (HVAC)
 ---
 - Endpoint protection
 	- [[Endpoint Analysis#AntiVirus (AV)|AntiVirus (AV)]]
-		- Anti-[[malware]]
+		- Antimalware
 	- [[Endpoint Analysis#Endpoint Detection Response (EDR)|Endpoint detection and response (EDR)]]
 	- [[Data Loss Prevention (DLP)]]
 	- [[Unified Threat Management|Next-generation firewall]]

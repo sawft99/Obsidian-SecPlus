@@ -10,7 +10,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Occurs when an attacker masquerades as another person by falsifying their identity ^cdc0fc
 - Examples
 	- [[Distributed Denial of Service (DDOS)#DNS Amplification|DNS Amplification]]
-	- [[ARP Spoofing]]
+	- [[ARP Poisoning]]
 	- [[Switches#MAC Spoofing|MAC Spoofing]]
 	- [[Mobile Malware#Phishing|Phishing]]
 - Anything identifying a user or system can be spoofed

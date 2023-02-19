@@ -9,7 +9,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - [[Denial of Service (DoS)]]
 - [[Spoofing]]
-	- [[ARP Spoofing]]
+	- [[ARP Poisoning]]
 - [[Hijacking]]
 - [[Replay Attack]]
 - [[Transitive Attacks]]
