@@ -21,7 +21,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - A very popular target/method for replay attacks
 - By capturing a handshake for a wireless network you can replay it an impersonate another person
-- More common in WEP
+- More common in [[Wireless Encryption#Wired Equivalent Privacy (WEP)|WEP]]
 
 # Objectives
 ---

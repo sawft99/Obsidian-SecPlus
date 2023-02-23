@@ -18,7 +18,7 @@ collapse: close
 
 ## 1.1 - Compare and contrast different types of Social Engineering techniques
 ---
-- Phishing
+- [[Mobile Malware#Phishing|Phishing]]
 	- [[Mobile Malware#^6aa682|Smishing]]
 - Vishing
 - [[Spam]]
@@ -77,16 +77,18 @@ collapse: close
 - Password attacks
 	- Spraying
 	- Dictionary
+		- [[Securing Network Devices|Weak Passwords]]
 	- Brute force
 	- Offline
 	- Online
 	- Rainbow tables
 	- Plaintext/unencrypted
+		- [[Securing Network Devices|Telnet]]
 - Physical attacks
 	- Malicious universal serial bus (USB) cable
 	- Malicious flash drive
 	- Card cloning
-	- Skimming]]
+	- Skimming
 - Adversarial artificial intelligence (AI)
 	- [[Cloud Based Infrastructure]]
 	- Tainted training data for machine learning (ML)
@@ -161,8 +163,8 @@ collapse: close
 ## 1.4 - Given a scenario, analyze potential indicators associated with network attacks
 ---
 - Wireless
-	- Evil twin
-	- Rogue access point
+	- [[Securing WIFI Devices#Evil Twin|Evil Twin]]
+	- [[Securing WIFI Devices#Rouge Access Point|Rogue Access Point]]
 	- [[Bluetooth Attacks#^024d42|Bluesnarfing]]
 	- [[Bluetooth Attacks#^79dbd5|Bluejacking]]
 	- Disassociation
@@ -171,6 +173,7 @@ collapse: close
 	- Near field communication (NFC)
 	- Initialization vector (IV)
 - [[Active Intercept & Privilege Escalation|Man in the middle]]
+	- [[Securing WIFI Devices#Evil Twin|Evil Twin]]
 - Man in the [[Security of Apps#Browser|Browser]]
 - Layer 2 attacks
 	- Address resolution protocol (ARP) poisoning
@@ -271,20 +274,25 @@ collapse: close
 		- [[SDLC Principles#Least Privilege|Least Privilege]]
 		- [[Cloud Threats]]
 	- Unsecured root accounts
+		- [[Securing Network Devices|Default passwords and usernames]]
 	- [[Testing Methods#Errors|Errors]]
 		- [[Patch Management#Stages|Patch Management - Auditing]]
 		- [[SDLC Principles#Fail Securely|Fail Securely]]
 		- [[Testing Methods#Forms Of Code Analysis|Forms Of Code Analysis]]
 	- Weak [[Disk Encryption#^501400|Encryption]]
+		- [[Wireless Encryption]]
 	- Unsecure protocols
 		- [[Unnecessary Ports]]
 		- [[Null Session]]
+		- [[Securing Network Devices|Telenet]]
+		- [[Wireless Encryption#Wired Equivalent Privacy (WEP)|Wired Equivalent Privacy (WEP)]]
 	- Default settings
 		- [[Unnecessary Applications#Baseline Image|Baseline Image]]
 		- [[SDLC Principles#Create Secure Defaults|Create Secure Defaults]]
 		- [[Design Vulnerabilities#Weak or Default Configurations|Weak or Default Configurations]]
 		- [[Cloud Threats#Unprotected Storage|Unprotected Storage]]
 		- [[Null Session]]
+		- [[Securing Network Devices]]
 	- Open ports and services
 		- [[Unnecessary Applications]]
 		- [[Ports and Protocols]]
@@ -299,6 +307,7 @@ collapse: close
 		- [[Cloud Based Infrastructure|Vendor Lock In]]
 	- Supply chain
 		- [[Supply Chain Assessment]]
+		- [[Securing Network Devices]]
 	- Outsourced code development
 	- Data storage
 		- [[Threats to VMs#Data Remnants|Data Remnants]]
@@ -746,6 +755,7 @@ conditioning (HVAC)
 	- Electronic
 	- Physical
 		- [[Switches#Physical Tampering|Physical Tampering]]
+		- [[Securing Network Media]]
 	- Cable locks
 - USB data blocker
 - Lighting
@@ -764,6 +774,7 @@ conditioning (HVAC)
 - Air gap
 - [[Network Zones#DMZ|Demilitarized zone (DMZ]]
 - Protected cable distribution
+	- [[Securing Network Media#Protected Distribution Systems (PDS)|Protected Distribution Systems (PDS)]]
 - Secure areas
 	- Air gap
 	- Vault
@@ -966,9 +977,13 @@ conditioning (HVAC)
 	- Persistence
 - Network segmentation
 	- [[Network Zones]]
+		- [[Securing Network Devices]]
 	- [[Routers]]
+		- [[Securing Network Devices]]
 	- [[VLAN|Virtual local area network (VLAN)]]
+		- [[Securing Network Devices]]
 	- [[Network Zones#DMZ|DMZ]]
+		- [[Securing Network Devices]]
 	- East-west traffic
 	- [[Network Zones#Extranet|Extranet]]
 		- [[Web Browser Concerns]]
@@ -994,7 +1009,7 @@ conditioning (HVAC)
 		- [[VLAN]]
 	- Bridge Protocol Data Unit (BPDU) guard
 	- Loop prevention
-	- Dynamic Host Configuration Protocol (DHCP) snooping
+	- [[ARP Poisoning#^277cf9|Dynamic Host Configuration Protocol (DHCP) snooping]]
 	- [[Firewalls#MAC Filtering|MAC Filtering]]
 - Network appliances
 	- Jump servers
@@ -1045,9 +1060,11 @@ conditioning (HVAC)
 - Cryptographic protocols
 	- WiFi protected access II (WPA2)
 		- [[Securing Wireless Devices#Wifi|WPA2]]
+		- [[Wireless Encryption#WIFI Protected Access version 2 (WPA2)|WIFI Protected Access version 2 (WPA2)]]
 	- WiFi protected access III (WPA3)
 		- [[Securing Wireless Devices]]
 	- Counter-mode/CBC-MAC protocol (CCMP)
+		- [[Wireless Encryption#WIFI Protected Access version 2 (WPA2)|WIFI Protected Access version 2 (WPA2)]]
 	- Simultaneous Authentication of Equals (SAE)
 - Authentication protocols
 	- Extensible Authentication Protocol (EAP)
@@ -1058,10 +1075,12 @@ conditioning (HVAC)
 	- EAP-TTLS
 	- IEEE 802.1X
 	- Remote Authentication Dial-in User Server (RADIUS) Federation
+		- [[Wireless Encryption]] 
 - Methods
 	- Pre-shared key (PSK) vs. Enterprise vs. Open
 		- [[Disk Encryption#Advanced Encryption Standard (AES)|Advanced Encryption Standard (AES)]]
-	- WiFi Protected Setup (WPS)
+		- [[Wireless Encryption]]
+	- [[Wireless Encryption#WIFI Protected Setup (WPS)|WIFI Protected Setup (WPS)]]
 	- Captive portals
 - Installation considerations
 	- Site surveys
@@ -1071,6 +1090,8 @@ conditioning (HVAC)
 	- Wireless access point (WAP) placement
 	- Controller and access point security
 		- [[Securing Wireless Devices]]
+		- [[Securing WIFI Devices]]
+		- [[Wireless Encryption]]
 
 ## 3.5 - Given a scenario, implement secure mobile solutions
 ---
@@ -1172,14 +1193,18 @@ conditioning (HVAC)
 		- Virtual networks
 			- [[VLAN]]
 			- [[Cloud Based Infrastructure#Virtual Private Cloud (VPC)|Virtual Private Cloud (VPC)]]
+			- [[Securing Network Devices]]
 		- Public and private subnets
 			- [[Subnetting]]
 			- [[Network Address Translation]]
 			- [[Cloud Types#Private Cloud|Private Cloud]]
 			- [[Cloud Based Infrastructure#Virtual Private Cloud (VPC)|Virtual Private Cloud (VPC)]]
+			- [[Securing Network Devices]]
+			- [[Network Zones#DMZ|DMZ]]
 		- Segmentation
 			- [[VLAN]]
 			- [[Cloud Based Infrastructure#Virtual Private Cloud (VPC)|Virtual Private Cloud (VPC)]]
+			- [[Network Zones#DMZ|DMZ]]
 		- API inspection and integration
 	- Compute
 		- [[Cloud Computing]]
@@ -1213,11 +1238,14 @@ conditioning (HVAC)
 	- Smart cards
 - Account types
 	- User account
+		- [[Securing Network Devices]]
 	- Shared and generic accounts/credentials
 	- Guest accounts
 	- Service accounts
+		- [[Securing Network Devices]]
 - Account policies
 	- Password complexity
+		- [[Securing Network Devices#^4c4d3e|Weak Passwords]]
 	- Password history
 	- Password reuse
 	- Time of day

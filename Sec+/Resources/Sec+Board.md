@@ -17,6 +17,7 @@ kanban-plugin: basic
 - [ ] CVE def on [[Software Vulnerabilities & Exploits]]
 - [ ] Return address def [[Buffer Overflow]]
 - [ ] Return pointer def [[Buffer Overflow]]
+- [ ] [[Wireless Encryption]] define enterprise mode
 
 
 ## Working On

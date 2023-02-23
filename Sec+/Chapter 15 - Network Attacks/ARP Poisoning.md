@@ -20,15 +20,12 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # Prevention
 ---
 - Proper [[VLAN]] segmentation
-- DHCP Snooping 
+- DHCP Snooping ^277cf9
+	- Determines if an ARP packet is valid based on IP-to-MAC address bindings stored in a trusted database ^ad4e7c
+	- This database is called the “DHCP snooping binding database.”
+	- Runs on switches
 
 # Objectives
 ---
 - [[Objectives#1.4 - Given a scenario, analyze potential indicators associated with network attacks|1.4 - Given a scenario, analyze potential indicators associated with network attacks]]
-
-# TODO (Delete when done)
----
-- [ ] Added vocab
-- [ ] Added and linked objectives in document
-- [ ] Linked objectives back to document
-- [ ] Linked any relevant backlinks to and from document
+- [[Objectives#3.3 - Given a scenario, implement secure network designs|3.3 - Given a scenario, implement secure network designs]]

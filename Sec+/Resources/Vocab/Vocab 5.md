@@ -7,7 +7,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 
 | Term                                            | Meaning                                                                                       |
 | ----------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| Wifi Protected Access (WPA)                     | ![[Securing Wireless Devices#^fa413c]]                                                        |
+| WIFI Protected Access (WPA)                     | ![[Wireless Encryption#^118526]]                                                              |
+| WIFI Protected Access version 2 (WPA2)          | ![[Wireless Encryption#^36aaad]]                                                                                              |
 | SMS Phishing (Smishing)                         | ![[Mobile Malware#^6aa682]]                                                                   |
 | Subscriber Identity Module (SIM)                | ![[SIM Cloning & ID Theft#^f19809]]                                                           |
 | International Mobile Subscriber Identity (IMSI) | International Mobile Subscriber Identity                                                      |

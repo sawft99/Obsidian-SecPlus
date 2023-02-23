@@ -44,6 +44,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Domain Name System Security Extension (DNSSEC) | ![[DNS Attacks#^3d08c9]]                                                 |
 | Pharming                                       | ![[DNS Attacks#^8f19c8]]                                                 |
 | Doman Name Kiting                              | ![[DNS Attacks#^82b445]]                                                 |
-| Address Resolution Protocol                    | ![[ARP Poisoning#^a4d399]]                                                                         |
+| Address Resolution Protocol                    | ![[ARP Poisoning#^a4d399]]                                               |
+| DHCP Snooping                                  | ![[ARP Poisoning#^ad4e7c]]                                                                         |
 
 -
