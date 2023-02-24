@@ -94,7 +94,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Port
 - ACL rules are also processed in the order that is configured starting with 1 and working its way up
 	- Once an ACL rule matches the request the firewall made, <u>no additional rules are processed</u>
-- See also 
+- See also
 	- [[Routers#Access Control List (ACL)]]
 
 ## Rules

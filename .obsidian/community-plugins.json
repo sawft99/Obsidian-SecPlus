@@ -1,7 +1,6 @@
 [
   "obsidian-kanban",
   "find-unlinked-files",
-  "obsidian-admonition",
   "obsidian-underline",
   "templater-obsidian",
   "table-editor-obsidian",
@@ -15,5 +14,6 @@
   "obsidian-graphviz",
   "dataview",
   "obsidian-outliner",
-  "obsidian-paste-image-rename"
+  "obsidian-paste-image-rename",
+  "obsidian-admonition"
 ]

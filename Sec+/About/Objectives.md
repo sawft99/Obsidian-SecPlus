@@ -168,10 +168,11 @@ collapse: close
 	- [[Bluetooth Attacks#^024d42|Bluesnarfing]]
 	- [[Bluetooth Attacks#^79dbd5|Bluejacking]]
 	- Disassociation
-	- Jamming
+	- [[Wireless Access Points (WAP)#Jamming|Jamming]]
 	- Radio frequency identifier (RFID)
 	- Near field communication (NFC)
 	- Initialization vector (IV)
+		- [[Wireless Encryption#Wired Equivalent Privacy (WEP)|Wired Equivalent Privacy (WEP)]]
 - [[Active Intercept & Privilege Escalation|Man in the middle]]
 	- [[Securing WIFI Devices#Evil Twin|Evil Twin]]
 - Man in the [[Security of Apps#Browser|Browser]]
@@ -1083,11 +1084,12 @@ conditioning (HVAC)
 	- [[Wireless Encryption#WIFI Protected Setup (WPS)|WIFI Protected Setup (WPS)]]
 	- Captive portals
 - Installation considerations
-	- Site surveys
-	- Heat maps
-	- WiFi analyzers
+	- [[Wireless Access Points (WAP)#Heatmaps|Site surveys]]
+	- [[Wireless Access Points (WAP)#Heatmaps|Heatmaps]]
+	- [[Wireless Access Points (WAP)#Heatmaps|WiFi analyzers]]
 	- Channel overlays
 	- Wireless access point (WAP) placement
+		- [[Wireless Access Points (WAP)]]
 	- Controller and access point security
 		- [[Securing Wireless Devices]]
 		- [[Securing WIFI Devices]]

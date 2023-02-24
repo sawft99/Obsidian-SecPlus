@@ -68,8 +68,8 @@ collapse: close
 
 ## About
 ---
-- Always use on wifi even if it is your own
-- Don't trust wifi!
+- Always use on WIFI even if it is your own
+- Don't trust WIFI!
 - Encryption inside of encryption
 
 ```ad-tip
