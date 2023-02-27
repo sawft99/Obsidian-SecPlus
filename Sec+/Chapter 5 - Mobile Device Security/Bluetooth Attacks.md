@@ -7,11 +7,19 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # About
 ---
-- Bluejacking ^79dbd5
-	- <u>Sending</u> unsolicited messages to Bluetooth enabled devices
+- Types
+	- 
+
+# BlueJacking
+---
+- Bluejacking
+	- <u>Sending</u> unsolicited messages to Bluetooth enabled devices ^79dbd5
 	- Someone pairs and then attempts to send data
-- BlueSnarfing ^024d42
-	- Unauthorized <u>access</u> of information from a wireless device over a Bluetooth connection
+
+# BlueSnarfing
+---
+- BlueSnarfing
+	- Unauthorized <u>access</u> of information from a wireless device over a Bluetooth connection ^024d42
 
 # Protecting
 ---

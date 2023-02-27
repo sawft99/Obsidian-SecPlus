@@ -25,16 +25,16 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Simultaneous Authentication of Equals (SAE)
 ---
-- A secure password-based [[SecBasics#^45fffd|Authentication]] and password-authenticated key agreement method 
+- A secure password-based [[SecBasics#^45fffd|Authentication]] and password-authenticated key agreement method  ^91e9be
 - Replaces [[Wireless Encryption#Pre-Shared Key (PSK)|Pre-Shared Key (PSK)]] used in [[Wireless Encryption#WIFI Protected Access version 2 (WPA2)|WIFI Protected Access version 2 (WPA2)]]
 
-# Forward Secrecy
+# Perfect Forward Secrecy (PFS)
 
 ## About
 ---
-- A feature of key agreement protocols, like [[#Simultaneous Authentication of Equals (SAE)]], that provides assurance that session keys will not be compromised even if long term secrets used in the session key exchange are compromised
+- A feature of key agreement protocols, like [[#Simultaneous Authentication of Equals (SAE)]], that provides assurance that session keys will not be compromised even if long term secrets used in the session key exchange are compromised ^9e9b60
 - In short, if someone gets the password that you use for your network they can not use it to decrypt previously captured traffic or other sessions on the same network
-- Sometimes also called "Perfect Forward Secrecy"
+- Sometimes also called just "Forward Secrecy"
 
 ## Steps
 ---
@@ -44,7 +44,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	2. A new session key is generated every time the client connects to the [[Wireless Access Points (WAP)]] which is why only having the password will not allow you to read previous traffic or other clients connected to the same [[Wireless Access Points (WAP)]] or network
 3. The AP sends client messages and encrypts them using the session key created in session 2
 4. Client decrypts the message received using the same one time use session key
-5. The process repeats for every message being sent, starting at step 2 to ensure forward secrecy 
+5. The process repeats for every message being sent, starting at step 2 to ensure forward secrecy
+	1. Constantly using new keys
 
 # Videos
 
@@ -52,13 +53,10 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 ![](https://www.youtube.com/watch?v=IkM3R-KDu44)
 
+## TLS/Diffie-Hellman Key Exchange
+---
+![](https://www.youtube.com/watch?v=KXq065YrpiU)
+
 # Objectives
 ---
-- [[Objectives#3.4 - Given a scenario, install and configure wireless security settings|3.4 - Given a scenario, install and configure wireless security settings]]]
-
-# TODO (Delete when done)
----
-- [ ] Added vocab
-- [ ] Added and linked objectives in document
-- [ ] Linked objectives back to document
-- [ ] Linked any relevant backlinks to and from document
+- [[Objectives#3.4 - Given a scenario, install and configure wireless security settings|3.4 - Given a scenario, install and configure wireless security settings]]

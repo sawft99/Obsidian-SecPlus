@@ -1067,7 +1067,8 @@ conditioning (HVAC)
 		- [[Securing Wireless Devices]]
 	- Counter-mode/CBC-MAC protocol (CCMP)
 		- [[Wireless Encryption#WIFI Protected Access version 2 (WPA2)|WIFI Protected Access version 2 (WPA2)]]
-	- Simultaneous Authentication of Equals (SAE)
+		- [[WIFI Protected Access version 3 (WPA3)]]
+	- [[WIFI Protected Access version 3 (WPA3)#Simultaneous Authentication of Equals (SAE)|Simultaneous Authentication of Equals (SAE)]]
 - Authentication protocols
 	- Extensible Authentication Protocol (EAP)
 	- Protected Extensible
@@ -1082,6 +1083,7 @@ conditioning (HVAC)
 	- Pre-shared key (PSK) vs. Enterprise vs. Open
 		- [[Disk Encryption#Advanced Encryption Standard (AES)|Advanced Encryption Standard (AES)]]
 		- [[Wireless Encryption]]
+		- [[WIFI Protected Access version 3 (WPA3)]]
 	- [[Wireless Encryption#WIFI Protected Setup (WPS)|WIFI Protected Setup (WPS)]]
 	- Captive portals
 - Installation considerations
@@ -1095,6 +1097,8 @@ conditioning (HVAC)
 		- [[Securing Wireless Devices]]
 		- [[Securing WIFI Devices]]
 		- [[Wireless Encryption]]
+		- [[Wireless Encryption#WIFI Protected Access version 2 (WPA2)|WIFI Protected Access version 2 (WPA2)]]
+		- [[WIFI Protected Access version 3 (WPA3)]]
 
 ## 3.5 - Given a scenario, implement secure mobile solutions
 ---
