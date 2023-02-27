@@ -165,8 +165,8 @@ collapse: close
 - Wireless
 	- [[Securing WIFI Devices#Evil Twin|Evil Twin]]
 	- [[Securing WIFI Devices#Rouge Access Point|Rogue Access Point]]
-	- [[Bluetooth Attacks#^024d42|Bluesnarfing]]
-	- [[Bluetooth Attacks#^79dbd5|Bluejacking]]
+	- [[Bluetooth Attacks#BlueSnarfing|Bluesnarfing]]
+	- [[Bluetooth Attacks#BlueJacking|Bluejacking]]
 	- Disassociation
 	- [[Wireless Access Points (WAP)#Jamming|Jamming]]
 	- Radio frequency identifier (RFID)
@@ -778,6 +778,7 @@ conditioning (HVAC)
 - Protected cable distribution
 	- [[Securing Network Media#Protected Distribution Systems (PDS)|Protected Distribution Systems (PDS)]]
 - Secure areas
+	- [[Physical Security]]
 	- Air gap
 	- Vault
 	- Safe
@@ -1106,14 +1107,14 @@ conditioning (HVAC)
 	- Cellular
 	- [[Securing Wireless Devices#Wifi|Wifi]]
 	- [[Securing Wireless Devices#Bluetooth|Bluetooth]]
-	- NFC
+	- [[Other Wireless Technologies#Near Field Communication (NFC)|NFC]]
 		- [[Hardening Mobile Devices]]
 	- Infrared
 	- USB
 	- Point to point
 	- Point to multipoint
-	- Global Positioning System (GPS)
-	- RFID
+	- [[Other Wireless Technologies#Global Positioning System (GPS)|Global Positioning System (GPS)]]
+	- [[Other Wireless Technologies#Radio Frequency Identification (RFID)|RFID]]
 - [[Security of Apps#Mobile Device Management (MDM)|Mobile device management (MDM)]]
 	- Application management
 		- [[Security of Apps#Mobile Device Management (MDM)|Mobile Device Management (MDM)]]
@@ -1121,8 +1122,8 @@ conditioning (HVAC)
 	- Content management
 	- Remote wipe
 		- [[Mobile Device Theft#^75caa3|Mobile Device Theft]]
-	- Geofencing
-	- Geolocation
+	- [[Other Wireless Technologies#Geofencing|Geofencing]]
+	- [[Other Wireless Technologies#Geolocation|Geolocation]]
 		- [[Mobile Device Security]]
 	- Screen locks
 		- [[Mobile Device Theft#^4bafd6|Remote Lock]]
@@ -1161,11 +1162,14 @@ conditioning (HVAC)
 		- [[Mobile Malware]]
 	- Camera use
 	- SMS/multimedia message service (MMS)/Rich communication services (RCS)
+		- [[Security of Apps#Geotagging|Geotagging]]
+		- [[SIM Cloning & ID Theft]]
 	- External media
 	- USB on the go (OTG)
 	- Recording microphone
 	- GPS tagging
 		- [[Security of Apps#Mobile Device Management (MDM)|Mobile Device Management (MDM)]]
+		- [[Security of Apps#Geotagging|Geotagging]]a
 	- WiFi direct/ad hoc
 	- Tethering
 		- [[Hardening Mobile Devices]]
@@ -1257,9 +1261,10 @@ conditioning (HVAC)
 	- Password reuse
 	- Time of day
 	- Network location
-	- Geofencing
-	- Geotagging
-	- Geolocation
+	- [[Other Wireless Technologies#Geofencing|Geofencing]]
+	- [[Security of Apps#Geotagging|Geotagging]]
+		- [[Security of Apps#Geotagging|Geotagging]]
+	- [[Other Wireless Technologies#Geolocation|Geolocation]]
 	- Time-based logins
 	- Access policies
 	- Account permissions

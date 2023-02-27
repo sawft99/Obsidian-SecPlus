@@ -9,8 +9,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - [[Hardening]]
 	- Increasing overall device security
-	- See also 
-		- [[Hardening]]
+- See also 
+	- [[Hardening]]
 
 # Methods
 ---
@@ -32,12 +32,12 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	1. Bypasses built-in protection
 6. Only use [[SIM Cloning & ID Theft#^f19809|SIMv2]]
 7. Turn off all unneeded features
-	1. NFC ^b9fdff
+	1. NFC
 		1. Short range wireless. Usually within inches.
-		2. Credit cards
+		2. Such as credit cards
 	2. Wifi
 	3. Bluetooth
-		1. Make device undiscoverable if needed
+		1. Make device undiscoverable unless pairing
 		2. [[Bluetooth Attacks#Protecting|Bluetooth Attacks]]
 	4. Mobile Hotspot ^16a462
 		1. A place where wireless internet is accessible

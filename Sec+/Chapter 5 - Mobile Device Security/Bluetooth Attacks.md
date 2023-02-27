@@ -8,7 +8,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # About
 ---
 - Types
-	- 
+	- [[#BlueJacking]]
+	- [[#BlueSnarfing]]
 
 # BlueJacking
 ---
@@ -20,6 +21,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - BlueSnarfing
 	- Unauthorized <u>access</u> of information from a wireless device over a Bluetooth connection ^024d42
+	- Usually theft of data like calendar information, phonebook contacts, etc. 
+	- Possible to steal other information as well, but a pairing must be made between the attacking Bluetooth device and the Bluetooth victim.
 
 # Protecting
 ---

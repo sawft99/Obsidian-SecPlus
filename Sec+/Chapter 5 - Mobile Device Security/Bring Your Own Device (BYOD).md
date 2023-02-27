@@ -7,8 +7,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # About
 ---
-- <u>Users bring their own device</u> and use it on the company network
-	- Some places are fully for and others are fully against
+- <u>Users bring their own device</u> and use it on the company network ^6c080b
+- Some places are fully for and others are fully against
 
 # Security Issues
 ---

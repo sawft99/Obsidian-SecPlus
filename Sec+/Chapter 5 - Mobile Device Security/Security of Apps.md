@@ -58,6 +58,9 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Manager could be targeted at coffee shop or attackers could target someone/something else in the office more easily because the manager is not present
 - Needs to be considered when developing organizations security policy
 	- <u>Recommended to turn off if not needed</u>
+- See also
+	- [[Other Wireless Technologies#Geotagging]]
+	- [[Other Wireless Technologies#Geofencing]]
 
 # Vocab
 ---
@@ -68,3 +71,4 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - [[Objectives#3.1 - Given a scenario, implement secure protocols|3.1 - Given a scenario, implement secure protocols]]
 - [[Objectives#3.5 - Given a scenario, implement secure mobile solutions|3.5 - Given a scenario, implement secure mobile solutions]]
+- [[Objectives#3.7 - Given a scenario, implement identity and account management controls|3.7 - Given a scenario, implement identity and account management controls]]
