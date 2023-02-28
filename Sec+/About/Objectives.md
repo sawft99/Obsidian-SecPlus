@@ -744,8 +744,10 @@ conditioning (HVAC)
 - Signage
 - Cameras
 	- Motion recognition
+		- [[Surveillance#Infrared|Infrared]]
 	- Object detection
-- Closed-circuit television (CCTV)
+		- [[Surveillance#Infrared|Infrared]]
+- [[Surveillance#Closed Circuit Television (CCTV)|Closed Circuit Television (CCTV)]]
 - Industrial camouflage
 - Personnel
 	- Guards
@@ -765,7 +767,9 @@ conditioning (HVAC)
 - Fire suppression
 - Sensors
 	- Motion detection
+		- [[Surveillance#Infrared|Infrared]]
 	- Noise detection
+		- [[Surveillance#Ultrasonic|Ultrasonic]]
 	- Proximity reader
 	- Moisture detection
 	- Cards
