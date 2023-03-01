@@ -14,10 +14,35 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- [[#Room]]
 
 # Perimeter
+
+## About
 ---
 - What's stopping or interfering with you on your way to the [[#Building]]?
 - Keeps you away form building
 - Guards, fences, vehicle access point
+
+## Bollards
+---
+- A standalone post, typically steel, short, and sturdy and anchored in a hard surface such as concrete
+- Designed to withstand high impacts and deflect potential blows, such as <u>vehicles</u>, away from the object or area they are in place to protect
+
+```ad-example
+title: Bollards
+collapse:close
+![[BollardsEx1.png]]
+```
+
+## Barricade
+---
+- Prevents both <u>people and vehicle movement</u> across a large area
+- Typically constructed of steel or concrete and are designed with the goal of protection
+- Offers more linear protection than [[#Bollards]] 
+
+```ad-example
+title: Barricade
+collapse:close
+![[BarricadeEx1.png]]
+```
 
 # Building
 ---
@@ -27,7 +52,14 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # Room
 ---
 - Once inside the [[#Building]], what is stopping you from accessing the room that houses the equipment or other assets?
-- Door lock, electronic lock, etc
+- Door lock, electronic lock, cable lock, etc
+- Includes protecting the equipment inside of the room as well
+
+```ad-example
+title: Cablelock
+collapse:close
+![[CablelockEx1.png]]
+```
 
 # Objectives
 ---

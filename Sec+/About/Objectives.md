@@ -596,6 +596,7 @@ collapse: close
 			- [[SIM Cloning & ID Theft]]
 	- Smart card authentication
 - Biometrics
+	- [[Biometric Readers]]
 	- Fingerprint
 	- Retina
 	- Iris
@@ -604,9 +605,9 @@ collapse: close
 	- Vein
 	- Gait analysis
 	- Efficacy rates
-	- False acceptance
-	- False rejection
-	- Crossover error rate
+	- [[Biometric Readers#False Acceptance Rate (FAR|False Acceptance Rate (FAR)]]
+	- [[Biometric Readers#False Rejection Rate (FRR)|False Rejection Rate (FRR)]]
+	- [[Biometric Readers#Crossover Error Rate (CER)|Crossover Error Rate (CER)]]
 - Multifactor authentication (MFA) factors and attributes
 	- Factors
 		- Something you know
@@ -614,6 +615,7 @@ collapse: close
 		- Something you have
 			- [[SIM Cloning & ID Theft]]
 		- Something you are
+			- [[Biometric Readers]]
 	- Attributes
 		- Somewhere you are
 		- Something you can do

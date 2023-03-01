@@ -53,6 +53,9 @@ collapse:close
 - Common at the entrance of a [[Physical Security#Building|Building]]
 	- There may be immediate access to the [[Physical Security#Building|Building]] and more secure areas have a mantrap
 	- Or there can be a mantrap at the entrance to the [[Physical Security#Building|Building]] and for secure areas as well
+- Prevents "Piggybacking/Piggyback"
+	- When an unauthorized person tags along with an authorized person to gain entry to a restricted area ^3161e9
+	- Also known as "Tailgating/Tailgate"
 
 ```ad-example
 title: Mantrap

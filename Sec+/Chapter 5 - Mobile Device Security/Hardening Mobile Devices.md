@@ -51,7 +51,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	1. Bluetooth
 	2. NFC
 	3. Wifi
-9. Use strong password or biometrics
+9. Use strong password or [[Biometric Readers|Biometrics]]
 10. Turn on Find my phone
 	1. Setup [[Mobile Device Theft#^4bafd6|Remote Lock]] and [[Mobile Device Theft#^75caa3|Remote Wipe]]
 11. Don't allow [[Bring Your Own Device (BYOD)]]
