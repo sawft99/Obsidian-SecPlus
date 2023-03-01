@@ -13,6 +13,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - Padlocks
 	- Generally very insecure
+	- Pin tumbler system 
 - Standard Key Door Lock
 	- Usually on house or normal door
 	- Pin and tumbler system
@@ -47,10 +48,11 @@ collapse:close
 
 # Mantrap
 ---
-- An access control area in a small space that can usually fit only one person and has two sets of interlocking doors; the first set must be closed before the other will open, creating a sort of waiting room where people are identified and can't escape
+- An access control area in a small space that can usually fit only one person and has two sets of interlocking doors; the first set must be closed before the other will open, creating a sort of waiting room where people are identified and can't escape ^d06063
 - Can be automated such as the Electronic Locks or a guard needing to buzz you through a door manually
 - Common at the entrance of a [[Physical Security#Building|Building]]
-- The area between the entrance and the next entry point
+	- There may be immediate access to the [[Physical Security#Building|Building]] and more secure areas have a mantrap
+	- Or there can be a mantrap at the entrance to the [[Physical Security#Building|Building]] and for secure areas as well
 
 ```ad-example
 title: Mantrap
@@ -62,10 +64,3 @@ collapse:close
 # Objectives
 ---
 - [[Objectives#2.7 - Explain the importance of physical security controls|2.7 - Explain the importance of physical security controls]]
-
-# TODO (Delete when done)
----
-- [ ] Added vocab
-- [ ] Added and linked objectives in document
-- [ ] Linked objectives back to document
-- [ ] Linked any relevant backlinks to and from document

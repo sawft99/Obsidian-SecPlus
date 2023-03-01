@@ -738,11 +738,13 @@ conditioning (HVAC)
 ## 2.7 - Explain the importance of physical security controls
 ---
 - Bollards/barricades
-- Mantraps
+- [[Door Locks#Mantrap|Mantraps]]
 - Badges
+	- [[Door Locks]]
 - Alarms
 - Signage
 - Cameras
+	- [[Surveillance]]
 	- Motion recognition
 		- [[Surveillance#Infrared|Infrared]]
 	- Object detection
@@ -757,6 +759,7 @@ conditioning (HVAC)
 - Locks
 	- Biometrics
 	- Electronic
+		- [[Door Locks]]
 	- Physical
 		- [[Switches#Physical Tampering|Physical Tampering]]
 		- [[Securing Network Media]]
@@ -773,6 +776,7 @@ conditioning (HVAC)
 	- Proximity reader
 	- Moisture detection
 	- Cards
+		- [[Door Locks]]
 	- Temperature
 - Drones/UAV
 - Visitor logs
