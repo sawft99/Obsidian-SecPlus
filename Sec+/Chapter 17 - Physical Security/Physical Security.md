@@ -32,7 +32,7 @@ collapse:close
 ![[BollardsEx1.png]]
 ```
 
-## Barricade
+## Barricades
 ---
 - Prevents both <u>people and vehicle movement</u> across a large area
 - Typically constructed of steel or concrete and are designed with the goal of protection

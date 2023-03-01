@@ -739,7 +739,8 @@ conditioning (HVAC)
 
 ## 2.7 - Explain the importance of physical security controls
 ---
-- Bollards/barricades
+- [[Facilities Security]]
+- [[Physical Security#Bollards|Bollards]] and [[Physical Security#Barricades|Barricades]]
 - [[Door Locks#Mantrap|Mantraps]]
 - Badges
 	- [[Door Locks]]

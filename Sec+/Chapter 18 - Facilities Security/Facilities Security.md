@@ -7,19 +7,12 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # About
 ---
-- Item
-Facilities Security
-# Topic
----
-- Item
+- [[Physical Security#Building|Buildings]] from a different perspective
+- Includes
+	- Fire suppression
+	- HVAC
+	- Shielding to stop [[Securing Network Media#Electromagnetic Interference (EMI)|Electromagnetic Interference (EMI)]] and [[Securing Network Media#Radio Frequency Interference (RFI)|Radio Frequency Interference (RFI)]]
 
 # Objectives
 ---
-- Obj
-
-# TODO (Delete when done)
----
-- [ ] Added vocab
-- [ ] Added and linked objectives in document
-- [ ] Linked objectives back to document
-- [ ] Linked any relevant backlinks to and from document
+- [[Objectives#2.7 - Explain the importance of physical security controls|2.7 - Explain the importance of physical security controls]]
