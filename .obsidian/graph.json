@@ -5,26 +5,11 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [
-    {
-      "query": "path:Sec+/Resources/Vocab",
-      "color": {
-        "a": 1,
-        "rgb": 4180552
-      }
-    },
-    {
-      "query": "line:(\"attack \")",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    }
-  ],
+  "collapse-color-groups": false,
+  "colorGroups": [],
   "collapse-display": true,
   "showArrow": true,
-  "textFadeMultiplier": -2.1,
+  "textFadeMultiplier": -2.8,
   "nodeSizeMultiplier": 0.931284318619411,
   "lineSizeMultiplier": 0.662925194323611,
   "collapse-forces": true,
@@ -32,6 +17,6 @@
   "repelStrength": 10.4485488126649,
   "linkStrength": 0.266847322256293,
   "linkDistance": 278,
-  "scale": 0.09185813114206941,
+  "scale": 0.09686587825736939,
   "close": true
 }

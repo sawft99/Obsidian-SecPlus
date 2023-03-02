@@ -7,30 +7,30 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # About
 ---
-- Process of controlling and/or extinguishing fires to protect an organization's employees, data, equipment, and [[Physical Security#Building|Buildings]]
-- Types of suppression
-	- [[#Handheld]]
-	- [[#Sprinklers]]
-	- [[#Special Hazzard Protection]]
-
-# Handheld
-
-## About
----
-- Not all extinguishers are the same
-- Each class has its own application, function, and form of suppression
-- Extinguisher/Fire types
+- Process of controlling and/or extinguishing fires to protect an organization's employees, data, equipment, and [[Physical Security#Building|Buildings]] ^9f1d91
+- Types of fires
 	- [[#Class A]]
 	- [[#Class B]]
 	- [[#Class C]]
 	- [[#Class D]]
 	- [[#Class K]]
+- Types of suppression
+	- [[#Handheld]]
+	- [[#Sprinklers]]
+	- Special Hazzard Protection
+		- [[#Clean Agent System]]
 
-```ad-example
-title: Handheld Extinguisher
-collapse:close
-![[ExtinguisherHandheldEx1.png]]
-```
+# Types of Fires
+
+## About
+---
+- Not all fires are the same
+- Fire types
+	- [[#Class A]]
+	- [[#Class B]]
+	- [[#Class C]]
+	- [[#Class D]]
+	- [[#Class K]]
 
 ## Class A
 ---
@@ -58,7 +58,7 @@ collapse:close
 
 ## Class C
 ---
-- For electrical equipment
+- For <u>electrical equipment</u>
 - First try to shut off power since this may stop the fire if the electricity is the source
 - CO2 extinguisher is also good for this
 
@@ -70,7 +70,9 @@ collapse:close
 
 ## Class D
 ---
-- 
+- For <u>combustible metals</u>
+	- Magnesium, Titanium, Lithium
+- Laptops have Lithium batteries
 
 ```ad-example
 title: Class D Extinguisher Symbols
@@ -80,24 +82,105 @@ collapse:close
 
 ## Class K
 ---
--
+- For <u>cooking oils</u>
+	- Grease oil
+- Have in kitchen
 
+```ad-example
+title: Class K Extinguisher Symbols
+collapse:close
+![[HandheldExtinguisherKEx1.png]]
+```
+
+# Extinguisher Types
+
+## About
+---
+- Types
+	- [[#ABC Extinguishers]]
+	- [[#BC Extinguishers]]
+	- [[#D Extinguishers]]
+
+## ABC Extinguishers
+---
+- Good for fires of
+	- [[#Class A]]
+	- [[#Class B]]
+	- [[#Class C]]
+- Uses dry chemicals
+- Avoid if possible for [[#Class C]] fires though as the chemicals are <u>corrosive to computers</u> and some other electrical parts 
+
+```ad-example
+title: ABC Extinguisher
+collapse:close
+![[ABCExtinguisherEx1.png]]
+```
+
+## BC Extinguishers
+---
+- Most common type
+- Also call a "CO2 Extinguisher"
+- Used for [[#Class B]] and [[#Class C]] types of fires
+- <u>Better for computers</u> and other electrical parts as it does not have a corrosive chemical
+- Smothers fires with CO2 so people nearby may have a hard time breathing
+
+```ad-example
+title: BC Extinguisher
+collapse:close
+![[BCExtinguisherEx1.png]]
+```
+
+## D Extinguishers
+---
+- Less common
+- <u>Typically yellow</u>
+- Used for [[#Class D]] fires
+
+```ad-example
+title: D Extinguisher
+collapse:close
+![[DExtinguisherEx1.png]]
+```
 
 # Sprinklers
----
--
 
-# Special Hazzard Protection
+## About
 ---
--
+- In celling and pipes above area
+- Types
+	- [[#Wet]]
+	- [[#Dry]]
+	- [[#Pre-Action]]
+- Typically not a good choice to have in a server room since it uses water
+- Have red bulbs in them that when melted or broken trigger a [[#Wet]] or [[#Dry]] sprinkler system
+
+```ad-example
+title: Sprinkler System Head
+collapse:close
+![[SprinklerSystemEx1.png]]
+```
+
+## Wet
+---
+- Pipes are already filled with water all the way to the sprinkler head and wait for the red glass bulb to be melted or broken ^d9fa4b
+- If in a cold environment there is a <u>potential to freeze or crack the pipes</u> since water sits inside of the pipes at all times
+
+## Dry
+---
+- Pipes are filled with pressurized air and only push water into the pipes once the red glass bulb is melted or broken ^020cda
+
+## Pre-Action
+---
+- Like a [[#Dry]] pipe solution, but is triggered when heat or smoke is detected ^1d52b4
+- <u>WILL NOT</u> trigger when red bulb is melted or broken, smoke and/or heat also needs to be detected
+
+# Clean Agent System
+---
+- Fire suppression system that relies upon gas (HALON, FM-200, or CO2) instead of water to extinguish in a fire ^a29c83
+- HALON less common now as it is bad for the environment
+- If you hear a fire alarm in a server room that has this system <u>RUN</u>!
+	- Gas will suffocate the fire <u>AND you</u>
 
 # Objectives
 ---
-- [[Objectives#2.7 - Explain the importance of physical security controls|2.7 - Explain the importance of physical security controls]]]
-
-# TODO (Delete when done)
----
-- [ ] Added vocab
-- [ ] Added and linked objectives in document
-- [ ] Linked objectives back to document
-- [ ] Linked any relevant backlinks to and from document
+- [[Objectives#2.7 - Explain the importance of physical security controls|2.7 - Explain the importance of physical security controls]]

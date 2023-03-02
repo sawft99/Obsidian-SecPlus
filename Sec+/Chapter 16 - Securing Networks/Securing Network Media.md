@@ -26,7 +26,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - Shielding
 	- Shielding with STP cables or the source of the EMI
-	- STP can either have foil around entire bundle of wires or each individual twisted pair
+	- STP can either have foil around entire bundle of wires or each individual twisted pair inside the cable ^58f72d
 	- Stops EMI from getting out or in
 
 ```ad-example

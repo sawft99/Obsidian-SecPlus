@@ -48,4 +48,5 @@ collapse:close
 
 # Objectives
 ---
+- [[Objectives#2.6 - Explain the security implications of embedded and specialized systems|Objectives#2.6 - Explain the security implications of embedded and specialized systems]]
 - [[Objectives#2.7 - Explain the importance of physical security controls|2.7 - Explain the importance of physical security controls]]

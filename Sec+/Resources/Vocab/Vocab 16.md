@@ -10,6 +10,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Network Media                                                                                                                       | ![[Securing Network Media#^d94e51]] ![[Securing Network Media#^c74888]] |
 | Electromagnetic Interference (EMI)                                                                                                  | ![[Securing Network Media#^5867f0]]                                     |
 | Radio Frequency Interference (RFI)                                                                                                  | ![[Securing Network Media#^88a308]]                                     |
+| Shielded Twisted Pair (STP) Cable | ![[Securing Network Media#^58f72d]] |
 | Crosstalk                                                                                                                           | ![[Securing Network Media#^390666]]                                     |
 | Data Emanation                                                                                                                      | ![[Securing Network Media#^d45536]]                                     |
 | Protected Distribution Systems (PDS)                                                                                                | ![[Securing Network Media#^7d7664]]                                     |
