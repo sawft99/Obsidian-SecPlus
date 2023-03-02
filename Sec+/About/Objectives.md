@@ -787,7 +787,7 @@ collapse: close
 	- Temperature
 - Drones/UAV
 - Visitor logs
-- Faraday cages
+- [[Shielding#Faraday Cages|Faraday cages]]
 - Air gap
 - [[Network Zones#DMZ|Demilitarized zone (DMZ]]
 - Protected cable distribution
