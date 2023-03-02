@@ -19,7 +19,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - Not all extinguishers are the same
 - Each class has its own application, function, and form of suppression
-- Types
+- Extinguisher/Fire types
 	- [[#Class A]]
 	- [[#Class B]]
 	- [[#Class C]]
@@ -34,29 +34,49 @@ collapse:close
 
 ## Class A
 ---
-- Solid combustible materials
-- Wood, paper, etc
+- <u>Solid combustible materials</u>
+	- Wood, paper, etc
 - A water based extinguisher
+- Shouldn't use in a data center, server room, or on other electronic equipment since water may damage it
 
 ```ad-example
-title: Class A Extinguisher Symbol
+title: Class A Extinguisher Symbols
 collapse:close
 ![[ExtinguisherHandheldAEx1.png]]
 ```
 
 ## Class B
 ---
--
+- For <u>flammable gasses or liquids</u>
+- Should use dry chemical agent or CO2 based extinguisher
 
-
+```ad-example
+title: Class B Extinguisher Symbols
+collapse:close
+![[HandheldExtinguisherBEx1.png]]
+```
 
 ## Class C
 ---
--
+- For electrical equipment
+- First try to shut off power since this may stop the fire if the electricity is the source
+- CO2 extinguisher is also good for this
+
+```ad-example
+title: Class C Extinguisher Symbols
+collapse:close
+![[HandheldExtinguisherCEx1.png]]
+```
 
 ## Class D
 ---
--
+- 
+
+```ad-example
+title: Class D Extinguisher Symbols
+collapse:close
+![[HandheldExtinguisherDEx1.png]]
+```
 
 ## Class K
 ---
