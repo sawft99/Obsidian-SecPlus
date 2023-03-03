@@ -688,7 +688,7 @@ collapse: close
 
 ## 2.6 - Explain the security implications of embedded and specialized systems
 ---
-- Embedded systems
+- [[Embedded System Vulnerabilities|Embedded systems]]
 	- Raspberry Pi
 	- Field programmable gate array (FPGA)
 	- Arduino
@@ -699,7 +699,8 @@ collapse: close
 	- Manufacturing
 	- Energy
 	- Logistics
-- Internet of Things (IoT)
+- [[IOT Vulnerabilities|Internet of Things (IoT)]]
+	- [[Vehicular Vulnerabilities]]
 	- Sensors
 	- Smart devices
 	- Wearables
@@ -709,6 +710,7 @@ collapse: close
 - Specialized
 	- Medical systems
 	- Vehicles
+		- [[Vehicular Vulnerabilities]]
 	- Aircraft
 	- Smart meters
 - Voice over IP (VoIP)
@@ -747,7 +749,7 @@ collapse: close
 - Badges
 	- [[Door Locks]]
 - Alarms
-	- [[Fire Suppression#Clean Agent System|Clean Agent System]]
+	- [[Fire Suppression]]
 - Signage
 - Cameras
 	- [[Surveillance]]
@@ -785,6 +787,7 @@ collapse: close
 	- Cards
 		- [[Door Locks]]
 	- Temperature
+		- [[HVAC]]
 - Drones/UAV
 - Visitor logs
 - [[Shielding#Faraday Cages|Faraday cages]]
