@@ -39,7 +39,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - See also
 	- [[Testing Methods#Forms Of Code Analysis]]
 	- [[Hardening]]
-	- [[Securing Storage]]
+	- [[Securing Storage Devices]]
 
 # Objectives
 ---

@@ -48,7 +48,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # File Level Encryption
 ---
 - Enable encryption on <u>individual files and folders</u>
-- Encrypting File System (EFS) ^973f7f
+- Encrypting File System (EFS)
+	- Allows for encrypting individual file and folders in #Windows ^973f7f
 	- #Windows option
 	- Can right click and enable on a folder
 	- Will make it so only that user is able to see/access

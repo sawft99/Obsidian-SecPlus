@@ -45,7 +45,7 @@ collapse: close
 # Methods
 ---
 - Signature ^646241
-	- Specific <u>string of bytes</u> to trigger an alert
+	- Specific <u>string of bytes</u> to trigger an alert ^72e5dc
 	- Continually searches for a known specific key
 	- Any time it sees a pattern it is flagged
 - Policy
@@ -53,7 +53,7 @@ collapse: close
 		- Filtering Port, IP, etc.
 		- "No Telnet inbound/outbound"
 - Anomaly ^ed7614
-	- Analyzes the current traffic <u>against the established baseline</u> and triggers an alert if <u>outside the statistical average</u>
+	- Analyzes the current traffic <u>against the established baseline</u> and triggers an alert if <u>outside the statistical average</u> ^0aa8a1
 	- Full name "Statistical anomaly detection"
 		- Also "Anomaly based detection" or "Statistical based detection"
 	- Example
@@ -64,11 +64,11 @@ collapse: close
 # Alerts
 ---
 - True Positive
-	- Something <u>bad happened and system flagged</u> and/or alerted
+	- Something <u>bad</u> happened and the system <u>flagged properly</u> ^f38d19
 - True Negative
-	- Good and <u>normal happened and system didn't flag</u>
+	- Something <u>good and normal</u> happened and the system didn't flag
 - False Positive ^70e651
-	- A legit or <u>normal operation was flagged improperly</u>
+	- A legit or <u>normal operation was flagged improperly</u> ^093b50
 		- Such as opening up MS Word and setting off an alert
 - False Negative ^212e67
 	- Something <u>bad happens but is identified as a legit</u> process

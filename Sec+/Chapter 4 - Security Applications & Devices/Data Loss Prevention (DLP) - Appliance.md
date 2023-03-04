@@ -7,7 +7,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # About
 ---
-- <u>Monitors data of system while in use, transit or at rest</u>
+- <u>Monitors data of system while in use, transit or at rest</u> ^211fb3
 - Detects attempts to steal info
 - Hardware and software solutions
 

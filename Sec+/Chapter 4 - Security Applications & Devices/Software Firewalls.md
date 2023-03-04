@@ -7,11 +7,11 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # About
 ---
-- Software app that protects one computer or server ^357ca6
+- Software application that protects one computer or server from unwanted traffic ^357ca6
 	- Also called "<u>Host based</u>" firewall
 - Set rules and polices for in and out traffic
-	- Example
-		- Web server would accept 80 and 443 whereas desktop shouldn't
+- Example
+	- Web server would accept 80 and 443 whereas desktop shouldn't
 - Versions
 	- #Windows  - #Windows Firewall
 	-  #OSX - PF and IPFW

@@ -416,7 +416,7 @@ collapse: close
 	- Masking
 	- [[Disk Encryption#^501400|Encryption]]
 	- At rest
-		- [[Securing Storage]]
+		- [[Securing Storage Devices]]
 		- [[File Systems & Hard Drives]]
 		- [[Secure Processing#Bus Encryption|Bus Encryption]]
 		- [[Data Loss Prevention (DLP)]]
@@ -570,8 +570,8 @@ collapse: close
 - [[Virtualization#^a6ee8d|Elasticity]]
 	- [[Stopping a Distributed Denial of Service (DDoS)#Elastic Cloud Infrastructure|Elastic Cloud Infrastructure]]
 - Scalability
-	- [[Securing Storage#Network Attached Storage (NAS)|Network Attached Storage (NAS)]]
-	- [[Securing Storage#Storage Area Network (SAN)|Storage Area Network (SAN)]]
+	- [[Securing Storage Devices#Network Attached Storage (NAS)|Network Attached Storage (NAS)]]
+	- [[Securing Storage Devices#Storage Area Network (SAN)|Storage Area Network (SAN)]]
 	- [[Virtualization]]
 - [[Software Development#^f7f5aa|Version Control]]
 
@@ -645,7 +645,7 @@ collapse: close
 		- Managed power distribution units (PDUs)
 - Replication
 	- Storage area network (SAN)
-		- [[Securing Storage#Storage Area Network (SAN)|SAN]]
+		- [[Securing Storage Devices#Storage Area Network (SAN)|SAN]]
 	- [[Virtualization#Virtual Machine Types|Virtual Machine]]
 - On-premises vs. cloud
 	- [[Cloud Based Infrastructure#Cloud vs. On Premise|Cloud vs. On Premise]]
@@ -658,9 +658,9 @@ collapse: close
 	- Disk
 	- Copy
 	- Network attached storage (NAS)
-		- [[Securing Storage#Network Attached Storage (NAS)|NAS]]
+		- [[Securing Storage Devices#Network Attached Storage (NAS)|NAS]]
 	- SAN
-		- [[Securing Storage#Storage Area Network (SAN)|SAN]]
+		- [[Securing Storage Devices#Storage Area Network (SAN)|SAN]]
 	- Cloud
 		- [[Cloud Computing]]
 	- Image
@@ -674,9 +674,9 @@ collapse: close
 - High availability
 	- [[SecBasics#^51b6d8|Availability]]
 	- Scalability
-		- [[Securing Storage#Network Attached Storage (NAS)|Network Attached Storage (NAS)]]
-		- [[Securing Storage#Storage Area Network (SAN)|Storage Area Network (SAN)]]
-	- [[Securing Storage]]
+		- [[Securing Storage Devices#Network Attached Storage (NAS)|Network Attached Storage (NAS)]]
+		- [[Securing Storage Devices#Storage Area Network (SAN)|Storage Area Network (SAN)]]
+	- [[Securing Storage Devices]]
 - Restoration order
 	- [[HVAC#Critical Servers|Critical Servers]]
 - Diversity

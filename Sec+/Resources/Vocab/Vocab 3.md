@@ -20,10 +20,6 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | DLL Sideloading                   | ![[Malware Exploitation#^53d7c6]]                              |
 | DLL Injection                     | ![[Rootkits#^47df2b]]                                          |
 | Process Hollowing                 | ![[Malware Exploitation#^9040b0]]                              |
-| Intrusion Detection System (IDS)  | ![[IDS#^a1d565]]                                               |
-| Intrusion Prevention System (IPS) | ![[IDS#^f81e57]]                                               |
 | Masquerading                      | ![[Malware Exploitation#^37eaf8]]                              |
 | "Living off the land"             | ![[Malware Exploitation#^2dbb0a]]                              |
 | Easter egg                        | ![[Backdoors & Logic Bombs#^8a8541]]                           |
-
--

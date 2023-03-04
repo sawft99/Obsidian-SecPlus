@@ -7,9 +7,11 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # About
 ---
-- Basic Input Output System ^53321f
+- Basic Input Output System
+	- Firmware that provides the computer instructions for how to accept input and send output ^2d055a
 - Firmware ^9479f4
-	- Software on a chip ^28d134
+	- Software on a chip ^e103f9
+	- Don't confuse with a [[Embedded System Vulnerabilities#System on Chip (SoC)|System on Chip (SoC)]]
 - Modern BIOS has been replaced by [[#UEFI]]
 	- Term BIOS may still be used to reference
 -  Gives computer <u>instructions on how it will send and receive input</u> ^e94ab9
@@ -21,8 +23,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - Unified Extensible Firmware Interface
 	- "YouFee"
-- Newer modern standard
-- Replaces BIOS but may be used interchangeably
+- Newer standard and replaces BIOS but may be used interchangeably ^cb175f
 # Securing
 ---
 1. <u>Flash BIOS</u>
@@ -39,7 +40,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 4. <u>Disable any ports and devices</u> not being used
 	1. Parallel port, Serial port, unused network card
 5. Enable Secure boot
-	1. Additional processes during boot
+	1. An additional processes during boot
 	2. Loads Public key from [[Disk Encryption#Trusted Platform Module (TPM)|TPM]]
 	3. <u>Verifies code and has been signed by manufacturer and has not been modified</u> ^e16786
 
