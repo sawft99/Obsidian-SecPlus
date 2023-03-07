@@ -690,7 +690,7 @@ collapse: close
 ---
 - [[Embedded System Vulnerabilities|Embedded systems]]
 	- Raspberry Pi
-	- Field programmable gate array (FPGA)
+	- [[Embedded System Vulnerabilities#Field Programmable Gate Array (FPGA)|Field programmable gate array (FPGA)]]
 	- Arduino
 - System control and data acquisition (SCADA)/industrial control system (ICS)
 	- [[HVAC#ICS & SCADA systems|ICS & SCADA systems]]
@@ -705,9 +705,11 @@ collapse: close
 	- Smart devices
 	- Wearables
 	- Facility automation
+		- [[Embedded System Vulnerabilities]]
 	- Weak defaults
 		- [[Design Vulnerabilities#Weak or Default Configurations|Weak or Default Configurations]]
 - Specialized
+	- [[Embedded System Vulnerabilities]]
 	- Medical systems
 	- Vehicles
 		- [[Vehicular Vulnerabilities]]
@@ -718,10 +720,10 @@ collapse: close
 - [[HVAC|Heating, ventilation, air conditioning (HVAC)]]
 - Drones/AVs
 - Multifunction printer (MFP)
-- Real-time operating system (RTOS)
+- [[Embedded System Vulnerabilities#Real-Time Operating Systems (RTOS)|Real-Time Operating Systems (RTOS)]]
 - Surveillance systems
 	- [[Surveillance]]
-- System on chip (SoC)
+- [[Embedded System Vulnerabilities#System on Chip (SoC)|System on chip (SoC)]]
 - Communication considerations
 	- 5G
 	- Narrow-band

@@ -30,7 +30,7 @@ collapse:close
 - High humidity can cause condensation, and thus corrosion, when cold air hits metal
 - <u>Best level is at about 40%</u>
 
-# ICS & SCADA systems
+# ICS & SCADA Systems
 ---
 - Industrial Control Systems (ICS)
 - Supervisory Control and Data Acquisition Systems (SCADA)
