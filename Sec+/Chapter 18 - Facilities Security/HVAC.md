@@ -37,6 +37,8 @@ collapse:close
 - Specialized systems and networks
 - Allows a technician to monitor manufacturing and facility systems
 - HVAC systems can be integrated into these
+- See also
+	- [[ICS & SCADA Vulnerabilities]]
 
 # Critical Servers
 ---

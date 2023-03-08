@@ -409,6 +409,7 @@ collapse: close
 		- [[Group Policies]]
 		- [[Software Development]]
 	- Standard naming conventions
+		- [[Securing Network Devices#Common Vulnerabilities\|Common Vulnerabilities]]
 	- Internet protocol (IP) schema
 - Data sovereignty
 - Data protection
@@ -439,6 +440,7 @@ collapse: close
 - Geographical considerations
 	- [[Cloud Based Infrastructure]]
 	- [[Cloud Threats#^4b8e9c|Content Delivery Networks (CDN)]]
+	- [[ICS & SCADA Vulnerabilities#Supervisory Control and Data Acquisition (SCADA)|Supervisory Control and Data Acquisition (SCADA)]]
 - [[Cloud Access Security Broker (CASB)]]
 - Response and recovery controls
 - Secure Sockets Layer (SSL)/Transport Layer Security (TLS) inspection
@@ -631,6 +633,7 @@ collapse: close
 - Redundancy
 	- Geographic dispersal
 		- [[Cloud Based Infrastructure#Virtual Private Cloud (VPC)|Virtual Private Cloud (VPC)]]
+		- [[ICS & SCADA Vulnerabilities#Supervisory Control and Data Acquisition (SCADA)|Supervisory Control and Data Acquisition (SCADA)]]
 	- Disk
 		- Redundant array of inexpensive disks (RAID) levels
 		- Multipath
@@ -1012,6 +1015,7 @@ collapse: close
 	- [[Network Zones#Intranet|Intranet]]
 		- [[Web Browser Concerns]]
 	- Zero trust
+	- [[Mitigating ICS & SCADA Vulnerabilities]]
 - Virtual private network (VPN)
 	- Always on
 	- Split tunnel vs. full tunnel
@@ -1570,6 +1574,7 @@ collapse: close
 - Key frameworks
 	- Center for Internet Security (CIS)
 	- National Institute of Standards and Technology (NIST) RMF/CSF
+		- [[Mitigating ICS & SCADA Vulnerabilities]]
 	- International Organization for Standardization (ISO) 27001/27002/27701/31000
 	- SSAE SOC 2 Type II/III
 	- Cloud security alliance
