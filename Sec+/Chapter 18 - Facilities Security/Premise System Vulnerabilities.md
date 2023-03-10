@@ -18,6 +18,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - Components and protocols that facilitate the centralized configuration and monitoring o mechanical and electrical systems within offices and data centers
 - <u>Separate</u> from [[ICS & SCADA Vulnerabilities|ICS & SCADA]]
+- Specifically for systems related to the building and insuring its functionality
 - Examples
 	- Elevators
 	- Battery backups
