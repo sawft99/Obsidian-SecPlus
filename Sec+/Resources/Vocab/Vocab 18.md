@@ -33,4 +33,5 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | [[ICS & SCADA Vulnerabilities#Human-Machine Interface (HMI)\|Human-Machine Interface (HMI)]]                                       | ![[ICS & SCADA Vulnerabilities#^c8f818]]             |
 | [[ICS & SCADA Vulnerabilities#Data Historian\|Data Historian]]                                                                     | ![[ICS & SCADA Vulnerabilities#^08d1ed]]             |
 | [[ICS & SCADA Vulnerabilities#Supervisory Control and Data Acquisition (SCADA)\|Supervisory Control and Data Acquisition (SCADA)]] | ![[ICS & SCADA Vulnerabilities#^272ef1]]             |
-| [[ICS & SCADA Vulnerabilities#Modbus\|Modbus]]                                                                                     | ![[ICS & SCADA Vulnerabilities#^6f4846]]                                                     |
+| [[ICS & SCADA Vulnerabilities#Modbus\|Modbus]]                                                                                     | ![[ICS & SCADA Vulnerabilities#^6f4846]]             |
+| [[Premise System Vulnerabilities\|Premise System]]                                                                                 | ![[Premise System Vulnerabilities#^e36166]]                                                     |

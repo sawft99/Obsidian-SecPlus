@@ -8,7 +8,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # About
 ---
 - Consider breaking network into multiple zones
-- Can be further sub zoned with [[Routers#Access Control List (ACL)|Access Control List (ACL)]], subnets, [[Firewalls]], and other isolation methods
+- Can be further sub zoned with [[Routers#Access Control List (ACL)|Access Control List (ACL)]], [[Subnetting]], [[Firewalls]], and other isolation methods
 - Usually segmented into [[#LAN]], [[#WAN]], and [[#DMZ]] zones
 
 ```ad-example

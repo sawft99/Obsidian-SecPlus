@@ -9,7 +9,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - Focuses is placed after the security [[Physical Security#Perimeter|Perimeter]] for securing access to the [[Physical Security#Building|Building]] and [[Physical Security#Room|Rooms]]
 
-# Door locks
+# Types
 ---
 - Padlocks
 	- Generally very insecure
@@ -26,7 +26,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Typically an [[Other Wireless Technologies#Radio Frequency Identification (RFID)|Radio Frequency Identification (RFID)]] system
 	- Can sometimes also include a pin combo that needs to be entered at the same time
 		- Form of #2FA 
-		- Good for use in logging and [[SecBasics#^45fffd|Auditing]]
+	- Good for use in logging and [[SecBasics#^45fffd|Auditing]]
 
 ```ad-example
 title: Standard Key Door Lock
