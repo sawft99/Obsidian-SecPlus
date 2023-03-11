@@ -15,6 +15,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Can be dangerous as an internet connection can be an opening for attackers
  
 # Building Automation Systems (BAS)
+
+## About
 ---
 - Components and protocols that facilitate the centralized configuration and monitoring o mechanical and electrical systems within offices and data centers
 - <u>Separate</u> from [[ICS & SCADA Vulnerabilities|ICS & SCADA]]
@@ -23,6 +25,32 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Elevators
 	- Battery backups
 	- [[HVAC]]
+	- Lights
+
+# Vulnerabilities
+---
+- Process and memory in [[Embedded System Vulnerabilities#Programmable Logic Controller (PLC)|Programmable Logic Controller (PLC)]]
+- Plaintext credentials or keys in code
+- Code injection in web interface
+	- [[XSS and XSRF]]
+	- [[SQL Injection]]
+	- [[XML Vulnerabilities|XML Injection]]
+
+# Other concerns
+---
+- If exploited, can be used to create a [[Denial of Service (DoS)]] since it could affect the way the building functions
+	- HVAC turned off and causing systems to overheat
+- Systems, if not [[Network Zones|Segmented]] properly, can be used as a [[Malware Infections#Attack Vector|Attack Vector]]or pivot point for #LateralMovement
+
+# Physical access Control Systems (PACS)
+---
+- Components and protocols that facilitate the centralized configuration and monitoring of security mechanisms within offices and data centers
+	- [[Surveillance]]
+	- [[Door Locks]]
+- Can be integrated into [[#Building Automation Systems (BAS)]] or a completely separate system
+	- Often installed and maintained by a third party
+	- Often it is omitted from risk analysis or vulnerability assessment
+	- The responsibility is still yours unless you specifically get it stated in writing otherwise
 
 # Objectives
 ---

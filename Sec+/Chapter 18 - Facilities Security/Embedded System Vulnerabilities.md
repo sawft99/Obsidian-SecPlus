@@ -29,18 +29,20 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # Programmable Logic Controller (PLC)
 ---
 - A type of computer designed for deployment in industrial or outdoor setting that can automate and monitor mechanical systems ^325d9b
-- Run on firmware
+- Runs on firmware
 - You can apply [[Updates and Patches]] to these
 - The patches are typically less frequent though
 
 # System on Chip (SoC)
 ---
 - A processor that integrates the platform functionality of multiple logical controllers onto a single chip ^24ea11
+- Rather than having multiple [[#Programmable Logic Controller (PLC)|Programmable Logic Controllers (PLC)]] you can consolidate with a SoC
 - This makes it an Application Specific Integrated Circuit (ASIC) chip
 	- A chip already programed with a specific functionality to perform ^b38ad0
 - Don't confuse with [[Securing the BIOS#^9479f4|Firmware]] which can be referred to as "Software on a chip"
 - Can be power efficient and often on smaller devices that will have an embedded system
 	- Robot vacuum cleaner
+	- "Pocket size" tech
 - Leave room for more functionality or parts
 - It comes already programmed with what to do so the opposite of [[#Field Programmable Gate Array (FPGA)]]
 

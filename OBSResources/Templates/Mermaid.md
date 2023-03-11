@@ -2,7 +2,7 @@
 flowchart LR/RL/TD/TB/BT
 
 Bob[DifferentTextThanID]
-Bob -- > Alice
+Bob --> Alice
 ```
 
 - Ref

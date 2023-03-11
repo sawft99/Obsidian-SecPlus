@@ -28,7 +28,8 @@ collapse:close
 
 ## About
 ---
-- A network that manages [[Embedded System Vulnerabilities|Embedded Systems]] ^071964
+- Systems that monitor, control, sense, and warn engineers of all aspects of the processes in industrial plants ^071964
+- A network that manages [[Embedded System Vulnerabilities|Embedded Systems]]
 - Used in many places such
 	- Electrical power stations
 	- Water suppliers
@@ -39,8 +40,10 @@ collapse:close
 
 ## Fieldbus
 ---
-- Digital serial data communications used in [[#^c4eb25|Operational Technology]] networks to link [[Embedded System Vulnerabilities#Programmable Logic Controller (PLC)|Programmable Logic Controller (PLC)]] ^5c39a5
-- Links everything together
+- Digital serial data communications used in [[#^c4eb25|Operational Technology]] networks to link [[Embedded System Vulnerabilities#Programmable Logic Controller (PLC)|Programmable Logic Controllers (PLC)]] together ^5c39a5
+	- More modern devices use Ethernet that can go through switch to a [[Embedded System Vulnerabilities#Programmable Logic Controller (PLC)|Programmable Logic Controller (PLC)]]
+- Can support a Ring, Star, Branch, and Daisy Chain topology
+- Actually a collection of protocols
 
 ## Human-Machine Interface (HMI)
 ---
@@ -60,7 +63,7 @@ collapse:close
 # Supervisory Control and Data Acquisition (SCADA)
 ---
 - A type of [[#Industrial Control Systems (ICS)]] that manages large scale, multiple site, devices and equipment spread over a geographic region ^272ef1
-- Typically runs as software on  ordinary computers to gather data from and manage plant devices and equipment with embedded [[Embedded System Vulnerabilities#Programmable Logic Controller (PLC)|Programmable Logic Controller (PLC)]]
+- Typically runs as software on ordinary computers to gather data from and manage plant devices and equipment with embedded [[Embedded System Vulnerabilities#Programmable Logic Controller (PLC)|Programmable Logic Controller (PLC)]]
 - Uses a WAN in some way but always goes back to a central server
 
 # Modbus
