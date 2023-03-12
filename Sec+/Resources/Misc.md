@@ -33,23 +33,18 @@ subgraph PS[Premise Systems]
     BAS[Building Automation Systems]
 end
 subgraph OpTec[Operational Technology]
-    ICS
-    SCADA
-    FiBu[Field Bus]
-    HMI[Human Machine Interface]
-    DaHi[Data Historian]
-    MoBu[Mod Bus]
-    SOC
-    PLC
+	subgraph ICS
+	    SCADA
+	    HMI[Human Machine Interface]
+	    DaHi[Data Historian]
+	    SOC
+	    PLC[PLC/SOC]
+	end
 end
+ICS -- Manages --> ES
+SCADA -- Manages multiple over WAN --> PLC
 BAS -- Can incorporate --> HVAC
-ICS -- Manages multiple --> PLC
-ICS <-- Communicates over --> FiBu
-ICS <-- Communicates over --> MoBu
-SCADA <-- Communicates over --> MoBu
-FiBu <-- Communicates over --> PLC
 PLC -- Manages --> ES
-SOC -- Acts as multiple --> PLC
 ES -- Runs --> RTOS
 HMI -- Controls --> PLC
 ```
