@@ -15,7 +15,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- [[ICS & SCADA Vulnerabilities|Industrial Control Systems (ICS)]]
 	- [[Premise System Vulnerabilities|Premise Systems]]
 	- [[Vehicular Vulnerabilities|Vehicles]]
-S`
+
 ![[Misc#ICS, SCADA, Premise System, etc. Difference]]
 
 ![[Misc#Inter ICS Comms]]
