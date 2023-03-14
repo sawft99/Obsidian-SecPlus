@@ -15,43 +15,92 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 		- Ensures you maintain your [[SecBasics#^51b6d8|CIA]] and [[SecBasics#^45fffd|AAA]] security models
 
 # ICS, SCADA, Premise System, etc. Difference
----
+
 
 ```mermaid
-flowchart TB
+flowchart LR
   
-subgraph IOT
-    subgraph ES[Embedded Systems]
-        HVAC
-    end
+subgraph ES[Embedded Systems]
+	HVAC
 end
 subgraph PS[Premise Systems]
-    subgraph PACS[Physical Access Controls]
-        Cameras
-        DoLok[Door Lock]
-    end
-    BAS[Building Automation Systems]
+	subgraph PACS[Physical Access Controls]
+		Cameras
+		DoLok[Door Lock]
+	end
+	BAS[Building Automation Systems]
 end
 subgraph OpTec[Operational Technology]
+	FB[FieldBus]
+	MoBu[ModBus]
 	subgraph ICS
-	    SCADA
-	    HMI[Human Machine Interface]
-	    DaHi[Data Historian]
-	    SOC
-	    PLC[PLC/SOC]
+		SCADA
+		HMI[Human Machine Interface]
+		DaHi[Data Historian]
+		PLC[PLC/SOC]
 	end
 end
 ICS -- Manages --> ES
 SCADA -- Manages multiple over WAN --> PLC
 BAS -- Can incorporate --> HVAC
 PLC -- Manages --> ES
-ES -- Runs --> RTOS
+ES -- Runs for an OS --> RTOS
 HMI -- Controls --> PLC
+DaHi -- Collects Info --> SCADA
+DaHi -- Collects Info --> PLC
 ```
 
-# Test
----
+# ICS MAP1
+
 ![[#ICS, SCADA, Premise System, etc. Difference]]
+
+# Inter ICS Comms
+
+```mermaid
+flowchart TD
+
+subgraph OT[Operational Technology]
+	MoBu[ModBus]
+	FiBu[FieldBus]
+	subgraph ICS
+		direction TB
+		PLC[PLC/SOC]
+		SCADA
+	end
+end
+SCADA <-.-> MoBu
+MoBu <-.-> PLC
+PLC <-.-> FiBu 
+FiBu <-.-> PLC
+```
+
+# ICS MAP2
+
+![[#Inter ICS Comms]]
+
+# IOT and ICS Grouping
+
+```mermaid
+flowchart TD
+subgraph IOT
+	subgraph ES[Embeded Systems]
+	end
+	subgraph PS[Premise System]
+		subgraph BAS[Building Automation Systems]
+		end
+	end
+	subgraph OT[Operational Technology]
+		subgraph ICS
+		end
+	end
+end
+
+```
+
+# ICS Map3
+---
+![[#IOT and ICS Grouping]]
+
 
 - Ref
 	- [Flowchart](https://mermaid.js.org/syntax/flowchart.html)

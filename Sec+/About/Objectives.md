@@ -83,8 +83,10 @@ collapse: close
 	- Online
 	- Rainbow tables
 	- Plaintext/unencrypted
+		- [[Premise System Vulnerabilities]]
 		- [[Securing Network Devices|Telnet]]
 - Physical attacks
+	- [[Premise System Vulnerabilities]]
 	- Malicious universal serial bus (USB) cable
 	- Malicious flash drive
 	- Card cloning
@@ -109,6 +111,7 @@ collapse: close
 - [[XSS and XSRF#Cross Site Scripting (XSS)|Cross Site Scripting (XSS)]]
 	- [[SDLC Principles#Never Trust User Input|Input Validation]]
 	- [[Cloud Threats#Unprotected Storage|Unprotected Storage]]
+	- [[Premise System Vulnerabilities]]
 - [[SQL Injection#Injection Attack|Injection Attacks]]
 	- [[SQL Injection]]
 	- [[Rootkits#DLL Injection|DLL Injection]]
@@ -117,10 +120,10 @@ collapse: close
 		- [[XSS and XSRF#Cross Site Scripting (XSS)|Cross Site Scripting (XSS)]]
 		- [[Hijacking#Cross-site scripting (XSS)|Hijacking]]
 		- [[XML Vulnerabilities]]
+			- [[Premise System Vulnerabilities]]
 - Pointer/object dereference
 	- [[Race Conditions#Dereferencing/Null Pointer Dereferencing|Dereferencing/Null Pointer Dereferencing]]
-- Directory traversal
-	- [[Software Vulnerabilities & Exploits#Directory Traversal|Directory Traversal]]
+- [[Software Vulnerabilities & Exploits#Directory Traversal|Directory Traversal]]
 - [[Buffer Overflow]]
 	- [[Testing Methods#Structured Exception Handling (SEH)|Structured Exception Handling (SEH)]]
 - [[Race Conditions]]
@@ -131,12 +134,14 @@ collapse: close
 	- [[SDLC Principles#Never Trust User Input|Input Validation]]
 	- [[SQL Injection]]
 	- [[XML Vulnerabilities]]
+		- [[Premise System Vulnerabilities]]
 - [[Replay Attack]]
 	- Session replays
 - Integer overflow
 - Request forgeries
 	- Server-side
 		- [[XSS and XSRF]]
+			- [[Premise System Vulnerabilities]]
 		- [[Hijacking#Cross-site scripting (XSS)|Hijacking]]
 	- Client-side
 		- [[XSS and XSRF]]
@@ -144,7 +149,9 @@ collapse: close
 		- [[XSS and XSRF#DOM-Based|DOM-Based XSS]]
 	- Cross-site
 		- [[XSS and XSRF#Cross Site Scripting (XSS)|Cross Site Scripting (XSS)]]
+			- [[Premise System Vulnerabilities]]
 		- [[XSS and XSRF#Cross Site Request Forgery (XSRF/CSRF)|Cross Site Request Forgery (XSRF/CSRF)]]
+			- [[Premise System Vulnerabilities]]
 		- [[Hijacking#Cross-site scripting (XSS)|Hijacking]]
 		- [[SDLC Principles#Never Trust User Input|Input Validation]]
 - Application programming
@@ -153,6 +160,7 @@ collapse: close
 		- [[Cloud Threats#Insecure API|Insecure API]]
 - Resource exhaustion
 	- [[Denial of Service (DoS)]]
+	- [[Premise System Vulnerabilities]]
 - Memory leak
 - Secure sockets layer (SSL) stripping
 - #Drivers manipulation
@@ -167,10 +175,14 @@ collapse: close
 	- [[Securing WIFI Devices#Rouge Access Point|Rogue Access Point]]
 	- [[Bluetooth Attacks#BlueSnarfing|Bluesnarfing]]
 	- [[Bluetooth Attacks#BlueJacking|Bluejacking]]
-	- Disassociation
+	- [[Wireless Attacks#WIFI Disassociation Attack|Disassociation]]
 	- [[Wireless Access Points (WAP)#Jamming|Jamming]]
 	- Radio frequency identifier (RFID)
+		- [[Other Wireless Technologies]]
+		- [[Securing Networks]]
+		- [[Door Locks]]
 	- Near field communication (NFC)
+		- [[Other Wireless Technologies#Near Field Communication (NFC)|Near Field Communication (NFC)]]
 	- Initialization vector (IV)
 		- [[Wireless Encryption#Wired Equivalent Privacy (WEP)|Wired Equivalent Privacy (WEP)]]
 		- [[Wireless Attacks#IV Attack|IV Attack]]
@@ -348,10 +360,12 @@ collapse: close
 - Vulnerability scans
 	- [[IDS#^70e651|False positives]]
 	- [[IDS#^212e67|False negatives]]
+	- [[Mitigating ICS & SCADA Vulnerabilities]]
 	- Log reviews
 		- [[SecBasics#^45fffd|Auditing]]
 	- Credentialed vs. non-credentialed
 	- Intrusive vs. non-intrusive
+		- [[Mitigating ICS & SCADA Vulnerabilities]]
 	- Application
 	- Web application
 	- Network
@@ -366,11 +380,16 @@ collapse: close
 		- [[NIDS & NIPS#Protocol Analyzer|Protocol Analyzer]]
 	- Data inputs
 	- User behavior analysis
+		- [[Endpoint Analysis#User and Entity Behavioral Analytics (UEBA)|User and Entity Behavioral Analytics (UEBA)]]
 	- Sentiment analysis
 	- Security [[SecBasics#^45fffd|monitoring]]
 	- Log aggregation
+		- [[ICS & SCADA Vulnerabilities#Data Historian|Data Historian]]
 	- Log collectors
+		- [[ICS & SCADA Vulnerabilities#Data Historian|Data Historian]]
 - Security orchestration, automation, response (SOAR)
+	- [[Infrastructure As Code (IAC)]]
+	- [[Workflow Orchestration]]
 
 ## 1.8 - Explain the techniques used in penetration testing
 ---
@@ -698,6 +717,7 @@ collapse: close
 - System control and data acquisition (SCADA)/industrial control system (ICS)
 	- [[HVAC#ICS & SCADA systems|ICS & SCADA systems]]
 	- Facilities
+		- [[Facilities Security]]
 	- Industrial
 	- Manufacturing
 	- Energy
@@ -709,6 +729,7 @@ collapse: close
 	- Wearables
 	- Facility automation
 		- [[Embedded System Vulnerabilities]]
+		- [[Facilities Security]]
 	- Weak defaults
 		- [[Design Vulnerabilities#Weak or Default Configurations|Weak or Default Configurations]]
 - Specialized
@@ -719,7 +740,7 @@ collapse: close
 	- Aircraft
 	- Smart meters
 - Voice over IP (VoIP)
-	- [[SIM Cloning & ID Theft#Protecting]]
+	- [[SIM Cloning & ID Theft]]
 - [[HVAC|Heating, ventilation, air conditioning (HVAC)]]
 - Drones/AVs
 - Multifunction printer (MFP)
@@ -729,6 +750,7 @@ collapse: close
 - [[Embedded System Vulnerabilities#System on Chip (SoC)|System on chip (SoC)]]
 - Communication considerations
 	- 5G
+		- [[Other Wireless Technologies#Cellular|Cellular]]
 	- Narrow-band
 	- Baseband radio
 	- Subscriber identity module (SIM) cards

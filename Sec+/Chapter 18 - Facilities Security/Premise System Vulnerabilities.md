@@ -18,7 +18,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 ## About
 ---
-- Components and protocols that facilitate the centralized configuration and monitoring o mechanical and electrical systems within offices and data centers
+- Components and protocols that facilitate the centralized configuration and monitoring of mechanical and electrical systems within offices and data centers ^3fc599
 - <u>Separate</u> from [[ICS & SCADA Vulnerabilities|ICS & SCADA]]
 - Specifically for systems related to the building and insuring its functionality
 - Examples
@@ -39,12 +39,12 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # Other concerns
 ---
 - If exploited, can be used to create a [[Denial of Service (DoS)]] since it could affect the way the building functions
-	- HVAC turned off and causing systems to overheat
+	- [[HVAC]] turned off and causing systems to overheat
 - Systems, if not [[Network Zones|Segmented]] properly, can be used as a [[Malware Infections#Attack Vector|Attack Vector]]or pivot point for #LateralMovement
 
-# Physical access Control Systems (PACS)
+# Physical Access Control Systems (PACS)
 ---
-- Components and protocols that facilitate the centralized configuration and monitoring of security mechanisms within offices and data centers
+- Components and protocols that facilitate the centralized configuration and monitoring of security mechanisms within offices and data centers ^add5d9
 	- [[Surveillance]]
 	- [[Door Locks]]
 - Can be integrated into [[#Building Automation Systems (BAS)]] or a completely separate system
@@ -61,7 +61,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # TODO (Delete when done)
 ---
-- [ ] Added vocab
-- [ ] Added and linked objectives in document
+- [x] Added vocab
+- [x] Added and linked objectives in document
 - [ ] Linked objectives back to document
 - [ ] Linked any relevant backlinks to and from document

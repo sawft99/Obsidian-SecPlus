@@ -24,7 +24,7 @@ collapse: close
 - CompTIA almost always has at least one question about [[Bluetooth Attacks#BlueJacking|BlueJacking]] or [[Bluetooth Attacks#BlueSnarfing|BlueSnarfing]]
 ```
 
-# Radio Frequency Identification (RFID)
+|# Radio Frequency Identification (RFID)
 ---
 - Devices that use a radio frequency signal to transmit identifying information about the device or token holder ^1af860
 - Can send data from a card to a reader to [[SecBasics#^45fffd|Authentication]] and identification
@@ -116,5 +116,6 @@ collapse: close
 # Objectives
 ---
 - [[Objectives#1.4 - Given a scenario, analyze potential indicators associated with network attacks|1.4 - Given a scenario, analyze potential indicators associated with network attacks]]
+- [[Objectives#2.6 - Explain the security implications of embedded and specialized systems|2.6 - Explain the security implications of embedded and specialized systems]]
 - [[Objectives#3.5 - Given a scenario, implement secure mobile solutions|3.5 - Given a scenario, implement secure mobile solutions]]
 - [[Objectives#3.7 - Given a scenario, implement identity and account management controls|3.7 - Given a scenario, implement identity and account management controls]]

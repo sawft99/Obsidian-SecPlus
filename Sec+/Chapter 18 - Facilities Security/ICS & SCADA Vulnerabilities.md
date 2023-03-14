@@ -14,6 +14,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - <u>Prioritizes Integrity and Availability</u> over Confidentiality
 	- [[SecBasics#^51b6d8|CIA Model]]
 	- When ICS systems were first created they did not talk to an outside network and so had a physical separation from the rest of the world
+- ICS and OT are both considered to be part of [[IOT Vulnerabilities|IOT]]
 - See also
 	- [[HVAC#ICS & SCADA Systems]]
 	- [[Mitigating ICS & SCADA Vulnerabilities]]
