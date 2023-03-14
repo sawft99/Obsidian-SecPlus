@@ -14,7 +14,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- In your data center with physical access ^851f11
 		- Ensures you maintain your [[SecBasics#^51b6d8|CIA]] and [[SecBasics#^45fffd|AAA]] security models
 
-# ICS, SCADA, Premise System, etc. Difference
+# ICS, SCADA, Premise System, Etc. Difference
 
 
 ```mermaid
@@ -22,13 +22,6 @@ flowchart LR
   
 subgraph ES[Embedded Systems]
 	HVAC
-end
-subgraph PS[Premise Systems]
-	subgraph PACS[Physical Access Controls]
-		Cameras
-		DoLok[Door Lock]
-	end
-	BAS[Building Automation Systems]
 end
 subgraph OpTec[Operational Technology]
 	FB[FieldBus]
@@ -40,6 +33,14 @@ subgraph OpTec[Operational Technology]
 		PLC[PLC/SOC]
 	end
 end
+subgraph PS[Premise Systems]
+	subgraph PACS[Physical Access Controls]
+		Cameras
+		DoLok[Door Lock]
+	end
+	BAS[Building Automation Systems]
+end
+
 ICS -- Manages --> ES
 SCADA -- Manages multiple over WAN --> PLC
 BAS -- Can incorporate --> HVAC
@@ -48,6 +49,7 @@ ES -- Runs for an OS --> RTOS
 HMI -- Controls --> PLC
 DaHi -- Collects Info --> SCADA
 DaHi -- Collects Info --> PLC
+BAS -- Can incorporate --> PACS
 ```
 
 # ICS MAP1
@@ -84,13 +86,24 @@ FiBu <-.-> PLC
 flowchart TD
 subgraph IOT
 	subgraph ES[Embeded Systems]
+		HVAC
 	end
 	subgraph PS[Premise System]
 		subgraph BAS[Building Automation Systems]
 		end
+		subgraph PACS[Physical Access Controls]
+		end
 	end
 	subgraph OT[Operational Technology]
+		direction RL
+		FiBu[FieldBus]
+		MoBu[ModBus]
 		subgraph ICS
+			direction LR
+			HuMi[Human Machine Interface]
+			SCADA
+			PLC[PLC/SOC]
+			DaHi[Data Historian]
 		end
 	end
 end

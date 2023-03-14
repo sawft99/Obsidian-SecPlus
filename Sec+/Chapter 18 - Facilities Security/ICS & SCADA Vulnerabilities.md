@@ -30,7 +30,7 @@ collapse:close
 ## About
 ---
 - Systems that monitor, control, sense, and warn engineers of all aspects of the processes in industrial plants ^071964
-- A network that manages [[Embedded System Vulnerabilities|Embedded Systems]]
+	- A network that manages [[Embedded System Vulnerabilities|Embedded Systems]]
 - Used in many places such
 	- Electrical power stations
 	- Water suppliers
