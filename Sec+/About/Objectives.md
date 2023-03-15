@@ -605,8 +605,8 @@ collapse: close
 	- Federation
 	- [[Trusted Firmware#Attestation|Attestation]]
 	- Technologies
-		- Time-based one-time password (TOTP)
-		- HMAC-based one-time password (HOTP)
+		- [[Authentication#Time-Based One-Time Password (TOTP)|Time-based one-time password (TOTP)]]
+		- [[Authentication#HMAC-Based One-Time Password (HOTP)|HMAC-based one-time password (HOTP)]]
 		- Short message service (SMS)
 			- [[SIM Cloning & ID Theft]]
 		- Token key
@@ -630,18 +630,13 @@ collapse: close
 	- [[Biometric Readers#False Rejection Rate (FRR)|False Rejection Rate (FRR)]]
 	- [[Biometric Readers#Crossover Error Rate (CER)|Crossover Error Rate (CER)]]
 - Multifactor authentication (MFA) factors and attributes
-	- Factors
-		- Something you know
-			- [[SIM Cloning & ID Theft]]
-		- Something you have
-			- [[SIM Cloning & ID Theft]]
-		- Something you are
-			- [[Biometric Readers]]
-	- Attributes
+	- [[Authentication#Authentication Factors|Authentication Factors]]
 		- Somewhere you are
+			- [[Biometric Readers]]
 		- Something you can do
 		- Something you exhibit
 		- Someone you know
+		- Something you have
 - Authentication, authorization, and accounting (AAA)
 	- [[SecBasics#Cybersecurity Models|Model]]
 - Cloud vs. on-premises requirements
@@ -1149,7 +1144,7 @@ collapse: close
 ## 3.5 - Given a scenario, implement secure mobile solutions
 ---
 - Connection methods and receivers
-	- Cellular
+	- [[Other Wireless Technologies#Cellular|Cellular]]
 	- [[Securing Wireless Devices#Wifi|Wifi]]
 	- [[Securing Wireless Devices#Bluetooth|Bluetooth]]
 	- [[Other Wireless Technologies#Near Field Communication (NFC)|NFC]]
@@ -1178,6 +1173,7 @@ collapse: close
 		- [[Mobile Device Security]]
 	- Biometrics
 		- [[Hardening Mobile Devices]]
+		- [[Authentication#Authentication Factors|Authentication Factors]]
 	- Context-aware authentication
 	- Containerization
 		- [[Hypervisors#Application Containerization|Application Containerization]]
