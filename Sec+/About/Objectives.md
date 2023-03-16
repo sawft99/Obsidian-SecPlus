@@ -1324,6 +1324,7 @@ collapse: close
 	- HSM
 		- [[Root of Trust#Hardware Security Module (HSM)|Hardware Security Module (HSM)]]
 	- Knowledge-based authentication
+		- [[Authentication#Authentication Factors|Authentication Factors]]
 - Authentication
 	- EAP
 	- Challenge Handshake Authentication Protocol (CHAP)
