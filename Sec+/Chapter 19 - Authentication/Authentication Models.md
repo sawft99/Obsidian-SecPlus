@@ -11,7 +11,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - [[#Single Sign-On (SSO)]]
 - [[#Federated Identity Management (FIdM)]]
 - See also
-	- [[SAML & OAUTH Cont.]]
+	- [[SAML Cont.]]
+	- [[OAUTH Cont.]]
 
 # Context-Aware
 ---
@@ -78,24 +79,26 @@ ORG1 x--x ORG2
 ORGS --> TTP
 ```
 
-# Security Assertion Markup Language (SAML
+# Security Assertion Markup Language (SAML)
 ---
-- [[Trusted Firmware#Attestation|Attestation]] model built upon [[XML Vulnerabilities|XML]] used to share [[#Federated Identity Management (FIdM)]] information between systems using [[#Single Sign-On (SSO)]]
+- [[Trusted Firmware#Attestation|Attestation]] model built upon [[XML Vulnerabilities|XML]] used to share [[#Federated Identity Management (FIdM)]] information between systems using [[#Single Sign-On (SSO)]] ^9fb657
 - Process
 	- Uses an assertation ticket provided to the user trying to authenticate
 	- User then passes that ticket back to the web server in order to complete authentication
 - Standardization of [[#Single Sign-On (SSO)]]
 - OASIS Security Assertion Markup Language is currently the most used standard for implementing federated identity processes
 - SAML considered an older method and has less mobile system (phones) support
-- More difficult to setup than [[#OpenID]], but more efficient
+- More difficult to setup than [[#OpenID]] but more efficient
+- Typically specific to a user
 
 # OpenID
 ---
-- An open standard and decentralized protocol that is used to authenticate users in a [[#Federated Identity Management (FIdM)]] system
+- An open standard and decentralized protocol that is used to authenticate users in a [[#Federated Identity Management (FIdM)]] system ^fc7bbb
 - User logs into an [[#^5e1700|Identity Provider (IP/IdP)]]
 - That account is then used at [[#^82c48e|Relying Parties (RP)]]
 - Is easier to setup vs. [[#Security Assertion Markup Language (SAML]] but it is less efficient
 - Is more modern and becoming the popular standard
+- Typically specific to an application
 	- Built on top of OAUTH 2.0
 	- Supported on most mobile systems (phones)
 - Example
@@ -103,17 +106,18 @@ ORGS --> TTP
 
 # Vocab
 ---
-- Federation
+- Federation ^6e2722
 	- A collection of distinct organizations that agree to allow users to use one set of credentials for authentication and authorization purposes ^b0897d
 	- The identity used by the users across organizations is called a <u>federated identity</u>
 - Identity Provider (IP/IdP) ^5e1700
-	- The [[#^82c48e|Service Provider]] that also manages the authentication and authorization process on behalf of the other systems in the federation
-- Relying Parties (RP)/Service Provider (SP)
+	- The [[#^82c48e|Service Provider]] that also manages the authentication and authorization process on behalf of the other systems in the federation ^f4cb53
+- Relying Parties (RP)/Service Provider (SP) ^8af39b
 	- The system entity that provides service to the [[#^d0e955|Principal]] or other entities in the [[#^b0897d|Federation]] ^82c48e
-- Principal/Subject
+- Principal/Subject ^d513a9
 	- The end user who requests service from a [[#^82c48e|Service Provider]] and whose identity can be authenticated ^d0e955
-- Assertion
-	- The information produced by the authentication authority, such as an [[#^5e1700|Identity Provider]]
+- Assertion ^080278
+	- The communication of security information about a [[#^d513a9|Principal/Subject]] in the form of a statement ^534c47
+	- The information produced by the authentication authority, such as an [[#^5e1700|Identity Provider]] ^2cb860
 	- It is usually provided to the [[#^82c48e|Relying Party]] to allow the user to access its resources
 	- The assertion proves that the user has been authenticated and includes additional user attributes and authorization information
 
@@ -126,7 +130,7 @@ ORGS --> TTP
 
 # TODO (Delete when done)
 ---
-- [ ] Added vocab
+- [x] Added vocab
 - [ ] Added and linked objectives in document
 - [ ] Linked objectives back to document
 - [ ] Linked any relevant backlinks to and from document

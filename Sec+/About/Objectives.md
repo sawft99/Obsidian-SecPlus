@@ -602,7 +602,8 @@ collapse: close
 	- Directory services
 		- [[Group Policies#Active Directory|Active Directory]]
 		- [[Transitive Attacks]]
-	- Federation
+	- [[Authentication Models#^6e2722|Federation]]
+		- [[Authentication Models#Federated Identity Management (FIdM)|Federated Identity Management (FIdM)]]
 	- [[Trusted Firmware#Attestation|Attestation]]
 	- Technologies
 		- [[Authentication#Time-Based One-Time Password (TOTP)|Time-based one-time password (TOTP)]]
@@ -1174,7 +1175,7 @@ collapse: close
 	- Biometrics
 		- [[Hardening Mobile Devices]]
 		- [[Authentication#Authentication Factors|Authentication Factors]]
-	- Context-aware authentication
+	- [[Authentication Models#Context-Aware|Context-aware Authentication]]
 	- Containerization
 		- [[Hypervisors#Application Containerization|Application Containerization]]
 		- [[Threats to VMs#Compromised Containers|Compromised Containers]]
@@ -1331,12 +1332,14 @@ collapse: close
 	- Password Authentication Protocol (PAP)
 	- 802.1X
 	- RADIUS
-	- Single sign-on (SSO)
-	- Security Assertions Markup Language (SAML)
+	- [[Authentication Models#Single Sign-On (SSO)|Single sign-on (SSO)]]
+	- [[Authentication Models#Security Assertion Markup Language (SAML)|Security Assertions Markup Language (SAML)]]
 	- Terminal Access Controller Access Control System Plus (TACACS+)
 	- OAuth
-	- OpenID
+		- [[Authentication Models#OpenID|OpenID]]
+	- [[Authentication Models#OpenID|OpenID]]
 	- Kerberos
+		- [[Defeding the Servers#Domain Controller|Domain Controller]]
 - Access control schemes
 	- Attribute-based access control (ABAC)
 	- Role-based access control
@@ -1369,6 +1372,7 @@ collapse: close
 	- Machine/computer
 	- #Email
 	- User
+		- [[Authentication Models#^d513a9|Principal/Subject]]
 	- Root
 	- Domain validation
 	- Extended validation
