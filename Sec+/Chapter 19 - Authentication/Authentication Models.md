@@ -8,19 +8,23 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # About
 ---
 - [[#Context-Aware]]
+- [[#Single Sign-On (SSO)]]
+- [[#Federated Identity Management (FIdM)]]
+- See also
+	- [[SAML & OAUTH Cont.]]
 
 # Context-Aware
 ---
-- Process that checks the user's or the system's attributed prior to allowing it to connect
+- Process that checks the user's or the system's attributed prior to allowing it to connect ^43dd3c
 - Common implements are limiting based on
 	- Time/Day
 	- Geographic area
 - Example
-	- A small US company blocking any non US connections coming in or outside of normal business hours
+	- A small US company blocking any non US connections coming in as well as any login outside of normal business hours
 
 # Single Sign-On (SSO)
 ---
-- The ability to log in once but gain access to multiple systems without being asked to log in again
+- The ability to log in once but gain access to multiple systems without being asked to log in again ^e82e39
 - A default user profile for each user is created and linked with all of the resources needed
 - A user will have one account that has access to all of the services rather than an account for each individual one
 - Adding [[Authentication#Multi-Factor Authentication|Multi-Factor Authentication]] is common and recommended
@@ -31,7 +35,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 ## About
 ---
-- A single Identity is created for a user and shared with all of the other organization in a federation
+- A single Identity is created for a user and shared with all of the other organization in a [[#^b0897d|Federation]] ^1ef356
 - Common sets of standards agreed on
 - Each organization can delegate the level of access the other organizations and the users/groups within them
 - Models
@@ -40,14 +44,14 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 ## Cross-Certification
 ---
-- Utilize a web of trust between organizations where each organization certifies the others in a federation
+- Utilize a web of trust between organizations where each organization certifies the others in a [[#^b0897d|Federation]]
 - Typically good for smaller organizations between 5 - 10
 - Comparable to a full mesh network model
 
-```ad-example
-title: Cross-Certification Model
-collapse:close
-![[FedModelEx1.png]]
+```mermaid
+flowchart LR
+ORG1 & ORG2 <--> ORG3
+ORG1 <--> ORG2
 ```
 
 ## Trusted Third-Party
@@ -61,7 +65,7 @@ collapse:close
 flowchart BT
 
 subgraph ORGS[Organizations]
-direction LR
+direction RL
 ORG1
 ORG2
 ORG3
@@ -69,9 +73,49 @@ end
 
 TTP[Trusted Third Party]
 
-ORG1 x--x ORG2 x--x ORG3
+ORG1 & ORG2 x--x ORG3
+ORG1 x--x ORG2
 ORGS --> TTP
 ```
+
+# Security Assertion Markup Language (SAML
+---
+- [[Trusted Firmware#Attestation|Attestation]] model built upon [[XML Vulnerabilities|XML]] used to share [[#Federated Identity Management (FIdM)]] information between systems using [[#Single Sign-On (SSO)]]
+- Process
+	- Uses an assertation ticket provided to the user trying to authenticate
+	- User then passes that ticket back to the web server in order to complete authentication
+- Standardization of [[#Single Sign-On (SSO)]]
+- OASIS Security Assertion Markup Language is currently the most used standard for implementing federated identity processes
+- SAML considered an older method and has less mobile system (phones) support
+- More difficult to setup than [[#OpenID]], but more efficient
+
+# OpenID
+---
+- An open standard and decentralized protocol that is used to authenticate users in a [[#Federated Identity Management (FIdM)]] system
+- User logs into an [[#^5e1700|Identity Provider (IP/IdP)]]
+- That account is then used at [[#^82c48e|Relying Parties (RP)]]
+- Is easier to setup vs. [[#Security Assertion Markup Language (SAML]] but it is less efficient
+- Is more modern and becoming the popular standard
+	- Built on top of OAUTH 2.0
+	- Supported on most mobile systems (phones)
+- Example
+	- Websites, other than Google, where you can log in with a Google account
+
+# Vocab
+---
+- Federation
+	- A collection of distinct organizations that agree to allow users to use one set of credentials for authentication and authorization purposes ^b0897d
+	- The identity used by the users across organizations is called a <u>federated identity</u>
+- Identity Provider (IP/IdP) ^5e1700
+	- The [[#^82c48e|Service Provider]] that also manages the authentication and authorization process on behalf of the other systems in the federation
+- Relying Parties (RP)/Service Provider (SP)
+	- The system entity that provides service to the [[#^d0e955|Principal]] or other entities in the [[#^b0897d|Federation]] ^82c48e
+- Principal/Subject
+	- The end user who requests service from a [[#^82c48e|Service Provider]] and whose identity can be authenticated ^d0e955
+- Assertion
+	- The information produced by the authentication authority, such as an [[#^5e1700|Identity Provider]]
+	- It is usually provided to the [[#^82c48e|Relying Party]] to allow the user to access its resources
+	- The assertion proves that the user has been authenticated and includes additional user attributes and authorization information
 
 # Objectives
 ---
