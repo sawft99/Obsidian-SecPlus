@@ -7,8 +7,9 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # About
 ---
+- Original and oldest form of [[Authentication Models#Single Sign-On (SSO)|Single Sign-On (SSO)]]
 - See also
-	- [[Authentication Models]]
+	- [[Authentication Models#Security Assertion Markup Language (SAML)]]
 
 # SAML Entities
 ---

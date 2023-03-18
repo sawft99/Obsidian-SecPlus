@@ -13,6 +13,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - See also
 	- [[SAML Cont.]]
 	- [[OAUTH Cont.]]
+	- [[OpenID Cont.]]
 
 # Context-Aware
 ---
@@ -101,6 +102,8 @@ ORGS --> TTP
 - Typically specific to an application
 	- Built on top of OAUTH 2.0
 	- Supported on most mobile systems (phones)
+- Uses an OpenID Provider (OP) ^bbf481
+	- An [[#^5e1700|IdP]] equivalent for OpenID  ^376285
 - Example
 	- Websites, other than Google, where you can log in with a Google account
 
