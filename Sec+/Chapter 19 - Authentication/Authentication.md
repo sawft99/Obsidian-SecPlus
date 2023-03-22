@@ -7,6 +7,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # About
 ---
+- Proving you are who you say you are
+	- VS [[Identity]]
 - The 5 [[#Authentication Factors]]
 - [[#Single-Factor Authentication]]
 - [[#Multi-Factor Authentication]]
@@ -15,6 +17,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- [[#Time-Based One-Time Password (TOTP)]]
 - See also
 	- [[SecBasics#^45fffd|AAA Model]]
+	- [[Authentication Models]]
 
 # Authentication Factors
 ---
