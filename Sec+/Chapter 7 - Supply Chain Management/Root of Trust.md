@@ -55,10 +55,12 @@ Understand that [[Disk Encryption#Trusted Platform Module (TPM)|Trusted Platform
 ---
 - An <u>appliance for generating and storing cryptographic keys</u> that is less susceptible to tampering and insider threats than software based storage
 - A long key could still be compromised
+- Typically much faster than software [[Disk Encryption#^501400|Encryption]]
 - Types
 	- PCI card
 	- Rack mount
 	- #IOT
+	- MicroSD
 - All can be automated
 	- Remove human element so it can not be compromised by a person
 - See also 
@@ -75,3 +77,4 @@ Understand that [[Disk Encryption#Trusted Platform Module (TPM)|Trusted Platform
 # Objectives
 ---
 - [[Objectives#3.2 - Given a scenario, implement host or application security solutions|3.2 - Given a scenario, implement host or application security solutions]]
+- [[Objectives#3.5 - Given a scenario, implement secure mobile solutions|3.5 - Given a scenario, implement secure mobile solutions]]

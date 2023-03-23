@@ -7,7 +7,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 
 | Term                                           | Meaning                                                                  |
 | ---------------------------------------------- | ------------------------------------------------------------------------ |
-| Ports                                          | ![[Ports and Protocols#^c22133]]                                         |
+| Port                                          | ![[Ports and Protocols#^c22133]]                                         |
+| [[Ports and Protocols\|Protocol]] | ![[Ports and Protocols#^fc134a]] |
 | Inbound Ports                                  | ![[Ports and Protocols#^7edb83]]                                         |
 | Outbound Ports                                 | ![[Ports and Protocols#^d8a5f2]]                                         |
 | Unnecessary Ports                              | ![[Unnecessary Ports#^dc0629]]                                           |

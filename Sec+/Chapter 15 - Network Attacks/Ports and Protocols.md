@@ -7,7 +7,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # About
 ---
-- A logical communication endpoint that exists on a computer or server ^c22133
+- A port is a logical communication endpoint that exists on a computer or server ^c22133
+- A protocol is a standardized set of rules for formatting and processing data [^1] ^fc134a
 - Many common network attack occur because of open or unsecured ports
 - See also 
 	- [[Memorization of Ports]]
@@ -55,9 +56,4 @@ collapse:close
 ---
 - [[Objectives#3.1 - Given a scenario, implement secure protocols|3.1 - Given a scenario, implement secure protocols]]
 
-# TODO (Delete when done)
----
-- [x] Added vocab
-- [x] Added and linked objectives in document
-- [ ] Linked objectives back to document
-- [ ] Linked any relevant backlinks to and from document
+[^1]: https://www.cloudflare.com/learning/network-layer/what-is-a-protocol/

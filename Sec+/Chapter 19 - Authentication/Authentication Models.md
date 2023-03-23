@@ -38,16 +38,18 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 ## About
 ---
-- A single Identity is created for a user and shared with all of the other organization in a [[#^b0897d|Federation]] ^1ef356
+- A single [[Identity]] is created for a user and shared with all of the other organization in a [[#^b0897d|Federation]] ^1ef356
 - Common sets of standards agreed on
 - Each organization can delegate the level of access the other organizations and the users/groups within them
 - Models
 	- [[#Cross-Certification]]
 	- [[#Trusted Third-Party]]
+- Seer also
+	- [[Identity]]
 
 ## Cross-Certification
 ---
-- Utilize a web of trust between organizations where each organization certifies the others in a [[#^b0897d|Federation]]
+- Utilize a web of trust between organizations where each organization certifies the other is in a [[#^b0897d|Federation]]
 - Typically good for smaller organizations between 5 - 10
 - Comparable to a full mesh network model
 
@@ -101,7 +103,7 @@ ORGS --> TTP
 - Is easier to setup vs. [[#Security Assertion Markup Language (SAML]] but it is less efficient
 - Is more modern and becoming the popular standard
 - Typically specific to an application
-	- Built on top of OAUTH 2.0
+	- Built on top of [[OAUTH Cont.|OAUTH]] 2.0
 	- Supported on most mobile systems (phones)
 - Uses an OpenID Provider (OP) ^bbf481
 	- An [[#^5e1700|IdP]] equivalent for OpenID  ^376285
@@ -128,13 +130,5 @@ ORGS --> TTP
 # Objectives
 ---
 - [[Objectives#2.4 - Summarize authentication and authorization design concepts|2.4 - Summarize authentication and authorization design concepts]]
-- [[Objectives#3.5 - Given a scenario, implement secure mobile solutions|3.5 - Given a scenario, implement secure mobile solutions]]
 - [[Objectives#3.8 - Given a scenario, implement authentication and authorization solutions|3.8 - Given a scenario, implement authentication and authorization solutions]]
 - [[Objectives#3.9 - Given a scenario, implement public key Infrastructure|3.9 - Given a scenario, implement public key Infrastructure]]
-
-# TODO (Delete when done)
----
-- [x] Added vocab
-- [ ] Added and linked objectives in document
-- [ ] Linked objectives back to document
-- [ ] Linked any relevant backlinks to and from document

@@ -1184,6 +1184,7 @@ collapse: close
 - Mobile devices
 	- MicroSD HSM
 		- [[Disk Encryption#Hardware Based|Disk Encryption]]
+		- [[Root of Trust#Hardware Security Module (HSM)|Hardware Security Module (HSM)]]
 	- Mobile Device Management (MDM)/Unified endpoint management (UEM)
 		- [[Security of Apps#Mobile Device Management (MDM)|Mobile Device Management (MDM)]]
 	- Mobile application management (MAM)
@@ -1211,20 +1212,21 @@ collapse: close
 	- Recording microphone
 	- GPS tagging
 		- [[Security of Apps#Mobile Device Management (MDM)|Mobile Device Management (MDM)]]
-		- [[Security of Apps#Geotagging|Geotagging]]a
+		- [[Security of Apps#Geotagging|Geotagging]]
 	- WiFi direct/ad hoc
 	- Tethering
 		- [[Hardening Mobile Devices]]
 	- Hotspot
 		- [[Hardening Mobile Devices]]
 	- Payment methods
+		- [[Root of Trust#Hardware Security Module (HSM)|Hardware Security Module (HSM)]]
 - Deployment models
 	- Bring your own device (BYOD)
 		- [[Bring Your Own Device (BYOD)]]
 	- Corporate-owned personally enabled (COPE)
 	- Choose your own device (CYOD)
 		- [[Bring Your Own Device (BYOD)#Choose Your Own Device (CYOD)|Choose Your Own Device (CYOD)]]
-	- Corporate-owned Virtual desktop #infrastructure (VDI)
+	- Corporate-owned Virtual desktop infrastructure (VDI)
 		- [[Cloud Computing#Virtual Desktop Infrastructure (VDI)|Virtual Desktop Infrastructure (VDI)]]
 
 ## 3.6 - Given a scenario, apply cybersecurity solutions to the cloud
@@ -1336,6 +1338,7 @@ collapse: close
 	- [[Authentication Models#Security Assertion Markup Language (SAML)|Security Assertions Markup Language (SAML)]]
 	- Terminal Access Controller Access Control System Plus (TACACS+)
 	- OAuth
+		- [[OAUTH Cont.]]
 		- [[Authentication Models#OpenID|OpenID]]
 	- [[Authentication Models#OpenID|OpenID]]
 	- Kerberos
