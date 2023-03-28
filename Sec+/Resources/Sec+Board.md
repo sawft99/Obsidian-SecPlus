@@ -18,6 +18,9 @@ kanban-plugin: basic
 - [ ] Return address def [[Buffer Overflow]]
 - [ ] Return pointer def [[Buffer Overflow]]
 - [ ] [[Wireless Encryption]] define enterprise mode
+- [ ] Finish [[OAUTH Cont.]]
+- [ ] Finish [[Identity]]
+- [ ] Finish [[OpenID Cont.]]
 
 
 ## Working On
