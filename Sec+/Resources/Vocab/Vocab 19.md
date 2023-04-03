@@ -22,5 +22,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | [[Authentication Models#^d513a9\|Principal/Subject]]                                                           | ![[Authentication Models#^d0e955]]                                   |
 | [[Authentication Models#^080278\|Assertion]]                                                                   | ![[Authentication Models#^534c47]]![[Authentication Models#^2cb860]] |
 | [[Authentication Models#^bbf481\|OpenID Provider]]                                                             | ![[Authentication Models#^376285]]                                   |
-| [[802.1x#^539a82\|Mutual Authentication]]                                                                      | ![[802.1x#^a4d38f]]                                                                     |
+| [[802.1x#^539a82\|Mutual Authentication]]                                                                      | ![[802.1x#^a4d38f]]                                                  |
+| [[802.1x#^84f686\|Protected Access Credential]]                                                                | ![[802.1x#^9b0869]]                                                  |
+| [[LDAP & Kerberos\|Kerberos]]                                                                                  | ![[LDAP & Kerberos#^9ae466]]                                         |
+| [[LDAP & Kerberos\|LDAP]]                                                                                      | ![[LDAP & Kerberos#^f4cd5e]]                                                                     |
 

@@ -21,6 +21,7 @@ kanban-plugin: basic
 - [ ] Finish [[OAUTH Cont.]]
 - [ ] Finish [[Identity]]
 - [ ] Finish [[OpenID Cont.]]
+- [ ] Finish [[SAML Cont.]]
 
 
 ## Working On

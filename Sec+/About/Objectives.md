@@ -1112,13 +1112,13 @@ collapse: close
 		- [[WIFI Protected Access version 3 (WPA3)]]
 	- [[WIFI Protected Access version 3 (WPA3)#Simultaneous Authentication of Equals (SAE)|Simultaneous Authentication of Equals (SAE)]]
 - Authentication protocols
-	- Extensible Authentication Protocol (EAP)
+	- [[802.1x#Extensible Authentication Protocol (EAP)|Extensible Authentication Protocol (EAP)]]
 	- Protected Extensible
-	- Application Protocol (PEAP)
-	- EAP-FAST
-	- EAP-TLS
-	- EAP-TTLS
-	- IEEE 802.1X
+	- [[802.1x#Protected EAP (PEAP)|Protected EAP]]
+	- [[802.1x#EAP-FAST|EAP-FAST]]
+	- [[802.1x#EAP-TLS|EAP-TLS]]
+	- [[802.1x#EAP-TTLS|EAP-TTLS]]
+	- [[802.1x|IEEE 802.1X]]
 	- Remote Authentication Dial-in User Server (RADIUS) Federation
 		- [[Wireless Encryption]] 
 - Methods
@@ -1329,14 +1329,16 @@ collapse: close
 	- Knowledge-based authentication
 		- [[Authentication#Authentication Factors|Authentication Factors]]
 - Authentication
-	- EAP
+	- [[802.1x#Extensible Authentication Protocol (EAP)|EAP]]
 	- Challenge Handshake Authentication Protocol (CHAP)
 	- Password Authentication Protocol (PAP)
-	- 802.1X
+	- [[802.1x]]
 	- RADIUS
+		- [[802.1x]]
 	- [[Authentication Models#Single Sign-On (SSO)|Single sign-on (SSO)]]
 	- [[Authentication Models#Security Assertion Markup Language (SAML)|Security Assertions Markup Language (SAML)]]
 	- Terminal Access Controller Access Control System Plus (TACACS+)
+		- [[802.1x]]
 	- OAuth
 		- [[OAUTH Cont.]]
 		- [[Authentication Models#OpenID|OpenID]]
