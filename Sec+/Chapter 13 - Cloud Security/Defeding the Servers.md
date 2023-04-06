@@ -68,7 +68,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # Domain Controller
 ---
 - #Windows - #ActiveDirectory
-- #Linux - LDAP Server
+- #Linux - [[LDAP & Kerberos|LDAP]] Server
 - Server that host a central repository for all of the user accounts and their associated passwords for the network ^d87424
 - Attackers often target for [[Active Intercept & Privilege Escalation|Privilege Escalation]] and #LateralMovement
 - #ActiveDirectory relies on Kerberos for [[SecBasics#^45fffd|Authentication]]

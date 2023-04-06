@@ -29,8 +29,8 @@ collapse:close
 - Wide Area Network
 - Internet connection
 - [[SecBasics#^45fffd|Monitor]] and [[Firewalls|Firewall]]
-- Use VPN to keep [[SecBasics#^51b6d8|Confidentiality]] of data going across WAN/Internet
-	- HTTPS with TLS is a form of a VPN
+- Use [[Virtual Private Network (VPN)|VPN]] to keep [[SecBasics#^51b6d8|Confidentiality]] of data going across WAN/Internet
+	- HTTPS with TLS is a form of a [[Virtual Private Network (VPN)|VPN]]
 
 # DMZ
 ---
@@ -50,7 +50,7 @@ collapse:close
 
 # Intranet
 ---
-- Expanded internal network across multiple areas such as with a VPN ^1b848e
+- Expanded internal network across multiple areas such as with a [[Virtual Private Network (VPN)|VPN]] ^1b848e
 
 # Objectives
 ---

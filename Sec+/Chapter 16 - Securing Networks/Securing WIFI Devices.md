@@ -48,7 +48,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ## Prevention
 ---
 - Can't stop at the source unless you can find it and unplug it
-- Have clients configured to use a VPN whenever on wifi even if on your wifi
+- Have clients configured to use a [[Virtual Private Network (VPN)|VPN]] whenever on wifi even if on your wifi
 - Avoid wifi all together if possible
 
 # Objectives

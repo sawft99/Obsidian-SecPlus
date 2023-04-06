@@ -21,7 +21,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # CURL
 ---
 - A tool to transfer data from or to a server using one of the supported protocols ^dfe452
-	- HTTP, HTTPS, FTP, FTPS, SCP, SFTP, TFTP, DICT, TELNET, LDAP, FILE
+	- HTTP, HTTPS, FTP, FTPS, SCP, SFTP, TFTP, DICT, TELNET, [[LDAP & Kerberos|LDAP]], FILE
 
 ```ad-example
 title: CURL Example

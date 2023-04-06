@@ -8,6 +8,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # About
 ---
 - A set of rules or policies that can be applied to a set of users or computer accounts within the operating system ^7935c4
+- See also
+	- [[LDAP & Kerberos]]
 
 # Using in #Windows
 

@@ -97,7 +97,7 @@ collapse:close
 ## Cloud Content Filter
 ---
 - [[Proxy Servers#Content Filter]|Content Filter]] that runs in the cloud
-- Organizations traffic goes from the organizations network to the cloud provider over a VPN before going out to internet
+- Organizations traffic goes from the organizations network to the cloud provider over a [[Virtual Private Network (VPN)|VPN]] before going out to internet
 - Provider can give you the ability to configure policies such as time limits, content, and categories
 - Can also deliver reports about what users were doing, threats blocked, etc
 
@@ -106,7 +106,7 @@ collapse:close
 - [[Data Loss Prevention (DLP)]]
 	- [[Data Loss Prevention (DLP) - Appliance]]
 - Continuous [[SecBasics#^45fffd|Monitoring]]
-- Access Control
+- [[Access Control]]
 - Identity Management
 - Business Continuity
 - Disaster Recovery

@@ -11,7 +11,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Relying on a single firewall is not always enough
 - A combo of security devices and technologies in a single unit ^f0c75b
 	- [[SDLC Principles#Defense In Depth]|Defense In Depth]]  all in one device
-	- Can include [[Firewalls|Firewall]], [[NIDS & NIPS]], [[Proxy Servers#Content Filter|Content Filter]], [[Proxy Servers]], [[Endpoint Analysis#AntiVirus (AV)|AntiVirus (AV)]], [[Data Loss Prevention (DLP)]], and VPN
+	- Can include [[Firewalls|Firewall]], [[NIDS & NIPS]], [[Proxy Servers#Content Filter|Content Filter]], [[Proxy Servers]], [[Endpoint Analysis#AntiVirus (AV)|AntiVirus (AV)]], [[Data Loss Prevention (DLP)]], and [[Virtual Private Network (VPN)|VPN]]
 - Often replace [[Firewalls]] all together
 	- Outermost device providing [[Perimeter Security]] 
 - 'Single pane of glass' with GUI to control all features

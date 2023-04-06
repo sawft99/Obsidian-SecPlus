@@ -19,7 +19,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - Insertion of additional information or code through data input from a client to an application ^de8163
 - Can occur with any code
-- SQL,HTML, [[XML Vulnerabilities|XML]], and LDAP are common languages but SQL is the most popular
+- SQL,HTML, [[XML Vulnerabilities|XML]], and [[LDAP & Kerberos|LDAP]] are common languages but SQL is the most popular
 
 # How SQL Functions - Example
 ---

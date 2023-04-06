@@ -38,7 +38,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Change default U/P
 - Change default router table
 - Change default IP ranges
-- Use other network devices like [[Firewalls]], [[IDS]], VPN, [[Proxy Servers#Content Filter|Content Filter]], and [[#Access Control List (ACL)]] rules
+- Use other network devices like [[Firewalls]], [[IDS]], [[Virtual Private Network (VPN)|VPN]], [[Proxy Servers#Content Filter|Content Filter]], and [[#Access Control List (ACL)]] rules
 	- Creates a better [[SDLC Principles#Defense In Depth|Defense In Depth]]
 
 # Objectives

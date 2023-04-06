@@ -57,8 +57,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Blobs
 		- Typically Azure
 - DO NOT nest [[Hypervisors#Application Containerization|Containers]]
-- Access control to storage is administered through
-	- Container policies
+- [[Access Control]] to storage is administered through
+	- [[Hypervisors#Application Containerization|Container]] policies
 	- Identity Access Management (IAM) authorizations
 	- Object [[Routers#Access Control List (ACL)|Access Control List (ACL)]]
 - Check for incorrect permissions

@@ -13,7 +13,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- [[#TCP/IP Hijacking]]
 	- [[#Blind Hijacking]]
 	- [[#Clickjacking]]
-	- [[#Man-in-the-Middle]]
+	- [[#Man-in-the-Middle]] ^52b103
 	- [[#Man-in-the-Browser]]
 	- [[#Watering Hole]]
 	- [[#Cross-site scripting (XSS)]]
@@ -55,7 +55,9 @@ collapse:close
 ---
 - An attack that causes data to flow through the attacker's computer where they can then intercept or manipulate data ^29aba5
 - [[#Session Theft/Session Hijacking]] uses this method
-- Considered an [[Active Intercept & Privilege Escalation|Active Interception]]
+- Considered a form of [[Active Intercept & Privilege Escalation|Active Interception]]
+- See also
+	- [[Authentication Attacks#Main in the Middle Attack]]
 
 # Man-in-the-Browser (MITB)
 ---
@@ -69,6 +71,7 @@ collapse:close
 	- [[Web Browser Concerns]]
 	- [[Web Browser Security#Which Browser?]]
 	- [[Security of Apps#Browser]]
+	- [[Authentication Attacks#Man-in-the-Browser]]
 
 # Watering Hole
 ---

@@ -13,6 +13,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Should also have its own [[Network Zones]] or some other network segmentation keeping it from the other networks
 - Many systems allow monitoring across the corporate network or internet
 	- Can be dangerous as an internet connection can be an opening for attackers
+- See also
+	- [[Access Control]]ss
  
 # Building Automation Systems (BAS)
 

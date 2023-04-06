@@ -41,7 +41,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ## WIFI Protected Access version 2 (WPA2)
 ---
 - 802.11i standard to provide better wireless security featuring [[Disk Encryption#Advanced Encryption Standard (AES)|AES]] with s 128-bit key, Counter Mode with Cipher Block Chaining Message Authentication Protocol ( CCMP), and integrity checking ^36aaad
-- Uses [[#Pre-Shared Key (PSK)]] or Enterprise mode with RADIUS
+- Uses [[#Pre-Shared Key (PSK)]] or Enterprise mode with [[RADIUS vs TACAS+|RADIUS]]
 
 ```ad-tip
 title: Exam Tip
@@ -55,7 +55,7 @@ collapse: close
 ---
 - Automated encryption setup for wireless networks at a push of a button ^4cc0b1
 - Has severe flaws and vulnerabilities
-- Convenient but very insecure
+- <u>Convenient but very insecure</u>
 - You join with an 8 digit pin
 - Packet is broken into 2 4 digit chunks
 	- Easy to brute force 
@@ -71,6 +71,8 @@ collapse: close
 - Always use on WIFI even if it is your own
 - Don't trust WIFI!
 - Encryption inside of encryption
+- See also
+	- [[Virtual Private Network (VPN)]]
 
 ```ad-tip
 title: Exam Tip

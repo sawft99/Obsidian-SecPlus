@@ -20,7 +20,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Still using shared hardware so you could have [[Threats to VMs#Data Remnants|Data Remnants]]
 - You are responsible for [[Subnetting]], [[Routers|Routing]]. [[Updates and Patches]], administration, security, load balancing, disaster recovery, backups, software installs, monitoring, account management, provisioning, and other aspects
 	- In a way you own the servers, but not any of the actual hardware
-- Uses a Virtual Private Network (VPN)
+- Uses a [[Virtual Private Network (VPN)|VPN]]
 	- A form of a [[Cloud Types#Public Cloud|Public Cloud]] service
 		- AWS
 		- Azure web services

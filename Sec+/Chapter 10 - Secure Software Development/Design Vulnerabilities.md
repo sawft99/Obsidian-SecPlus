@@ -22,9 +22,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- [[SDLC Principles#Rely on Trusted SDKs|Software Development Kits (SDK)]]
 		- Helpful because there are prebuilt functions
 		- However the code from the SDK may be insecure and importing it into your program can invite risk
-- In Particular with an SDK or Third Party Library, if a vulnerability is found and patched you have have to update those components to ensure you are using the most secure form of code
-	- See also 
-		- [[Updates and Patches]]
+- In Particular with an SDK or Third Party Library, if a vulnerability is found and patched you have have to install [[Updates and Patches]]for those components as well to ensure you are using the most secure form of code
 
 # Insufficient [[SecBasics#^45fffd|Logging and Monitoring]]
 ---

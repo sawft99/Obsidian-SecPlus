@@ -10,7 +10,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Technique used to scan devices and determine its "state" prior to being allowed access onto a given network ^5b18fa
 	- Such as if OS patches are installed or [[Endpoint Analysis#AntiVirus (AV)|AntiVirus (AV)]] is up to date
 - Protects against known and unknown devices
-- Can be used in internal network or a VPN connected device
+- Can be used in internal network or a [[Virtual Private Network (VPN)|VPN]] connected device
 - A device waits in a kind of "holding area" while its state is being determined
 - Once it passes the check it can enter the network and access what it is supposed
 - If it does not pass it goes into a "quarantine" are and waits for remediation
