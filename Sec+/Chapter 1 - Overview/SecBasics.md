@@ -112,6 +112,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ## Objectives
 ---
 - [[Objectives#5.1 - Compare and contrast various types of controls|5.1 - Compare and contrast various types of controls]]
+- [[Objectives#5.3 - Explain the importance of policies to organizational security|5.3 - Explain the importance of policies to organizational security]]
 
 # Hackers
 ---

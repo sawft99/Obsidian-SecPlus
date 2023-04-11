@@ -33,6 +33,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Users and processes should run using the <u>lease amount of access necessary</u> to perform any given function ^a507db
 	- Don't confuse with [[Unnecessary Applications#Least Functionality|Least Functionality]]
 - Program <u>should run as user and not admin</u>
+- See also
+	- [[Access Control Best Practices]]
 
 ## Defense In Depth
 ---

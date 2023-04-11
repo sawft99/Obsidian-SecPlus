@@ -15,7 +15,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Retired                                   | ![[Software Development#^8ccdc5]]                                                                 |
 | Development Operations (DevOps)           | ![[Software Development#^7d9800]]                                                                 |
 | Threat Modeling                           | ![[SDLC Principles#^2f0503]]                                                                      |
-| Least Privilege                           | ![[SDLC Principles#^a507db]]                                                                      |
+| Least Privilege                           | ![[SDLC Principles#^a507db]]![[Access Control Best Practices#^6116b3]]                                                                      |
 | Defense In Depth                          | ![[SDLC Principles#^526bd3]]                                                                      |
 | Software Development Kit (SDK)            | ![[SDLC Principles#^e6f72a]]                                                                      |
 | Exceptions                                | ![[Testing Methods#^13a069]]                                                                      |
@@ -38,7 +38,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | NOP Slide                                 | ![[Buffer Overflow#^c9fb54]]                                                                      |
 | Address Space Layout Randomization (ASLR) | ![[Buffer Overflow#^15aa75]]                                                                      |
 | Cross-Site Scripting (XSS)                | ![[XSS and XSRF#^18a429]] ![[XSS and XSRF#^2512a1]]                                               |
-| Document Object Model (DOM) | ![[XSS and XSRF#^53ee20]] |
+| Document Object Model (DOM)               | ![[XSS and XSRF#^53ee20]]                                                                         |
 | Cross-Site Request Forgery (XSRF/CSRF)    | ![[XSS and XSRF#^eea3e5]] ![[XSS and XSRF#^09a7b3]]                                               |
 | Structured Query Language (SQL)           | ![[SQL Injection#^c4ac0f]]                                                                        |
 | Injection Attack                          | ![[SQL Injection#^de8163]]                                                                        |

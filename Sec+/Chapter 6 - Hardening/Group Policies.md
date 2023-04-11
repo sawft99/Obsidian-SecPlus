@@ -37,6 +37,7 @@ collapse:close
 - Used to create a secure [[Unnecessary Applications#Baseline Image|Baseline]]
 	- Once created you need to test with a [[#^331295|Baselining]] procedure
 	- Everything should be categorized as safe or needing further investigation
+- See also [[Users & Groups#Active Directory Users and Computers (ADUC)]]
 
 ```ad-example
 title: Active Directory Group Policy

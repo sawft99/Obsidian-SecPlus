@@ -789,6 +789,7 @@ collapse: close
 	- Robot sentries
 	- Reception
 	- Two-person integrity/control
+		- [[Access Control Best Practices#^de781b|Separation of Duties]]
 - Locks
 	- [[Biometric Readers|Biometrics]]
 	- Electronic
@@ -1293,7 +1294,7 @@ collapse: close
 ## 3.7 - Given a scenario, implement identity and account management controls
 ---
 - Identity
-	- Identity provider (IdP)
+	- [[Authentication Models#^5e1700|Identity Provider (IP/IdP)]]
 	- Attributes
 	- Certificates
 	- Tokens
@@ -1312,14 +1313,19 @@ collapse: close
 	- Password history
 	- Password reuse
 	- Time of day
+		- [[Access Control#Conditional Access|Conditional Access]]
+		- [[Users & Groups#User Rights|User Rights]]
 	- Network location
+		- [[Access Control#Conditional Access|Conditional Access]]
 	- [[Other Wireless Technologies#Geofencing|Geofencing]]
 	- [[Security of Apps#Geotagging|Geotagging]]
 		- [[Security of Apps#Geotagging|Geotagging]]
 	- [[Other Wireless Technologies#Geolocation|Geolocation]]
 	- Time-based logins
+		- [[Users & Groups#User Rights|User Rights]]
 	- Access policies
 	- Account permissions
+		- [[Users & Groups]]
 	- Account audits
 	- Impossible travel time/risky login
 	- Lockout
@@ -1360,11 +1366,14 @@ collapse: close
 		- [[Access Control#Lattice Based|Lattice Based Access Control]]
 	- [[Access Control#Mandatory Access Control (MAC)|Mandatory Access Control (MAC)]]
 	- [[Access Control#Discretionary Access Control (DAC)|Discretionary Access Control (DAC)]]
-	- Conditional access
-	- Privilege access management
+	- [[Access Control#Conditional Access|Conditional Access]]
+	- [[Access Control#Privilege Access Management (PAM)|Privilege Access Management (PAM)]]
+	- [[Users & Groups]]
 	- Filesystem permissions
+		- [[Access Control Best Practices#^7d2bd6|Implicit Deny]]
+		- [[Access Control Best Practices#^d2594e|Explicit Deny]]
 
-## 3.9 - Given a scenario, implement public key #Infrastructure
+## 3.9 - Given a scenario, implement public key Infrastructure
 ---
 - Public key #infrastructure (PKI)
 	- Key management
@@ -1628,10 +1637,11 @@ collapse: close
 ---
 - Personnel
 	- Acceptable use policy
-	- Job rotation
-	- Mandatory vacation
-	- Separation of duties
+	- [[Access Control Best Practices#^bf9191|Job rotation]]
+	- [[Access Control Best Practices#^cc194a|Mandatory vacation]]
+	- [[Access Control Best Practices#^de781b|Separation of duties]]
 	- [[SDLC Principles#Least Privilege|Least privilege]]
+		- [[Access Control Best Practices]]
 	- Clean desk space
 	- Background checks
 	- Non-disclosure agreement (NDA)
@@ -1639,6 +1649,9 @@ collapse: close
 	- Onboarding
 	- Offboarding
 	- User training
+		- [[SecBasics#Mitigating Threats|Mitigating Threats]]
+		- [[Web Browser Security#General Security for Browsers|General Security for Browsers]]
+		- [[Preventing Malware]]
 		- Gamification
 		- Capture the flag
 		- Phishing campaigns
@@ -1650,7 +1663,7 @@ collapse: close
 	- Vendors
 		- [[Supply Chain Assessment]]
 	- Supply chain
-		-[[Supply Chain Assessment]]
+		- [[Supply Chain Assessment]]
 	- Business partners
 	- Service level agreement (SLA)
 	- Memorandum of understanding (MOU)
@@ -1663,6 +1676,7 @@ collapse: close
 	- NDA
 - Data
 	- Classification
+		- [[Access Control#Mandatory Access Control (MAC)|Mandatory Access Control (MAC)]]
 	- Governance
 	- Retention
 - Credential policies

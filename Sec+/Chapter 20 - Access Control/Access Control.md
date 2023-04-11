@@ -10,6 +10,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Methods used to secure data and information (including physical controls) by verifying a user has permission to access, read, write, delete or modify it in some other way ^f9403b
 - Comprised of several different models
 - See also
+	- [[Access Control Best Practices]]
 	- [[As a Service#Other Cloud Services]]
 
 # Discretionary Access Control (DAC)
@@ -51,24 +52,24 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 ## Rule Based
 ---
-- Label based access control system that defines whether access should be granted or denied to objects by comparing the object label and the subject label
+- Label based access control system that defines whether access should be granted or denied to objects by <u>comparing the object label and the subject label</u>
 - For example, your level of access is 'confidential' and the document is labeled as 'confidential' so you are granted access 
 
 ## Lattice Based
 ---
-- Uses complex mathematics to create sets of [[#^fa3911|objects]] ad [[Authentication Models#^d0e955|subjects]] to define how they interact
+- Uses <u>complex mathematics to create sets</u> of [[#^fa3911|objects]] ad [[Authentication Models#^d0e955|subjects]] to define how they interact
 - This attempts to go after the 'need to know' factor
 
 # Role Based Access Control (RBAC)
 ---
-- An access model that is controlled by the system (like [[#Mandatory Access Control (MAC)|MAC]]) but utilizes a <u>set of permissions applied to a group</u> instead of a single [[#Data Labels|Data Label]] to define the permission level
+- An access model that is controlled by the system (like [[#Mandatory Access Control (MAC)|MAC]]) but utilizes a <u>set of permissions applied to a group</u> instead of a single [[#Data Labels|Data Label]] to define the permission level ^5cb462
 - For example, roles for HR, Sales, Marketing, IT, etc
 - You then add or remove people from these roles rather than changing permissions for every file and folder
 - See this in #Windows [[Group Policies#Active Directory|Active Directory]]
 
 # Attribute Based Access Control (ABAC)
 ---
-- An access model that is <u>dynamic and context-aware</u> using IF-THEN statements
+- An access model that is <u>dynamic and context-aware</u> using IF-THEN statements ^b408ed
 - Uses multiple policies that can combine various user, group, and resource attributes together to form a complete picture
 - <u>Newer</u> form of Access Control
 - For example
@@ -76,18 +77,26 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Conditional Access
 ---
-- An access control model where access is granted based on <u>specific criteria</u> requirements such as IP address, type of browser, type of operating system, or geographic location
+- An access control model where access is granted based on <u>specific criteria</u> requirements such as IP address, type of browser, type of operating system, or geographic location ^3816f7
 - Primarily in [[As a Service#Software as a Service (SaaS)|Software as a Service (SaaS)]]
 
 # Privilege Access Management (PAM)
 ---
-- An access control system used to centrally manage access to privileged accounts
+- An access control system used to centrally <u>manage access to privileged accounts</u> ^005115
 - Identifies the people, processes, and technology that require privileged access and specifies the policies that apply to them [^1]
 - [[SDLC Principles#Least Privilege|Least Privilege]] concept applied
 - Mostly used to securely <u>store the elevated credentials</u> used by an organization and <u>broker the use</u> of those credentials based on <u>criteria</u> set by a privileged access management administrator
 
+# Anonymous Access Control
+---
+- This method uses <u>attributes</u> before access is granted to an object and [[Authentication]] is usually <u>not required
+ ^8a44d7</u>
+- For example, access to an FTP server
+
 # Objectives
 ---
 - [[Objectives#3.8 - Given a scenario, implement authentication and authorization solutions|3.8 - Given a scenario, implement authentication and authorization solutions]]
+- [[Objectives#3.7 - Given a scenario, implement identity and account management controls|3.7 - Given a scenario, implement identity and account management controls]]
+- [[Objectives#5.3 - Explain the importance of policies to organizational security|5.3 - Explain the importance of policies to organizational security]]
 
 [^1]: https://www.microsoft.com/en-us/security/business/security-101/what-is-privileged-access-management-pam
