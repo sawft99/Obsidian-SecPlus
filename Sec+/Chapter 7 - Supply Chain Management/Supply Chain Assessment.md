@@ -9,6 +9,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - The sequence or system of organizations or operations that work together to design, produce, and deliver a product or service to a market, extending from the extraction of raw materials to the distribution of finished products or services ^69419f
 - Part of securing an unsecure environment involves mitigating risks from supply chain
+- [[#^f72c50|Risk Appetite]] dictates how much time, effort, resources you put into the assesment
 - Create a [[#Trusted Computing Environment]]
 
 # Trusted Computing Environment
@@ -49,12 +50,15 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Vocab
 ---
-- Risk of appetite
-	- The amount, rate or percentage of risk an individual, or organization is willing to accept in return for its plan, objectives and innovation. ^251acb
+- Risk appetite ^f72c50
+	- The amount, rate or percentage of [[Risk Assessments#Risk|Risk]] an individual, or organization is willing to accept in return for its plan, objectives and innovation ^251acb
 	- Organization defines how much time, effort, and resources it dedicates
+	- See also
+		- [[Risk Assessments]]
 
 # Objectives
 ---
-[[Objectives#1.2 - Given a scenario, analyze potential indicators to determine the type of attack|1.2 - Given a scenario, analyze potential indicators to determine the type of attack]]
-[[Objectives#1.5 - Explain different threat actors, vectors, and intelligence sources|1.5 - Explain different threat actors, vectors, and intelligence sources]]
-[[Objectives#1.6 - Explain the security concerns associated with various types of vulnerabilities|1.6 - Explain the security concerns associated with various types of vulnerabilities]]
+- [[Objectives#1.2 - Given a scenario, analyze potential indicators to determine the type of attack|1.2 - Given a scenario, analyze potential indicators to determine the type of attack]]
+- [[Objectives#1.5 - Explain different threat actors, vectors, and intelligence sources|1.5 - Explain different threat actors, vectors, and intelligence sources]]
+- [[Objectives#1.6 - Explain the security concerns associated with various types of vulnerabilities|1.6 - Explain the security concerns associated with various types of vulnerabilities]]
+- [[Objectives#5.4 - Summarize risk management processes and concepts|5.4 - Summarize risk management processes and concepts]]

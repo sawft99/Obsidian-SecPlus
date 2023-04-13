@@ -291,6 +291,7 @@ collapse: close
 		- [[Cloud Threats]]
 	- Unsecured root accounts
 		- [[Securing Network Devices|Default passwords and usernames]]
+		- [[Usernames & Passwords]]
 	- [[Testing Methods#Errors|Errors]]
 		- [[Patch Management#Stages|Patch Management - Auditing]]
 		- [[SDLC Principles#Fail Securely|Fail Securely]]
@@ -309,6 +310,7 @@ collapse: close
 		- [[Cloud Threats#Unprotected Storage|Unprotected Storage]]
 		- [[Null Session]]
 		- [[Securing Network Devices]]
+		- [[Usernames & Passwords]]
 	- Open ports and services
 		- [[Unnecessary Applications]]
 		- [[Ports and Protocols]]
@@ -354,20 +356,24 @@ collapse: close
 
 ## 1.7 - Summarize the techniques used in security assessments
 ---
-- Threat hunting
+- [[SecBasics#Threat Hunting|Threat Hunting]]
 	- Intelligence fusion
 	- Threat feeds
+		- [[SecBasics#Threat feeds|Threat Feeds]]
 	- Advisories and bulletins
 	- Maneuver
 - Vulnerability scans
 	- [[IDS#^70e651|False positives]]
 	- [[IDS#^212e67|False negatives]]
 	- [[Mitigating ICS & SCADA Vulnerabilities]]
+	- [[Methodologies|Risk Assessment Methodologies]]
 	- Log reviews
 		- [[SecBasics#^45fffd|Auditing]]
 	- Credentialed vs. non-credentialed
+		- [[Methodologies|Risk Assessment Methodologies]]
 	- Intrusive vs. non-intrusive
 		- [[Mitigating ICS & SCADA Vulnerabilities]]
+		- [[Methodologies|Risk Assessment Methodologies]]
 	- Application
 	- Web application
 	- Network
@@ -1281,7 +1287,7 @@ collapse: close
 		- Container security
 			- [[Hypervisors#Application Containerization|Application Containerization]]
 - Solutions
-	- CASB
+	- [[Cloud Access Security Broker (CASB)|CASB]]
 	- [[Application Security]]
 	- Next-generation secure web gateway (SWG)
 	- Firewall considerations in a cloud environment
@@ -1303,11 +1309,15 @@ collapse: close
 - Account types
 	- User account
 		- [[Securing Network Devices]]
+		- [[Usernames & Passwords]]
 	- Shared and generic accounts/credentials
+		- [[Usernames & Passwords]]
 	- Guest accounts
+		- [[Usernames & Passwords]]
 	- Service accounts
 		- [[Securing Network Devices]]
 - Account policies
+	- [[Group Policies]]
 	- Password complexity
 		- [[Securing Network Devices#^4c4d3e|Weak Passwords]]
 	- Password history
@@ -1326,6 +1336,7 @@ collapse: close
 	- Access policies
 	- Account permissions
 		- [[Users & Groups]]
+		- [[User Account Control (UAC)]]
 	- Account audits
 	- Impossible travel time/risky login
 	- Lockout
@@ -1369,9 +1380,11 @@ collapse: close
 	- [[Access Control#Conditional Access|Conditional Access]]
 	- [[Access Control#Privilege Access Management (PAM)|Privilege Access Management (PAM)]]
 	- [[Users & Groups]]
+	- [[User Account Control (UAC)]]
 	- Filesystem permissions
 		- [[Access Control Best Practices#^7d2bd6|Implicit Deny]]
 		- [[Access Control Best Practices#^d2594e|Explicit Deny]]
+		- [[Permissions]]
 
 ## 3.9 - Given a scenario, implement public key Infrastructure
 ---
@@ -1577,6 +1590,7 @@ collapse: close
 	- OS
 	- Device
 	- Firmware
+		- [[Trusted Firmware]]
 	- Snapshot
 	- Cache
 	- Network
@@ -1599,17 +1613,19 @@ collapse: close
 
 ## 5.1 - Compare and contrast various types of controls
 ---
-- Category
-	- Managerial
-	- Operational
-	- Technical
-- Control type
-	- Preventative
-	- Detective
-	- Corrective
-	- Deterrent
-	- Compensating
-	- Physical
+- [[Security Controls#Control Categories|Control Categories]]
+	- [[Security Controls#Management Controls|Management Controls]]
+		- [[Security Controls#Administrative Controls|Administrative Controls]]
+		- [[SecBasics#^50e62d|SecBasics]]
+	- [[Security Controls#Operational Controls|Operational Controls]]
+	- [[Security Controls#Technical Controls|Technical Controls]]
+- [[Security Controls#Control Types|Control Types]]
+	- [[Security Controls#Preventative Controls|Preventative Controls]]
+	- [[Security Controls#Detective Controls|Detective Controls]]
+	- [[Security Controls#Corrective Controls|Corrective Controls]]
+	- [[Security Controls#Deterrent Controls|Deterrent Controls]]
+	- [[Security Controls#Compensating Controls]|Compensating Controls]]
+	- [[Security Controls#Physical Controls|Physical Controls]]
 
 ## 5.2 - Explain the importance of applicable regulations, standards, or frameworks that impact organizational security posture
 ---
@@ -1693,18 +1709,20 @@ collapse: close
 ## 5.4 - Summarize risk management processes and concepts
 ---
 - Risk types
-	- External
-	- Internal
-	- Legacy systems
-	- Multiparty
-	- IP theft
-	- Software compliance/licensing
-- Risk management strategies
-	- Acceptance
-	- Avoidance
-	- Transference
+	- [[Types of Risk#External Risk|External Risk]]
+		- [[Risk Assessments#Threats|Threats]]
+	- [[Types of Risk#Internal Risk|Internal Risk]]
+		- [[Switches#Vulnerabilities|Vulnerabilities]]
+	- [[Types of Risk#Legacy Systems|Legacy Systems]]
+	- [[Types of Risk#Multiparty|Multiparty]]
+	- [[Types of Risk#Intellectual Property (IP) Theft|Intellectual Property (IP) Theft]]
+	- [[Types of Risk#Software Compliance & Licensing|Software Compliance & Licensing]]
+- [[Risk Assessments#Strategy|Risk management strategies]]
+	- [[Risk Assessments#Accept\|Risk Acceptance]]
+	- [[Risk Assessments#Avoid|Risk Avoidance]]
+	- [[Risk Assessments#Transfer|Risk Transference]]
 		- Cybersecurity insurance
-	- Mitigation
+	- [[Risk Assessments#Mitigate|Risk Mitigation]]
 - Risk analysis
 	- Risk register
 	- Risk matrix/heat map
@@ -1712,23 +1730,32 @@ collapse: close
 	- Risk control self-assessment
 	- Risk awareness
 	- Inherent risk
-	- Residual risk
+	- [[Risk Assessments#Residual|Residual Risk]]
 	- Control risk
-	- Risk appetite
+	- [[Supply Chain Assessment#^f72c50|Risk Appetite]]
 	- Regulations that affect risk posture
-	- Risk assessment types
-		- Qualitative
-		- Quantitative
+		- [[Methodologies|FISMA and PCIDSS]]
+	- [[Risk Assessments|Risk Assessment Types]]
+		- [[Qualitative Risk]]
+		- [[Quantitative Risk]]
 	- Likelihood of occurrence
+		- [[Risk Assessments#Risk|Risk]]
+		- [[Risk Assessments]]
 	- Impact
+		- [[Risk Assessments]]
+		- [[Quantitative Risk]]
 	- Asset value
-	- Single loss expectancy (SLE)
-	- Annualized loss expectancy (ALE)
-	- Annualized rate of occurrence (ARO)
+		- [[Quantitative Risk]]
+	- [[Quantitative Risk#Single Loss Expectancy (SLE)|Single loss expectancy (SLE)]]
+	- [[Quantitative Risk#Annualized Loss Expectancy (ALE)|Annualized loss expectancy (ALE)]]
+	- [[Quantitative Risk#Annualized Rate of Occurrence (ARO)|Annualized rate of occurrence (ARO)]]
 - Disasters
 	- Environmental
+		- [[Types of Risk#External Risk|External Risk]]
 	- Man-made
-	- Internal vs. external
+		- [[Types of Risk#External Risk|External Risk]]
+		- [[Types of Risk#Internal Risk|Internal Risk]]
+	- [[Types of Risk|Internal vs. external]]
 - Business impact analysis
 	- Recovery time objective (RTO)
 	- Recovery point objective (RPO)
@@ -1736,10 +1763,16 @@ collapse: close
 	- Mean time between failures (MTBF)
 	- Functional recovery plans
 	- Single point of failure
+		- [[LDAP & Kerberos#Drawbacks|LDAP]]
 	- Disaster recovery plan (DRP)
 	- Mission essential functions
+		- [[Risk Assessments]]
+		- [[Qualitative Risk]]
 	- Identification of critical systems
+		- [[Risk Assessments]]
+		- [[Qualitative Risk]]
 	- Site risk assessment
+		- [[Risk Assessments]]
 
 ## 5.5 - Explain privacy and sensitive data concepts in relation to security
 ---

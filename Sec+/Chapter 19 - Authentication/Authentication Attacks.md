@@ -43,6 +43,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - When storing passwords you don't store the password in plaintext
 - Instead the password goes through some form of #Hashing and that value is then saved
 - In theory even the administrators can't know the password since you can't reverse a hash
+- See also
+	- [[Usernames & Passwords]]
 
 # Online Password Attacks
 ---

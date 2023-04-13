@@ -19,8 +19,10 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Default Accounts
 	- A user or administrator level account that is installed on a device by the manufacturer during production
 - Naming schemes
-	- Don't have easy to guess naming schemes 
+	- Try not to have easy to guess naming schemes
 	- Naming schemes are common though such as first initial last and last name for user accounts
+	- See also
+		- [[Usernames & Passwords]]
 - Device usernames
 	- Rather than "Router" or "Switch" for device usernames pick something else such as "RTR283"
 - Weak Passwords ^4c4d3e

@@ -22,6 +22,7 @@ kanban-plugin: basic
 - [ ] Finish [[Identity]]
 - [ ] Finish [[OpenID Cont.]]
 - [ ] Finish [[SAML Cont.]]
+- [ ] Inherit risk and risk appetite?
 
 
 ## Working On

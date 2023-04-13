@@ -11,6 +11,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - See also
 	- [[ICS & SCADA Vulnerabilities]]
 	- [[HVAC#ICS & SCADA Systems]]
+	- [[Methodologies#Active Scanning]]
+	- [[Methodologies#Passive Scanning]]
 
 # Key Controls
 ---
@@ -22,7 +24,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	1. Can't use more typical options like #Microsoft SCCM
 	2. [[Embedded System Vulnerabilities#Programmable Logic Controller (PLC)|Programmable Logic Controller (PLC)]] systems have firmware
 	3. You'll need maintenance windows
-4. Perform regular [[SecBasics#^45fffd|Audits]] of logical and physical access to a systems to detect possible vulnerabilities
+4. Perform regular [[SecBasics#^45fffd|Audits]] of logical and physical access to a systems to detect possible [[Switches#Vulnerabilities|Vulnerabilities]]
 	1. Also not as simple as simply running a NESSUS scan of the network
 	2. Need specialists who need to know what to look for
 	3. Normal enumeration and vulnerability scanners can cause problems in [[ICS & SCADA Vulnerabilities#^c4eb25|OT]] networks

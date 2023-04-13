@@ -71,3 +71,4 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Exploit]
 ---
 - [[Objectives#2.4 - Summarize authentication and authorization design concepts|2.4 - Summarize authentication and authorization design concepts]]
 - [[Objectives#3.2 - Given a scenario, implement host or application security solutions|3.2 - Given a scenario, implement host or application security solutions]]
+- [[Objectives#4.5 - Explain the key aspects of digital forensics|4.5 - Explain the key aspects of digital forensics]]

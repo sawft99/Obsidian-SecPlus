@@ -30,7 +30,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - The ability to log in once but gain access to multiple systems without being asked to log in again ^e82e39
 - A default user profile for each user is created and linked with all of the resources needed
 - A user will have one account that has access to all of the services rather than an account for each individual one
-- Adding [[Authentication#Multi-Factor Authentication|Multi-Factor Authentication]] is common and recommended
+- Adding [[Authentication#Multi-Factor Authentication (MFA)|Multi-Factor Authentication (MFA)]] is common and recommended
 - Makes it quicker and easier to assign resources and setup a user
 - However a breach of an SSO account/system can cause a big security breach
 

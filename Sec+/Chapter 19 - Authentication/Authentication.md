@@ -47,7 +47,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Example
 	- Username and password combo is two pieces of information, but they are both from the "Knowledge" factor so this is considered single factor
 
-# Multi-Factor Authentication
+# Multi-Factor Authentication (MFA)
 ---
 - Use of two or more [[#Authentication Factors]] to prove a users identity ^a8671c
 - Studies show MFA is far more secure than just increasing the password complexity

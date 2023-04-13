@@ -100,7 +100,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Technical Controls ^c5223f
 	- Smart cards, ACL, [[IDS]], [[NIDS & NIPS]], [[Endpoint Analysis#HIDS/HIPS|HIDS/HIPS]] network authentication ^5453f0
 - Administrative Controls ^50e62d
-	- AKA "Managerial Controls"
+	- AKA "[[Security Controls#Management Controls|Management Controls]]"
 	- Policy, procedures, awareness, training, disaster recovery
 		- <u>User training one of the most cost effective methods</u>
 	- Sub categories
@@ -109,6 +109,9 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 		- Legal/Regulatory
 			- Adhering to standards and laws
 			- PCI, HIPPA,etc…
+- See also
+	- [[Security Controls#Technical Controls]]
+	- [[Security Controls#Administrative Controls]]
 ## Objectives
 ---
 - [[Objectives#5.1 - Compare and contrast various types of controls|5.1 - Compare and contrast various types of controls]]
@@ -250,6 +253,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ## Objectives
 ---
 - [[Objectives#1.5 - Explain different threat actors, vectors, and intelligence sources|1.5 - Explain different threat actors, vectors, and intelligence sources]]
+- [[Objectives#1.7 - Summarize the techniques used in security assessments|1.7 - Summarize the techniques used in security assessments]]
 
 # Threat Hunting
 ---
