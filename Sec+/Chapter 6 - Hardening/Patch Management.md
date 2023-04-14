@@ -17,7 +17,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 1. Planning
 	1. <u>Create policy, systems, and procedures to track</u> updates along with a method to verify that they are compatible
 	2. Also determine <u>how to apply</u>
-	3. Baseline Security Analyzer (MBSA)
+	3. #Microsoft Baseline Security Analyzer (MBSA)
 		1. #Microsoft tool that helps identify misconfigurations on #Windows workstations ^974484
 2. Testing
 	1. Test [[Updates and Patches]] before applying to new network

@@ -363,6 +363,7 @@ collapse: close
 	- Advisories and bulletins
 	- Maneuver
 - Vulnerability scans
+	- [[Vulnerability Management]]
 	- [[IDS#^70e651|False positives]]
 	- [[IDS#^212e67|False negatives]]
 	- [[Mitigating ICS & SCADA Vulnerabilities]]
@@ -386,6 +387,7 @@ collapse: close
 		- [[SecBasics#^45fffd|Auditing]]
 	- Packet capture
 		- [[NIDS & NIPS#Protocol Analyzer|Protocol Analyzer]]
+		- [[Methodologies#Passive Scanning|Passive Scanning]]
 	- Data inputs
 	- User behavior analysis
 		- [[Endpoint Analysis#User and Entity Behavioral Analytics (UEBA)|User and Entity Behavioral Analytics (UEBA)]]
