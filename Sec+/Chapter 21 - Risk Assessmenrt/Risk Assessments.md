@@ -8,15 +8,23 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # About
 ---
 - A process used inside of [[#Risk]] management to identify how much risks exists in a given network or system ^af7f6d
+	- Can also be called a "Risk Analysis"
 - Used to minimize the likelihood of a negative outcome
 - Numerous ways to do
 	- Mathematical calculating a possibility
 	- Subjective guessing a possibility
 	- Assessments and Analysis of information
-
+- Inherent Risk
+	- The representation of the level of [[#Risk]] an organization would experience if the correct [[#Mitigate|Mitigation]] was not in place ^6c5e5f
+- Control Risk
+	- The risk that [[Security Controls]] may not detect or may fail to protect the environment ^8b379b
+- Risk Awareness
+	- The ability of an organization to identify [[#Risk]] before they become a [[#Threats|Threat]] ^b219e4
+	- The overall preparedness of an organization to mitigate [[#Risk]]
+- Risk Appetite ![[Supply Chain Assessment#^251acb]]
 # Risk
 ---
-- The probability that a threat will be realized ^e71eb7
+- The probability that a [[#Threats|Threat]] will be realized ^e71eb7
 - Exists between [[#Threats]] and [[#Vulnerabilities]]
 - If you have [[#Threats]] but no [[#Vulnerabilities]] then you have no risk
 - If you have [[#Vulnerabilities]] but no [[#Threats]] then you have no risk
@@ -86,9 +94,10 @@ collapse:close
 ## Mitigate
 ---
 - A strategy that seeks to minimize the [[#Risk]] to an acceptable level ^c0371e
+	- NIST: "Prioritizing, evaluating, and implementing the appropriate risk-reducing controls/countermeasures recommended from the risk management process”
 - Example
 	- Server that has [[#Vulnerabilities]] with 5 critical, 2 high, 3 medium, and 1 low
-	- Choosing which [[#Vulnerabilities]] you want to address first
+	- Choosing which [[#Vulnerabilities]] you want to address first and install
 	- Policy may dictate that a server with critical [[#Vulnerabilities]] be taken offline
 - [[#Risk]] not eliminated but minimized or brought down to an acceptable level
 
@@ -105,18 +114,44 @@ collapse:close
 - Uncommon since [[#Risk]] exists in almost everything
 - Unique to each organization
 
-# Risk Assessment
+# Assessment Process
 ---
 1. Identify assets
 	1. List of servers, [[Routers]], desktops, etc
 2. Identify [[#Vulnerabilities]]
 	1. Can do a vulnerability scan, penetration test, vulnerability assessment
 3. Identify [[#Threats]] and their likelihood to occur
-4. Identify monetary [[#Risk]] if it is realized
+4. Identify monetary [[#Risk]] if it is realized ^ac0b92
+	1. This step can also be called an "Impact Assessment"
 
-# Vocab
+# Risk Register
 ---
-- ![[Supply Chain Assessment#^f72c50]]
+- Helps track issues and address problems as they occur ^d8855d
+- AKA a Risk Log
+- Made during [[Risk Assessments]]
+- Particularly useful in [[Supply Chain Assessment]] or [[#Supply Chain Risk Assessment (SCRM)]]
+
+# Supply Chain Risk Assessment (SCRM)
+---
+- A specialized form of risk management for [[Supply Chain Assessment]] where the organization collaborates with suppliers and distributors to analyze and reduce risk ^b5e270
+
+# Identifying Risk
+---
+- An organization can identify risks and [[Security Controls]] with a Risk Control Assessment
+	- Can be completed by a third party or by an internal team
+- An internal risk assessment is known as Risk Control Self-Assessment (RCSA)
+	- Often used by financial institutions that need to meet regulatory compliances
+
+# Risk Matrix
+---
+- A visual chart used to represent a risk assessment
+- Also called a "Heat map" sometimes
+
+```ad-example
+title: Risk Matrix/Heat Map Example
+collapse:close
+![[RiskMapEx1.png]]
+```
 
 # Objectives
 ---

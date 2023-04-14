@@ -9,8 +9,10 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - The sequence or system of organizations or operations that work together to design, produce, and deliver a product or service to a market, extending from the extraction of raw materials to the distribution of finished products or services ^69419f
 - Part of securing an unsecure environment involves mitigating risks from supply chain
-- [[#^f72c50|Risk Appetite]] dictates how much time, effort, resources you put into the assesment
+- [[#^f72c50|Risk Appetite]] dictates how much time, effort, resources you put into the assessment
 - Create a [[#Trusted Computing Environment]]
+- See also
+	- [[Risk Assessments]]
 
 # Trusted Computing Environment
 ---

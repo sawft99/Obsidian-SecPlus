@@ -8,6 +8,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | Term                                                                                           | Meaning                        |
 | ---------------------------------------------------------------------------------------------- | ------------------------------ |
 | [[Risk Assessments]]                                                                           | ![[Risk Assessments#^af7f6d]]  |
+| [[Risk Assessments\|Risk Analysis]]                                                            | ![[Risk Assessments#^af7f6d]]                               |
 | [[Risk Assessments#Risk\|Risk]]                                                                | ![[Risk Assessments#^e71eb7]]  |
 | [[Switches#Vulnerabilities\|Vulnerabilities]]                                                  | ![[Risk Assessments#^e5340c]]  |
 | [[Risk Assessments#Threats\|Threats]]                                                          | ![[Risk Assessments#^929015]]  |
@@ -16,6 +17,10 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | [[Risk Assessments#Mitigate\|Risk Mitigation]]                                                 | ![[Risk Assessments#^c0371e]]  |
 | [[Risk Assessments#Accept\|Risk Acceptance]]                                                   | ![[Risk Assessments#^39d67e]]  |
 | [[Risk Assessments#Residua\|Residual Risk]]                                                    | ![[Risk Assessments#^da5100]]  |
+| [[Risk Assessments#Process\|Impact Assessment]]                                                | ![[Risk Assessments#^ac0b92]]  |
+| [[Risk Assessments\|Inherent Risk]]                                                            | ![[Risk Assessments#^6c5e5f]]  |
+| [[Risk Assessments\|Control Risk]]                                                             | ![[Risk Assessments#^8b379b]]  |
+| [[Risk Assessments\|Risk Awareness]]                                                           | ![[Risk Assessments#^b219e4]]  |
 | [[Qualitative Risk]]                                                                           | ![[Qualitative Risk#^ab87e5]]  |
 | [[Quantitative Risk]]                                                                          | ![[Quantitative Risk#^809030]] |
 | [[Quantitative Risk#Single Loss Expectancy (SLE)\|Single Loss Expectancy (SLE)]]               | ![[Quantitative Risk#^4dde44]] |
@@ -37,4 +42,4 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | [[Types of Risk#Legacy Systems]]                                                               | ![[Types of Risk#^0175b6]]     |
 | [[Types of Risk#Multiparty\|Multiparty Risk]]                                                  | ![[Types of Risk#^1e1402]]     |
 | [[Types of Risk#Intellectual Property (IP) Theft\|Intellectual Property (IP) Theft]]           | ![[Types of Risk#^02c551]]     |
-| [[Types of Risk#Software Compliance & Licensing\|Software Compliance & Licensing]]             | ![[Types of Risk#^837caf]]                               |
+| [[Types of Risk#Software Compliance & Licensing\|Software Compliance & Licensing]]             | ![[Types of Risk#^837caf]]     |

@@ -22,7 +22,7 @@ kanban-plugin: basic
 - [ ] Finish [[Identity]]
 - [ ] Finish [[OpenID Cont.]]
 - [ ] Finish [[SAML Cont.]]
-- [ ] Inherit risk and risk appetite?
+- [ ] [[Vulnerability Management#Conducting a Vulnerability Assessment]] both active and passive?
 
 
 ## Working On
@@ -32,6 +32,7 @@ kanban-plugin: basic
 ## Done
 
 **Complete**
+- [x] Inherit risk and risk appetite?
 
 
 

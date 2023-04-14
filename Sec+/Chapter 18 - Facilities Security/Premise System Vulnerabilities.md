@@ -14,7 +14,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Many systems allow monitoring across the corporate network or internet
 	- Can be dangerous as an internet connection can be an opening for attackers
 - See also
-	- [[Access Control]]ss
+	- [[Access Control]]
  
 # Building Automation Systems (BAS)
 

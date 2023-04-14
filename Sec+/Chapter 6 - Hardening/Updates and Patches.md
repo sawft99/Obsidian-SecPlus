@@ -12,6 +12,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Also known as "Hotfix" often
 		- A hotfix could be installed without a reboot while a patch would need a reboot
 	- A general term
+- Installing updates and patches can be a way to [[Risk Assessments#Mitigate|Mitigate]] [[Risk Assessments#Risk|Risk]]
 
 # Types of Updates
 ---
