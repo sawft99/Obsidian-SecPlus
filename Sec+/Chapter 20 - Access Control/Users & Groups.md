@@ -133,3 +133,4 @@ collapse:close
 ---
 - [[Objectives#3.7 - Given a scenario, implement identity and account management controls|3.7 - Given a scenario, implement identity and account management controls]]
 - [[Objectives#3.8 - Given a scenario, implement authentication and authorization solutions|3.8 - Given a scenario, implement authentication and authorization solutions]]
+- [[Objectives#4.1 - Given a scenario, use the appropriate tool to assess organizational security|4.1 - Given a scenario, use the appropriate tool to assess organizational security]]

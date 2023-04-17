@@ -35,4 +35,5 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - [[Objectives#2.6 - Explain the security implications of embedded and specialized systems|2.6 - Explain the security implications of embedded and specialized systems]]
 - [[Objectives#3.3 - Given a scenario, implement secure network designs\|3.3 - Given a scenario, implement secure network designs]]
+- [[Objectives#4.1 - Given a scenario, use the appropriate tool to assess organizational security|4.1 - Given a scenario, use the appropriate tool to assess organizational security]]
 - [[Objectives#5.2 - Explain the importance of applicable regulations, standards, or frameworks that impact organizational security posture|5.2 - Explain the importance of applicable regulations, standards, or frameworks that impact organizational security posture]]

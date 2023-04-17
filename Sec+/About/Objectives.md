@@ -364,6 +364,7 @@ collapse: close
 	- Maneuver
 - Vulnerability scans
 	- [[Vulnerability Management]]
+	- [[Vulnerability Management#Vulnerability Assessment|Vulnerability Assessment]]
 	- [[IDS#^70e651|False positives]]
 	- [[IDS#^212e67|False negatives]]
 	- [[Mitigating ICS & SCADA Vulnerabilities]]
@@ -1451,6 +1452,7 @@ collapse: close
 	- scanless
 	- dnsenum
 	- Nessus
+		- [[Vulnerability Management#Vulnerability Assessment|Vulnerability Assessment]]
 	- Cuckoo
 - File manipulation
 	- head
@@ -1458,6 +1460,7 @@ collapse: close
 	- cat
 	- grep
 	- chmod
+		- [[Users & Groups]]
 	- logger
 - Shell and #Script environments
 	- SSH
@@ -1467,7 +1470,13 @@ collapse: close
 - Packet capture and replay
 	- Tcpreplay
 	- Tcpdump
+		- [[Denial of Service (DoS)]]
+		- [[Mitigating ICS & SCADA Vulnerabilities]]
+		- [[NIDS & NIPS]]
 	- Wireshark
+		- [[Denial of Service (DoS)]]
+		- [[Mitigating ICS & SCADA Vulnerabilities]]
+		- [[NIDS & NIPS]]
 - Forensics
 	- dd
 	- Memdump
@@ -1476,6 +1485,8 @@ collapse: close
 	- Autopsy
 - Exploitation frameworks
 - Password crackers
+	- [[Authentication Attacks]]
+	- [[Wireless Attacks]]
 - Data sanitization
 
 ## 4.2 - Summarize the importance of policies, processes, and procedures for incident response
@@ -1726,14 +1737,14 @@ collapse: close
 		- Cybersecurity insurance
 	- [[Risk Assessments#Mitigate|Risk Mitigation]]
 - Risk analysis
-	- Risk register
-	- Risk matrix/heat map
-	- Risk control assessment
-	- Risk control self-assessment
-	- Risk awareness
-	- Inherent risk
+	- [[Risk Assessments#Risk Register|Risk Register]]
+	- [[Risk Assessments#Risk Matrix|Risk Matrix]]
+	- [[Risk Assessments#^606284|Risk Control Assessment]]
+	- [[Risk Assessments#^136bd5|Risk control self-assessment]]
+	- [[Risk Assessments#^17e5b3|Risk awareness]]
+	- [[Risk Assessments#^cc916d|Inherent Risk]]
 	- [[Risk Assessments#Residual|Residual Risk]]
-	- Control risk
+	- [[Risk Assessments#^e0e555|Control Risk]]
 	- [[Supply Chain Assessment#^f72c50|Risk Appetite]]
 	- Regulations that affect risk posture
 		- [[Methodologies|FISMA and PCIDSS]]

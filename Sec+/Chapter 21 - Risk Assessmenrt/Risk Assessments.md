@@ -16,9 +16,9 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Assessments and Analysis of information
 - Inherent Risk
 	- The representation of the level of [[#Risk]] an organization would experience if the correct [[#Mitigate|Mitigation]] was not in place ^6c5e5f
-- Control Risk
+- Control Risk ^e0e555
 	- The risk that [[Security Controls]] may not detect or may fail to protect the environment ^8b379b
-- Risk Awareness
+- Risk Awareness ^17e5b3
 	- The ability of an organization to identify [[#Risk]] before they become a [[#Threats|Threat]] ^b219e4
 	- The overall preparedness of an organization to mitigate [[#Risk]]
 - Risk Appetite ![[Supply Chain Assessment#^251acb]]
@@ -137,9 +137,9 @@ collapse:close
 
 # Identifying Risk
 ---
-- An organization can identify risks and [[Security Controls]] with a Risk Control Assessment
-	- Can be completed by a third party or by an internal team
-- An internal risk assessment is known as Risk Control Self-Assessment (RCSA)
+- An organization can identify risks and [[Security Controls]] with a Risk Control Assessment ^606284
+	-  A third party performs the Risk Assessment ^eb6180
+- An internal risk assessment is known as Risk Control Self-Assessment (RCSA) ^136bd5
 	- Often used by financial institutions that need to meet regulatory compliances
 
 # Risk Matrix

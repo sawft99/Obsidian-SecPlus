@@ -22,16 +22,17 @@ kanban-plugin: basic
 - [ ] Finish [[Identity]]
 - [ ] Finish [[OpenID Cont.]]
 - [ ] Finish [[SAML Cont.]]
-- [ ] [[Vulnerability Management#Conducting a Vulnerability Assessment]] both active and passive?
 
 
 ## Working On
 
+- [ ] [[Vulnerability Management#Vulnerability Assessment]] performed in order to establish baseline in [[Vulnerability Management#Management Process]]?
 
 
 ## Done
 
 **Complete**
+- [x] [[Vulnerability Management#Conducting a Vulnerability Assessment]] both active and passive?
 - [x] Inherit risk and risk appetite?
 
 
