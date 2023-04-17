@@ -19,6 +19,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - Occurs when a tester is not provided any information about the system or program prior to conducting the test
 - Just being handed the program
+- See also
+	- [[Penetration Testing]]
 
 ## Whitebox Testing
 ---
