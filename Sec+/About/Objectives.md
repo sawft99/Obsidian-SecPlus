@@ -406,16 +406,26 @@ collapse: close
 ---
 - Penetration testing
 	- White box
+		- [[Software Development#Testing|Software Development Testing]]
+		- [[Penetration Testing]]
 	- Black box
+		- [[Software Development#Testing|Software Development Testing]]
+		- [[Penetration Testing]]
 	- Gray box
+		- [[Software Development#Testing|Software Development Testing]]
+		- [[Penetration Testing]]
 	- Rules of engagement
 	- Lateral movement
 		- #LateralMovement
+		- [[Penetration Testing]]
 	- Privilege escalation
+		- [[Active Intercept & Privilege Escalation]]
 	- Persistence
+		- [[Penetration Testing]]
 	- Cleanup
 	- Bug bounty
 	- Pivoting
+		- [[Penetration Testing]]
 - Passive and active #Reconnaissance
 	- Drones/unmanned aerial vehicle (UAV)
 	- War flying

@@ -84,5 +84,6 @@ collapse:close
 
 # Objectives
 ---
+- [[Objectives#1.8 - Explain the techniques used in penetration testing|1.8 - Explain the techniques used in penetration testing]]
 - [[Objectives#2.3 - Summarize secure application development, deployment, and automation concepts||2.3 - Summarize secure application development, deployment, and automation concepts|]]
 - [[Objectives#3.2 - Given a scenario, implement host or application security solutions|3.2 - Given a scenario, implement host or application security solutions]]
