@@ -369,6 +369,7 @@ collapse: close
 	- [[IDS#^212e67|False negatives]]
 	- [[Mitigating ICS & SCADA Vulnerabilities]]
 	- [[Methodologies|Risk Assessment Methodologies]]
+	- [[Open Vulnerability Assessment Language (OVAL)]]
 	- Log reviews
 		- [[SecBasics#^45fffd|Auditing]]
 	- Credentialed vs. non-credentialed
@@ -433,10 +434,10 @@ collapse: close
 	- Footprinting
 	- #OSINT
 - Exercise types
-	- Red team
-	- Blue team
-	- White team
-	- Purple team
+	- [[Training & Exercises#Red Teams\|Red Teams]]
+	- [[Training & Exercises#Blue Teams|Blue Teams]]
+	- [[Training & Exercises#White Teams|White Teams]]
+	- [[Training & Exercises#Purple Teams|Purple Teams]]
 
 # 2.0 - Architecture and Design
 

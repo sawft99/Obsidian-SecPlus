@@ -32,12 +32,15 @@ kanban-plugin: basic
 ## Done
 
 **Complete**
+
+
+***
+
+## Archive
+
 - [x] [[Vulnerability Management#Vulnerability Assessment]] performed in order to establish baseline in [[Vulnerability Management#Management Process]]?
 - [x] [[Vulnerability Management#Conducting a Vulnerability Assessment]] both active and passive?
 - [x] Inherit risk and risk appetite?
-
-
-
 
 %% kanban:settings
 ```
