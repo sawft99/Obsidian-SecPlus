@@ -32,7 +32,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 		1. Need to make sure a product can be supported for a long term
 		2. Support and updates with an <u>End of Life (EOL)</u> definition
 			1. The final day when a product will stop being supported and will no longer receive updates ^01cc85
-	4. Proper security controls for [[SecBasics#^51b6d8|confidential]] data
+	4. Proper [[Security Controls]] for [[SecBasics#^51b6d8|confidential]] data
 	5. Proper Incident response and forensic assistance
 	6. General and historical company information
 		1. Strong financials

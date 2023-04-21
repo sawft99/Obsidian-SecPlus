@@ -38,7 +38,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 ## Defense In Depth
 ---
-- Layering of security controls is more effective and secure than relying on a single control ^526bd3
+- Layering of [[Security Controls]] is more effective and secure than relying on a single control ^526bd3
 
 ## Never Trust User Input
 ---

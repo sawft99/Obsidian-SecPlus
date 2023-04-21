@@ -38,7 +38,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - <u>Shared among several</u> organizations with shared and common information ^b141a0
 	- Including cost
 - Similar to several [[#Private Cloud]] instances and connecting them
-- Each organization may have its own security controls
+- Each organization may have its own [[Security Controls]]
 - You can potentially inherit the security vulnerabilities and risks of another company
 
 # MultiCloud
