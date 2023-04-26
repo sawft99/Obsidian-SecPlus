@@ -63,6 +63,8 @@ collapse:close
 ## Password Spraying
 ---
 - A form of [[#Online Password Attacks]] and a [[Wireless Attacks#Brute Force|Brute Force]] attack in which multiple user accounts are tested with a <u>dictionary</u> of common [[#Passwords]] against <u>multiple websites</u> ^f399b3
+- See also
+	- [[Password Analysis#Dictionary Attack]]
 
 ```ad-example
 title: Signs
@@ -85,9 +87,25 @@ collapse:close
 ## Rainbow Tables
 ---
 - A form of [[#Offline Password Attacks]] where an attacker has a precomputed table of already hashed [[#Passwords]] ^0739c5
+- It takes a significant amount of computing power to create a rainbow table
+- However, once they are computed, comparing it to a list of already hashed values would be faster than [[Password Analysis#Brute Force Attack|Brute Force]]
+- This is because a [[Password Analysis#Brute Force Attack|Brute Force Attack]] method would still need to calculate the hashes as well WHILE it is also trying to compare values
 - Prevention
 	- Salting passwords
 		- The generation of random data that is used as an additional input to a one-way function that hashes data, a password, or a passphrase ^0f06de
+
+```mermaid
+flowchart LR
+subgraph BForce[Brute Force]
+	direction TB
+	LGPass[Lookup or Generate Password] --> CHash[Compute hash] --> CoHash[Compare to hashed password]
+end
+subgraph RTable[Rainbow Tables]
+	direction TB
+	LHash[Lookup already computed hash] --> Compare1[Compare to hashed password]
+end
+```
+
 
 ```ad-example
 title: Rainbow Table

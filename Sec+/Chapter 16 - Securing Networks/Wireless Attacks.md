@@ -54,6 +54,8 @@ collapse:close
 - Brute force will always find the password.... eventually
 - The longer and more complex the password the longer it will take
 - Don't have [[Securing Network Devices#^4c4d3e|Weak Passwords]]
+- See aslo
+	- [[Password Analysis#Brute Force Attack]]
 
 # Videos
 

@@ -58,7 +58,7 @@ collapse: close
 - <u>Convenient but very insecure</u>
 - You join with an 8 digit pin
 - Packet is broken into 2 4 digit chunks
-	- Easy to brute force 
+	- Easy to [[Wireless Attacks#Brute Force|Brute Force]] 
 
 ## Prevention
 ---
