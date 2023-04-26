@@ -48,6 +48,8 @@ collapse: close
 	- Specific <u>string of bytes</u> to trigger an alert ^72e5dc
 	- Continually searches for a known specific key
 	- Any time it sees a pattern it is flagged
+	- See also
+		- [[Monitoring Types#Signature Based]]
 - Policy
 	- <u>Specific declaration</u>
 		- Filtering Port, IP, etc.
@@ -60,6 +62,8 @@ collapse: close
 		- 9 - 5 work hours
 		- Large downloads after hours
 		- Gets flagged
+	- See also
+		- [[Monitoring Types#Anomaly Based]]
 
 # Alerts
 ---

@@ -12,6 +12,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	1. Analysts use tools to identify behavioral [[IDS#^ed7614|anomalies]]
 	2. Then Identify techniques used by the [[Malware]] such as [[Active Intercept & Privilege Escalation|Privilege Escalation]] and persistence on the host
 - Each system reacts or works on different [[IDS#Methods|Methods]]
+- See also
+	- [[Monitoring Types]]
 
 # Endpoint
 ---
@@ -74,6 +76,8 @@ collapse:close
 	2. Heuristic model is generated based on what the system saw
 	3. Passes it into its #MachineLearning and #AI
 	4. Based on their decision it will be determined as either a threat or safe
+- See also
+	- [[Monitoring Types#Behavioral Based]]
 
 ```ad-example
 title: #Microsoft Advanced Threat Analytics Example
