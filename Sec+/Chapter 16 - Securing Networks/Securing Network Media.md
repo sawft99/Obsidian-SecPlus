@@ -114,6 +114,8 @@ collapse:close
 - An attacker can split the wires on a twisted pair and solder on additional wires to passively listen to data then return other cables to network
 	- Or use an Ethernet Tap device
 - Essentially invisible
+- See also
+	- [[Vulnerability Assessments#Network Sniffing]]
 
 ```ad-example
 title: Ethernet Sniffing - Solder Wires

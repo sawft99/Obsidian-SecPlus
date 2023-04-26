@@ -99,7 +99,7 @@ collapse:close
 - A specialized network scan that sets the FIN, PSH, and URG flags in a TCP pack to 'on' and can cause a device to crash or reboot ^1c3243
 - A non standard formatted packet
 - Named this because in a protocol analyzer you can see all of these flags turned on making the analyzer "Light up like a Christmas tree"
-- Most device today will discard because they don't know how to handle
+- Most devices today will discard because they don't know how to handle
 
 ```ad-example
 title: Wireshark XMAS Attack

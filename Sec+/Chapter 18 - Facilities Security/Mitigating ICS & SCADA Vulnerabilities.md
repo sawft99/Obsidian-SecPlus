@@ -28,7 +28,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	1. Also not as simple as simply running a NESSUS scan of the network
 	2. Need specialists who need to know what to look for
 	3. Normal enumeration and vulnerability scanners can cause problems in [[ICS & SCADA Vulnerabilities#^c4eb25|OT]] networks
-	4. You don't perform active scanning but rather passive such as with Wireshark or another packet capturing program
+	4. You don't perform [[Methodologies#Active Scanning|Active Scanning]] but rather [[Methodologies#Passive Scanning|Passive Scanning]] such as with Wireshark or another packet capturing program
 	5. Once you have the devices identified you can have targeted scanning
 
 # Objectives

@@ -22,4 +22,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | [[Open Vulnerability Assessment Language (OVAL)]]                               | ![[Open Vulnerability Assessment Language (OVAL)#^17597c]]                   |
 | [[Open Vulnerability Assessment Language (OVAL)#Language\|OVAL Language]]       | ![[Open Vulnerability Assessment Language (OVAL)#^e5e249]]                   |
 | [[Open Vulnerability Assessment Language (OVAL)#Interpreter\|OVAL Interpreter]] | ![[Open Vulnerability Assessment Language (OVAL)#^a62b8c]]                   |
-| [[Vulnerability Assessments#Vulnerability Scanning\|Vulnerability Scanning]]    | ![[Vulnerability Assessments#^c7fb7f]]                                                                             |
+| [[Vulnerability Assessments#Vulnerability Scanning\|Vulnerability Scanning]]    | ![[Vulnerability Assessments#^c7fb7f]]                                       |
+| [[Vulnerability Assessments#Banner Grabbing\|Banner Grabbing]]                  | ![[Vulnerability Assessments#^91d225]]                                       |
+| [[Vulnerability Assessments#Network Sniffing\|Network Sniffing]]                | ![[Vulnerability Assessments#^a67236]]                                       |
+| [[NIDS & NIPS#Protocol Analyzer\|Protocol Analyzer]]                            | ![[Vulnerability Assessments#^2a4690]]                                       |

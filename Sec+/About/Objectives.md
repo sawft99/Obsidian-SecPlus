@@ -362,7 +362,7 @@ collapse: close
 		- [[SecBasics#Threat feeds|Threat Feeds]]
 	- Advisories and bulletins
 	- Maneuver
-- Vulnerability scans
+- [[Vulnerability Assessments#Vulnerability Scanning|Vulnerability Scanning]]
 	- [[Vulnerability Management]]
 	- [[Vulnerability Management#Vulnerability Assessment|Vulnerability Assessment]]
 	- [[IDS#^70e651|False positives]]
@@ -378,8 +378,11 @@ collapse: close
 		- [[Mitigating ICS & SCADA Vulnerabilities]]
 		- [[Methodologies|Risk Assessment Methodologies]]
 	- Application
+		- [[Vulnerability Assessments]]
 	- Web application
+		- [[Vulnerability Assessments]]
 	- Network
+		- [[Vulnerability Assessments#Network Sniffing|Network Sniffing]]
 	- Common Vulnerabilities and Exposures (CVE)/Common Vulnerability Scoring System (CVSS)
 		- [[Defeding the Servers#Web Servers|Web Servers]]
 	- Configuration review
@@ -389,6 +392,7 @@ collapse: close
 		- [[SecBasics#^45fffd|Auditing]]
 	- Packet capture
 		- [[NIDS & NIPS#Protocol Analyzer|Protocol Analyzer]]
+		- [[NIDS & NIPS#Protocol Analyze|Protocol Analyzer]]
 		- [[Methodologies#Passive Scanning|Passive Scanning]]
 	- Data inputs
 	- User behavior analysis
@@ -1450,6 +1454,7 @@ collapse: close
 	- nslookup/dig
 	- ipconfig/ifconfig
 	- nmap
+		- [[Vulnerability Assessments#About|Vulnerabiltiy Scanning]]
 	- ping/pathping
 	- hping
 	- netstat
@@ -1480,6 +1485,7 @@ collapse: close
 	- OpenSSL
 - Packet capture and replay
 	- Tcpreplay
+		- [[Replay Attack#Wireless Replay Attack|Wireless Replay Attack]]
 	- Tcpdump
 		- [[Denial of Service (DoS)]]
 		- [[Mitigating ICS & SCADA Vulnerabilities]]
@@ -1488,6 +1494,8 @@ collapse: close
 		- [[Denial of Service (DoS)]]
 		- [[Mitigating ICS & SCADA Vulnerabilities]]
 		- [[NIDS & NIPS]]
+		- [[Vulnerability Assessments#Network Sniffing|Network Sniffing]]
+		- [[NIDS & NIPS#Protocol Analyzer|Protocol Analyzer]]
 - Forensics
 	- dd
 	- Memdump

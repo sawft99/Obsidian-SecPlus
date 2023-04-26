@@ -57,6 +57,8 @@ collapse:close
 - [[#Network Intrusion Prevention System (NIPS)]] will then pass this to the signature engine either on itself or a [[#Network Intrusion Detection System (NIDS)]] system
 - Allows device to establish a baseline and then identify what abnormal is for its [[Endpoint Analysis#User and Entity Behavioral Analytics (UEBA)|behavioral]] or [[IDS#^ed7614|anomalous]] traffic functions
 - Takes more processing power
+- See also
+	- [[Vulnerability Assessments#Protocol Analyzer]]
 
 # Objectives
 ---
