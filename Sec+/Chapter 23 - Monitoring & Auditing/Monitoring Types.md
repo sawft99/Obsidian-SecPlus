@@ -13,6 +13,9 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- [[#Signature Based]]
 	- [[#Anomaly Based]]
 	- [[#Behavioral Based]]
+- See also
+	- [[IDS]]
+	- [[NIDS & NIPS]]
 
 # Signature Based
 ---
@@ -42,10 +45,3 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # Objectives
 ---
 - [[Objectives#3.3 - Given a scenario, implement secure network designs|3.3 - Given a scenario, implement secure network designs]]
-
-# TODO (Delete when done)
----
-- [ ] Added vocab
-- [ ] Added and linked objectives in document
-- [ ] Linked objectives back to document
-- [ ] Linked any relevant backlinks to and from document

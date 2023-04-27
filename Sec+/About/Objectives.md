@@ -1094,12 +1094,12 @@ collapse: close
 	- Jump servers
 	- [[Proxy Servers]]
 		- [[Web Browser Security#^0799dc|Proxies]]
-		- Forward
-		- Reverse
+		- [[Cloud Access Security Broker (CASB)#Forward Proxy|Forward Proxy]]
+		- [[Cloud Access Security Broker (CASB)#Reverse Proxy|Reverse Proxy]]
 	- [[IDS#NIDS|Network Intrusion Detection System (NIDS)]]
-		- Signature based
-		- Heuristic/behavior
-		- Anomaly
+		- [[Monitoring Types#Signature Based|Signature Based]]
+		- [[Monitoring Types#Behavioral Based|Heuristic/Behavior]]
+		- [[Monitoring Types#Anomaly Based|Anomaly]]
 		- Inline vs. passive
 - Hardware security module (HSM)
 	- [[Disk Encryption#Hardware Based|Disk Encryption]]
@@ -1132,6 +1132,7 @@ collapse: close
 	- Port taps
 - Monitoring services
 	- [[Restricting Applications#Services|Services]]
+	- [[Monitoring Types]]
 - File integrity monitors
 
 ## 3.4 - Given a scenario, install and configure wireless security settings
