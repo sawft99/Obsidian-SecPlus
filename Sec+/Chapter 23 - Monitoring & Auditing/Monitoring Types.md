@@ -37,7 +37,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Hybrid
 ---
-- Often in an [[IDS]] ,[[NIDS & NIPS]], or [[IDS#HIDS]]
+- Often in an [[IDS]] ,[[NIDS & NIPS]], or [[IDS#HIDS|HIDS]]
 
 # Objectives
 ---
