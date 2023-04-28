@@ -59,6 +59,7 @@ collapse:close
 - Takes more processing power
 - See also
 	- [[Vulnerability Assessments#Protocol Analyzer]]
+	- [[Protocol Analyzers]]
 
 # Objectives
 ---

@@ -1129,8 +1129,8 @@ collapse: close
 - Route security
 - [[Telephony#Quality of Service (QOS)|Quality of Service (QOS)]]
 - Implications of IPv6
-- Port spanning/port mirroring
-	- Port taps
+- [[Protocol Analyzers\|Port Span/Port MIrror]]
+	- [[Protocol Analyzers#Network Tap|Network Tap]]
 - Monitoring services
 	- [[Restricting Applications#Services|Services]]
 	- [[Monitoring Types]]
@@ -1489,6 +1489,7 @@ collapse: close
 	- Python
 	- OpenSSL
 - Packet capture and replay
+	- [[Protocol Analyzers]]
 	- Tcpreplay
 		- [[Replay Attack#Wireless Replay Attack|Wireless Replay Attack]]
 	- Tcpdump

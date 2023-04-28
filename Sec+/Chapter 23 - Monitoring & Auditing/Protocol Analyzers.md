@@ -31,7 +31,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Network Tap
 ---
-- A physical device that allows you to intercept the traffic between the two points on the network
+- A physical device that allows you to intercept the traffic between the two points on the network ^42020e
 - Puts no additional load on [[Routers]] or [[Switches]] 
 - See also
 	- [[Securing Network Media#Passive Listening]]
@@ -46,10 +46,3 @@ collapse:close
 ---
 - [[Objectives#3.3 - Given a scenario, implement secure network designs|3.3 - Given a scenario, implement secure network designs]]
 - [[Objectives#4.1 - Given a scenario, use the appropriate tool to assess organizational security|4.1 - Given a scenario, use the appropriate tool to assess organizational security]]
-
-# TODO (Delete when done)
----
-- [ ] Added vocab
-- [x] Added and linked objectives in document
-- [ ] Linked objectives back to document
-- [ ] Linked any relevant backlinks to and from document
