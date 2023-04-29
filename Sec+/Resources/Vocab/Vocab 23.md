@@ -16,4 +16,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | [[Protocol Analyzers#Network Tap\|Network Tap]]                             | ![[Protocol Analyzers#^42020e]]     |
 | [[SNMP#Managed Devices\|Managed Devices]]                                   | ![[SNMP#^2eb04c]]                   |
 | [[SNMP#Agents\|Agents]]                                                     | ![[SNMP#^764d46]]                   |
-| [[SNMP#Network Management Systems (NMS)\|Network Management Systems (NMS)]] | ![[SNMP#^7c97fe]]                                    |
+| [[SNMP#Network Management Systems (NMS)\|Network Management Systems (NMS)]] | ![[SNMP#^7c97fe]]                   |
+| [[SNMP#SNMP v3\|SNMP v3]]                                                   | ![[SNMP#^9edfcc]]                   |
+| [[SNMP#In Band\|In Band Management]]                                        | ![[SNMP#^80a201]]                   |
+| [[SNMP#Out of Band\|Out of Band Management]]                                | ![[SNMP#^e7d05e]]                   |
+| [[Auditing]]                                                                | ![[Auditing#^d38e34]]                                    |

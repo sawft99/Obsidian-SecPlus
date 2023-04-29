@@ -57,12 +57,12 @@ collapse:close
 
 # Comparison
 ---
-| Authentication                                                                   | Mutual Authentication | Encryption | Hashing |
-| -------------------------------------------------------------------------------- | --------------------- | ---------- | ------- |
-| [[#Password Authentication Protocol (PAP)\|PAP]]                                      |                       |            |         |
-| [[#Challenge Handshake Authentication Protocol (CHAP)\|CHAP]]                          |                       |            | MD5     |
-| [[#Microsoft Challenge Handshake Authentication Protocol (MS-CHAP)\|MS-CHAP]]             |                       | DES        | MD4     |
-| [[#Microsoft Challenge Handshake Authentication Protocol Version 2 (MS-CHAPv2)\|MS-CHAPv2]] | X                     | NTLM       | SHA-1   |
+| Authentication                                                                              | Mutual Authentication | Encryption | Hashing |
+| ------------------------------------------------------------------------------------------- | --------------------- | ---------- | ------- |
+| [[#Password Authentication Protocol (PAP)\|PAP]]                                            | N                     | N          | N       |
+| [[#Challenge Handshake Authentication Protocol (CHAP)\|CHAP]]                               | N                     | N          | MD5     |
+| [[#Microsoft Challenge Handshake Authentication Protocol (MS-CHAP)\|MS-CHAP]]               | N                     | DES        | MD4     |
+| [[#Microsoft Challenge Handshake Authentication Protocol Version 2 (MS-CHAPv2)\|MS-CHAPv2]] | Y                     | NTLM       | SHA-1   |
 
 # Objectives
 ---

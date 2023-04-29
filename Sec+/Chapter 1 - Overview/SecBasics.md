@@ -25,7 +25,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Confidentiality
 		- Ensuring info is not being disclosed to unauthorized people ^b8c85d
 		- [[Disk Encryption#^501400|Encryption]] can keep data confidential
-	- Integrity
+	- Integrity ^48ae1d
 		- Confirm data has not been modified in any way by unauthorized people without permission ^00e120
 		- #Hashing or Journaling showing an [[#^45fffd|Audit]] trail
 	- Availability

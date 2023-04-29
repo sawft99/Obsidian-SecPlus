@@ -375,6 +375,7 @@ collapse: close
 	- [[Open Vulnerability Assessment Language (OVAL)]]
 	- Log reviews
 		- [[SecBasics#^45fffd|Auditing]]
+		- [[Auditing]]
 	- Credentialed vs. non-credentialed
 		- [[Methodologies|Risk Assessment Methodologies]]
 	- Intrusive vs. non-intrusive
@@ -393,6 +394,7 @@ collapse: close
 - Syslog/Security information and event management - #SIEM
 	- Review reports
 		- [[SecBasics#^45fffd|Auditing]]
+		- [[Auditing]]
 	- Packet capture
 		- [[NIDS & NIPS#Protocol Analyzer|Protocol Analyzer]]
 		- [[NIDS & NIPS#Protocol Analyze|Protocol Analyzer]]
@@ -928,12 +930,13 @@ collapse: close
 	- [[Memorization of Ports]]
 	- [[DNS Attacks#^af0156|Domain Name System Security Extension (DNSSEC)]]
 	- SSH
+		- [[Telephony]]
 	- Secure/multipurpose Internet mail exchanger (S/MIME)
 	- Secure real-time protocol (SRTP)
 	- [[LDAP & Kerberos#LDAPS|LDAPS]]
 	- File transfer protocol, secure (FTPS)
 	- Secured file transfer protocol (SFTP)
-	- Simple Network Management Protocol, version 3 (SNMPv3)
+	- [[SNMP#SNMP v3|Simple Network Management Protocol, version 3 (SNMPv3)]]
 	- Hypertext transfer protocol over SSL/TLS (HTTPS)
 		- [[Security of Apps]]
 	- IPSec
