@@ -10,7 +10,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Data files that contain the accounting and [[Auditing]] trail for actions performed by a user on the computer or network
 - #Linux log location
 	- /var/log
-- #Widows [[#Log Types]]
+- #Windows  [[#Log Types]]
 	- [[#Security]]
 	- [[#System]]
 	- [[#Application]]
