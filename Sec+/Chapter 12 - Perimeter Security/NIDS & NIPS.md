@@ -66,3 +66,4 @@ collapse:close
 - [[Objectives#1.7 - Summarize the techniques used in security assessments|1.7 - Summarize the techniques used in security assessments]]
 - [[Objectives#3.3 - Given a scenario, implement secure network designs|3.3 - Given a scenario, implement secure network designs]]
 - [[Objectives#4.1 - Given a scenario, use the appropriate tool to assess organizational security|4.1 - Given a scenario, use the appropriate tool to assess organizational security]]
+- [[Objectives#4.3 - Given an incident, utilize appropriate data sources to support an investigation|4.3 - Given an incident, utilize appropriate data sources to support an investigation]]

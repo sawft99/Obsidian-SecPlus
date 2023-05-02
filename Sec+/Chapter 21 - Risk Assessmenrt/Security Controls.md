@@ -80,7 +80,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Used <u>during</u> the event to find out whether something bad may have happened
 	- Can also be used after an incident as well though
 - Often used to alert about other [[#Control Types]] such as [[#Preventative Controls]], [[#Deterrent Controls]], and [[#Compensating Controls]] failing
-- CCTV, [[IDS]], logging review, motion detection, #SIEM 
+- CCTV, [[IDS]], logging review, motion detection, [[SIEM]]
 
 ## Corrective Controls
 ---

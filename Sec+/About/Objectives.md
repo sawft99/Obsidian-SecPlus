@@ -374,8 +374,9 @@ collapse: close
 	- [[Methodologies|Risk Assessment Methodologies]]
 	- [[Open Vulnerability Assessment Language (OVAL)]]
 	- Log reviews
-		- [[SecBasics#^45fffd|Auditing]]
+		- [[SecBasics#^45fffd|Sec Basics]]
 		- [[Auditing]]
+		- [[Logging]]
 	- Credentialed vs. non-credentialed
 		- [[Methodologies|Risk Assessment Methodologies]]
 	- Intrusive vs. non-intrusive
@@ -391,12 +392,13 @@ collapse: close
 		- [[Defeding the Servers#Web Servers|Web Servers]]
 	- Configuration review
 		- [[Hardening]]
-- Syslog/Security information and event management - #SIEM
+- [[Logging#Syslog Server|Syslog]]/Security information and event management
 	- Review reports
-		- [[SecBasics#^45fffd|Auditing]]
+		- [[SecBasics#^45fffd|Sec Basics]]
 		- [[Auditing]]
+		- [[Logging]]
 	- Packet capture
-		- [[NIDS & NIPS#Protocol Analyzer|Protocol Analyzer]]
+		- [[NIDS & NIPS#Protocol Analyzer|NIDS & NIPS]]
 		- [[NIDS & NIPS#Protocol Analyze|Protocol Analyzer]]
 		- [[Methodologies#Passive Scanning|Passive Scanning]]
 	- Data inputs
@@ -406,8 +408,10 @@ collapse: close
 	- Security [[SecBasics#^45fffd|monitoring]]
 	- Log aggregation
 		- [[ICS & SCADA Vulnerabilities#Data Historian|Data Historian]]
+		- [[Logging#Syslog Server|Syslog Server]]
 	- Log collectors
 		- [[ICS & SCADA Vulnerabilities#Data Historian|Data Historian]]
+		- [[Logging#Syslog Server]|Syslog Server]]
 - Security orchestration, automation, response (SOAR)
 	- [[Infrastructure As Code (IAC)]]
 	- [[Workflow Orchestration]]
@@ -1548,13 +1552,15 @@ collapse: close
 ## 4.3 - Given an incident, utilize appropriate data sources to support an investigation
 ---
 - Vulnerability scan output
+	- [[Vulnerability Management]]
+	- [[Vulnerability Assessments#Vulnerability Scanning|Vulnerability Scanning]]
 - #SIEM dashboards
 	- Sensor
 	- Sensitivity
 	- Trends
 	- Alerts
 	- Correlation
-- Log files
+- [[Log Files]]
 	- Network
 	- System
 	- Application
@@ -1566,6 +1572,7 @@ collapse: close
 	- VoIP and call managers
 	- Session Initiation Protocol (SIP) traffic
 - syslog/rsyslog/syslog-ng
+	- [[Logging#Syslog Server|Syslog Server]]
 - journalctl
 - nxlog
 - Retention
@@ -1579,6 +1586,9 @@ collapse: close
 	- Echo
 	- IPfix
 - Protocol analyzer output
+	- [[Protocol Analyzers]]
+	- [[NIDS & NIPS#Protocol Analyzer|NIDS & NIPS]]
+	- [[Vulnerability Assessments#Protocol Analyzer|Vulnerability Assessments]]
 
 ## 4.4 - Given an incident, apply mitigation techniques or controls to secure an environment
 ---
@@ -1622,6 +1632,7 @@ collapse: close
 	- Tags
 	- Reports
 	- Event logs
+		- [[Logging]]
 	- Interviews
 - Acquisition
 	- Order of volatility
@@ -1645,6 +1656,7 @@ collapse: close
 	- Checksums
 	- Provenance
 - Preservation
+	- [[Logging]]
 - E-discovery
 - Data recovery
 - Non-repudiation

@@ -274,7 +274,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Threat Hunting
 		- Using tools for regular security and Incident Response
 			- Logs, file, registry changes
-			- A #SIEM
+			- A [[SIEM]] 
 		- <u>Assume regular security systems have failed</u>
 		- Examine information such as:
 			- Network traffic analysis
@@ -377,7 +377,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- A finite ordered list of elements ^d9cef6
 	- Create an array with 4 categories and other metadata
 	- "E = {something}"
-	- Helps with an automated info like a #SIEM
+	- Helps with an automated info like a [[SIEM]]
 - Models can be used individually or combined
 
 ```ad-info

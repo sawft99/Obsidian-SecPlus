@@ -29,7 +29,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - Log the events for the operating system and third party applications
 
-# Windows Logs Tools
+# Windows Log Tools
 ---
 - #Windows Event Viewer
 	- On both workstation and server
@@ -37,7 +37,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Syslog Server
 ---
-- A standardized format used for computer message logging that allows for the separation of the <u>software</u> that generates messages, the <u>system</u> that generates messages, and the software that <u>reports and analyzes</u> them
+- A standardized format used for computer message logging that allows for the separation of the <u>software</u> that generates messages, the <u>system</u> that generates messages, and the software that <u>reports and analyzes</u> them ^25aaaa
 - Allows you to consolidate all the logs into a single repository
 - Use a syslog client
 - UDP port 514
@@ -47,10 +47,3 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - [[Objectives#1.7 - Summarize the techniques used in security assessments|1.7 - Summarize the techniques used in security assessments]]
 - [[Objectives#4.3 - Given an incident, utilize appropriate data sources to support an investigation|4.3 - Given an incident, utilize appropriate data sources to support an investigation]]
 - [[Objectives#4.5 - Explain the key aspects of digital forensics|4.5 - Explain the key aspects of digital forensics]]
-
-# TODO (Delete when done)
----
-- [ ] Added vocab
-- [ ] Added and linked objectives in document
-- [ ] Linked objectives back to document
-- [ ] Linked any relevant backlinks to and from document

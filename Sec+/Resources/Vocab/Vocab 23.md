@@ -20,4 +20,10 @@ tags: [CompTia,SecPlus,CyberSec,Certs,Vocab]
 | [[SNMP#SNMP v3\|SNMP v3]]                                                   | ![[SNMP#^9edfcc]]                   |
 | [[SNMP#In Band\|In Band Management]]                                        | ![[SNMP#^80a201]]                   |
 | [[SNMP#Out of Band\|Out of Band Management]]                                | ![[SNMP#^e7d05e]]                   |
-| [[Auditing]]                                                                | ![[Auditing#^d38e34]]                                    |
+| [[Auditing]]                                                                | ![[Auditing#^d38e34]]               |
+| [[Logging#Syslog Server\|Syslog Server]]                                    | ![[Logging#^25aaaa]]                |
+| [[Log Files]]                                                               | ![[Log Files#^a9b138]]              |
+| [[Log Files#Log File Maintenance\|Log File Maintenance]]                    | ![[Log Files#^8a2b47]]              |
+| [[Log Files#Overwrite Events\|Overwrite Events]]                            | ![[Log Files#^2681e6]]              |
+| [[Log Files#Write Once Read Many (WORM)\|Write Once Read Many (WORM)]]      | ![[Log Files#^0831a7]]              |
+| [[SIEM\|Security Information and Event Management Systems]]                 | ![[SIEM#^b02c55]]                                    |
