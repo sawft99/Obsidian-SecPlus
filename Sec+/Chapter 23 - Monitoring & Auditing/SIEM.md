@@ -76,7 +76,7 @@ collapse:close
 ---
 
 ```ad-example
-title: Test
+title: ELK Flow
 collapse:close
 ![[ELKEx1.png]]
 ```
