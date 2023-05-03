@@ -377,6 +377,7 @@ collapse: close
 		- [[SecBasics#^45fffd|Sec Basics]]
 		- [[Auditing]]
 		- [[Logging]]
+		- [[SIEM]]
 	- Credentialed vs. non-credentialed
 		- [[Methodologies|Risk Assessment Methodologies]]
 	- Intrusive vs. non-intrusive
@@ -397,6 +398,7 @@ collapse: close
 		- [[SecBasics#^45fffd|Sec Basics]]
 		- [[Auditing]]
 		- [[Logging]]
+		- [[SIEM]]
 	- Packet capture
 		- [[NIDS & NIPS#Protocol Analyzer|NIDS & NIPS]]
 		- [[NIDS & NIPS#Protocol Analyze|Protocol Analyzer]]
@@ -1554,7 +1556,7 @@ collapse: close
 - Vulnerability scan output
 	- [[Vulnerability Management]]
 	- [[Vulnerability Assessments#Vulnerability Scanning|Vulnerability Scanning]]
-- #SIEM dashboards
+- [[SIEM]] dashboards
 	- Sensor
 	- Sensitivity
 	- Trends

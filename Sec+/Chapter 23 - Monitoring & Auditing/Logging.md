@@ -39,8 +39,10 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 ---
 - A standardized format used for computer message logging that allows for the separation of the <u>software</u> that generates messages, the <u>system</u> that generates messages, and the software that <u>reports and analyzes</u> them ^25aaaa
 - Allows you to consolidate all the logs into a single repository
-- Use a syslog client
+- Use a [[Syslog]] client
 - UDP port 514
+- See also
+	- [[Syslog]]
 
 # Objectives
 ---

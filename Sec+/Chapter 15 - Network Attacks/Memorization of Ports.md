@@ -7,7 +7,6 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # About
 ---
-
 | Service                                                                     | Purpose                                                                                                  | Port      | TCP/UDP  |
 | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | --------- | -------- |
 | File Transfer Protocol (FTP)                                                | To transfer files from host to host                                                                      | 21        | TCP      |
@@ -31,7 +30,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 | Hyper Text Transfer Protocol Secure (HTTPS)                                 | Secure/Encrypted version of HTTP using SSL/TLS                                                           | 443       | TCP      |
 | Server Message Block (SMB)                                                  | Provides shared access to files and other resources on a network                                         | 445       | TCP      |
 | Simple Mail Transfer Protocol with SSL/TLS (SMTP with SSL/TLS)              | SMTP with an SSL/TLS secure/encrypted connection                                                         | 465/587   | TCP      |
-| Syslog                                                                      | Conduct computer logging especially for routers and firewalls                                            | 514       | UDP      |
+| [[Syslog]]                                                                      | Conduct computer logging especially for routers and firewalls                                            | 514       | UDP      |
 | Lightweight Directory Access Protocol with SSL/TLS (LDAPS)                  | LDAP over secured/encrypted SSL/TLS                                                                      | 636       | TCP*/UDP |
 | iSCSI                                                                       | Link data storage over IP such as in a Storage Area Network (SAN)                                        | 860       | TCP      |
 | File Transfer Protocol Secure (FTPS)                                        | Secure/Encrypted FTP over TLS (SSL now deprecated)                                                       | 989/990   | TCP      |
@@ -47,7 +46,9 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 | Remote Desktop Protocol (RDP)                                               | Remotely view and control other Windows systems via a GUI                                                | 3389      | TCP/UDP  |
 | Diameter                                                                    | A more advanced AAA that acts as a replacement for RADIUS                                                | 3868      | TCP      |
 | Syslog over TLS (Syslog over TLS)                                           | Secure/Encrypted Syslog over SSL/TLS                                                                     | 6514      | TLS         |
-  
+
+\* = Primarily or typically TCP or UDP
+
 - See also
 	- [[Ports and Protocols]]
 

@@ -83,7 +83,7 @@ collapse: close
 - <u>ONLY alert and log</u>
 - [[IDS#^f81e57|IPS]] actually prevents issues
 - Host based systems will usually log only locally
-	- Set up a Syslog server
+	- Set up a [[Syslog]] server
 	- If logs are kept only on the host an attacker could damage or alter the logs
 	- Uploading to a central server helps prevent such an issue
 - [[#HIDS]] logs are <u>used to recreate the events</u> after an attack has occurred
