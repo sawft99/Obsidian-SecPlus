@@ -37,7 +37,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Syslog Server
 ---
-- A standardized format used for computer message logging that allows for the separation of the <u>software</u> that generates messages, the <u>system</u> that generates messages, and the software that <u>reports and analyzes</u> them ^25aaaa
+- A server that uses standardized format for computer message logging that allows for the separation of the <u>software</u> that generates messages, the <u>system</u> that generates messages, and the software that <u>reports and analyzes</u> the messages ^25aaaa
 - Allows you to consolidate all the logs into a single repository
 - Use a [[Syslog]] client
 - UDP port 514

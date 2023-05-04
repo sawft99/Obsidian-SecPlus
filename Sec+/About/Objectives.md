@@ -1573,8 +1573,9 @@ collapse: close
 	- Dump files
 	- VoIP and call managers
 	- Session Initiation Protocol (SIP) traffic
-- syslog/rsyslog/syslog-ng
+- [[Syslog]]/rsyslog/syslog-ng
 	- [[Logging#Syslog Server|Syslog Server]]
+	- [[Syslog]]
 - journalctl
 - nxlog
 - Retention
