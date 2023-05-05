@@ -11,7 +11,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Detects attempts to steal info
 - Hardware and software solutions
 
-# Data theft evolution
+# Data Theft Evolution
 ---
 1. Physical files
 2. Laptops

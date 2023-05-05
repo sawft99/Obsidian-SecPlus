@@ -13,6 +13,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Helps ensure [[SecBasics#Cybersecurity Models|Confidentiality]]
 - Will lead to lower performance
 - There is [[#Full Disk Encryption]] and [[#File Level Encryption]]
+- See also
+	- [[Cryptography]]
 
 # Full Disk Encryption
 
