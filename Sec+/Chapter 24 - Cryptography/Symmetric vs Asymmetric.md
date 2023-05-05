@@ -7,7 +7,9 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # About
 ---
-- Item
+- A [[Cryptography#Cipher|Cipher]] is either a symmetric or asymmetric [[Cryptography#Algorithm|Algorithm]]
+- See also
+	- [[Disk Encryption#Advanced Encryption Standard (AES)]]
 
 # Topic
 ---
