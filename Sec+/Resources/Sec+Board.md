@@ -23,6 +23,7 @@ kanban-plugin: basic
 - [ ] Finish [[OpenID Cont.]]
 - [ ] Finish [[SAML Cont.]]
 - [ ] Finish [[Penetration Testing]] from sec+ book
+- [ ] [[Symmetric vs Asymmetric]] clear up
 
 
 ## Working On
