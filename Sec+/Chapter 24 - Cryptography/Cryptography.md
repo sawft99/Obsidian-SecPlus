@@ -34,6 +34,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 # Cipher
 ---
 - An [[#Algorithm]] which performs the encryption or decryption ^fc99f4
+- See also
+	- [[Symmetric vs Asymmetric#Cipher Types]]
 
 # Key
 ---

@@ -75,7 +75,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Advanced Encryption Standard (AES)
 ---
-- A type of <u>symmetric</u> key encryption ^dccf53
+- A type of [[Symmetric vs Asymmetric#Symmetric|Symmetric]] key encryption ^dccf53
 - Common in WIFI
 - 128 or 256 bit keys
 	- 256 considered "Unbreakable"

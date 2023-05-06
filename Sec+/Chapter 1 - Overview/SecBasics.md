@@ -189,7 +189,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 		- Produces <u>productive results</u>
 		- <u>Valid and true</u> info
 		- Checking AI and ML alerts
-	- Confidence
+	- Confidence ^25117d
 		- Producing <u>qualified statements</u>
 		- <u>MISP</u> rating
 			- Codifies use of admiralty scale for grading data and estimative language

@@ -18,6 +18,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 	- Software encryption
 - Hardware Encryption is also an option
 	- Ironkey USB
+- See also
+	- [[Disk Encryption]]
 
 # Removeable Media Controls
 ---
