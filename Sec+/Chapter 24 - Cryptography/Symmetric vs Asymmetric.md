@@ -75,27 +75,36 @@ collapse:close
 ---
 title: Stream Cipher Process
 ---
-flowchart TB
+flowchart TD
 
-subgraph S1[Step1]
-	direction TB
-	KSR[Keystream Generator]
+subgraph S1[Step 1]
+	direction LR
+	Pass[Password]
+	Hash[Hashed Password]
+	Pass-. Can Become .-> Hash
 end
 subgraph S2[Step 2]
-	direction TB
-	IP[Input/Text/Data]
-	XOR[XOR Functionn]
+	Key
+	KS[Keystream]
+	Key -- Is used as a seed in the  --> KS
+	Hash -. Is used as .-> Key
+	Pass -- Is used as  --> Key
 end
 subgraph S3[Step 3]
-	direction LR
-	CT[Ciphertext]
+	PSR[Pseudorandom value]
+	KS -- Creates --> PSR
 end
-
-BTS[Bitstream]
-KSR -- Creates --> BTS
-BTS -- Which Creates --> S3
-S2 -- To Combine --> BTS
-IP -- Uses --> XOR
+subgraph S4[Step 4]
+	direction LR
+	XOR[XOR Function]
+	PT[Plaintext]
+	PT --> XOR
+	PSR --> XOR
+end
+subgraph S5[Step 5]
+	CT[Ciphertext]
+	XOR -- Combines to create --> CT
+end
 
 ```
 
