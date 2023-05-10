@@ -59,4 +59,5 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 
 # Objectives
 ---
+- [[Objectives#2.8 - Summarize the basics of cryptographic concepts|2.8 - Summarize the basics of cryptographic concepts]]
 - [[Objectives#3.4 - Given a scenario, install and configure wireless security settings|3.4 - Given a scenario, install and configure wireless security settings]]

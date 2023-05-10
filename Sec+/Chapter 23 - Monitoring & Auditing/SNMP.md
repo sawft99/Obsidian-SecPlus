@@ -50,7 +50,7 @@ collapse:close
 ---
 - A version of SNMP that provides [[SecBasics#^48ae1d|Integrity]], [[Authentication]], and [[Disk Encryption#^501400|Encryption]] of the messages being sent over the network ^9edfcc
 - Integrity check uses #Hashing 
-- Encryption used is DES
+- Encryption used is [[Symmetric Algorithms#Data Encryption Standard (DES)|DES]]
 	- Not very secure but better than nothing or [[#SNMP v1/v2]]
 
 # Management

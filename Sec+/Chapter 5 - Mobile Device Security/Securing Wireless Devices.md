@@ -18,7 +18,11 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Protect at the "highest level" with [[Disk Encryption#^501400|Encryption]]
 	- Wifi Protected Access 2 (WPA 2) ^fa413c
 		- Uses [[Disk Encryption#Advanced Encryption Standard (AES)|AES Encryption]]
-	- WPA 3 on current exam?
+	- See also
+		- [[Disk Encryption#Advanced Encryption Standard (AES)]]
+		- [[Symmetric Algorithms#Advanced Encryption Standard (AES)]]
+		- [[WIFI Protected Access version 3 (WPA3)#WPA3 - Personal Mode]]
+		- [[WIFI Protected Access version 3 (WPA3)#WPA3 - Enterprise Mode]]
 
 # Bluetooth
 ---

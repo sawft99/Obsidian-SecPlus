@@ -876,7 +876,7 @@ collapse: close
 
 ## 2.8 - Summarize the basics of cryptographic concepts
 ---
-- Digital signatures
+- [[Public Key Cryptography#Digital Signature|Digital Signature]]
 - Key length
 	- [[Cryptography#Key|Key]]
 - Key stretching
@@ -886,7 +886,7 @@ collapse: close
 - #Hashing
 - Key exchange
 - Elliptical curve cryptography
-- Perfect forward secrecy
+- [[WIFI Protected Access version 3 (WPA3)#Perfect Forward Secrecy (PFS)]|Perfect Forward Secrecy (PFS)]]
 - Quantum
 	- Communications
 	- Computing
@@ -899,10 +899,11 @@ collapse: close
 - Blockchain
 	- Public ledgers
 - Cipher suites
-	- Stream
-	- Block
-- Symmetric vs. asymmetric
-	- [[Disk Encryption#Advanced Encryption Standard (AES)|AES]] - Symmetric
+	- [[Symmetric vs Asymmetric#Stream Cipher|Stream Cipher]]
+	- [[Symmetric vs Asymmetric#Block Cipher|Block Cipher]]
+- [[Symmetric vs Asymmetric]]
+	- [[Disk Encryption#Advanced Encryption Standard (AES)|AES]] 
+	- [[Symmetric Algorithms]]
 - Lightweight cryptography
 	- [[Cryptography]]
 - Steganography
@@ -921,7 +922,9 @@ collapse: close
 	- Supporting obfuscation
 		- [[Disk Encryption#^501400|Encryption]]
 	- Supporting authentication
+		- [[Authentication]]
 	- Supporting non-repudiation
+		- [[Symmetric vs Asymmetric#Non-repudiation|Non-repudiation]]
 	- Resource vs. security constraints
 - Limitations
 	- Speed

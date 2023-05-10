@@ -79,6 +79,8 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Common in WIFI
 - 128 or 256 bit keys
 	- 256 considered "Unbreakable"
+- See also
+	- [[Symmetric Algorithms#Advanced Encryption Standard (AES)]]
 
 # Objectives
 ---

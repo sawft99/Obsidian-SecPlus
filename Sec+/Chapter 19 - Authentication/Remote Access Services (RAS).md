@@ -43,7 +43,7 @@ collapse:close
 
 # Microsoft Challenge Handshake Authentication Protocol (MS-CHAP)
 ---
-- #Microsoft version of [[#Challenge Handshake Authentication Protocol (CHAP)]] using DES encryption and MD4 #Hashing ^b47bd1
+- #Microsoft version of [[#Challenge Handshake Authentication Protocol (CHAP)]] using [[Symmetric Algorithms#Data Encryption Standard (DES)|DES]] encryption and MD4 #Hashing ^b47bd1
 - Both client and server need to know a plaintext form of the password
 	- Or the result of the password going through MD4 (yes MD4) #Hashing
 - Support dropped after Vista

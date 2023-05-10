@@ -24,6 +24,7 @@ kanban-plugin: basic
 - [ ] Finish [[SAML Cont.]]
 - [ ] Finish [[Penetration Testing]] from sec+ book
 - [ ] [[Symmetric vs Asymmetric]] clear up
+- [ ] [[Symmetric vs Asymmetric#Cipher Modes?]]
 
 
 ## Working On

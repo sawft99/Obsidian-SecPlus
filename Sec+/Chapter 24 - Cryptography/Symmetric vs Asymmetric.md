@@ -53,7 +53,7 @@ collapse:close
 ---
 - Utilizes [[#Asymmetric]] [[Disk Encryption#^501400|Encryption]] to securely transfer a private key that can be used with [[#Symmetric]] [[Disk Encryption#^501400|Encryption]] of the data
 
-# Nonrepudiation
+# Non-repudiation
 ---
 - The assurance that someone cannot deny the validity of something, where a statement’s author cannot dispute its authorship ^0b9f33
 - Makes it difficult to successfully deny who and where a message came from as well as the authenticity and integrity of that message
@@ -110,13 +110,15 @@ end
 
 ## Block Cipher
 ---
-- An encryption method that applies a deterministic [[Cryptography#Algorithm|Algorithm]] along with a [[#Symmetric]] [[Cryptography#Key|Key]] to encrypt a block of text instead of encrypting one bit at a time as in [[#Stream Cipher]]
+- An encryption method that applies a deterministic [[Cryptography#Algorithm|Algorithm]] along with a [[#Symmetric]] [[Cryptography#Key|Key]] to encrypt a block of text instead of encrypting one bit at a time as in a [[#Stream Cipher]]
 - Breaks the input into fixed-length blocks of data and performs the encryption on each block
+	- Block size is equivalent to the key size
 - Example
 	- 1 KB file broken into 16 blocks of 64 bits
 	- Each block is processed one at a time
 - If the input does not break up into equally divided pieces "padding" is added to make it so
 - Easier implementation, succumbs to less security problems, and easier to implement in applications
+- Used in [[Disk Encryption#Advanced Encryption Standard (AES)]|AES]], [[Symmetric Algorithms#Data Encryption Standard (DES)|DES]], and [[Symmetric Algorithms#Triple DES (3DES)|3DES]]
 - See also
 	- [[Cryptography#Cipher]]
 
@@ -138,13 +140,10 @@ subgraph S2[Step 2]
 end
 ```
 
-- Ref
-	- [Flowchart](https://mermaid.js.org/syntax/flowchart.html)
-	- [Sequence](https://mermaid.js.org/syntax/sequenceDiagram.html)
-	- [Journey](https://mermaid.js.org/syntax/userJourney.html)
-	- [Pie](https://mermaid.js.org/syntax/pie.html)
-	- [GitGraph](https://mermaid.js.org/syntax/gitgraph.html)
-	- [Timeline](https://mermaid.js.org/syntax/timeline.html)
+
+# Cipher Modes?
+---
+- ?
 
 # Vocab
 ---
@@ -161,7 +160,7 @@ end
 
 # TODO (Delete when done)
 ---
-- [ ] Added vocab
+- [x] Added vocab
 - [ ] Added and linked objectives in document
 - [ ] Linked objectives back to document
 - [ ] Linked any relevant backlinks to and from document
