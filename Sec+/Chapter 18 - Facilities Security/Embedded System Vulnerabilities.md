@@ -26,6 +26,7 @@ tags: [CompTia,SecPlus,CyberSec,Certs]
 - Embedded systems are considered part of a static environment
 - The systems being slimmed down to specific functions can make them more secure
 - However if the original code has a vulnerability it can be difficult to install [[Updates and Patches]]
+
 # Programmable Logic Controller (PLC)
 ---
 - A type of computer designed for deployment in industrial or outdoor setting that can automate and monitor mechanical systems ^325d9b
